@@ -1,0 +1,19 @@
+=== Stochastic Motorsport Performance Simulator ===
+
+Track: M2 Test Track
+Total Track Length: 959.30 m
+Segments: 8
+Weather: Rainy
+Wetness: 0.716
+Laps per Race: 3
+Monte Carlo Trials: 100
+
+--- Results ---
+Driver A Avg Race Time: 91.049 s
+Driver B Avg Race Time: 87.608 s
+Driver A Std Dev: 0.981 s
+Driver B Std Dev: 1.366 s
+Driver A Wins: 6 (6.0%)
+Driver B Wins: 94 (94.0%)
+
+Best Expected Performance: Driver B
