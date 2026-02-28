@@ -89,7 +89,7 @@ def save_output(text: str) -> None:
 
 
 def main() -> None:
-    #random.seed(42)  # reproducible screenshots for M2
+    random.seed(42)  # reproducible screenshots for M2 comment out for random results or try another seed
 
     num_laps = 3
     num_trials = 100
