@@ -1,0 +1,563 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<title>CS 4632 — Milestone 3: Complete Implementation &amp; Testing</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@300;400;600;700&family=Source+Code+Pro:wght@400;500&display=swap');
+
+  :root {
+    --text: #1a1a2e;
+    --muted: #555;
+    --accent: #16213e;
+    --border: #d0d0d0;
+    --bg-alt: #f4f6f9;
+    --link: #0f3460;
+  }
+
+  * { box-sizing: border-box; }
+
+  @page {
+    size: letter;
+    margin: 0.75in 0.85in;
+  }
+
+  body {
+    font-family: 'Source Sans 3', 'Segoe UI', sans-serif;
+    font-size: 11pt;
+    line-height: 1.55;
+    color: var(--text);
+    max-width: 8.5in;
+    margin: 0 auto;
+    padding: 0.5in;
+  }
+
+  h1, h2, h3, h4 {
+    color: var(--accent);
+    margin-top: 1.2em;
+    margin-bottom: 0.4em;
+    page-break-after: avoid;
+  }
+
+  h1 {
+    font-size: 20pt;
+    text-align: center;
+    border-bottom: 2.5px solid var(--accent);
+    padding-bottom: 6px;
+    margin-top: 0;
+  }
+
+  h2 {
+    font-size: 14pt;
+    border-bottom: 1.5px solid var(--border);
+    padding-bottom: 3px;
+    margin-top: 1.5em;
+  }
+
+  h3 {
+    font-size: 12pt;
+    margin-top: 1.2em;
+  }
+
+  .subtitle {
+    text-align: center;
+    font-size: 12pt;
+    font-weight: 600;
+    color: var(--muted);
+    margin: 4px 0 2px;
+  }
+
+  .author {
+    text-align: center;
+    font-size: 10.5pt;
+    color: var(--muted);
+    margin: 10px 0 4px;
+    line-height: 1.6;
+  }
+
+  hr {
+    border: none;
+    border-top: 1px solid var(--border);
+    margin: 1.2em 0;
+  }
+
+  table {
+    width: 100%;
+    border-collapse: collapse;
+    margin: 0.7em 0 1em;
+    font-size: 9.5pt;
+    page-break-inside: avoid;
+  }
+
+  th, td {
+    border: 1px solid var(--border);
+    padding: 5px 8px;
+    text-align: left;
+    vertical-align: top;
+  }
+
+  th {
+    background: var(--accent);
+    color: #fff;
+    font-weight: 600;
+    font-size: 9pt;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+  }
+
+  tr:nth-child(even) td { background: var(--bg-alt); }
+
+  td.num, th.num { text-align: right; }
+
+  .highlight { background: #e8f4e8 !important; font-weight: 600; }
+
+  pre, code {
+    font-family: 'Source Code Pro', Consolas, monospace;
+    font-size: 9pt;
+  }
+
+  pre {
+    background: var(--bg-alt);
+    border: 1px solid var(--border);
+    border-radius: 4px;
+    padding: 10px 14px;
+    overflow-x: auto;
+    page-break-inside: avoid;
+  }
+
+  code { background: #eef; padding: 1px 4px; border-radius: 3px; }
+
+  .tag {
+    display: inline-block;
+    padding: 1px 7px;
+    border-radius: 3px;
+    font-size: 8.5pt;
+    font-weight: 600;
+  }
+  .tag-done { background: #d4edda; color: #155724; }
+  .tag-partial { background: #fff3cd; color: #856404; }
+  .tag-deferred { background: #e2e3e5; color: #383d41; }
+
+  .page-break { page-break-before: always; }
+
+  p { margin: 0.45em 0; }
+
+  ul, ol { margin: 0.3em 0 0.6em; padding-left: 1.5em; }
+  li { margin-bottom: 0.2em; }
+
+  .two-col { display: flex; gap: 1.5em; }
+  .two-col > div { flex: 1; }
+
+  strong { color: var(--accent); }
+
+  .checklist td:first-child { width: 50%; }
+  .checklist td:last-child { text-align: center; font-weight: 600; }
+</style>
+</head>
+<body>
+
+<h1>CS 4632 Modeling and Simulation &mdash; Milestone 3</h1>
+<div class="subtitle">Stochastic Motorsport Performance Simulator</div>
+<div class="subtitle" style="font-weight:400; font-size:11pt;">Complete Implementation &amp; Testing</div>
+<div class="author">
+  Bryan Juarez H.<br>
+  Department of Computer Science<br>
+  College of Computing and Software Engineering<br>
+  Kennesaw State University
+</div>
+
+<hr>
+
+<!-- ============================================================ -->
+<h2>1. Implementation Summary</h2>
+
+<h3>1.1 Overview</h3>
+<p>
+  The Stochastic Motorsport Performance Simulator is a custom-built Python simulation that models
+  motorsport race performance using physics-inspired equations, stochastic variability, and Monte
+  Carlo trials. It is written entirely from scratch using only the Python standard library &mdash;
+  no external frameworks or simulation engines are used.
+</p>
+<p>
+  The simulator models how vehicle setup, environmental conditions (weather, wetness, visibility),
+  tire compound strategy, and driver behavior interact to produce race outcomes. Each race is
+  simulated as a sequence of track segments (alternating straights and corners), and the Monte
+  Carlo engine repeats each race hundreds of times to produce probabilistic win distributions
+  rather than single deterministic outcomes.
+</p>
+
+<h3>1.2 Feature Status</h3>
+<p>The following table maps every planned feature from the original project board to its current implementation status.</p>
+
+<table>
+  <thead>
+    <tr><th>Board Issue</th><th>Description</th><th>Status</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>#18</td><td>Tune tire friction values</td><td><span class="tag tag-done">Completed</span> &mdash; smoothstep blending, calibrated mu values</td></tr>
+    <tr><td>#19</td><td>Tune aerodynamic coefficients</td><td><span class="tag tag-done">Completed</span> &mdash; genuine car tradeoffs (downforce vs drag)</td></tr>
+    <tr><td>#20</td><td>Export results to CSV</td><td><span class="tag tag-done">Completed</span> &mdash; full DataCollector pipeline</td></tr>
+    <tr><td>#21</td><td>Add configurable simulation parameters</td><td><span class="tag tag-done">Completed</span> &mdash; JSON configs + CLI + validation</td></tr>
+    <tr><td>#22</td><td>Improve segment transition realism</td><td><span class="tag tag-partial">Partial</span> &mdash; grip-aware braking transitions added</td></tr>
+    <tr><td>#23</td><td>Define clearer suspension impact</td><td><span class="tag tag-partial">Partial</span> &mdash; configurable per-car suspension_factor</td></tr>
+    <tr><td>#24</td><td>Refine braking model before corners</td><td><span class="tag tag-done">Completed</span> &mdash; grip-aware wet braking deceleration</td></tr>
+    <tr><td>#25</td><td>Add explicit powertrain / acceleration model</td><td><span class="tag tag-partial">Partial</span> &mdash; traction-limited acceleration added</td></tr>
+    <tr><td>#26</td><td>Implement first-pass straight-line dynamics</td><td><span class="tag tag-done">Completed</span> &mdash; traction + drag + braking on straights</td></tr>
+    <tr><td>#16</td><td>Refine wetness/tire sensitivity balance</td><td><span class="tag tag-done">Completed</span> &mdash; five physics changes across the model</td></tr>
+    <tr><td>#30</td><td>Extract parameter values from references</td><td><span class="tag tag-deferred">Deferred</span> &mdash; planned for M4 validation</td></tr>
+    <tr><td>#31</td><td>Add parameter details to UML definitions</td><td><span class="tag tag-deferred">Deferred</span> &mdash; planned for M5 final report</td></tr>
+  </tbody>
+</table>
+
+<h3>1.3 Scope Changes from Original Proposal</h3>
+<p>Milestone 2 feedback identified three priorities that reshaped the M3 work plan:</p>
+<ol>
+  <li><strong>Wetness/tire sensitivity imbalance</strong> &mdash; M2 results were too binary (98&ndash;100% win rates for one driver). M3 addressed this through five physics changes: smoothstep grip blending, traction-limited acceleration, grip-aware braking, a visibility penalty, and a multiplicative driver skill factor. These distribute performance across multiple dimensions instead of tire choice alone.</li>
+  <li><strong>CSV export was missing</strong> &mdash; M2 only produced a single <code>sample_results.txt</code>. M3 implements a full <code>DataCollector</code> that writes four files per run (config JSON, timeseries CSV, events CSV, summary JSON) plus a master <code>run_index.json</code>.</li>
+  <li><strong>Only two drivers/cars were supported</strong> &mdash; M2 hardcoded <code>car_a</code>/<code>car_b</code>. M3 generalizes to N entrants via an <code>Entrant</code> dataclass, demonstrated with fields of 3, 4, and 6 participants.</li>
+</ol>
+
+<p><strong>Items partially addressed</strong> were deprioritized in favor of these three feedback items:</p>
+<ul>
+  <li><strong>Segment transition realism (#22):</strong> Braking transitions are now grip-aware, but a full coasting/lift-and-coast phase was descoped. The current model is sufficient for the tire-strategy analysis the simulation targets.</li>
+  <li><strong>Suspension impact (#23):</strong> <code>suspension_factor</code> is a configurable per-car parameter scaling tire grip. A multi-parameter suspension model was deferred as the single-factor approach produces meaningful differentiation.</li>
+  <li><strong>Powertrain model (#25):</strong> Traction-limited acceleration constrains straight-line performance by tire grip in wet conditions. A full torque-curve/gear-ratio model was descoped because the simulation focuses on tire strategy and environmental sensitivity.</li>
+</ul>
+
+<p><strong>Items deferred</strong> to future milestones:</p>
+<ul>
+  <li><strong>Literature-sourced parameters (#30):</strong> Current values are calibrated for balanced outcomes. M4 validation will compare against published data.</li>
+  <li><strong>UML updates (#31):</strong> Architecture documentation is maintained in the README.</li>
+  <li><strong>Fuel load, pit stops, tire degradation:</strong> Out of scope for the current model.</li>
+  <li><strong>Visualization/charting:</strong> Planned for the M4 analysis phase.</li>
+</ul>
+
+<h3>1.4 Architecture</h3>
+<pre>JSON Config &rarr; SimConfig &rarr; build_track / build_environment / build_entrants
+                         &darr;
+                  SimulationEngine.run_trials()
+                         &darr;
+            (RaceMetrics, list[TrialResult])
+                         &darr;
+                  DataCollector.save_run()
+                         &darr;
+            output/run_XXX/ (CSV + JSON files)</pre>
+
+<table>
+  <thead>
+    <tr><th>Module</th><th>Purpose</th></tr>
+  </thead>
+  <tbody>
+    <tr><td><code>main.py</code></td><td>Entry point; orchestrates config &rarr; simulation &rarr; export</td></tr>
+    <tr><td><code>src/config.py</code></td><td>JSON loading, CLI parsing, validation, default entrants</td></tr>
+    <tr><td><code>src/simulation.py</code></td><td>Physics engine: aero, cornering, acceleration, braking, visibility, Monte Carlo</td></tr>
+    <tr><td><code>src/data_collector.py</code></td><td>CSV/JSON export, master index management</td></tr>
+    <tr><td><code>src/entrant.py</code></td><td><code>Entrant</code> dataclass pairing <code>Driver</code> + <code>RaceCar</code></td></tr>
+    <tr><td><code>src/track.py</code></td><td><code>Track</code> and <code>TrackSegment</code> random generation</td></tr>
+    <tr><td><code>src/environment.py</code></td><td>Weather, wetness, visibility sampling</td></tr>
+    <tr><td><code>src/tire.py</code></td><td>Tire grip model with smoothstep blending</td></tr>
+    <tr><td><code>src/car.py</code></td><td>Vehicle parameters (mass, aero, braking, top speed)</td></tr>
+    <tr><td><code>src/driver.py</code></td><td>Experience, aggressiveness, stochastic variance, skill factor</td></tr>
+    <tr><td><code>src/utils.py</code></td><td><code>RaceMetrics</code>, <code>EntrantMetrics</code>, statistical helpers</td></tr>
+  </tbody>
+</table>
+<p><strong>New in M3</strong> (not present in M2): <code>config.py</code>, <code>data_collector.py</code>, <code>entrant.py</code>.</p>
+
+
+<!-- ============================================================ -->
+<h2 class="page-break">2. Execution Documentation</h2>
+
+<h3>2.1 Run Summary Table</h3>
+<p>All 12 runs completed successfully. Parameters varied across runs include: weather/wetness, number of entrants, number of laps, track complexity, tire strategy, trial count, and visibility.</p>
+
+<table>
+  <thead>
+    <tr><th>Run</th><th>Purpose</th><th>Key Parameters Changed</th><th class="num">Time</th><th>Data</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>001</td><td>Baseline dry</td><td>Sunny, wetness=0.05, 3 entrants, 5 laps, 200 trials</td><td class="num">0.31s</td><td>run_001/</td></tr>
+    <tr><td>002</td><td>Baseline wet</td><td>Rainy, wetness=0.80, visibility=0.60</td><td class="num">0.32s</td><td>run_002/</td></tr>
+    <tr><td>003</td><td>Cloudy crossover</td><td>Cloudy, wetness=0.30, visibility=0.85</td><td class="num">0.31s</td><td>run_003/</td></tr>
+    <tr><td>004</td><td>Large field dry</td><td>6 entrants, Sunny, Monza track</td><td class="num">0.62s</td><td>run_004/</td></tr>
+    <tr><td>005</td><td>Large field wet</td><td>6 entrants, Rainy, wetness=0.75</td><td class="num">0.63s</td><td>run_005/</td></tr>
+    <tr><td>006</td><td>Long race</td><td>num_laps=10, Sunny</td><td class="num">0.69s</td><td>run_006/</td></tr>
+    <tr><td>007</td><td>Sprint</td><td>num_laps=1, Sunny</td><td class="num">0.07s</td><td>run_007/</td></tr>
+    <tr><td>008</td><td>Complex track</td><td>8 pairs (16 segments), tight corners</td><td class="num">0.42s</td><td>run_008/</td></tr>
+    <tr><td>009</td><td>Simple track</td><td>2 pairs (4 segments), wide sweeping corners</td><td class="num">0.11s</td><td>run_009/</td></tr>
+    <tr><td>010</td><td>High trials</td><td>500 trials, 4 entrants, Cloudy, wetness=0.25</td><td class="num">0.74s</td><td>run_010/</td></tr>
+    <tr><td>011</td><td>Wrong strategy</td><td>All entrants on WET tires in dry conditions</td><td class="num">0.32s</td><td>run_011/</td></tr>
+    <tr><td>012</td><td>Foggy mixed</td><td>Foggy, visibility=0.35, wetness=0.40, 4 entrants</td><td class="num">0.41s</td><td>run_012/</td></tr>
+  </tbody>
+</table>
+
+<h3>2.2 Parameters Varied</h3>
+<p>The following parameters were systematically varied across runs to satisfy the M3 requirement of varying at least 3 different parameters:</p>
+
+<table>
+  <thead>
+    <tr><th>Parameter</th><th>Values Used</th><th>Runs Affected</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Weather</td><td>Sunny, Rainy, Cloudy, Foggy</td><td>001&ndash;012</td></tr>
+    <tr><td>Wetness</td><td>0.03, 0.05, 0.25, 0.30, 0.40, 0.75, 0.80</td><td>001&ndash;012</td></tr>
+    <tr><td>Visibility</td><td>0.35, 0.55, 0.60, 0.85, 0.88, 0.95, 0.97, 0.98</td><td>001&ndash;012</td></tr>
+    <tr><td>Number of entrants</td><td>3, 4, 6</td><td>004, 005, 010, 012</td></tr>
+    <tr><td>Number of laps</td><td>1, 5, 10</td><td>006, 007</td></tr>
+    <tr><td>Number of trials</td><td>200, 500</td><td>010</td></tr>
+    <tr><td>Track complexity</td><td>2, 6, 8 segment pairs</td><td>008, 009</td></tr>
+    <tr><td>Tire strategy</td><td>DRY/INTER/WET mix, all-WET</td><td>011</td></tr>
+  </tbody>
+</table>
+<p>All runs use reproducible random seeds (100, 200, &hellip; 1200) so results can be exactly replicated.</p>
+
+<h3>2.3 Execution Environment</h3>
+<ul>
+  <li><strong>Language:</strong> Python 3.10+, standard library only</li>
+  <li><strong>OS:</strong> Windows 10</li>
+  <li><strong>Hardware:</strong> Standard desktop PC</li>
+  <li><strong>Command:</strong> <code>python main.py --run-all</code></li>
+  <li><strong>Total batch time:</strong> approximately 5 seconds for all 12 runs</li>
+</ul>
+
+<h3>2.4 Issues Encountered During Runs</h3>
+<ol>
+  <li><strong>M2 sensitivity imbalance:</strong> Initial M3 development inherited the M2 problem where one driver won 98&ndash;100% of races regardless of conditions. This was resolved through smoothstep grip blending and tightened tire mu values (DRY: 1.04/0.88, INTERMEDIATE: 1.02/0.93, WET: 1.00/0.97).</li>
+  <li><strong>Car parameter dominance:</strong> Early M3 runs showed one car winning 100% because it was superior in every dimension. This was fixed by creating genuine tradeoffs: the Red Bull has high downforce but high drag; the McLaren has low drag but less cornering grip; the Mercedes is balanced with the best brakes.</li>
+  <li><strong>Drag model simplification:</strong> The current model evaluates aerodynamic drag at segment entry speed only (not continuously). This is a known approximation that slightly favors cars entering straights at lower speed. Documented as a limitation for M4 analysis.</li>
+</ol>
+
+
+<!-- ============================================================ -->
+<h2 class="page-break">3. Data Collection Overview</h2>
+
+<h3>3.1 Metrics Collected</h3>
+<p>Each simulation run automatically captures four categories of data:</p>
+
+<table>
+  <thead><tr><th>File</th><th>Granularity</th><th>Key Columns / Fields</th></tr></thead>
+  <tbody>
+    <tr><td><code>run_XXX_timeseries.csv</code></td><td>Trial &times; Lap &times; Entrant</td><td>trial, lap, entrant, lap_time, cumulative_time, weather, wetness</td></tr>
+    <tr><td><code>run_XXX_events.csv</code></td><td>Trial &times; Lap &times; Entrant &times; Segment</td><td>trial, lap, entrant, segment_idx, segment_type, length_m, entry_speed, exit_speed, segment_time, mu_effective</td></tr>
+    <tr><td><code>run_XXX_summary.json</code></td><td>Per-entrant aggregate</td><td>avg_time, std_time, min_time, max_time, wins, win_pct</td></tr>
+    <tr><td><code>run_XXX_config.json</code></td><td>Run-level snapshot</td><td>track layout, environment, entrant details (driver, car, tire)</td></tr>
+    <tr><td><code>run_index.json</code></td><td>Master index (all runs)</td><td>run_id, description, timestamp, execution_time, best_performer</td></tr>
+    <tr><td><code>test_results.csv</code></td><td>Consolidated (all runs)</td><td>44 rows &mdash; one per entrant per run with all key metrics</td></tr>
+  </tbody>
+</table>
+
+<h3>3.2 Data Samples</h3>
+
+<h4>Time-series excerpt (Run 001, Trial 1, Hamilton)</h4>
+<table>
+  <thead><tr><th class="num">Trial</th><th class="num">Lap</th><th>Entrant</th><th class="num">Lap Time</th><th class="num">Cumulative</th><th>Weather</th><th class="num">Wetness</th></tr></thead>
+  <tbody>
+    <tr><td class="num">1</td><td class="num">1</td><td>Hamilton (Mercedes)</td><td class="num">43.322</td><td class="num">43.322</td><td>Sunny</td><td class="num">0.05</td></tr>
+    <tr><td class="num">1</td><td class="num">2</td><td>Hamilton (Mercedes)</td><td class="num">43.594</td><td class="num">86.916</td><td>Sunny</td><td class="num">0.05</td></tr>
+    <tr><td class="num">1</td><td class="num">3</td><td>Hamilton (Mercedes)</td><td class="num">42.170</td><td class="num">129.085</td><td>Sunny</td><td class="num">0.05</td></tr>
+    <tr><td class="num">1</td><td class="num">4</td><td>Hamilton (Mercedes)</td><td class="num">42.154</td><td class="num">171.239</td><td>Sunny</td><td class="num">0.05</td></tr>
+    <tr><td class="num">1</td><td class="num">5</td><td>Hamilton (Mercedes)</td><td class="num">43.462</td><td class="num">214.701</td><td>Sunny</td><td class="num">0.05</td></tr>
+  </tbody>
+</table>
+
+<h4>Events excerpt (Run 001, Trial 1, Lap 1, Hamilton &mdash; first 4 segments)</h4>
+<table>
+  <thead><tr><th class="num">Seg</th><th>Type</th><th class="num">Length (m)</th><th class="num">Entry Speed</th><th class="num">Exit Speed</th><th class="num">Time (s)</th><th class="num">&mu;<sub>eff</sub></th></tr></thead>
+  <tbody>
+    <tr><td class="num">0</td><td>STRAIGHT</td><td class="num">121.85</td><td class="num">0.00</td><td class="num">25.15</td><td class="num">5.515</td><td class="num">&mdash;</td></tr>
+    <tr><td class="num">1</td><td>CORNER</td><td class="num">108.93</td><td class="num">25.15</td><td class="num">25.15</td><td class="num">4.346</td><td class="num">1.060</td></tr>
+    <tr><td class="num">2</td><td>STRAIGHT</td><td class="num">205.83</td><td class="num">25.15</td><td class="num">29.57</td><td class="num">4.026</td><td class="num">&mdash;</td></tr>
+    <tr><td class="num">3</td><td>CORNER</td><td class="num">106.43</td><td class="num">29.57</td><td class="num">29.57</td><td class="num">3.614</td><td class="num">1.060</td></tr>
+  </tbody>
+</table>
+
+<h4>Summary excerpt (Run 007 &mdash; Sprint race, complete)</h4>
+<pre>{
+  "run_id": "007",
+  "execution_time_seconds": 0.065,
+  "num_trials": 200, "num_laps": 1,
+  "track_name": "Sprint Track",
+  "weather": "Sunny", "wetness": 0.05,
+  "entrants": {
+    "Hamilton (Mercedes)":   { "avg_time": 39.268, "std_time": 0.505, "wins": 54,  "win_pct": 27.0 },
+    "Verstappen (Red Bull)": { "avg_time": 38.927, "std_time": 0.551, "wins": 106, "win_pct": 53.0 },
+    "Norris (McLaren)":      { "avg_time": 39.448, "std_time": 0.700, "wins": 40,  "win_pct": 20.0 }
+  }
+}</pre>
+
+<h3>3.3 Data Organization</h3>
+<pre>output/
+├── run_index.json              &larr; master index of all 12 runs
+├── test_results.csv            &larr; consolidated results (44 rows)
+├── run_001/
+│   ├── run_001_config.json     &larr; full parameter snapshot
+│   ├── run_001_timeseries.csv  &larr; trial &times; lap &times; entrant
+│   ├── run_001_events.csv      &larr; trial &times; lap &times; entrant &times; segment
+│   └── run_001_summary.json    &larr; aggregate statistics
+├── run_002/
+│   └── ...
+└── run_012/
+    └── ...</pre>
+<p>
+  File naming is systematic (<code>run_XXX_&lt;type&gt;.&lt;ext&gt;</code>), all CSV files include headers, and all JSON files include timestamps.
+  Run 010 (500 trials) omits the events CSV (<code>collect_detail: false</code>) to keep file sizes manageable.
+</p>
+
+
+<!-- ============================================================ -->
+<h2 class="page-break">4. Preliminary Results</h2>
+
+<h3>4.1 Combined Results and Observations Table</h3>
+<p>The table below merges the run summary with key observations across all 12 runs. Win percentages are shown for the top performer in each run.</p>
+
+<table>
+  <thead>
+    <tr><th>Run</th><th>Conditions</th><th class="num">Cars</th><th class="num">Laps</th><th>Winner</th><th class="num">Win%</th><th>Key Observation</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>001</td><td>Dry</td><td class="num">3</td><td class="num">5</td><td>Verstappen (INTER)</td><td class="num">79.0%</td><td>DRY tire advantage offset by Red Bull car edge</td></tr>
+    <tr><td>002</td><td>Wet</td><td class="num">3</td><td class="num">5</td><td>Verstappen (INTER)</td><td class="num">65.5%</td><td>Norris (WET) surges to 33% &mdash; tire matters in rain</td></tr>
+    <tr><td>003</td><td>Cloudy</td><td class="num">3</td><td class="num">5</td><td>Verstappen (INTER)</td><td class="num">69.0%</td><td>Norris at 25%, competitive crossover zone</td></tr>
+    <tr><td>004</td><td>Dry, 6 cars</td><td class="num">6</td><td class="num">5</td><td>Leclerc (DRY)</td><td class="num">70.0%</td><td>Different winner in large field</td></tr>
+    <tr class="highlight"><td>005</td><td>Wet, 6 cars</td><td class="num">6</td><td class="num">5</td><td>Leclerc (DRY)</td><td class="num">40.5%</td><td>Russell (INTER) at 39% &mdash; very tight</td></tr>
+    <tr><td>006</td><td>Dry, 10 laps</td><td class="num">3</td><td class="num">10</td><td>Verstappen (INTER)</td><td class="num">91.5%</td><td>Longer race = more deterministic (as expected)</td></tr>
+    <tr class="highlight"><td>007</td><td>Dry, 1 lap</td><td class="num">3</td><td class="num">1</td><td>Verstappen (INTER)</td><td class="num">53.0%</td><td><strong>Sprint = most competitive</strong> (27%/53%/20%)</td></tr>
+    <tr><td>008</td><td>Complex track</td><td class="num">3</td><td class="num">5</td><td>Verstappen (INTER)</td><td class="num">86.0%</td><td>Tight corners favor high-downforce setup</td></tr>
+    <tr class="highlight"><td>009</td><td>Simple track</td><td class="num">3</td><td class="num">5</td><td>Verstappen (INTER)</td><td class="num">57.0%</td><td><strong>Wide corners = very competitive</strong> (39.5%/57%/3.5%)</td></tr>
+    <tr><td>010</td><td>Cloudy, 500 trials</td><td class="num">4</td><td class="num">5</td><td>Leclerc (DRY)</td><td class="num">64.4%</td><td>Statistical convergence, multi-winner</td></tr>
+    <tr><td>011</td><td>All WET in dry</td><td class="num">3</td><td class="num">5</td><td>Verstappen (WET)</td><td class="num">70.5%</td><td>Same tires &rarr; pure car/driver differences emerge</td></tr>
+    <tr class="highlight"><td>012</td><td>Foggy, mixed</td><td class="num">4</td><td class="num">5</td><td>Leclerc (INTER)</td><td class="num">48.0%</td><td><strong>Most competitive 4-car run</strong> (32.5%/18.5%/48%/1%)</td></tr>
+  </tbody>
+</table>
+
+<h3>4.2 Per-Entrant Summary Statistics</h3>
+<p>Complete statistics for the core 3-entrant runs (001&ndash;003, 006&ndash;009, 011):</p>
+
+<table>
+  <thead>
+    <tr><th>Run</th><th>Entrant</th><th class="num">Avg Time (s)</th><th class="num">Std Dev (s)</th><th class="num">Min (s)</th><th class="num">Max (s)</th><th class="num">Wins</th><th class="num">Win%</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>001</td><td>Hamilton (Mercedes)</td><td class="num">215.589</td><td class="num">1.283</td><td class="num">211.827</td><td class="num">219.049</td><td class="num">26</td><td class="num">13.0%</td></tr>
+    <tr><td>001</td><td>Verstappen (Red Bull)</td><td class="num">213.915</td><td class="num">1.251</td><td class="num">210.297</td><td class="num">217.509</td><td class="num">158</td><td class="num">79.0%</td></tr>
+    <tr><td>001</td><td>Norris (McLaren)</td><td class="num">216.390</td><td class="num">1.660</td><td class="num">211.551</td><td class="num">220.787</td><td class="num">16</td><td class="num">8.0%</td></tr>
+    <tr style="border-top:2px solid #999"><td>002</td><td>Hamilton (Mercedes)</td><td class="num">184.786</td><td class="num">1.272</td><td class="num">181.871</td><td class="num">187.966</td><td class="num">3</td><td class="num">1.5%</td></tr>
+    <tr><td>002</td><td>Verstappen (Red Bull)</td><td class="num">181.856</td><td class="num">1.238</td><td class="num">177.706</td><td class="num">185.948</td><td class="num">131</td><td class="num">65.5%</td></tr>
+    <tr><td>002</td><td>Norris (McLaren)</td><td class="num">182.660</td><td class="num">1.589</td><td class="num">178.238</td><td class="num">186.987</td><td class="num">66</td><td class="num">33.0%</td></tr>
+    <tr style="border-top:2px solid #999"><td>003</td><td>Hamilton (Mercedes)</td><td class="num">207.683</td><td class="num">1.206</td><td class="num">204.384</td><td class="num">210.458</td><td class="num">12</td><td class="num">6.0%</td></tr>
+    <tr><td>003</td><td>Verstappen (Red Bull)</td><td class="num">205.636</td><td class="num">1.112</td><td class="num">202.436</td><td class="num">208.702</td><td class="num">138</td><td class="num">69.0%</td></tr>
+    <tr><td>003</td><td>Norris (McLaren)</td><td class="num">206.894</td><td class="num">1.447</td><td class="num">203.272</td><td class="num">210.028</td><td class="num">50</td><td class="num">25.0%</td></tr>
+    <tr style="border-top:2px solid #999"><td>007</td><td>Hamilton (Mercedes)</td><td class="num">39.268</td><td class="num">0.505</td><td class="num">37.917</td><td class="num">40.739</td><td class="num">54</td><td class="num">27.0%</td></tr>
+    <tr><td>007</td><td>Verstappen (Red Bull)</td><td class="num">38.927</td><td class="num">0.551</td><td class="num">37.640</td><td class="num">40.265</td><td class="num">106</td><td class="num">53.0%</td></tr>
+    <tr><td>007</td><td>Norris (McLaren)</td><td class="num">39.448</td><td class="num">0.700</td><td class="num">37.483</td><td class="num">40.946</td><td class="num">40</td><td class="num">20.0%</td></tr>
+    <tr style="border-top:2px solid #999"><td>009</td><td>Hamilton (Mercedes)</td><td class="num">141.734</td><td class="num">1.115</td><td class="num">138.745</td><td class="num">144.795</td><td class="num">79</td><td class="num">39.5%</td></tr>
+    <tr><td>009</td><td>Verstappen (Red Bull)</td><td class="num">141.181</td><td class="num">1.179</td><td class="num">138.121</td><td class="num">143.832</td><td class="num">114</td><td class="num">57.0%</td></tr>
+    <tr><td>009</td><td>Norris (McLaren)</td><td class="num">143.549</td><td class="num">1.400</td><td class="num">139.971</td><td class="num">147.157</td><td class="num">7</td><td class="num">3.5%</td></tr>
+  </tbody>
+</table>
+
+<h3>4.3 Analysis of Key Trends</h3>
+
+<h4>Weather sensitivity &mdash; tire strategy matters</h4>
+<p>Comparing Runs 001 (dry), 003 (cloudy), and 002 (wet) for Norris (WET tires):</p>
+<table>
+  <thead><tr><th>Condition</th><th class="num">Wetness</th><th class="num">Norris Win%</th><th class="num">Avg Gap to Leader</th></tr></thead>
+  <tbody>
+    <tr><td>Dry</td><td class="num">0.05</td><td class="num">8.0%</td><td class="num">+2.48s</td></tr>
+    <tr><td>Cloudy</td><td class="num">0.30</td><td class="num">25.0%</td><td class="num">+1.26s</td></tr>
+    <tr><td>Wet</td><td class="num">0.80</td><td class="num">33.0%</td><td class="num">+0.80s</td></tr>
+  </tbody>
+</table>
+<p>
+  Norris&rsquo;s WET tires become increasingly competitive as wetness increases, closing the average time gap from 2.48s to 0.80s.
+  This validates the smoothstep grip blending and confirms the M2 sensitivity issue is resolved &mdash; outcomes are no longer binary.
+</p>
+
+<h4>Race length amplifies or compresses advantage</h4>
+<table>
+  <thead><tr><th class="num">Laps</th><th>Run</th><th class="num">Leader Win%</th><th>Spread</th></tr></thead>
+  <tbody>
+    <tr><td class="num">1</td><td>007</td><td class="num">53.0%</td><td>27% / 53% / 20%</td></tr>
+    <tr><td class="num">5</td><td>001</td><td class="num">79.0%</td><td>13% / 79% / 8%</td></tr>
+    <tr><td class="num">10</td><td>006</td><td class="num">91.5%</td><td>8% / 91.5% / 0.5%</td></tr>
+  </tbody>
+</table>
+<p>
+  Over more laps, stochastic variance averages out and the underlying performance gap becomes more deterministic.
+  This is a known property of Monte Carlo simulation and validates the model&rsquo;s statistical behavior.
+</p>
+
+<h4>Track layout affects competitive balance</h4>
+<table>
+  <thead><tr><th>Track</th><th class="num">Segments</th><th>Run</th><th class="num">Leader Win%</th><th class="num">Runner-up Win%</th></tr></thead>
+  <tbody>
+    <tr><td>Monaco Analog</td><td class="num">16 (tight)</td><td>008</td><td class="num">86.0%</td><td class="num">7.5%</td></tr>
+    <tr><td>Silverstone Analog</td><td class="num">12 (mixed)</td><td>001</td><td class="num">79.0%</td><td class="num">13.0%</td></tr>
+    <tr><td>Oval Analog</td><td class="num">4 (wide)</td><td>009</td><td class="num">57.0%</td><td class="num">39.5%</td></tr>
+  </tbody>
+</table>
+<p>
+  Tight, complex tracks amplify the downforce advantage (Red Bull, C<sub>L</sub>=1.58).
+  Simple tracks with wide sweeping corners compress the field because cornering speed differences are smaller at larger radii.
+</p>
+
+<h4>Field size changes the competitive dynamic</h4>
+<p>
+  In the 3-entrant dry baseline (Run 001), Verstappen wins 79%. In the 6-entrant dry run (Run 004),
+  Leclerc (Ferrari, DRY tires) wins 70%. The larger field introduces new car/driver combinations
+  that shift the competitive balance.
+</p>
+
+<h4>Wrong-strategy penalty (Run 011)</h4>
+<p>
+  When all entrants use WET tires in dry conditions, the tire variable is eliminated.
+  Win rates (70.5% / 3.5% / 26%) reveal the pure car-plus-driver differentiation:
+  the Red Bull&rsquo;s higher downforce and Verstappen&rsquo;s driver skill factor give a clear edge
+  even without a tire advantage.
+</p>
+
+<h3>4.4 Performance Observations</h3>
+<ul>
+  <li>All 12 runs complete in under 1 second each; total batch time is approximately 5 seconds.</li>
+  <li>Execution time scales roughly linearly with the number of entrants and trials.</li>
+  <li>The 500-trial run (Run 010) shows stable convergence of win percentages, confirming that 200 trials is sufficient for reliable estimates in most scenarios.</li>
+  <li>The segment-level events CSV for a typical run (200 trials &times; 5 laps &times; 3 entrants &times; 12 segments) produces approximately 36,000 rows &mdash; manageable for analysis tools.</li>
+</ul>
+
+
+<!-- ============================================================ -->
+<h2 class="page-break">5. Submission Checklist</h2>
+
+<table class="checklist">
+  <thead><tr><th>Requirement</th><th>Status</th></tr></thead>
+  <tbody>
+    <tr><td>Completed at least 10 simulation runs</td><td style="color:#155724">&#10003; 12 runs completed</td></tr>
+    <tr><td>Documented all parameter variations</td><td style="color:#155724">&#10003; 8 parameters varied across runs</td></tr>
+    <tr><td>Included data samples in report</td><td style="color:#155724">&#10003; CSV/JSON excerpts in Section 3.2</td></tr>
+    <tr><td>Created run summary table</td><td style="color:#155724">&#10003; 12-row table in Section 2.1</td></tr>
+    <tr><td>Documented any scope changes</td><td style="color:#155724">&#10003; Full scope update in Section 1.3</td></tr>
+    <tr><td>Included preliminary observations</td><td style="color:#155724">&#10003; Sections 3.4 and 4.3</td></tr>
+    <tr><td>Report is well-organized and clear</td><td style="color:#155724">&#10003; 5 sections matching M3 template</td></tr>
+    <tr><td>GitHub tagged with <code>milestone-3</code></td><td style="color:#155724">&#10003; Tag created and pushed</td></tr>
+    <tr><td>Test results file (CSV)</td><td style="color:#155724">&#10003; test_results.csv &mdash; 44 rows</td></tr>
+  </tbody>
+</table>
+
+
+<!-- ============================================================ -->
+<h2>6. Looking Ahead</h2>
+<p>The data collected in M3 provides the foundation for M4 analysis work:</p>
+<ul>
+  <li><strong>Sensitivity analysis:</strong> Systematically vary wetness from 0.0 to 1.0 to map the exact crossover points between tire compounds.</li>
+  <li><strong>Validation:</strong> Compare simulation lap times and speed profiles against published motorsport performance data (addressing deferred item #30).</li>
+  <li><strong>Visualization:</strong> Generate charts showing win probability distributions, lap time histograms, and weather sensitivity curves.</li>
+  <li><strong>Extended model:</strong> Potentially add tire degradation over race distance to study longer-race dynamics.</li>
+</ul>
+
+<hr>
+<p style="text-align:center; font-size:9.5pt; color:var(--muted);">
+  Repository: <a href="https://github.com/bryanhdzksu/CS4632_RACING_SIM">github.com/bryanhdzksu/CS4632_RACING_SIM</a>
+  &nbsp;&bull;&nbsp; Tag: <code>milestone-3</code>
+</p>
+
+</body>
+</html>
