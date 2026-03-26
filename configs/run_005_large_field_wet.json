@@ -1,0 +1,175 @@
+{
+  "run_id": "005",
+  "description": "Large field wet - 6 entrants in rainy conditions",
+  "random_seed": 500,
+  "num_laps": 5,
+  "num_trials": 200,
+  "collect_detail": true,
+  "track": {
+    "name": "Spa Rain Circuit",
+    "num_pairs": 6,
+    "straight_range": [
+      100.0,
+      250.0
+    ],
+    "corner_radius_range": [
+      25.0,
+      90.0
+    ],
+    "corner_arc_range_deg": [
+      45.0,
+      135.0
+    ]
+  },
+  "environment": {
+    "weather": "Rainy",
+    "wetness": 0.75,
+    "visibility": 0.55
+  },
+  "entrants": [
+    {
+      "driver": {
+        "name": "Hamilton",
+        "experience": 9.0,
+        "aggressiveness": 0.7
+      },
+      "car": {
+        "name": "Mercedes",
+        "mass": 798.0,
+        "cd": 0.9,
+        "cl": 1.55,
+        "frontal_area": 1.5,
+        "max_accel": 5.9,
+        "max_brake": 8.3,
+        "top_speed": 89.0,
+        "brake_efficiency": 1.0,
+        "suspension_factor": 0.02
+      },
+      "tire": {
+        "compound": "DRY",
+        "mu_dry": 1.04,
+        "mu_wet": 0.88
+      }
+    },
+    {
+      "driver": {
+        "name": "Verstappen",
+        "experience": 8.5,
+        "aggressiveness": 0.85
+      },
+      "car": {
+        "name": "Red Bull",
+        "mass": 798.0,
+        "cd": 0.92,
+        "cl": 1.58,
+        "frontal_area": 1.5,
+        "max_accel": 5.9,
+        "max_brake": 8.2,
+        "top_speed": 88.5,
+        "brake_efficiency": 0.98,
+        "suspension_factor": 0.01
+      },
+      "tire": {
+        "compound": "INTERMEDIATE",
+        "mu_dry": 1.02,
+        "mu_wet": 0.93
+      }
+    },
+    {
+      "driver": {
+        "name": "Norris",
+        "experience": 6.0,
+        "aggressiveness": 0.75
+      },
+      "car": {
+        "name": "McLaren",
+        "mass": 798.0,
+        "cd": 0.88,
+        "cl": 1.52,
+        "frontal_area": 1.5,
+        "max_accel": 5.9,
+        "max_brake": 8.1,
+        "top_speed": 89.5,
+        "brake_efficiency": 0.99,
+        "suspension_factor": 0.0
+      },
+      "tire": {
+        "compound": "WET",
+        "mu_dry": 1.0,
+        "mu_wet": 0.97
+      }
+    },
+    {
+      "driver": {
+        "name": "Leclerc",
+        "experience": 7.0,
+        "aggressiveness": 0.8
+      },
+      "car": {
+        "name": "Ferrari",
+        "mass": 798.0,
+        "cd": 0.91,
+        "cl": 1.56,
+        "frontal_area": 1.5,
+        "max_accel": 5.9,
+        "max_brake": 8.2,
+        "top_speed": 88.8,
+        "brake_efficiency": 0.97,
+        "suspension_factor": 0.01
+      },
+      "tire": {
+        "compound": "DRY",
+        "mu_dry": 1.04,
+        "mu_wet": 0.88
+      }
+    },
+    {
+      "driver": {
+        "name": "Russell",
+        "experience": 5.5,
+        "aggressiveness": 0.65
+      },
+      "car": {
+        "name": "Williams",
+        "mass": 792.0,
+        "cd": 0.93,
+        "cl": 1.5,
+        "frontal_area": 1.5,
+        "max_accel": 5.8,
+        "max_brake": 8.0,
+        "top_speed": 88.0,
+        "brake_efficiency": 0.96,
+        "suspension_factor": -0.01
+      },
+      "tire": {
+        "compound": "INTERMEDIATE",
+        "mu_dry": 1.02,
+        "mu_wet": 0.93
+      }
+    },
+    {
+      "driver": {
+        "name": "Piastri",
+        "experience": 4.0,
+        "aggressiveness": 0.7
+      },
+      "car": {
+        "name": "Alpine",
+        "mass": 800.0,
+        "cd": 0.89,
+        "cl": 1.53,
+        "frontal_area": 1.5,
+        "max_accel": 5.85,
+        "max_brake": 8.1,
+        "top_speed": 89.2,
+        "brake_efficiency": 0.97,
+        "suspension_factor": 0.0
+      },
+      "tire": {
+        "compound": "WET",
+        "mu_dry": 1.0,
+        "mu_wet": 0.97
+      }
+    }
+  ]
+}
