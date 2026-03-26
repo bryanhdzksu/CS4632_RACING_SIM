@@ -1,0 +1,101 @@
+{
+  "run_id": "009",
+  "description": "Simple track - 4 segments (2 pairs) with wide sweeping corners",
+  "random_seed": 900,
+  "num_laps": 5,
+  "num_trials": 200,
+  "track": {
+    "name": "Oval Analog",
+    "total_length_m": 1189.65,
+    "num_segments": 4,
+    "segments": [
+      {
+        "type": "STRAIGHT",
+        "length_m": 387.34,
+        "radius_m": null
+      },
+      {
+        "type": "CORNER",
+        "length_m": 200.34,
+        "radius_m": 73.7
+      },
+      {
+        "type": "STRAIGHT",
+        "length_m": 332.14,
+        "radius_m": null
+      },
+      {
+        "type": "CORNER",
+        "length_m": 269.83,
+        "radius_m": 101.8
+      }
+    ]
+  },
+  "environment": {
+    "weather": "Sunny",
+    "wetness": 0.05,
+    "visibility": 0.95
+  },
+  "entrants": [
+    {
+      "name": "Hamilton (Mercedes)",
+      "driver": {
+        "name": "Hamilton",
+        "experience": 9.0,
+        "aggressiveness": 0.7
+      },
+      "car": {
+        "name": "Mercedes",
+        "mass": 798.0,
+        "cd": 0.9,
+        "cl": 1.55,
+        "top_speed": 89.0
+      },
+      "tire": {
+        "compound": "DRY",
+        "mu_dry": 1.04,
+        "mu_wet": 0.88
+      }
+    },
+    {
+      "name": "Verstappen (Red Bull)",
+      "driver": {
+        "name": "Verstappen",
+        "experience": 8.5,
+        "aggressiveness": 0.85
+      },
+      "car": {
+        "name": "Red Bull",
+        "mass": 798.0,
+        "cd": 0.92,
+        "cl": 1.58,
+        "top_speed": 88.5
+      },
+      "tire": {
+        "compound": "INTERMEDIATE",
+        "mu_dry": 1.02,
+        "mu_wet": 0.93
+      }
+    },
+    {
+      "name": "Norris (McLaren)",
+      "driver": {
+        "name": "Norris",
+        "experience": 6.0,
+        "aggressiveness": 0.75
+      },
+      "car": {
+        "name": "McLaren",
+        "mass": 798.0,
+        "cd": 0.88,
+        "cl": 1.52,
+        "top_speed": 89.5
+      },
+      "tire": {
+        "compound": "WET",
+        "mu_dry": 1.0,
+        "mu_wet": 0.97
+      }
+    }
+  ]
+}

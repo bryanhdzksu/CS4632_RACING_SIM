@@ -1,0 +1,39 @@
+{
+  "run_id": "009",
+  "description": "Simple track - 4 segments (2 pairs) with wide sweeping corners",
+  "timestamp": "2026-03-25T23:55:01.200513+00:00",
+  "execution_time_seconds": 0.114,
+  "num_trials": 200,
+  "num_laps": 5,
+  "track_name": "Oval Analog",
+  "track_length_m": 1189.65,
+  "weather": "Sunny",
+  "wetness": 0.05,
+  "visibility": 0.95,
+  "entrants": {
+    "Hamilton (Mercedes)": {
+      "avg_time": 141.7336,
+      "std_time": 1.1147,
+      "min_time": 138.745,
+      "max_time": 144.7948,
+      "wins": 79,
+      "win_pct": 39.5
+    },
+    "Verstappen (Red Bull)": {
+      "avg_time": 141.181,
+      "std_time": 1.1789,
+      "min_time": 138.1211,
+      "max_time": 143.8318,
+      "wins": 114,
+      "win_pct": 57.0
+    },
+    "Norris (McLaren)": {
+      "avg_time": 143.5494,
+      "std_time": 1.3995,
+      "min_time": 139.9705,
+      "max_time": 147.157,
+      "wins": 7,
+      "win_pct": 3.5
+    }
+  }
+}
