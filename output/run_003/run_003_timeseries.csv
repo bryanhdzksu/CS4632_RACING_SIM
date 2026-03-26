@@ -1,0 +1,3001 @@
+trial,lap,entrant,lap_time,cumulative_time,weather,wetness
+1,1,Hamilton (Mercedes),41.21426,41.21426,Cloudy,0.3
+1,2,Hamilton (Mercedes),42.6074,83.82166,Cloudy,0.3
+1,3,Hamilton (Mercedes),40.27847,124.10013,Cloudy,0.3
+1,4,Hamilton (Mercedes),41.06896,165.16908,Cloudy,0.3
+1,5,Hamilton (Mercedes),41.46155,206.63063,Cloudy,0.3
+1,1,Verstappen (Red Bull),41.63725,41.63725,Cloudy,0.3
+1,2,Verstappen (Red Bull),42.04492,83.68217,Cloudy,0.3
+1,3,Verstappen (Red Bull),41.53369,125.21586,Cloudy,0.3
+1,4,Verstappen (Red Bull),40.40894,165.6248,Cloudy,0.3
+1,5,Verstappen (Red Bull),40.41601,206.04082,Cloudy,0.3
+1,1,Norris (McLaren),40.33837,40.33837,Cloudy,0.3
+1,2,Norris (McLaren),42.5004,82.83877,Cloudy,0.3
+1,3,Norris (McLaren),41.43833,124.27711,Cloudy,0.3
+1,4,Norris (McLaren),40.176,164.45311,Cloudy,0.3
+1,5,Norris (McLaren),42.66608,207.11918,Cloudy,0.3
+2,1,Hamilton (Mercedes),41.7528,41.7528,Cloudy,0.3
+2,2,Hamilton (Mercedes),42.37163,84.12444,Cloudy,0.3
+2,3,Hamilton (Mercedes),41.29191,125.41635,Cloudy,0.3
+2,4,Hamilton (Mercedes),40.83983,166.25618,Cloudy,0.3
+2,5,Hamilton (Mercedes),41.79313,208.04931,Cloudy,0.3
+2,1,Verstappen (Red Bull),41.07871,41.07871,Cloudy,0.3
+2,2,Verstappen (Red Bull),41.49152,82.57023,Cloudy,0.3
+2,3,Verstappen (Red Bull),41.7485,124.31873,Cloudy,0.3
+2,4,Verstappen (Red Bull),40.63025,164.94897,Cloudy,0.3
+2,5,Verstappen (Red Bull),41.41888,206.36785,Cloudy,0.3
+2,1,Norris (McLaren),41.07358,41.07358,Cloudy,0.3
+2,2,Norris (McLaren),40.36344,81.43702,Cloudy,0.3
+2,3,Norris (McLaren),42.11093,123.54796,Cloudy,0.3
+2,4,Norris (McLaren),41.95171,165.49967,Cloudy,0.3
+2,5,Norris (McLaren),42.06644,207.56611,Cloudy,0.3
+3,1,Hamilton (Mercedes),41.15777,41.15777,Cloudy,0.3
+3,2,Hamilton (Mercedes),41.65032,82.80809,Cloudy,0.3
+3,3,Hamilton (Mercedes),41.55224,124.36033,Cloudy,0.3
+3,4,Hamilton (Mercedes),40.753,165.11333,Cloudy,0.3
+3,5,Hamilton (Mercedes),40.79629,205.90961,Cloudy,0.3
+3,1,Verstappen (Red Bull),41.67298,41.67298,Cloudy,0.3
+3,2,Verstappen (Red Bull),41.3659,83.03888,Cloudy,0.3
+3,3,Verstappen (Red Bull),41.09316,124.13204,Cloudy,0.3
+3,4,Verstappen (Red Bull),41.56606,165.6981,Cloudy,0.3
+3,5,Verstappen (Red Bull),41.11758,206.81568,Cloudy,0.3
+3,1,Norris (McLaren),41.00323,41.00323,Cloudy,0.3
+3,2,Norris (McLaren),41.62231,82.62555,Cloudy,0.3
+3,3,Norris (McLaren),42.25976,124.88531,Cloudy,0.3
+3,4,Norris (McLaren),41.71152,166.59683,Cloudy,0.3
+3,5,Norris (McLaren),42.10248,208.69931,Cloudy,0.3
+4,1,Hamilton (Mercedes),42.02849,42.02849,Cloudy,0.3
+4,2,Hamilton (Mercedes),42.44169,84.47017,Cloudy,0.3
+4,3,Hamilton (Mercedes),41.15099,125.62116,Cloudy,0.3
+4,4,Hamilton (Mercedes),41.69563,167.31679,Cloudy,0.3
+4,5,Hamilton (Mercedes),41.85317,209.16996,Cloudy,0.3
+4,1,Verstappen (Red Bull),41.55483,41.55483,Cloudy,0.3
+4,2,Verstappen (Red Bull),40.61089,82.16572,Cloudy,0.3
+4,3,Verstappen (Red Bull),41.65416,123.81988,Cloudy,0.3
+4,4,Verstappen (Red Bull),41.10762,164.92751,Cloudy,0.3
+4,5,Verstappen (Red Bull),40.62683,205.55434,Cloudy,0.3
+4,1,Norris (McLaren),41.11088,41.11088,Cloudy,0.3
+4,2,Norris (McLaren),42.10381,83.21469,Cloudy,0.3
+4,3,Norris (McLaren),41.84398,125.05867,Cloudy,0.3
+4,4,Norris (McLaren),40.76261,165.82128,Cloudy,0.3
+4,5,Norris (McLaren),41.37131,207.19259,Cloudy,0.3
+5,1,Hamilton (Mercedes),42.3776,42.3776,Cloudy,0.3
+5,2,Hamilton (Mercedes),41.49906,83.87665,Cloudy,0.3
+5,3,Hamilton (Mercedes),41.55918,125.43584,Cloudy,0.3
+5,4,Hamilton (Mercedes),41.588,167.02384,Cloudy,0.3
+5,5,Hamilton (Mercedes),41.7971,208.82094,Cloudy,0.3
+5,1,Verstappen (Red Bull),41.29806,41.29806,Cloudy,0.3
+5,2,Verstappen (Red Bull),41.26758,82.56565,Cloudy,0.3
+5,3,Verstappen (Red Bull),41.2619,123.82755,Cloudy,0.3
+5,4,Verstappen (Red Bull),41.21603,165.04357,Cloudy,0.3
+5,5,Verstappen (Red Bull),40.65824,205.70182,Cloudy,0.3
+5,1,Norris (McLaren),40.98759,40.98759,Cloudy,0.3
+5,2,Norris (McLaren),41.95096,82.93855,Cloudy,0.3
+5,3,Norris (McLaren),40.83731,123.77586,Cloudy,0.3
+5,4,Norris (McLaren),41.62922,165.40508,Cloudy,0.3
+5,5,Norris (McLaren),40.544,205.94908,Cloudy,0.3
+6,1,Hamilton (Mercedes),41.45004,41.45004,Cloudy,0.3
+6,2,Hamilton (Mercedes),41.36904,82.81908,Cloudy,0.3
+6,3,Hamilton (Mercedes),42.14939,124.96847,Cloudy,0.3
+6,4,Hamilton (Mercedes),41.74334,166.71181,Cloudy,0.3
+6,5,Hamilton (Mercedes),41.83863,208.55045,Cloudy,0.3
+6,1,Verstappen (Red Bull),40.88647,40.88647,Cloudy,0.3
+6,2,Verstappen (Red Bull),41.57129,82.45776,Cloudy,0.3
+6,3,Verstappen (Red Bull),40.88701,123.34478,Cloudy,0.3
+6,4,Verstappen (Red Bull),41.74772,165.09249,Cloudy,0.3
+6,5,Verstappen (Red Bull),40.86633,205.95883,Cloudy,0.3
+6,1,Norris (McLaren),40.58868,40.58868,Cloudy,0.3
+6,2,Norris (McLaren),41.48796,82.07664,Cloudy,0.3
+6,3,Norris (McLaren),41.48582,123.56246,Cloudy,0.3
+6,4,Norris (McLaren),41.5888,165.15125,Cloudy,0.3
+6,5,Norris (McLaren),41.8269,206.97815,Cloudy,0.3
+7,1,Hamilton (Mercedes),41.82241,41.82241,Cloudy,0.3
+7,2,Hamilton (Mercedes),40.57906,82.40147,Cloudy,0.3
+7,3,Hamilton (Mercedes),41.90309,124.30456,Cloudy,0.3
+7,4,Hamilton (Mercedes),42.43339,166.73794,Cloudy,0.3
+7,5,Hamilton (Mercedes),42.05826,208.7962,Cloudy,0.3
+7,1,Verstappen (Red Bull),40.53079,40.53079,Cloudy,0.3
+7,2,Verstappen (Red Bull),40.66716,81.19795,Cloudy,0.3
+7,3,Verstappen (Red Bull),40.92207,122.12002,Cloudy,0.3
+7,4,Verstappen (Red Bull),40.80396,162.92398,Cloudy,0.3
+7,5,Verstappen (Red Bull),40.83728,203.76127,Cloudy,0.3
+7,1,Norris (McLaren),40.8235,40.8235,Cloudy,0.3
+7,2,Norris (McLaren),42.25621,83.07972,Cloudy,0.3
+7,3,Norris (McLaren),41.43161,124.51133,Cloudy,0.3
+7,4,Norris (McLaren),42.962,167.47333,Cloudy,0.3
+7,5,Norris (McLaren),41.29261,208.76595,Cloudy,0.3
+8,1,Hamilton (Mercedes),41.7709,41.7709,Cloudy,0.3
+8,2,Hamilton (Mercedes),41.20715,82.97805,Cloudy,0.3
+8,3,Hamilton (Mercedes),41.26954,124.24758,Cloudy,0.3
+8,4,Hamilton (Mercedes),40.94708,165.19467,Cloudy,0.3
+8,5,Hamilton (Mercedes),41.87274,207.06741,Cloudy,0.3
+8,1,Verstappen (Red Bull),41.24742,41.24742,Cloudy,0.3
+8,2,Verstappen (Red Bull),41.47156,82.71898,Cloudy,0.3
+8,3,Verstappen (Red Bull),40.55487,123.27385,Cloudy,0.3
+8,4,Verstappen (Red Bull),40.03215,163.30599,Cloudy,0.3
+8,5,Verstappen (Red Bull),41.34491,204.6509,Cloudy,0.3
+8,1,Norris (McLaren),41.60112,41.60112,Cloudy,0.3
+8,2,Norris (McLaren),41.65651,83.25763,Cloudy,0.3
+8,3,Norris (McLaren),41.64709,124.90472,Cloudy,0.3
+8,4,Norris (McLaren),42.33418,167.23891,Cloudy,0.3
+8,5,Norris (McLaren),41.72462,208.96353,Cloudy,0.3
+9,1,Hamilton (Mercedes),41.10835,41.10835,Cloudy,0.3
+9,2,Hamilton (Mercedes),41.51541,82.62376,Cloudy,0.3
+9,3,Hamilton (Mercedes),41.1592,123.78296,Cloudy,0.3
+9,4,Hamilton (Mercedes),41.94476,165.72772,Cloudy,0.3
+9,5,Hamilton (Mercedes),41.07808,206.8058,Cloudy,0.3
+9,1,Verstappen (Red Bull),41.92431,41.92431,Cloudy,0.3
+9,2,Verstappen (Red Bull),41.54644,83.47076,Cloudy,0.3
+9,3,Verstappen (Red Bull),41.45332,124.92408,Cloudy,0.3
+9,4,Verstappen (Red Bull),40.86111,165.78519,Cloudy,0.3
+9,5,Verstappen (Red Bull),41.19481,206.98,Cloudy,0.3
+9,1,Norris (McLaren),41.01402,41.01402,Cloudy,0.3
+9,2,Norris (McLaren),41.61797,82.63199,Cloudy,0.3
+9,3,Norris (McLaren),41.32221,123.95419,Cloudy,0.3
+9,4,Norris (McLaren),41.13812,165.09231,Cloudy,0.3
+9,5,Norris (McLaren),41.53623,206.62854,Cloudy,0.3
+10,1,Hamilton (Mercedes),41.81495,41.81495,Cloudy,0.3
+10,2,Hamilton (Mercedes),42.16725,83.98219,Cloudy,0.3
+10,3,Hamilton (Mercedes),41.86805,125.85025,Cloudy,0.3
+10,4,Hamilton (Mercedes),41.76787,167.61812,Cloudy,0.3
+10,5,Hamilton (Mercedes),42.5282,210.14632,Cloudy,0.3
+10,1,Verstappen (Red Bull),41.02862,41.02862,Cloudy,0.3
+10,2,Verstappen (Red Bull),41.13045,82.15907,Cloudy,0.3
+10,3,Verstappen (Red Bull),40.38659,122.54566,Cloudy,0.3
+10,4,Verstappen (Red Bull),42.42681,164.97247,Cloudy,0.3
+10,5,Verstappen (Red Bull),41.43178,206.40425,Cloudy,0.3
+10,1,Norris (McLaren),39.94537,39.94537,Cloudy,0.3
+10,2,Norris (McLaren),41.63703,81.58241,Cloudy,0.3
+10,3,Norris (McLaren),41.70172,123.28413,Cloudy,0.3
+10,4,Norris (McLaren),42.15156,165.43569,Cloudy,0.3
+10,5,Norris (McLaren),42.19628,207.63197,Cloudy,0.3
+11,1,Hamilton (Mercedes),41.71077,41.71077,Cloudy,0.3
+11,2,Hamilton (Mercedes),41.37369,83.08447,Cloudy,0.3
+11,3,Hamilton (Mercedes),42.08712,125.17158,Cloudy,0.3
+11,4,Hamilton (Mercedes),41.85919,167.03077,Cloudy,0.3
+11,5,Hamilton (Mercedes),41.43507,208.46585,Cloudy,0.3
+11,1,Verstappen (Red Bull),41.67054,41.67054,Cloudy,0.3
+11,2,Verstappen (Red Bull),39.86754,81.53808,Cloudy,0.3
+11,3,Verstappen (Red Bull),41.81571,123.3538,Cloudy,0.3
+11,4,Verstappen (Red Bull),41.16891,164.52271,Cloudy,0.3
+11,5,Verstappen (Red Bull),42.03635,206.55906,Cloudy,0.3
+11,1,Norris (McLaren),41.70841,41.70841,Cloudy,0.3
+11,2,Norris (McLaren),42.24186,83.95027,Cloudy,0.3
+11,3,Norris (McLaren),41.231,125.18127,Cloudy,0.3
+11,4,Norris (McLaren),41.45347,166.63475,Cloudy,0.3
+11,5,Norris (McLaren),42.38946,209.0242,Cloudy,0.3
+12,1,Hamilton (Mercedes),41.26518,41.26518,Cloudy,0.3
+12,2,Hamilton (Mercedes),40.36602,81.6312,Cloudy,0.3
+12,3,Hamilton (Mercedes),40.93531,122.56651,Cloudy,0.3
+12,4,Hamilton (Mercedes),41.37904,163.94555,Cloudy,0.3
+12,5,Hamilton (Mercedes),41.3703,205.31585,Cloudy,0.3
+12,1,Verstappen (Red Bull),40.92104,40.92104,Cloudy,0.3
+12,2,Verstappen (Red Bull),41.46023,82.38127,Cloudy,0.3
+12,3,Verstappen (Red Bull),42.37506,124.75632,Cloudy,0.3
+12,4,Verstappen (Red Bull),41.041,165.79733,Cloudy,0.3
+12,5,Verstappen (Red Bull),40.92554,206.72287,Cloudy,0.3
+12,1,Norris (McLaren),40.16976,40.16976,Cloudy,0.3
+12,2,Norris (McLaren),41.15936,81.32912,Cloudy,0.3
+12,3,Norris (McLaren),41.43787,122.76699,Cloudy,0.3
+12,4,Norris (McLaren),42.64171,165.4087,Cloudy,0.3
+12,5,Norris (McLaren),41.27956,206.68826,Cloudy,0.3
+13,1,Hamilton (Mercedes),42.32416,42.32416,Cloudy,0.3
+13,2,Hamilton (Mercedes),41.09041,83.41457,Cloudy,0.3
+13,3,Hamilton (Mercedes),40.95448,124.36905,Cloudy,0.3
+13,4,Hamilton (Mercedes),41.96571,166.33476,Cloudy,0.3
+13,5,Hamilton (Mercedes),42.55598,208.89075,Cloudy,0.3
+13,1,Verstappen (Red Bull),41.97734,41.97734,Cloudy,0.3
+13,2,Verstappen (Red Bull),41.34552,83.32285,Cloudy,0.3
+13,3,Verstappen (Red Bull),40.7954,124.11825,Cloudy,0.3
+13,4,Verstappen (Red Bull),40.80142,164.91967,Cloudy,0.3
+13,5,Verstappen (Red Bull),40.88799,205.80766,Cloudy,0.3
+13,1,Norris (McLaren),40.64187,40.64187,Cloudy,0.3
+13,2,Norris (McLaren),41.99252,82.63439,Cloudy,0.3
+13,3,Norris (McLaren),41.17641,123.8108,Cloudy,0.3
+13,4,Norris (McLaren),42.15175,165.96255,Cloudy,0.3
+13,5,Norris (McLaren),42.72827,208.69082,Cloudy,0.3
+14,1,Hamilton (Mercedes),41.0789,41.0789,Cloudy,0.3
+14,2,Hamilton (Mercedes),41.74222,82.82112,Cloudy,0.3
+14,3,Hamilton (Mercedes),40.49737,123.31849,Cloudy,0.3
+14,4,Hamilton (Mercedes),41.45434,164.77283,Cloudy,0.3
+14,5,Hamilton (Mercedes),42.25216,207.02498,Cloudy,0.3
+14,1,Verstappen (Red Bull),40.08774,40.08774,Cloudy,0.3
+14,2,Verstappen (Red Bull),40.28121,80.36895,Cloudy,0.3
+14,3,Verstappen (Red Bull),42.0138,122.38275,Cloudy,0.3
+14,4,Verstappen (Red Bull),41.35544,163.73819,Cloudy,0.3
+14,5,Verstappen (Red Bull),40.71981,204.458,Cloudy,0.3
+14,1,Norris (McLaren),40.74142,40.74142,Cloudy,0.3
+14,2,Norris (McLaren),40.53455,81.27597,Cloudy,0.3
+14,3,Norris (McLaren),41.57542,122.85139,Cloudy,0.3
+14,4,Norris (McLaren),41.61779,164.46918,Cloudy,0.3
+14,5,Norris (McLaren),40.72274,205.19192,Cloudy,0.3
+15,1,Hamilton (Mercedes),41.35213,41.35213,Cloudy,0.3
+15,2,Hamilton (Mercedes),41.08781,82.43994,Cloudy,0.3
+15,3,Hamilton (Mercedes),42.16744,124.60738,Cloudy,0.3
+15,4,Hamilton (Mercedes),41.15065,165.75803,Cloudy,0.3
+15,5,Hamilton (Mercedes),41.87993,207.63796,Cloudy,0.3
+15,1,Verstappen (Red Bull),40.77277,40.77277,Cloudy,0.3
+15,2,Verstappen (Red Bull),41.59891,82.37168,Cloudy,0.3
+15,3,Verstappen (Red Bull),40.72261,123.09429,Cloudy,0.3
+15,4,Verstappen (Red Bull),42.10647,165.20076,Cloudy,0.3
+15,5,Verstappen (Red Bull),40.88054,206.0813,Cloudy,0.3
+15,1,Norris (McLaren),42.00026,42.00026,Cloudy,0.3
+15,2,Norris (McLaren),41.94522,83.94548,Cloudy,0.3
+15,3,Norris (McLaren),41.0148,124.96028,Cloudy,0.3
+15,4,Norris (McLaren),41.72107,166.68135,Cloudy,0.3
+15,5,Norris (McLaren),41.35776,208.03911,Cloudy,0.3
+16,1,Hamilton (Mercedes),41.71335,41.71335,Cloudy,0.3
+16,2,Hamilton (Mercedes),41.84638,83.55973,Cloudy,0.3
+16,3,Hamilton (Mercedes),41.50491,125.06464,Cloudy,0.3
+16,4,Hamilton (Mercedes),42.18552,167.25016,Cloudy,0.3
+16,5,Hamilton (Mercedes),40.96279,208.21295,Cloudy,0.3
+16,1,Verstappen (Red Bull),41.00272,41.00272,Cloudy,0.3
+16,2,Verstappen (Red Bull),41.57823,82.58095,Cloudy,0.3
+16,3,Verstappen (Red Bull),41.42462,124.00557,Cloudy,0.3
+16,4,Verstappen (Red Bull),40.63722,164.64279,Cloudy,0.3
+16,5,Verstappen (Red Bull),41.50481,206.1476,Cloudy,0.3
+16,1,Norris (McLaren),42.01528,42.01528,Cloudy,0.3
+16,2,Norris (McLaren),41.41721,83.43249,Cloudy,0.3
+16,3,Norris (McLaren),41.41853,124.85102,Cloudy,0.3
+16,4,Norris (McLaren),41.14138,165.9924,Cloudy,0.3
+16,5,Norris (McLaren),41.13519,207.12758,Cloudy,0.3
+17,1,Hamilton (Mercedes),40.63218,40.63218,Cloudy,0.3
+17,2,Hamilton (Mercedes),41.27243,81.90461,Cloudy,0.3
+17,3,Hamilton (Mercedes),41.65718,123.56179,Cloudy,0.3
+17,4,Hamilton (Mercedes),41.14679,164.70858,Cloudy,0.3
+17,5,Hamilton (Mercedes),41.73541,206.444,Cloudy,0.3
+17,1,Verstappen (Red Bull),40.58508,40.58508,Cloudy,0.3
+17,2,Verstappen (Red Bull),40.56427,81.14935,Cloudy,0.3
+17,3,Verstappen (Red Bull),41.53827,122.68762,Cloudy,0.3
+17,4,Verstappen (Red Bull),40.68978,163.3774,Cloudy,0.3
+17,5,Verstappen (Red Bull),41.60823,204.98563,Cloudy,0.3
+17,1,Norris (McLaren),42.56144,42.56144,Cloudy,0.3
+17,2,Norris (McLaren),40.99525,83.5567,Cloudy,0.3
+17,3,Norris (McLaren),41.30705,124.86374,Cloudy,0.3
+17,4,Norris (McLaren),41.66552,166.52927,Cloudy,0.3
+17,5,Norris (McLaren),41.4329,207.96217,Cloudy,0.3
+18,1,Hamilton (Mercedes),41.40978,41.40978,Cloudy,0.3
+18,2,Hamilton (Mercedes),40.85501,82.26479,Cloudy,0.3
+18,3,Hamilton (Mercedes),41.28621,123.551,Cloudy,0.3
+18,4,Hamilton (Mercedes),42.3176,165.86861,Cloudy,0.3
+18,5,Hamilton (Mercedes),41.23021,207.09881,Cloudy,0.3
+18,1,Verstappen (Red Bull),41.2876,41.2876,Cloudy,0.3
+18,2,Verstappen (Red Bull),40.45066,81.73826,Cloudy,0.3
+18,3,Verstappen (Red Bull),40.53995,122.27821,Cloudy,0.3
+18,4,Verstappen (Red Bull),41.31146,163.58967,Cloudy,0.3
+18,5,Verstappen (Red Bull),41.2368,204.82647,Cloudy,0.3
+18,1,Norris (McLaren),41.39636,41.39636,Cloudy,0.3
+18,2,Norris (McLaren),41.27293,82.66929,Cloudy,0.3
+18,3,Norris (McLaren),40.99939,123.66867,Cloudy,0.3
+18,4,Norris (McLaren),40.70801,164.37669,Cloudy,0.3
+18,5,Norris (McLaren),41.7291,206.10579,Cloudy,0.3
+19,1,Hamilton (Mercedes),41.7368,41.7368,Cloudy,0.3
+19,2,Hamilton (Mercedes),41.73202,83.46882,Cloudy,0.3
+19,3,Hamilton (Mercedes),40.65981,124.12863,Cloudy,0.3
+19,4,Hamilton (Mercedes),40.41015,164.53878,Cloudy,0.3
+19,5,Hamilton (Mercedes),41.83891,206.37769,Cloudy,0.3
+19,1,Verstappen (Red Bull),41.41751,41.41751,Cloudy,0.3
+19,2,Verstappen (Red Bull),40.57434,81.99185,Cloudy,0.3
+19,3,Verstappen (Red Bull),40.93645,122.9283,Cloudy,0.3
+19,4,Verstappen (Red Bull),41.48487,164.41316,Cloudy,0.3
+19,5,Verstappen (Red Bull),41.89294,206.3061,Cloudy,0.3
+19,1,Norris (McLaren),40.94651,40.94651,Cloudy,0.3
+19,2,Norris (McLaren),40.98831,81.93481,Cloudy,0.3
+19,3,Norris (McLaren),40.78784,122.72265,Cloudy,0.3
+19,4,Norris (McLaren),41.24874,163.9714,Cloudy,0.3
+19,5,Norris (McLaren),41.10274,205.07414,Cloudy,0.3
+20,1,Hamilton (Mercedes),41.92894,41.92894,Cloudy,0.3
+20,2,Hamilton (Mercedes),42.26746,84.1964,Cloudy,0.3
+20,3,Hamilton (Mercedes),42.22151,126.41791,Cloudy,0.3
+20,4,Hamilton (Mercedes),42.18626,168.60417,Cloudy,0.3
+20,5,Hamilton (Mercedes),41.65923,210.2634,Cloudy,0.3
+20,1,Verstappen (Red Bull),40.99327,40.99327,Cloudy,0.3
+20,2,Verstappen (Red Bull),40.41316,81.40644,Cloudy,0.3
+20,3,Verstappen (Red Bull),41.43464,122.84108,Cloudy,0.3
+20,4,Verstappen (Red Bull),41.7605,164.60158,Cloudy,0.3
+20,5,Verstappen (Red Bull),41.16337,205.76495,Cloudy,0.3
+20,1,Norris (McLaren),40.64619,40.64619,Cloudy,0.3
+20,2,Norris (McLaren),41.05022,81.69641,Cloudy,0.3
+20,3,Norris (McLaren),41.04646,122.74287,Cloudy,0.3
+20,4,Norris (McLaren),40.89178,163.63465,Cloudy,0.3
+20,5,Norris (McLaren),43.03896,206.67361,Cloudy,0.3
+21,1,Hamilton (Mercedes),40.82167,40.82167,Cloudy,0.3
+21,2,Hamilton (Mercedes),42.01919,82.84086,Cloudy,0.3
+21,3,Hamilton (Mercedes),41.5611,124.40196,Cloudy,0.3
+21,4,Hamilton (Mercedes),41.45968,165.86164,Cloudy,0.3
+21,5,Hamilton (Mercedes),42.29215,208.15378,Cloudy,0.3
+21,1,Verstappen (Red Bull),41.02293,41.02293,Cloudy,0.3
+21,2,Verstappen (Red Bull),41.38539,82.40832,Cloudy,0.3
+21,3,Verstappen (Red Bull),41.78136,124.18968,Cloudy,0.3
+21,4,Verstappen (Red Bull),41.15531,165.34499,Cloudy,0.3
+21,5,Verstappen (Red Bull),40.7629,206.10789,Cloudy,0.3
+21,1,Norris (McLaren),41.78654,41.78654,Cloudy,0.3
+21,2,Norris (McLaren),41.50852,83.29506,Cloudy,0.3
+21,3,Norris (McLaren),42.29707,125.59212,Cloudy,0.3
+21,4,Norris (McLaren),41.51302,167.10515,Cloudy,0.3
+21,5,Norris (McLaren),41.79156,208.8967,Cloudy,0.3
+22,1,Hamilton (Mercedes),41.53534,41.53534,Cloudy,0.3
+22,2,Hamilton (Mercedes),41.81599,83.35133,Cloudy,0.3
+22,3,Hamilton (Mercedes),40.68897,124.0403,Cloudy,0.3
+22,4,Hamilton (Mercedes),42.83922,166.87952,Cloudy,0.3
+22,5,Hamilton (Mercedes),41.64108,208.5206,Cloudy,0.3
+22,1,Verstappen (Red Bull),40.80279,40.80279,Cloudy,0.3
+22,2,Verstappen (Red Bull),40.87634,81.67912,Cloudy,0.3
+22,3,Verstappen (Red Bull),42.15524,123.83436,Cloudy,0.3
+22,4,Verstappen (Red Bull),41.00872,164.84308,Cloudy,0.3
+22,5,Verstappen (Red Bull),40.33933,205.1824,Cloudy,0.3
+22,1,Norris (McLaren),42.13661,42.13661,Cloudy,0.3
+22,2,Norris (McLaren),40.94536,83.08196,Cloudy,0.3
+22,3,Norris (McLaren),40.91994,124.00191,Cloudy,0.3
+22,4,Norris (McLaren),41.19728,165.19918,Cloudy,0.3
+22,5,Norris (McLaren),42.04822,207.2474,Cloudy,0.3
+23,1,Hamilton (Mercedes),42.4475,42.4475,Cloudy,0.3
+23,2,Hamilton (Mercedes),40.84683,83.29433,Cloudy,0.3
+23,3,Hamilton (Mercedes),41.59675,124.89108,Cloudy,0.3
+23,4,Hamilton (Mercedes),41.03924,165.93032,Cloudy,0.3
+23,5,Hamilton (Mercedes),41.3083,207.23862,Cloudy,0.3
+23,1,Verstappen (Red Bull),41.32527,41.32527,Cloudy,0.3
+23,2,Verstappen (Red Bull),39.99167,81.31694,Cloudy,0.3
+23,3,Verstappen (Red Bull),40.02698,121.34392,Cloudy,0.3
+23,4,Verstappen (Red Bull),40.62449,161.96841,Cloudy,0.3
+23,5,Verstappen (Red Bull),40.46733,202.43574,Cloudy,0.3
+23,1,Norris (McLaren),41.34101,41.34101,Cloudy,0.3
+23,2,Norris (McLaren),42.09553,83.43654,Cloudy,0.3
+23,3,Norris (McLaren),41.25983,124.69637,Cloudy,0.3
+23,4,Norris (McLaren),41.27463,165.971,Cloudy,0.3
+23,5,Norris (McLaren),41.70404,207.67503,Cloudy,0.3
+24,1,Hamilton (Mercedes),40.95894,40.95894,Cloudy,0.3
+24,2,Hamilton (Mercedes),41.01841,81.97735,Cloudy,0.3
+24,3,Hamilton (Mercedes),41.95911,123.93647,Cloudy,0.3
+24,4,Hamilton (Mercedes),41.76509,165.70156,Cloudy,0.3
+24,5,Hamilton (Mercedes),40.72671,206.42827,Cloudy,0.3
+24,1,Verstappen (Red Bull),40.99066,40.99066,Cloudy,0.3
+24,2,Verstappen (Red Bull),40.89319,81.88385,Cloudy,0.3
+24,3,Verstappen (Red Bull),41.61585,123.4997,Cloudy,0.3
+24,4,Verstappen (Red Bull),40.73842,164.23812,Cloudy,0.3
+24,5,Verstappen (Red Bull),40.73264,204.97076,Cloudy,0.3
+24,1,Norris (McLaren),41.44566,41.44566,Cloudy,0.3
+24,2,Norris (McLaren),40.86562,82.31128,Cloudy,0.3
+24,3,Norris (McLaren),42.39545,124.70672,Cloudy,0.3
+24,4,Norris (McLaren),41.01281,165.71953,Cloudy,0.3
+24,5,Norris (McLaren),41.17206,206.89159,Cloudy,0.3
+25,1,Hamilton (Mercedes),41.61287,41.61287,Cloudy,0.3
+25,2,Hamilton (Mercedes),41.62367,83.23654,Cloudy,0.3
+25,3,Hamilton (Mercedes),42.87259,126.10913,Cloudy,0.3
+25,4,Hamilton (Mercedes),42.05054,168.15967,Cloudy,0.3
+25,5,Hamilton (Mercedes),41.5839,209.74357,Cloudy,0.3
+25,1,Verstappen (Red Bull),40.17986,40.17986,Cloudy,0.3
+25,2,Verstappen (Red Bull),42.0059,82.18576,Cloudy,0.3
+25,3,Verstappen (Red Bull),41.22231,123.40807,Cloudy,0.3
+25,4,Verstappen (Red Bull),41.02445,164.43252,Cloudy,0.3
+25,5,Verstappen (Red Bull),42.01364,206.44616,Cloudy,0.3
+25,1,Norris (McLaren),41.77303,41.77303,Cloudy,0.3
+25,2,Norris (McLaren),40.4348,82.20783,Cloudy,0.3
+25,3,Norris (McLaren),40.87739,123.08522,Cloudy,0.3
+25,4,Norris (McLaren),40.96424,164.04946,Cloudy,0.3
+25,5,Norris (McLaren),41.07106,205.12052,Cloudy,0.3
+26,1,Hamilton (Mercedes),41.2039,41.2039,Cloudy,0.3
+26,2,Hamilton (Mercedes),41.27721,82.48112,Cloudy,0.3
+26,3,Hamilton (Mercedes),41.73259,124.2137,Cloudy,0.3
+26,4,Hamilton (Mercedes),41.5733,165.787,Cloudy,0.3
+26,5,Hamilton (Mercedes),41.68672,207.47372,Cloudy,0.3
+26,1,Verstappen (Red Bull),41.37592,41.37592,Cloudy,0.3
+26,2,Verstappen (Red Bull),41.02312,82.39904,Cloudy,0.3
+26,3,Verstappen (Red Bull),41.03348,123.43252,Cloudy,0.3
+26,4,Verstappen (Red Bull),40.4823,163.91482,Cloudy,0.3
+26,5,Verstappen (Red Bull),41.10824,205.02306,Cloudy,0.3
+26,1,Norris (McLaren),40.68309,40.68309,Cloudy,0.3
+26,2,Norris (McLaren),41.44507,82.12816,Cloudy,0.3
+26,3,Norris (McLaren),41.25892,123.38709,Cloudy,0.3
+26,4,Norris (McLaren),40.98314,164.37023,Cloudy,0.3
+26,5,Norris (McLaren),40.89858,205.26881,Cloudy,0.3
+27,1,Hamilton (Mercedes),41.09183,41.09183,Cloudy,0.3
+27,2,Hamilton (Mercedes),41.37889,82.47072,Cloudy,0.3
+27,3,Hamilton (Mercedes),41.52519,123.99591,Cloudy,0.3
+27,4,Hamilton (Mercedes),40.95593,164.95184,Cloudy,0.3
+27,5,Hamilton (Mercedes),42.00789,206.95973,Cloudy,0.3
+27,1,Verstappen (Red Bull),40.30229,40.30229,Cloudy,0.3
+27,2,Verstappen (Red Bull),40.91412,81.21641,Cloudy,0.3
+27,3,Verstappen (Red Bull),41.33628,122.55269,Cloudy,0.3
+27,4,Verstappen (Red Bull),40.93424,163.48693,Cloudy,0.3
+27,5,Verstappen (Red Bull),40.70759,204.19452,Cloudy,0.3
+27,1,Norris (McLaren),41.00433,41.00433,Cloudy,0.3
+27,2,Norris (McLaren),41.54183,82.54615,Cloudy,0.3
+27,3,Norris (McLaren),42.34666,124.89282,Cloudy,0.3
+27,4,Norris (McLaren),40.41001,165.30283,Cloudy,0.3
+27,5,Norris (McLaren),41.16074,206.46356,Cloudy,0.3
+28,1,Hamilton (Mercedes),41.57269,41.57269,Cloudy,0.3
+28,2,Hamilton (Mercedes),40.72996,82.30264,Cloudy,0.3
+28,3,Hamilton (Mercedes),42.2222,124.52485,Cloudy,0.3
+28,4,Hamilton (Mercedes),42.31496,166.83981,Cloudy,0.3
+28,5,Hamilton (Mercedes),40.80369,207.6435,Cloudy,0.3
+28,1,Verstappen (Red Bull),40.17353,40.17353,Cloudy,0.3
+28,2,Verstappen (Red Bull),41.77403,81.94755,Cloudy,0.3
+28,3,Verstappen (Red Bull),40.81278,122.76033,Cloudy,0.3
+28,4,Verstappen (Red Bull),41.12592,163.88626,Cloudy,0.3
+28,5,Verstappen (Red Bull),41.19934,205.0856,Cloudy,0.3
+28,1,Norris (McLaren),41.72152,41.72152,Cloudy,0.3
+28,2,Norris (McLaren),40.34136,82.06288,Cloudy,0.3
+28,3,Norris (McLaren),41.37167,123.43455,Cloudy,0.3
+28,4,Norris (McLaren),42.17006,165.60461,Cloudy,0.3
+28,5,Norris (McLaren),41.886,207.49061,Cloudy,0.3
+29,1,Hamilton (Mercedes),41.48936,41.48936,Cloudy,0.3
+29,2,Hamilton (Mercedes),40.59736,82.08672,Cloudy,0.3
+29,3,Hamilton (Mercedes),41.14395,123.23067,Cloudy,0.3
+29,4,Hamilton (Mercedes),41.28954,164.52021,Cloudy,0.3
+29,5,Hamilton (Mercedes),41.74725,206.26746,Cloudy,0.3
+29,1,Verstappen (Red Bull),40.42731,40.42731,Cloudy,0.3
+29,2,Verstappen (Red Bull),41.32425,81.75156,Cloudy,0.3
+29,3,Verstappen (Red Bull),40.59761,122.34917,Cloudy,0.3
+29,4,Verstappen (Red Bull),40.52616,162.87532,Cloudy,0.3
+29,5,Verstappen (Red Bull),41.50863,204.38395,Cloudy,0.3
+29,1,Norris (McLaren),41.16862,41.16862,Cloudy,0.3
+29,2,Norris (McLaren),41.17999,82.34861,Cloudy,0.3
+29,3,Norris (McLaren),41.80172,124.15033,Cloudy,0.3
+29,4,Norris (McLaren),41.09853,165.24886,Cloudy,0.3
+29,5,Norris (McLaren),41.88599,207.13485,Cloudy,0.3
+30,1,Hamilton (Mercedes),42.01897,42.01897,Cloudy,0.3
+30,2,Hamilton (Mercedes),41.36797,83.38693,Cloudy,0.3
+30,3,Hamilton (Mercedes),41.87138,125.25832,Cloudy,0.3
+30,4,Hamilton (Mercedes),40.18577,165.44409,Cloudy,0.3
+30,5,Hamilton (Mercedes),41.30813,206.75221,Cloudy,0.3
+30,1,Verstappen (Red Bull),40.67939,40.67939,Cloudy,0.3
+30,2,Verstappen (Red Bull),41.6893,82.36869,Cloudy,0.3
+30,3,Verstappen (Red Bull),41.31928,123.68797,Cloudy,0.3
+30,4,Verstappen (Red Bull),41.92562,165.61359,Cloudy,0.3
+30,5,Verstappen (Red Bull),40.99485,206.60844,Cloudy,0.3
+30,1,Norris (McLaren),40.89943,40.89943,Cloudy,0.3
+30,2,Norris (McLaren),41.40865,82.30809,Cloudy,0.3
+30,3,Norris (McLaren),40.81871,123.1268,Cloudy,0.3
+30,4,Norris (McLaren),42.12562,165.25242,Cloudy,0.3
+30,5,Norris (McLaren),40.08442,205.33684,Cloudy,0.3
+31,1,Hamilton (Mercedes),42.08789,42.08789,Cloudy,0.3
+31,2,Hamilton (Mercedes),41.03468,83.12257,Cloudy,0.3
+31,3,Hamilton (Mercedes),41.22428,124.34685,Cloudy,0.3
+31,4,Hamilton (Mercedes),41.4646,165.81144,Cloudy,0.3
+31,5,Hamilton (Mercedes),41.44596,207.2574,Cloudy,0.3
+31,1,Verstappen (Red Bull),41.05581,41.05581,Cloudy,0.3
+31,2,Verstappen (Red Bull),42.15499,83.2108,Cloudy,0.3
+31,3,Verstappen (Red Bull),40.80785,124.01865,Cloudy,0.3
+31,4,Verstappen (Red Bull),41.11332,165.13197,Cloudy,0.3
+31,5,Verstappen (Red Bull),40.94768,206.07965,Cloudy,0.3
+31,1,Norris (McLaren),40.82136,40.82136,Cloudy,0.3
+31,2,Norris (McLaren),40.79849,81.61986,Cloudy,0.3
+31,3,Norris (McLaren),41.4883,123.10816,Cloudy,0.3
+31,4,Norris (McLaren),41.74161,164.84977,Cloudy,0.3
+31,5,Norris (McLaren),41.80629,206.65607,Cloudy,0.3
+32,1,Hamilton (Mercedes),41.59753,41.59753,Cloudy,0.3
+32,2,Hamilton (Mercedes),41.2615,82.85904,Cloudy,0.3
+32,3,Hamilton (Mercedes),41.40178,124.26082,Cloudy,0.3
+32,4,Hamilton (Mercedes),41.71556,165.97638,Cloudy,0.3
+32,5,Hamilton (Mercedes),42.46864,208.44502,Cloudy,0.3
+32,1,Verstappen (Red Bull),40.70667,40.70667,Cloudy,0.3
+32,2,Verstappen (Red Bull),40.54991,81.25658,Cloudy,0.3
+32,3,Verstappen (Red Bull),40.53656,121.79313,Cloudy,0.3
+32,4,Verstappen (Red Bull),41.49494,163.28807,Cloudy,0.3
+32,5,Verstappen (Red Bull),40.31645,203.60452,Cloudy,0.3
+32,1,Norris (McLaren),40.61217,40.61217,Cloudy,0.3
+32,2,Norris (McLaren),41.21072,81.82289,Cloudy,0.3
+32,3,Norris (McLaren),41.18519,123.00808,Cloudy,0.3
+32,4,Norris (McLaren),41.1395,164.14758,Cloudy,0.3
+32,5,Norris (McLaren),40.91855,205.06613,Cloudy,0.3
+33,1,Hamilton (Mercedes),40.50076,40.50076,Cloudy,0.3
+33,2,Hamilton (Mercedes),42.01606,82.51681,Cloudy,0.3
+33,3,Hamilton (Mercedes),40.82842,123.34523,Cloudy,0.3
+33,4,Hamilton (Mercedes),40.62733,163.97256,Cloudy,0.3
+33,5,Hamilton (Mercedes),41.51966,205.49221,Cloudy,0.3
+33,1,Verstappen (Red Bull),40.38594,40.38594,Cloudy,0.3
+33,2,Verstappen (Red Bull),41.56065,81.94658,Cloudy,0.3
+33,3,Verstappen (Red Bull),42.55058,124.49716,Cloudy,0.3
+33,4,Verstappen (Red Bull),40.58028,165.07744,Cloudy,0.3
+33,5,Verstappen (Red Bull),40.82023,205.89767,Cloudy,0.3
+33,1,Norris (McLaren),41.80962,41.80962,Cloudy,0.3
+33,2,Norris (McLaren),40.43602,82.24564,Cloudy,0.3
+33,3,Norris (McLaren),40.70845,122.95409,Cloudy,0.3
+33,4,Norris (McLaren),41.02256,163.97665,Cloudy,0.3
+33,5,Norris (McLaren),40.49697,204.47362,Cloudy,0.3
+34,1,Hamilton (Mercedes),41.75607,41.75607,Cloudy,0.3
+34,2,Hamilton (Mercedes),41.89161,83.64769,Cloudy,0.3
+34,3,Hamilton (Mercedes),41.50383,125.15151,Cloudy,0.3
+34,4,Hamilton (Mercedes),41.9099,167.06141,Cloudy,0.3
+34,5,Hamilton (Mercedes),41.06653,208.12794,Cloudy,0.3
+34,1,Verstappen (Red Bull),40.10283,40.10283,Cloudy,0.3
+34,2,Verstappen (Red Bull),41.6078,81.71063,Cloudy,0.3
+34,3,Verstappen (Red Bull),41.56837,123.27899,Cloudy,0.3
+34,4,Verstappen (Red Bull),41.46822,164.74722,Cloudy,0.3
+34,5,Verstappen (Red Bull),39.95412,204.70134,Cloudy,0.3
+34,1,Norris (McLaren),41.27202,41.27202,Cloudy,0.3
+34,2,Norris (McLaren),41.21764,82.48966,Cloudy,0.3
+34,3,Norris (McLaren),40.6135,123.10316,Cloudy,0.3
+34,4,Norris (McLaren),41.53014,164.63329,Cloudy,0.3
+34,5,Norris (McLaren),41.61677,206.25007,Cloudy,0.3
+35,1,Hamilton (Mercedes),41.29185,41.29185,Cloudy,0.3
+35,2,Hamilton (Mercedes),41.38069,82.67254,Cloudy,0.3
+35,3,Hamilton (Mercedes),41.75961,124.43215,Cloudy,0.3
+35,4,Hamilton (Mercedes),41.30596,165.73811,Cloudy,0.3
+35,5,Hamilton (Mercedes),41.64238,207.38049,Cloudy,0.3
+35,1,Verstappen (Red Bull),40.53666,40.53666,Cloudy,0.3
+35,2,Verstappen (Red Bull),42.67717,83.21383,Cloudy,0.3
+35,3,Verstappen (Red Bull),41.2327,124.44653,Cloudy,0.3
+35,4,Verstappen (Red Bull),41.79968,166.24621,Cloudy,0.3
+35,5,Verstappen (Red Bull),41.10053,207.34674,Cloudy,0.3
+35,1,Norris (McLaren),40.9137,40.9137,Cloudy,0.3
+35,2,Norris (McLaren),40.56292,81.47662,Cloudy,0.3
+35,3,Norris (McLaren),40.57672,122.05334,Cloudy,0.3
+35,4,Norris (McLaren),41.18303,163.23637,Cloudy,0.3
+35,5,Norris (McLaren),42.0901,205.32647,Cloudy,0.3
+36,1,Hamilton (Mercedes),41.4178,41.4178,Cloudy,0.3
+36,2,Hamilton (Mercedes),41.01868,82.43648,Cloudy,0.3
+36,3,Hamilton (Mercedes),41.34037,123.77685,Cloudy,0.3
+36,4,Hamilton (Mercedes),41.53515,165.31201,Cloudy,0.3
+36,5,Hamilton (Mercedes),42.12489,207.43689,Cloudy,0.3
+36,1,Verstappen (Red Bull),41.38184,41.38184,Cloudy,0.3
+36,2,Verstappen (Red Bull),41.43583,82.81768,Cloudy,0.3
+36,3,Verstappen (Red Bull),39.68611,122.50378,Cloudy,0.3
+36,4,Verstappen (Red Bull),40.42564,162.92942,Cloudy,0.3
+36,5,Verstappen (Red Bull),40.81489,203.74431,Cloudy,0.3
+36,1,Norris (McLaren),40.70809,40.70809,Cloudy,0.3
+36,2,Norris (McLaren),42.41001,83.1181,Cloudy,0.3
+36,3,Norris (McLaren),42.49578,125.61388,Cloudy,0.3
+36,4,Norris (McLaren),42.04095,167.65482,Cloudy,0.3
+36,5,Norris (McLaren),40.44043,208.09525,Cloudy,0.3
+37,1,Hamilton (Mercedes),41.04339,41.04339,Cloudy,0.3
+37,2,Hamilton (Mercedes),40.17223,81.21562,Cloudy,0.3
+37,3,Hamilton (Mercedes),42.00492,123.22054,Cloudy,0.3
+37,4,Hamilton (Mercedes),42.16923,165.38977,Cloudy,0.3
+37,5,Hamilton (Mercedes),41.84894,207.23871,Cloudy,0.3
+37,1,Verstappen (Red Bull),40.85821,40.85821,Cloudy,0.3
+37,2,Verstappen (Red Bull),39.93191,80.79012,Cloudy,0.3
+37,3,Verstappen (Red Bull),39.93894,120.72906,Cloudy,0.3
+37,4,Verstappen (Red Bull),42.04234,162.7714,Cloudy,0.3
+37,5,Verstappen (Red Bull),41.06705,203.83845,Cloudy,0.3
+37,1,Norris (McLaren),41.34468,41.34468,Cloudy,0.3
+37,2,Norris (McLaren),43.12199,84.46667,Cloudy,0.3
+37,3,Norris (McLaren),42.30745,126.77412,Cloudy,0.3
+37,4,Norris (McLaren),40.8657,167.63982,Cloudy,0.3
+37,5,Norris (McLaren),40.47665,208.11647,Cloudy,0.3
+38,1,Hamilton (Mercedes),40.64417,40.64417,Cloudy,0.3
+38,2,Hamilton (Mercedes),41.28142,81.92558,Cloudy,0.3
+38,3,Hamilton (Mercedes),42.48788,124.41347,Cloudy,0.3
+38,4,Hamilton (Mercedes),41.5363,165.94977,Cloudy,0.3
+38,5,Hamilton (Mercedes),41.8925,207.84226,Cloudy,0.3
+38,1,Verstappen (Red Bull),40.95551,40.95551,Cloudy,0.3
+38,2,Verstappen (Red Bull),41.17398,82.12949,Cloudy,0.3
+38,3,Verstappen (Red Bull),41.25354,123.38303,Cloudy,0.3
+38,4,Verstappen (Red Bull),41.84648,165.22951,Cloudy,0.3
+38,5,Verstappen (Red Bull),41.09405,206.32356,Cloudy,0.3
+38,1,Norris (McLaren),40.8546,40.8546,Cloudy,0.3
+38,2,Norris (McLaren),41.05526,81.90987,Cloudy,0.3
+38,3,Norris (McLaren),41.92149,123.83136,Cloudy,0.3
+38,4,Norris (McLaren),40.31212,164.14347,Cloudy,0.3
+38,5,Norris (McLaren),40.91127,205.05474,Cloudy,0.3
+39,1,Hamilton (Mercedes),42.5817,42.5817,Cloudy,0.3
+39,2,Hamilton (Mercedes),40.69411,83.2758,Cloudy,0.3
+39,3,Hamilton (Mercedes),41.46347,124.73927,Cloudy,0.3
+39,4,Hamilton (Mercedes),42.3389,167.07817,Cloudy,0.3
+39,5,Hamilton (Mercedes),40.60083,207.67901,Cloudy,0.3
+39,1,Verstappen (Red Bull),40.23502,40.23502,Cloudy,0.3
+39,2,Verstappen (Red Bull),40.57815,80.81317,Cloudy,0.3
+39,3,Verstappen (Red Bull),41.88862,122.70178,Cloudy,0.3
+39,4,Verstappen (Red Bull),41.98363,164.68542,Cloudy,0.3
+39,5,Verstappen (Red Bull),40.06315,204.74857,Cloudy,0.3
+39,1,Norris (McLaren),41.75744,41.75744,Cloudy,0.3
+39,2,Norris (McLaren),40.67737,82.43481,Cloudy,0.3
+39,3,Norris (McLaren),41.48409,123.9189,Cloudy,0.3
+39,4,Norris (McLaren),41.13178,165.05068,Cloudy,0.3
+39,5,Norris (McLaren),41.31358,206.36426,Cloudy,0.3
+40,1,Hamilton (Mercedes),41.53084,41.53084,Cloudy,0.3
+40,2,Hamilton (Mercedes),41.04424,82.57509,Cloudy,0.3
+40,3,Hamilton (Mercedes),40.81384,123.38892,Cloudy,0.3
+40,4,Hamilton (Mercedes),41.5755,164.96442,Cloudy,0.3
+40,5,Hamilton (Mercedes),41.49099,206.45541,Cloudy,0.3
+40,1,Verstappen (Red Bull),41.15799,41.15799,Cloudy,0.3
+40,2,Verstappen (Red Bull),40.69184,81.84984,Cloudy,0.3
+40,3,Verstappen (Red Bull),41.35252,123.20235,Cloudy,0.3
+40,4,Verstappen (Red Bull),41.11237,164.31472,Cloudy,0.3
+40,5,Verstappen (Red Bull),41.85493,206.16965,Cloudy,0.3
+40,1,Norris (McLaren),40.26069,40.26069,Cloudy,0.3
+40,2,Norris (McLaren),40.67099,80.93168,Cloudy,0.3
+40,3,Norris (McLaren),41.023,121.95468,Cloudy,0.3
+40,4,Norris (McLaren),42.64858,164.60326,Cloudy,0.3
+40,5,Norris (McLaren),41.31038,205.91364,Cloudy,0.3
+41,1,Hamilton (Mercedes),41.24897,41.24897,Cloudy,0.3
+41,2,Hamilton (Mercedes),41.51236,82.76133,Cloudy,0.3
+41,3,Hamilton (Mercedes),41.06139,123.82272,Cloudy,0.3
+41,4,Hamilton (Mercedes),40.98428,164.807,Cloudy,0.3
+41,5,Hamilton (Mercedes),41.10567,205.91267,Cloudy,0.3
+41,1,Verstappen (Red Bull),41.2826,41.2826,Cloudy,0.3
+41,2,Verstappen (Red Bull),41.75845,83.04104,Cloudy,0.3
+41,3,Verstappen (Red Bull),42.40938,125.45043,Cloudy,0.3
+41,4,Verstappen (Red Bull),41.25391,166.70434,Cloudy,0.3
+41,5,Verstappen (Red Bull),41.3911,208.09543,Cloudy,0.3
+41,1,Norris (McLaren),41.93449,41.93449,Cloudy,0.3
+41,2,Norris (McLaren),41.43991,83.3744,Cloudy,0.3
+41,3,Norris (McLaren),41.32768,124.70207,Cloudy,0.3
+41,4,Norris (McLaren),41.59625,166.29832,Cloudy,0.3
+41,5,Norris (McLaren),42.10184,208.40016,Cloudy,0.3
+42,1,Hamilton (Mercedes),41.77666,41.77666,Cloudy,0.3
+42,2,Hamilton (Mercedes),40.93754,82.7142,Cloudy,0.3
+42,3,Hamilton (Mercedes),42.97228,125.68647,Cloudy,0.3
+42,4,Hamilton (Mercedes),40.82456,166.51104,Cloudy,0.3
+42,5,Hamilton (Mercedes),41.20988,207.72092,Cloudy,0.3
+42,1,Verstappen (Red Bull),40.58189,40.58189,Cloudy,0.3
+42,2,Verstappen (Red Bull),41.06583,81.64772,Cloudy,0.3
+42,3,Verstappen (Red Bull),40.45079,122.09851,Cloudy,0.3
+42,4,Verstappen (Red Bull),41.20196,163.30048,Cloudy,0.3
+42,5,Verstappen (Red Bull),41.32519,204.62567,Cloudy,0.3
+42,1,Norris (McLaren),41.66121,41.66121,Cloudy,0.3
+42,2,Norris (McLaren),41.65615,83.31736,Cloudy,0.3
+42,3,Norris (McLaren),40.70376,124.02112,Cloudy,0.3
+42,4,Norris (McLaren),41.6043,165.62542,Cloudy,0.3
+42,5,Norris (McLaren),41.17611,206.80153,Cloudy,0.3
+43,1,Hamilton (Mercedes),41.01624,41.01624,Cloudy,0.3
+43,2,Hamilton (Mercedes),41.39039,82.40662,Cloudy,0.3
+43,3,Hamilton (Mercedes),41.99875,124.40537,Cloudy,0.3
+43,4,Hamilton (Mercedes),41.57537,165.98074,Cloudy,0.3
+43,5,Hamilton (Mercedes),40.76748,206.74822,Cloudy,0.3
+43,1,Verstappen (Red Bull),41.20084,41.20084,Cloudy,0.3
+43,2,Verstappen (Red Bull),41.2736,82.47444,Cloudy,0.3
+43,3,Verstappen (Red Bull),40.56022,123.03466,Cloudy,0.3
+43,4,Verstappen (Red Bull),41.89024,164.9249,Cloudy,0.3
+43,5,Verstappen (Red Bull),40.95537,205.88027,Cloudy,0.3
+43,1,Norris (McLaren),41.36391,41.36391,Cloudy,0.3
+43,2,Norris (McLaren),41.30967,82.67359,Cloudy,0.3
+43,3,Norris (McLaren),40.74495,123.41854,Cloudy,0.3
+43,4,Norris (McLaren),42.05283,165.47137,Cloudy,0.3
+43,5,Norris (McLaren),40.99888,206.47025,Cloudy,0.3
+44,1,Hamilton (Mercedes),41.42735,41.42735,Cloudy,0.3
+44,2,Hamilton (Mercedes),41.6266,83.05395,Cloudy,0.3
+44,3,Hamilton (Mercedes),42.30248,125.35644,Cloudy,0.3
+44,4,Hamilton (Mercedes),42.24029,167.59673,Cloudy,0.3
+44,5,Hamilton (Mercedes),41.81199,209.40872,Cloudy,0.3
+44,1,Verstappen (Red Bull),41.51231,41.51231,Cloudy,0.3
+44,2,Verstappen (Red Bull),41.23917,82.75148,Cloudy,0.3
+44,3,Verstappen (Red Bull),41.16166,123.91314,Cloudy,0.3
+44,4,Verstappen (Red Bull),40.97203,164.88517,Cloudy,0.3
+44,5,Verstappen (Red Bull),41.46083,206.346,Cloudy,0.3
+44,1,Norris (McLaren),42.88056,42.88056,Cloudy,0.3
+44,2,Norris (McLaren),41.4893,84.36987,Cloudy,0.3
+44,3,Norris (McLaren),41.72569,126.09556,Cloudy,0.3
+44,4,Norris (McLaren),41.7782,167.87376,Cloudy,0.3
+44,5,Norris (McLaren),41.38718,209.26094,Cloudy,0.3
+45,1,Hamilton (Mercedes),40.94339,40.94339,Cloudy,0.3
+45,2,Hamilton (Mercedes),41.12681,82.0702,Cloudy,0.3
+45,3,Hamilton (Mercedes),41.41993,123.49013,Cloudy,0.3
+45,4,Hamilton (Mercedes),41.29172,164.78185,Cloudy,0.3
+45,5,Hamilton (Mercedes),41.4403,206.22215,Cloudy,0.3
+45,1,Verstappen (Red Bull),40.57154,40.57154,Cloudy,0.3
+45,2,Verstappen (Red Bull),41.39597,81.96751,Cloudy,0.3
+45,3,Verstappen (Red Bull),40.53941,122.50692,Cloudy,0.3
+45,4,Verstappen (Red Bull),42.58512,165.09204,Cloudy,0.3
+45,5,Verstappen (Red Bull),40.58311,205.67515,Cloudy,0.3
+45,1,Norris (McLaren),41.66269,41.66269,Cloudy,0.3
+45,2,Norris (McLaren),41.03661,82.6993,Cloudy,0.3
+45,3,Norris (McLaren),40.86527,123.56457,Cloudy,0.3
+45,4,Norris (McLaren),42.66463,166.22921,Cloudy,0.3
+45,5,Norris (McLaren),40.91387,207.14307,Cloudy,0.3
+46,1,Hamilton (Mercedes),41.69648,41.69648,Cloudy,0.3
+46,2,Hamilton (Mercedes),42.06328,83.75977,Cloudy,0.3
+46,3,Hamilton (Mercedes),41.95816,125.71792,Cloudy,0.3
+46,4,Hamilton (Mercedes),41.86045,167.57838,Cloudy,0.3
+46,5,Hamilton (Mercedes),40.81257,208.39094,Cloudy,0.3
+46,1,Verstappen (Red Bull),40.19723,40.19723,Cloudy,0.3
+46,2,Verstappen (Red Bull),41.04497,81.24221,Cloudy,0.3
+46,3,Verstappen (Red Bull),41.48266,122.72487,Cloudy,0.3
+46,4,Verstappen (Red Bull),40.57879,163.30366,Cloudy,0.3
+46,5,Verstappen (Red Bull),41.46544,204.7691,Cloudy,0.3
+46,1,Norris (McLaren),41.77565,41.77565,Cloudy,0.3
+46,2,Norris (McLaren),40.56367,82.33932,Cloudy,0.3
+46,3,Norris (McLaren),41.18928,123.5286,Cloudy,0.3
+46,4,Norris (McLaren),41.12944,164.65804,Cloudy,0.3
+46,5,Norris (McLaren),41.57486,206.2329,Cloudy,0.3
+47,1,Hamilton (Mercedes),41.30984,41.30984,Cloudy,0.3
+47,2,Hamilton (Mercedes),41.43192,82.74176,Cloudy,0.3
+47,3,Hamilton (Mercedes),41.02079,123.76255,Cloudy,0.3
+47,4,Hamilton (Mercedes),41.30196,165.0645,Cloudy,0.3
+47,5,Hamilton (Mercedes),41.85643,206.92094,Cloudy,0.3
+47,1,Verstappen (Red Bull),41.45336,41.45336,Cloudy,0.3
+47,2,Verstappen (Red Bull),40.9906,82.44395,Cloudy,0.3
+47,3,Verstappen (Red Bull),40.84706,123.29102,Cloudy,0.3
+47,4,Verstappen (Red Bull),41.1903,164.48132,Cloudy,0.3
+47,5,Verstappen (Red Bull),41.18757,205.66889,Cloudy,0.3
+47,1,Norris (McLaren),40.36078,40.36078,Cloudy,0.3
+47,2,Norris (McLaren),40.66555,81.02633,Cloudy,0.3
+47,3,Norris (McLaren),40.95091,121.97724,Cloudy,0.3
+47,4,Norris (McLaren),41.74958,163.72682,Cloudy,0.3
+47,5,Norris (McLaren),40.06175,203.78857,Cloudy,0.3
+48,1,Hamilton (Mercedes),41.93041,41.93041,Cloudy,0.3
+48,2,Hamilton (Mercedes),41.28648,83.21689,Cloudy,0.3
+48,3,Hamilton (Mercedes),41.35739,124.57428,Cloudy,0.3
+48,4,Hamilton (Mercedes),42.10267,166.67695,Cloudy,0.3
+48,5,Hamilton (Mercedes),42.01391,208.69086,Cloudy,0.3
+48,1,Verstappen (Red Bull),42.00334,42.00334,Cloudy,0.3
+48,2,Verstappen (Red Bull),40.81428,82.81762,Cloudy,0.3
+48,3,Verstappen (Red Bull),41.08642,123.90404,Cloudy,0.3
+48,4,Verstappen (Red Bull),41.21453,165.11857,Cloudy,0.3
+48,5,Verstappen (Red Bull),40.48126,205.59983,Cloudy,0.3
+48,1,Norris (McLaren),41.96159,41.96159,Cloudy,0.3
+48,2,Norris (McLaren),41.22855,83.19015,Cloudy,0.3
+48,3,Norris (McLaren),39.9409,123.13104,Cloudy,0.3
+48,4,Norris (McLaren),40.84754,163.97858,Cloudy,0.3
+48,5,Norris (McLaren),41.17913,205.15771,Cloudy,0.3
+49,1,Hamilton (Mercedes),41.39123,41.39123,Cloudy,0.3
+49,2,Hamilton (Mercedes),41.29309,82.68431,Cloudy,0.3
+49,3,Hamilton (Mercedes),41.36028,124.0446,Cloudy,0.3
+49,4,Hamilton (Mercedes),41.94523,165.98982,Cloudy,0.3
+49,5,Hamilton (Mercedes),41.42607,207.41589,Cloudy,0.3
+49,1,Verstappen (Red Bull),41.14079,41.14079,Cloudy,0.3
+49,2,Verstappen (Red Bull),41.82562,82.96641,Cloudy,0.3
+49,3,Verstappen (Red Bull),40.97025,123.93667,Cloudy,0.3
+49,4,Verstappen (Red Bull),41.41358,165.35025,Cloudy,0.3
+49,5,Verstappen (Red Bull),41.386,206.73624,Cloudy,0.3
+49,1,Norris (McLaren),42.24055,42.24055,Cloudy,0.3
+49,2,Norris (McLaren),39.92528,82.16583,Cloudy,0.3
+49,3,Norris (McLaren),41.63393,123.79977,Cloudy,0.3
+49,4,Norris (McLaren),41.23107,165.03083,Cloudy,0.3
+49,5,Norris (McLaren),41.21171,206.24254,Cloudy,0.3
+50,1,Hamilton (Mercedes),41.97126,41.97126,Cloudy,0.3
+50,2,Hamilton (Mercedes),42.14511,84.11637,Cloudy,0.3
+50,3,Hamilton (Mercedes),41.74859,125.86496,Cloudy,0.3
+50,4,Hamilton (Mercedes),41.70079,167.56575,Cloudy,0.3
+50,5,Hamilton (Mercedes),41.12347,208.68922,Cloudy,0.3
+50,1,Verstappen (Red Bull),40.06121,40.06121,Cloudy,0.3
+50,2,Verstappen (Red Bull),40.89343,80.95464,Cloudy,0.3
+50,3,Verstappen (Red Bull),41.34387,122.29851,Cloudy,0.3
+50,4,Verstappen (Red Bull),41.68503,163.98353,Cloudy,0.3
+50,5,Verstappen (Red Bull),40.74451,204.72804,Cloudy,0.3
+50,1,Norris (McLaren),41.00176,41.00176,Cloudy,0.3
+50,2,Norris (McLaren),40.81246,81.81422,Cloudy,0.3
+50,3,Norris (McLaren),40.71637,122.53059,Cloudy,0.3
+50,4,Norris (McLaren),40.8451,163.37568,Cloudy,0.3
+50,5,Norris (McLaren),40.80746,204.18314,Cloudy,0.3
+51,1,Hamilton (Mercedes),41.57951,41.57951,Cloudy,0.3
+51,2,Hamilton (Mercedes),41.96946,83.54896,Cloudy,0.3
+51,3,Hamilton (Mercedes),41.73571,125.28468,Cloudy,0.3
+51,4,Hamilton (Mercedes),41.6523,166.93698,Cloudy,0.3
+51,5,Hamilton (Mercedes),41.68464,208.62162,Cloudy,0.3
+51,1,Verstappen (Red Bull),41.16032,41.16032,Cloudy,0.3
+51,2,Verstappen (Red Bull),40.94597,82.10629,Cloudy,0.3
+51,3,Verstappen (Red Bull),40.64385,122.75014,Cloudy,0.3
+51,4,Verstappen (Red Bull),41.00503,163.75517,Cloudy,0.3
+51,5,Verstappen (Red Bull),41.3917,205.14687,Cloudy,0.3
+51,1,Norris (McLaren),42.87794,42.87794,Cloudy,0.3
+51,2,Norris (McLaren),41.04838,83.92633,Cloudy,0.3
+51,3,Norris (McLaren),41.67805,125.60437,Cloudy,0.3
+51,4,Norris (McLaren),41.99229,167.59667,Cloudy,0.3
+51,5,Norris (McLaren),42.14884,209.74551,Cloudy,0.3
+52,1,Hamilton (Mercedes),42.16484,42.16484,Cloudy,0.3
+52,2,Hamilton (Mercedes),41.74174,83.90658,Cloudy,0.3
+52,3,Hamilton (Mercedes),40.73085,124.63743,Cloudy,0.3
+52,4,Hamilton (Mercedes),41.14042,165.77785,Cloudy,0.3
+52,5,Hamilton (Mercedes),42.02042,207.79827,Cloudy,0.3
+52,1,Verstappen (Red Bull),40.77649,40.77649,Cloudy,0.3
+52,2,Verstappen (Red Bull),41.4659,82.24239,Cloudy,0.3
+52,3,Verstappen (Red Bull),41.07696,123.31936,Cloudy,0.3
+52,4,Verstappen (Red Bull),40.63928,163.95864,Cloudy,0.3
+52,5,Verstappen (Red Bull),41.64502,205.60366,Cloudy,0.3
+52,1,Norris (McLaren),40.58746,40.58746,Cloudy,0.3
+52,2,Norris (McLaren),42.85462,83.44208,Cloudy,0.3
+52,3,Norris (McLaren),42.23518,125.67727,Cloudy,0.3
+52,4,Norris (McLaren),41.37863,167.05589,Cloudy,0.3
+52,5,Norris (McLaren),40.40894,207.46483,Cloudy,0.3
+53,1,Hamilton (Mercedes),42.14829,42.14829,Cloudy,0.3
+53,2,Hamilton (Mercedes),41.07964,83.22793,Cloudy,0.3
+53,3,Hamilton (Mercedes),41.79791,125.02584,Cloudy,0.3
+53,4,Hamilton (Mercedes),41.54671,166.57255,Cloudy,0.3
+53,5,Hamilton (Mercedes),41.93653,208.50908,Cloudy,0.3
+53,1,Verstappen (Red Bull),40.94331,40.94331,Cloudy,0.3
+53,2,Verstappen (Red Bull),40.96729,81.9106,Cloudy,0.3
+53,3,Verstappen (Red Bull),41.84575,123.75635,Cloudy,0.3
+53,4,Verstappen (Red Bull),40.80477,164.56111,Cloudy,0.3
+53,5,Verstappen (Red Bull),42.11312,206.67423,Cloudy,0.3
+53,1,Norris (McLaren),41.75107,41.75107,Cloudy,0.3
+53,2,Norris (McLaren),42.41564,84.16671,Cloudy,0.3
+53,3,Norris (McLaren),41.56352,125.73023,Cloudy,0.3
+53,4,Norris (McLaren),41.80314,167.53337,Cloudy,0.3
+53,5,Norris (McLaren),41.43923,208.9726,Cloudy,0.3
+54,1,Hamilton (Mercedes),41.70761,41.70761,Cloudy,0.3
+54,2,Hamilton (Mercedes),41.93089,83.63849,Cloudy,0.3
+54,3,Hamilton (Mercedes),40.89432,124.53282,Cloudy,0.3
+54,4,Hamilton (Mercedes),41.32398,165.85679,Cloudy,0.3
+54,5,Hamilton (Mercedes),42.53778,208.39458,Cloudy,0.3
+54,1,Verstappen (Red Bull),41.47069,41.47069,Cloudy,0.3
+54,2,Verstappen (Red Bull),40.7978,82.2685,Cloudy,0.3
+54,3,Verstappen (Red Bull),40.62971,122.8982,Cloudy,0.3
+54,4,Verstappen (Red Bull),40.8149,163.7131,Cloudy,0.3
+54,5,Verstappen (Red Bull),42.16021,205.87331,Cloudy,0.3
+54,1,Norris (McLaren),40.61983,40.61983,Cloudy,0.3
+54,2,Norris (McLaren),40.80924,81.42907,Cloudy,0.3
+54,3,Norris (McLaren),41.25686,122.68593,Cloudy,0.3
+54,4,Norris (McLaren),41.53701,164.22294,Cloudy,0.3
+54,5,Norris (McLaren),42.47313,206.69607,Cloudy,0.3
+55,1,Hamilton (Mercedes),40.8929,40.8929,Cloudy,0.3
+55,2,Hamilton (Mercedes),41.66836,82.56126,Cloudy,0.3
+55,3,Hamilton (Mercedes),41.03236,123.59362,Cloudy,0.3
+55,4,Hamilton (Mercedes),41.01158,164.6052,Cloudy,0.3
+55,5,Hamilton (Mercedes),41.40616,206.01136,Cloudy,0.3
+55,1,Verstappen (Red Bull),41.50614,41.50614,Cloudy,0.3
+55,2,Verstappen (Red Bull),41.865,83.37114,Cloudy,0.3
+55,3,Verstappen (Red Bull),40.33671,123.70785,Cloudy,0.3
+55,4,Verstappen (Red Bull),41.8234,165.53125,Cloudy,0.3
+55,5,Verstappen (Red Bull),40.4834,206.01465,Cloudy,0.3
+55,1,Norris (McLaren),40.90786,40.90786,Cloudy,0.3
+55,2,Norris (McLaren),41.79395,82.70181,Cloudy,0.3
+55,3,Norris (McLaren),41.36604,124.06785,Cloudy,0.3
+55,4,Norris (McLaren),41.70946,165.77731,Cloudy,0.3
+55,5,Norris (McLaren),41.88658,207.6639,Cloudy,0.3
+56,1,Hamilton (Mercedes),41.80621,41.80621,Cloudy,0.3
+56,2,Hamilton (Mercedes),41.4832,83.28941,Cloudy,0.3
+56,3,Hamilton (Mercedes),40.8974,124.18681,Cloudy,0.3
+56,4,Hamilton (Mercedes),41.82986,166.01667,Cloudy,0.3
+56,5,Hamilton (Mercedes),41.43526,207.45193,Cloudy,0.3
+56,1,Verstappen (Red Bull),39.89842,39.89842,Cloudy,0.3
+56,2,Verstappen (Red Bull),42.40726,82.30568,Cloudy,0.3
+56,3,Verstappen (Red Bull),40.99115,123.29683,Cloudy,0.3
+56,4,Verstappen (Red Bull),41.49374,164.79057,Cloudy,0.3
+56,5,Verstappen (Red Bull),40.49382,205.28439,Cloudy,0.3
+56,1,Norris (McLaren),40.55127,40.55127,Cloudy,0.3
+56,2,Norris (McLaren),41.53543,82.0867,Cloudy,0.3
+56,3,Norris (McLaren),41.76683,123.85353,Cloudy,0.3
+56,4,Norris (McLaren),42.09206,165.94559,Cloudy,0.3
+56,5,Norris (McLaren),41.67603,207.62162,Cloudy,0.3
+57,1,Hamilton (Mercedes),41.43034,41.43034,Cloudy,0.3
+57,2,Hamilton (Mercedes),41.04993,82.48027,Cloudy,0.3
+57,3,Hamilton (Mercedes),41.87386,124.35414,Cloudy,0.3
+57,4,Hamilton (Mercedes),41.7891,166.14323,Cloudy,0.3
+57,5,Hamilton (Mercedes),42.07001,208.21325,Cloudy,0.3
+57,1,Verstappen (Red Bull),41.17264,41.17264,Cloudy,0.3
+57,2,Verstappen (Red Bull),40.85609,82.02873,Cloudy,0.3
+57,3,Verstappen (Red Bull),40.48711,122.51583,Cloudy,0.3
+57,4,Verstappen (Red Bull),41.69894,164.21478,Cloudy,0.3
+57,5,Verstappen (Red Bull),41.57444,205.78922,Cloudy,0.3
+57,1,Norris (McLaren),41.74258,41.74258,Cloudy,0.3
+57,2,Norris (McLaren),40.93763,82.6802,Cloudy,0.3
+57,3,Norris (McLaren),41.71181,124.39202,Cloudy,0.3
+57,4,Norris (McLaren),41.1253,165.51731,Cloudy,0.3
+57,5,Norris (McLaren),41.77713,207.29444,Cloudy,0.3
+58,1,Hamilton (Mercedes),41.13618,41.13618,Cloudy,0.3
+58,2,Hamilton (Mercedes),41.46975,82.60593,Cloudy,0.3
+58,3,Hamilton (Mercedes),42.30483,124.91076,Cloudy,0.3
+58,4,Hamilton (Mercedes),42.70734,167.61811,Cloudy,0.3
+58,5,Hamilton (Mercedes),41.3804,208.9985,Cloudy,0.3
+58,1,Verstappen (Red Bull),41.15814,41.15814,Cloudy,0.3
+58,2,Verstappen (Red Bull),40.45667,81.61482,Cloudy,0.3
+58,3,Verstappen (Red Bull),41.37229,122.98711,Cloudy,0.3
+58,4,Verstappen (Red Bull),41.07691,164.06403,Cloudy,0.3
+58,5,Verstappen (Red Bull),41.54857,205.6126,Cloudy,0.3
+58,1,Norris (McLaren),41.31891,41.31891,Cloudy,0.3
+58,2,Norris (McLaren),41.06036,82.37927,Cloudy,0.3
+58,3,Norris (McLaren),42.88173,125.261,Cloudy,0.3
+58,4,Norris (McLaren),41.83127,167.09227,Cloudy,0.3
+58,5,Norris (McLaren),40.95486,208.04713,Cloudy,0.3
+59,1,Hamilton (Mercedes),41.48841,41.48841,Cloudy,0.3
+59,2,Hamilton (Mercedes),42.18885,83.67726,Cloudy,0.3
+59,3,Hamilton (Mercedes),42.45233,126.12959,Cloudy,0.3
+59,4,Hamilton (Mercedes),41.94104,168.07063,Cloudy,0.3
+59,5,Hamilton (Mercedes),42.38771,210.45833,Cloudy,0.3
+59,1,Verstappen (Red Bull),41.16089,41.16089,Cloudy,0.3
+59,2,Verstappen (Red Bull),41.00127,82.16215,Cloudy,0.3
+59,3,Verstappen (Red Bull),40.35651,122.51867,Cloudy,0.3
+59,4,Verstappen (Red Bull),41.45468,163.97335,Cloudy,0.3
+59,5,Verstappen (Red Bull),41.95972,205.93307,Cloudy,0.3
+59,1,Norris (McLaren),41.35177,41.35177,Cloudy,0.3
+59,2,Norris (McLaren),41.11965,82.47142,Cloudy,0.3
+59,3,Norris (McLaren),40.97258,123.444,Cloudy,0.3
+59,4,Norris (McLaren),41.02204,164.46604,Cloudy,0.3
+59,5,Norris (McLaren),40.41161,204.87765,Cloudy,0.3
+60,1,Hamilton (Mercedes),40.89071,40.89071,Cloudy,0.3
+60,2,Hamilton (Mercedes),41.82093,82.71164,Cloudy,0.3
+60,3,Hamilton (Mercedes),40.82823,123.53987,Cloudy,0.3
+60,4,Hamilton (Mercedes),41.04156,164.58143,Cloudy,0.3
+60,5,Hamilton (Mercedes),42.18053,206.76196,Cloudy,0.3
+60,1,Verstappen (Red Bull),41.47326,41.47326,Cloudy,0.3
+60,2,Verstappen (Red Bull),41.33036,82.80362,Cloudy,0.3
+60,3,Verstappen (Red Bull),40.38372,123.18734,Cloudy,0.3
+60,4,Verstappen (Red Bull),41.29798,164.48532,Cloudy,0.3
+60,5,Verstappen (Red Bull),41.18215,205.66747,Cloudy,0.3
+60,1,Norris (McLaren),42.14961,42.14961,Cloudy,0.3
+60,2,Norris (McLaren),41.44893,83.59855,Cloudy,0.3
+60,3,Norris (McLaren),41.57096,125.16951,Cloudy,0.3
+60,4,Norris (McLaren),41.42446,166.59396,Cloudy,0.3
+60,5,Norris (McLaren),41.24287,207.83683,Cloudy,0.3
+61,1,Hamilton (Mercedes),41.79671,41.79671,Cloudy,0.3
+61,2,Hamilton (Mercedes),41.18185,82.97856,Cloudy,0.3
+61,3,Hamilton (Mercedes),41.75564,124.7342,Cloudy,0.3
+61,4,Hamilton (Mercedes),41.41542,166.14962,Cloudy,0.3
+61,5,Hamilton (Mercedes),41.3981,207.54772,Cloudy,0.3
+61,1,Verstappen (Red Bull),41.00296,41.00296,Cloudy,0.3
+61,2,Verstappen (Red Bull),40.19559,81.19855,Cloudy,0.3
+61,3,Verstappen (Red Bull),40.38029,121.57884,Cloudy,0.3
+61,4,Verstappen (Red Bull),41.07829,162.65714,Cloudy,0.3
+61,5,Verstappen (Red Bull),40.40778,203.06491,Cloudy,0.3
+61,1,Norris (McLaren),42.04002,42.04002,Cloudy,0.3
+61,2,Norris (McLaren),41.50922,83.54923,Cloudy,0.3
+61,3,Norris (McLaren),41.74337,125.29261,Cloudy,0.3
+61,4,Norris (McLaren),42.43449,167.7271,Cloudy,0.3
+61,5,Norris (McLaren),41.19607,208.92317,Cloudy,0.3
+62,1,Hamilton (Mercedes),42.38582,42.38582,Cloudy,0.3
+62,2,Hamilton (Mercedes),41.93595,84.32177,Cloudy,0.3
+62,3,Hamilton (Mercedes),41.02208,125.34385,Cloudy,0.3
+62,4,Hamilton (Mercedes),41.03121,166.37506,Cloudy,0.3
+62,5,Hamilton (Mercedes),41.68486,208.05992,Cloudy,0.3
+62,1,Verstappen (Red Bull),41.82231,41.82231,Cloudy,0.3
+62,2,Verstappen (Red Bull),41.43875,83.26106,Cloudy,0.3
+62,3,Verstappen (Red Bull),42.27758,125.53864,Cloudy,0.3
+62,4,Verstappen (Red Bull),41.22426,166.7629,Cloudy,0.3
+62,5,Verstappen (Red Bull),40.6642,207.4271,Cloudy,0.3
+62,1,Norris (McLaren),40.35067,40.35067,Cloudy,0.3
+62,2,Norris (McLaren),41.43007,81.78074,Cloudy,0.3
+62,3,Norris (McLaren),41.30189,123.08263,Cloudy,0.3
+62,4,Norris (McLaren),41.36604,164.44867,Cloudy,0.3
+62,5,Norris (McLaren),39.66725,204.11592,Cloudy,0.3
+63,1,Hamilton (Mercedes),41.9685,41.9685,Cloudy,0.3
+63,2,Hamilton (Mercedes),42.31811,84.28661,Cloudy,0.3
+63,3,Hamilton (Mercedes),42.34566,126.63227,Cloudy,0.3
+63,4,Hamilton (Mercedes),40.92521,167.55748,Cloudy,0.3
+63,5,Hamilton (Mercedes),40.94222,208.4997,Cloudy,0.3
+63,1,Verstappen (Red Bull),41.60442,41.60442,Cloudy,0.3
+63,2,Verstappen (Red Bull),41.00921,82.61363,Cloudy,0.3
+63,3,Verstappen (Red Bull),41.13471,123.74834,Cloudy,0.3
+63,4,Verstappen (Red Bull),41.08968,164.83802,Cloudy,0.3
+63,5,Verstappen (Red Bull),41.43042,206.26844,Cloudy,0.3
+63,1,Norris (McLaren),40.96385,40.96385,Cloudy,0.3
+63,2,Norris (McLaren),41.18504,82.1489,Cloudy,0.3
+63,3,Norris (McLaren),40.98846,123.13736,Cloudy,0.3
+63,4,Norris (McLaren),41.81752,164.95488,Cloudy,0.3
+63,5,Norris (McLaren),41.22097,206.17585,Cloudy,0.3
+64,1,Hamilton (Mercedes),41.93609,41.93609,Cloudy,0.3
+64,2,Hamilton (Mercedes),41.70987,83.64596,Cloudy,0.3
+64,3,Hamilton (Mercedes),41.85474,125.5007,Cloudy,0.3
+64,4,Hamilton (Mercedes),41.96797,167.46867,Cloudy,0.3
+64,5,Hamilton (Mercedes),42.2241,209.69277,Cloudy,0.3
+64,1,Verstappen (Red Bull),40.92227,40.92227,Cloudy,0.3
+64,2,Verstappen (Red Bull),41.08102,82.0033,Cloudy,0.3
+64,3,Verstappen (Red Bull),40.21976,122.22306,Cloudy,0.3
+64,4,Verstappen (Red Bull),41.69061,163.91367,Cloudy,0.3
+64,5,Verstappen (Red Bull),41.46521,205.37888,Cloudy,0.3
+64,1,Norris (McLaren),40.90845,40.90845,Cloudy,0.3
+64,2,Norris (McLaren),41.2448,82.15325,Cloudy,0.3
+64,3,Norris (McLaren),42.21127,124.36452,Cloudy,0.3
+64,4,Norris (McLaren),41.4069,165.77142,Cloudy,0.3
+64,5,Norris (McLaren),40.99145,206.76287,Cloudy,0.3
+65,1,Hamilton (Mercedes),42.31747,42.31747,Cloudy,0.3
+65,2,Hamilton (Mercedes),42.09562,84.41309,Cloudy,0.3
+65,3,Hamilton (Mercedes),42.11135,126.52444,Cloudy,0.3
+65,4,Hamilton (Mercedes),42.01662,168.54106,Cloudy,0.3
+65,5,Hamilton (Mercedes),41.82383,210.36489,Cloudy,0.3
+65,1,Verstappen (Red Bull),41.025,41.025,Cloudy,0.3
+65,2,Verstappen (Red Bull),41.83914,82.86415,Cloudy,0.3
+65,3,Verstappen (Red Bull),40.84472,123.70887,Cloudy,0.3
+65,4,Verstappen (Red Bull),40.78587,164.49474,Cloudy,0.3
+65,5,Verstappen (Red Bull),41.37277,205.86751,Cloudy,0.3
+65,1,Norris (McLaren),41.39138,41.39138,Cloudy,0.3
+65,2,Norris (McLaren),40.90311,82.29449,Cloudy,0.3
+65,3,Norris (McLaren),41.94304,124.23754,Cloudy,0.3
+65,4,Norris (McLaren),40.43371,164.67124,Cloudy,0.3
+65,5,Norris (McLaren),40.34085,205.01209,Cloudy,0.3
+66,1,Hamilton (Mercedes),41.27611,41.27611,Cloudy,0.3
+66,2,Hamilton (Mercedes),42.25773,83.53384,Cloudy,0.3
+66,3,Hamilton (Mercedes),41.54727,125.08111,Cloudy,0.3
+66,4,Hamilton (Mercedes),40.13996,165.22108,Cloudy,0.3
+66,5,Hamilton (Mercedes),42.06716,207.28824,Cloudy,0.3
+66,1,Verstappen (Red Bull),41.46588,41.46588,Cloudy,0.3
+66,2,Verstappen (Red Bull),40.38299,81.84887,Cloudy,0.3
+66,3,Verstappen (Red Bull),41.82748,123.67635,Cloudy,0.3
+66,4,Verstappen (Red Bull),40.55829,164.23464,Cloudy,0.3
+66,5,Verstappen (Red Bull),41.1734,205.40805,Cloudy,0.3
+66,1,Norris (McLaren),40.1594,40.1594,Cloudy,0.3
+66,2,Norris (McLaren),41.71172,81.87112,Cloudy,0.3
+66,3,Norris (McLaren),41.69895,123.57008,Cloudy,0.3
+66,4,Norris (McLaren),41.0966,164.66668,Cloudy,0.3
+66,5,Norris (McLaren),41.42931,206.09599,Cloudy,0.3
+67,1,Hamilton (Mercedes),41.0305,41.0305,Cloudy,0.3
+67,2,Hamilton (Mercedes),42.08086,83.11135,Cloudy,0.3
+67,3,Hamilton (Mercedes),41.71412,124.82547,Cloudy,0.3
+67,4,Hamilton (Mercedes),42.43024,167.25571,Cloudy,0.3
+67,5,Hamilton (Mercedes),42.3348,209.59051,Cloudy,0.3
+67,1,Verstappen (Red Bull),40.18586,40.18586,Cloudy,0.3
+67,2,Verstappen (Red Bull),41.62109,81.80695,Cloudy,0.3
+67,3,Verstappen (Red Bull),41.37245,123.1794,Cloudy,0.3
+67,4,Verstappen (Red Bull),42.1849,165.3643,Cloudy,0.3
+67,5,Verstappen (Red Bull),40.71105,206.07535,Cloudy,0.3
+67,1,Norris (McLaren),41.28006,41.28006,Cloudy,0.3
+67,2,Norris (McLaren),42.56523,83.84529,Cloudy,0.3
+67,3,Norris (McLaren),41.45861,125.3039,Cloudy,0.3
+67,4,Norris (McLaren),40.03538,165.33928,Cloudy,0.3
+67,5,Norris (McLaren),41.47963,206.8189,Cloudy,0.3
+68,1,Hamilton (Mercedes),42.0236,42.0236,Cloudy,0.3
+68,2,Hamilton (Mercedes),40.80199,82.82559,Cloudy,0.3
+68,3,Hamilton (Mercedes),40.74227,123.56786,Cloudy,0.3
+68,4,Hamilton (Mercedes),42.00402,165.57188,Cloudy,0.3
+68,5,Hamilton (Mercedes),42.49161,208.06349,Cloudy,0.3
+68,1,Verstappen (Red Bull),41.18509,41.18509,Cloudy,0.3
+68,2,Verstappen (Red Bull),40.89542,82.08051,Cloudy,0.3
+68,3,Verstappen (Red Bull),40.94421,123.02472,Cloudy,0.3
+68,4,Verstappen (Red Bull),41.79573,164.82044,Cloudy,0.3
+68,5,Verstappen (Red Bull),40.12358,204.94402,Cloudy,0.3
+68,1,Norris (McLaren),39.94291,39.94291,Cloudy,0.3
+68,2,Norris (McLaren),41.01154,80.95445,Cloudy,0.3
+68,3,Norris (McLaren),42.05147,123.00592,Cloudy,0.3
+68,4,Norris (McLaren),40.81417,163.82009,Cloudy,0.3
+68,5,Norris (McLaren),41.46818,205.28827,Cloudy,0.3
+69,1,Hamilton (Mercedes),41.35363,41.35363,Cloudy,0.3
+69,2,Hamilton (Mercedes),41.64113,82.99475,Cloudy,0.3
+69,3,Hamilton (Mercedes),40.97692,123.97168,Cloudy,0.3
+69,4,Hamilton (Mercedes),42.12584,166.09751,Cloudy,0.3
+69,5,Hamilton (Mercedes),40.92363,207.02115,Cloudy,0.3
+69,1,Verstappen (Red Bull),41.65292,41.65292,Cloudy,0.3
+69,2,Verstappen (Red Bull),42.05181,83.70473,Cloudy,0.3
+69,3,Verstappen (Red Bull),40.32382,124.02854,Cloudy,0.3
+69,4,Verstappen (Red Bull),41.63289,165.66144,Cloudy,0.3
+69,5,Verstappen (Red Bull),40.28525,205.94669,Cloudy,0.3
+69,1,Norris (McLaren),40.52131,40.52131,Cloudy,0.3
+69,2,Norris (McLaren),40.66833,81.18964,Cloudy,0.3
+69,3,Norris (McLaren),40.49494,121.68458,Cloudy,0.3
+69,4,Norris (McLaren),41.49535,163.17993,Cloudy,0.3
+69,5,Norris (McLaren),42.23656,205.4165,Cloudy,0.3
+70,1,Hamilton (Mercedes),40.98919,40.98919,Cloudy,0.3
+70,2,Hamilton (Mercedes),41.00233,81.99151,Cloudy,0.3
+70,3,Hamilton (Mercedes),41.54101,123.53252,Cloudy,0.3
+70,4,Hamilton (Mercedes),42.54779,166.08031,Cloudy,0.3
+70,5,Hamilton (Mercedes),41.45026,207.53057,Cloudy,0.3
+70,1,Verstappen (Red Bull),41.87418,41.87418,Cloudy,0.3
+70,2,Verstappen (Red Bull),41.52815,83.40233,Cloudy,0.3
+70,3,Verstappen (Red Bull),40.89554,124.29787,Cloudy,0.3
+70,4,Verstappen (Red Bull),40.93437,165.23224,Cloudy,0.3
+70,5,Verstappen (Red Bull),40.24875,205.48099,Cloudy,0.3
+70,1,Norris (McLaren),42.21531,42.21531,Cloudy,0.3
+70,2,Norris (McLaren),41.06234,83.27765,Cloudy,0.3
+70,3,Norris (McLaren),41.90828,125.18593,Cloudy,0.3
+70,4,Norris (McLaren),42.18031,167.36625,Cloudy,0.3
+70,5,Norris (McLaren),41.49206,208.85831,Cloudy,0.3
+71,1,Hamilton (Mercedes),41.14333,41.14333,Cloudy,0.3
+71,2,Hamilton (Mercedes),40.76776,81.91108,Cloudy,0.3
+71,3,Hamilton (Mercedes),41.24096,123.15204,Cloudy,0.3
+71,4,Hamilton (Mercedes),42.37348,165.52552,Cloudy,0.3
+71,5,Hamilton (Mercedes),40.3574,205.88292,Cloudy,0.3
+71,1,Verstappen (Red Bull),41.43182,41.43182,Cloudy,0.3
+71,2,Verstappen (Red Bull),40.6122,82.04403,Cloudy,0.3
+71,3,Verstappen (Red Bull),41.12972,123.17375,Cloudy,0.3
+71,4,Verstappen (Red Bull),40.32236,163.4961,Cloudy,0.3
+71,5,Verstappen (Red Bull),40.71688,204.21298,Cloudy,0.3
+71,1,Norris (McLaren),41.23098,41.23098,Cloudy,0.3
+71,2,Norris (McLaren),39.91911,81.15008,Cloudy,0.3
+71,3,Norris (McLaren),41.67749,122.82757,Cloudy,0.3
+71,4,Norris (McLaren),40.54627,163.37385,Cloudy,0.3
+71,5,Norris (McLaren),42.21471,205.58855,Cloudy,0.3
+72,1,Hamilton (Mercedes),41.21116,41.21116,Cloudy,0.3
+72,2,Hamilton (Mercedes),42.06221,83.27337,Cloudy,0.3
+72,3,Hamilton (Mercedes),41.44792,124.72129,Cloudy,0.3
+72,4,Hamilton (Mercedes),41.82808,166.54937,Cloudy,0.3
+72,5,Hamilton (Mercedes),41.21985,207.76922,Cloudy,0.3
+72,1,Verstappen (Red Bull),41.56553,41.56553,Cloudy,0.3
+72,2,Verstappen (Red Bull),40.70529,82.27082,Cloudy,0.3
+72,3,Verstappen (Red Bull),41.34584,123.61666,Cloudy,0.3
+72,4,Verstappen (Red Bull),41.27117,164.88783,Cloudy,0.3
+72,5,Verstappen (Red Bull),40.46223,205.35006,Cloudy,0.3
+72,1,Norris (McLaren),40.16195,40.16195,Cloudy,0.3
+72,2,Norris (McLaren),41.37359,81.53554,Cloudy,0.3
+72,3,Norris (McLaren),41.37705,122.91259,Cloudy,0.3
+72,4,Norris (McLaren),41.4766,164.38919,Cloudy,0.3
+72,5,Norris (McLaren),42.65263,207.04182,Cloudy,0.3
+73,1,Hamilton (Mercedes),41.78558,41.78558,Cloudy,0.3
+73,2,Hamilton (Mercedes),41.43329,83.21888,Cloudy,0.3
+73,3,Hamilton (Mercedes),41.84974,125.06862,Cloudy,0.3
+73,4,Hamilton (Mercedes),40.64961,165.71823,Cloudy,0.3
+73,5,Hamilton (Mercedes),41.70088,207.41911,Cloudy,0.3
+73,1,Verstappen (Red Bull),40.4815,40.4815,Cloudy,0.3
+73,2,Verstappen (Red Bull),41.14689,81.62839,Cloudy,0.3
+73,3,Verstappen (Red Bull),41.88786,123.51625,Cloudy,0.3
+73,4,Verstappen (Red Bull),40.41698,163.93323,Cloudy,0.3
+73,5,Verstappen (Red Bull),41.55567,205.48891,Cloudy,0.3
+73,1,Norris (McLaren),41.31511,41.31511,Cloudy,0.3
+73,2,Norris (McLaren),41.09026,82.40536,Cloudy,0.3
+73,3,Norris (McLaren),42.12516,124.53052,Cloudy,0.3
+73,4,Norris (McLaren),41.84784,166.37836,Cloudy,0.3
+73,5,Norris (McLaren),42.30667,208.68503,Cloudy,0.3
+74,1,Hamilton (Mercedes),42.09829,42.09829,Cloudy,0.3
+74,2,Hamilton (Mercedes),43.09394,85.19223,Cloudy,0.3
+74,3,Hamilton (Mercedes),42.00338,127.19561,Cloudy,0.3
+74,4,Hamilton (Mercedes),41.70436,168.89997,Cloudy,0.3
+74,5,Hamilton (Mercedes),41.12557,210.02555,Cloudy,0.3
+74,1,Verstappen (Red Bull),40.16834,40.16834,Cloudy,0.3
+74,2,Verstappen (Red Bull),40.59485,80.76319,Cloudy,0.3
+74,3,Verstappen (Red Bull),41.46964,122.23282,Cloudy,0.3
+74,4,Verstappen (Red Bull),41.24889,163.48172,Cloudy,0.3
+74,5,Verstappen (Red Bull),41.16808,204.6498,Cloudy,0.3
+74,1,Norris (McLaren),42.63866,42.63866,Cloudy,0.3
+74,2,Norris (McLaren),41.20737,83.84603,Cloudy,0.3
+74,3,Norris (McLaren),41.77947,125.6255,Cloudy,0.3
+74,4,Norris (McLaren),40.87008,166.49558,Cloudy,0.3
+74,5,Norris (McLaren),42.88415,209.37973,Cloudy,0.3
+75,1,Hamilton (Mercedes),41.28519,41.28519,Cloudy,0.3
+75,2,Hamilton (Mercedes),41.80756,83.09275,Cloudy,0.3
+75,3,Hamilton (Mercedes),42.12024,125.21299,Cloudy,0.3
+75,4,Hamilton (Mercedes),41.6387,166.85169,Cloudy,0.3
+75,5,Hamilton (Mercedes),41.20759,208.05928,Cloudy,0.3
+75,1,Verstappen (Red Bull),40.94569,40.94569,Cloudy,0.3
+75,2,Verstappen (Red Bull),41.87289,82.81858,Cloudy,0.3
+75,3,Verstappen (Red Bull),41.28511,124.10369,Cloudy,0.3
+75,4,Verstappen (Red Bull),40.32989,164.43358,Cloudy,0.3
+75,5,Verstappen (Red Bull),41.37295,205.80653,Cloudy,0.3
+75,1,Norris (McLaren),41.60689,41.60689,Cloudy,0.3
+75,2,Norris (McLaren),41.51221,83.11909,Cloudy,0.3
+75,3,Norris (McLaren),42.06248,125.18157,Cloudy,0.3
+75,4,Norris (McLaren),40.26167,165.44324,Cloudy,0.3
+75,5,Norris (McLaren),41.15643,206.59968,Cloudy,0.3
+76,1,Hamilton (Mercedes),41.75591,41.75591,Cloudy,0.3
+76,2,Hamilton (Mercedes),42.07131,83.82723,Cloudy,0.3
+76,3,Hamilton (Mercedes),41.50846,125.33568,Cloudy,0.3
+76,4,Hamilton (Mercedes),41.20853,166.54421,Cloudy,0.3
+76,5,Hamilton (Mercedes),41.88323,208.42744,Cloudy,0.3
+76,1,Verstappen (Red Bull),40.36893,40.36893,Cloudy,0.3
+76,2,Verstappen (Red Bull),41.61835,81.98728,Cloudy,0.3
+76,3,Verstappen (Red Bull),41.99659,123.98387,Cloudy,0.3
+76,4,Verstappen (Red Bull),39.99741,163.98128,Cloudy,0.3
+76,5,Verstappen (Red Bull),41.43927,205.42055,Cloudy,0.3
+76,1,Norris (McLaren),41.10902,41.10902,Cloudy,0.3
+76,2,Norris (McLaren),41.27983,82.38885,Cloudy,0.3
+76,3,Norris (McLaren),42.15248,124.54133,Cloudy,0.3
+76,4,Norris (McLaren),41.36116,165.90249,Cloudy,0.3
+76,5,Norris (McLaren),41.22839,207.13088,Cloudy,0.3
+77,1,Hamilton (Mercedes),41.92318,41.92318,Cloudy,0.3
+77,2,Hamilton (Mercedes),41.78607,83.70924,Cloudy,0.3
+77,3,Hamilton (Mercedes),41.60494,125.31419,Cloudy,0.3
+77,4,Hamilton (Mercedes),41.83155,167.14574,Cloudy,0.3
+77,5,Hamilton (Mercedes),41.70526,208.851,Cloudy,0.3
+77,1,Verstappen (Red Bull),41.32035,41.32035,Cloudy,0.3
+77,2,Verstappen (Red Bull),41.61086,82.93122,Cloudy,0.3
+77,3,Verstappen (Red Bull),41.99884,124.93006,Cloudy,0.3
+77,4,Verstappen (Red Bull),42.24356,167.17361,Cloudy,0.3
+77,5,Verstappen (Red Bull),41.52834,208.70196,Cloudy,0.3
+77,1,Norris (McLaren),40.94021,40.94021,Cloudy,0.3
+77,2,Norris (McLaren),42.21892,83.15913,Cloudy,0.3
+77,3,Norris (McLaren),42.6814,125.84053,Cloudy,0.3
+77,4,Norris (McLaren),41.81712,167.65765,Cloudy,0.3
+77,5,Norris (McLaren),40.97185,208.62951,Cloudy,0.3
+78,1,Hamilton (Mercedes),41.21785,41.21785,Cloudy,0.3
+78,2,Hamilton (Mercedes),42.2554,83.47325,Cloudy,0.3
+78,3,Hamilton (Mercedes),41.46356,124.93681,Cloudy,0.3
+78,4,Hamilton (Mercedes),40.71133,165.64814,Cloudy,0.3
+78,5,Hamilton (Mercedes),42.10969,207.75783,Cloudy,0.3
+78,1,Verstappen (Red Bull),40.83173,40.83173,Cloudy,0.3
+78,2,Verstappen (Red Bull),41.52541,82.35714,Cloudy,0.3
+78,3,Verstappen (Red Bull),41.62094,123.97808,Cloudy,0.3
+78,4,Verstappen (Red Bull),40.69848,164.67657,Cloudy,0.3
+78,5,Verstappen (Red Bull),41.45513,206.1317,Cloudy,0.3
+78,1,Norris (McLaren),41.17728,41.17728,Cloudy,0.3
+78,2,Norris (McLaren),40.4474,81.62468,Cloudy,0.3
+78,3,Norris (McLaren),41.84509,123.46977,Cloudy,0.3
+78,4,Norris (McLaren),41.37476,164.84453,Cloudy,0.3
+78,5,Norris (McLaren),42.52757,207.37209,Cloudy,0.3
+79,1,Hamilton (Mercedes),40.61521,40.61521,Cloudy,0.3
+79,2,Hamilton (Mercedes),41.62473,82.23994,Cloudy,0.3
+79,3,Hamilton (Mercedes),41.91463,124.15457,Cloudy,0.3
+79,4,Hamilton (Mercedes),40.73992,164.89449,Cloudy,0.3
+79,5,Hamilton (Mercedes),41.73014,206.62464,Cloudy,0.3
+79,1,Verstappen (Red Bull),41.03211,41.03211,Cloudy,0.3
+79,2,Verstappen (Red Bull),42.1461,83.17821,Cloudy,0.3
+79,3,Verstappen (Red Bull),42.25182,125.43003,Cloudy,0.3
+79,4,Verstappen (Red Bull),41.32963,166.75967,Cloudy,0.3
+79,5,Verstappen (Red Bull),40.64759,207.40726,Cloudy,0.3
+79,1,Norris (McLaren),41.77349,41.77349,Cloudy,0.3
+79,2,Norris (McLaren),41.66737,83.44086,Cloudy,0.3
+79,3,Norris (McLaren),41.17123,124.61209,Cloudy,0.3
+79,4,Norris (McLaren),41.05188,165.66397,Cloudy,0.3
+79,5,Norris (McLaren),39.40854,205.07251,Cloudy,0.3
+80,1,Hamilton (Mercedes),41.87251,41.87251,Cloudy,0.3
+80,2,Hamilton (Mercedes),41.41389,83.2864,Cloudy,0.3
+80,3,Hamilton (Mercedes),41.9476,125.234,Cloudy,0.3
+80,4,Hamilton (Mercedes),40.97022,166.20422,Cloudy,0.3
+80,5,Hamilton (Mercedes),42.13263,208.33685,Cloudy,0.3
+80,1,Verstappen (Red Bull),40.75769,40.75769,Cloudy,0.3
+80,2,Verstappen (Red Bull),41.35677,82.11446,Cloudy,0.3
+80,3,Verstappen (Red Bull),41.33298,123.44743,Cloudy,0.3
+80,4,Verstappen (Red Bull),41.80881,165.25624,Cloudy,0.3
+80,5,Verstappen (Red Bull),41.49803,206.75427,Cloudy,0.3
+80,1,Norris (McLaren),41.03019,41.03019,Cloudy,0.3
+80,2,Norris (McLaren),41.53275,82.56294,Cloudy,0.3
+80,3,Norris (McLaren),42.60757,125.17051,Cloudy,0.3
+80,4,Norris (McLaren),41.36456,166.53506,Cloudy,0.3
+80,5,Norris (McLaren),41.35059,207.88565,Cloudy,0.3
+81,1,Hamilton (Mercedes),41.06981,41.06981,Cloudy,0.3
+81,2,Hamilton (Mercedes),41.92362,82.99343,Cloudy,0.3
+81,3,Hamilton (Mercedes),41.48127,124.47471,Cloudy,0.3
+81,4,Hamilton (Mercedes),41.3466,165.82131,Cloudy,0.3
+81,5,Hamilton (Mercedes),41.5203,207.34161,Cloudy,0.3
+81,1,Verstappen (Red Bull),41.35217,41.35217,Cloudy,0.3
+81,2,Verstappen (Red Bull),40.94915,82.30132,Cloudy,0.3
+81,3,Verstappen (Red Bull),42.07108,124.3724,Cloudy,0.3
+81,4,Verstappen (Red Bull),40.90488,165.27728,Cloudy,0.3
+81,5,Verstappen (Red Bull),41.31304,206.59032,Cloudy,0.3
+81,1,Norris (McLaren),40.41646,40.41646,Cloudy,0.3
+81,2,Norris (McLaren),41.41994,81.83639,Cloudy,0.3
+81,3,Norris (McLaren),42.60433,124.44072,Cloudy,0.3
+81,4,Norris (McLaren),41.39326,165.83398,Cloudy,0.3
+81,5,Norris (McLaren),40.27794,206.11192,Cloudy,0.3
+82,1,Hamilton (Mercedes),41.16705,41.16705,Cloudy,0.3
+82,2,Hamilton (Mercedes),41.34216,82.50921,Cloudy,0.3
+82,3,Hamilton (Mercedes),40.76202,123.27123,Cloudy,0.3
+82,4,Hamilton (Mercedes),41.58708,164.85831,Cloudy,0.3
+82,5,Hamilton (Mercedes),42.56561,207.42392,Cloudy,0.3
+82,1,Verstappen (Red Bull),40.54489,40.54489,Cloudy,0.3
+82,2,Verstappen (Red Bull),41.82861,82.3735,Cloudy,0.3
+82,3,Verstappen (Red Bull),41.06241,123.43591,Cloudy,0.3
+82,4,Verstappen (Red Bull),40.88638,164.32229,Cloudy,0.3
+82,5,Verstappen (Red Bull),41.35081,205.67309,Cloudy,0.3
+82,1,Norris (McLaren),41.58744,41.58744,Cloudy,0.3
+82,2,Norris (McLaren),40.65604,82.24348,Cloudy,0.3
+82,3,Norris (McLaren),40.7904,123.03388,Cloudy,0.3
+82,4,Norris (McLaren),40.55478,163.58866,Cloudy,0.3
+82,5,Norris (McLaren),41.59311,205.18177,Cloudy,0.3
+83,1,Hamilton (Mercedes),41.05881,41.05881,Cloudy,0.3
+83,2,Hamilton (Mercedes),40.74251,81.80132,Cloudy,0.3
+83,3,Hamilton (Mercedes),41.44706,123.24839,Cloudy,0.3
+83,4,Hamilton (Mercedes),41.41597,164.66436,Cloudy,0.3
+83,5,Hamilton (Mercedes),41.62163,206.28599,Cloudy,0.3
+83,1,Verstappen (Red Bull),40.77357,40.77357,Cloudy,0.3
+83,2,Verstappen (Red Bull),40.57793,81.3515,Cloudy,0.3
+83,3,Verstappen (Red Bull),41.24936,122.60086,Cloudy,0.3
+83,4,Verstappen (Red Bull),40.5043,163.10516,Cloudy,0.3
+83,5,Verstappen (Red Bull),40.9213,204.02646,Cloudy,0.3
+83,1,Norris (McLaren),39.90652,39.90652,Cloudy,0.3
+83,2,Norris (McLaren),41.67827,81.58479,Cloudy,0.3
+83,3,Norris (McLaren),41.70428,123.28906,Cloudy,0.3
+83,4,Norris (McLaren),39.88061,163.16967,Cloudy,0.3
+83,5,Norris (McLaren),41.94478,205.11445,Cloudy,0.3
+84,1,Hamilton (Mercedes),41.52763,41.52763,Cloudy,0.3
+84,2,Hamilton (Mercedes),41.78064,83.30827,Cloudy,0.3
+84,3,Hamilton (Mercedes),41.66845,124.97672,Cloudy,0.3
+84,4,Hamilton (Mercedes),42.0693,167.04602,Cloudy,0.3
+84,5,Hamilton (Mercedes),41.33767,208.38368,Cloudy,0.3
+84,1,Verstappen (Red Bull),41.18393,41.18393,Cloudy,0.3
+84,2,Verstappen (Red Bull),41.74938,82.93331,Cloudy,0.3
+84,3,Verstappen (Red Bull),40.90675,123.84007,Cloudy,0.3
+84,4,Verstappen (Red Bull),41.81237,165.65244,Cloudy,0.3
+84,5,Verstappen (Red Bull),41.00806,206.6605,Cloudy,0.3
+84,1,Norris (McLaren),41.02654,41.02654,Cloudy,0.3
+84,2,Norris (McLaren),40.57889,81.60543,Cloudy,0.3
+84,3,Norris (McLaren),40.40614,122.01157,Cloudy,0.3
+84,4,Norris (McLaren),42.61537,164.62694,Cloudy,0.3
+84,5,Norris (McLaren),39.8557,204.48264,Cloudy,0.3
+85,1,Hamilton (Mercedes),41.1388,41.1388,Cloudy,0.3
+85,2,Hamilton (Mercedes),40.89502,82.03382,Cloudy,0.3
+85,3,Hamilton (Mercedes),40.98158,123.0154,Cloudy,0.3
+85,4,Hamilton (Mercedes),42.65605,165.67145,Cloudy,0.3
+85,5,Hamilton (Mercedes),41.85265,207.5241,Cloudy,0.3
+85,1,Verstappen (Red Bull),41.12544,41.12544,Cloudy,0.3
+85,2,Verstappen (Red Bull),40.90124,82.02668,Cloudy,0.3
+85,3,Verstappen (Red Bull),39.94801,121.97469,Cloudy,0.3
+85,4,Verstappen (Red Bull),40.69808,162.67277,Cloudy,0.3
+85,5,Verstappen (Red Bull),41.35996,204.03273,Cloudy,0.3
+85,1,Norris (McLaren),42.11355,42.11355,Cloudy,0.3
+85,2,Norris (McLaren),41.40556,83.51911,Cloudy,0.3
+85,3,Norris (McLaren),41.91491,125.43401,Cloudy,0.3
+85,4,Norris (McLaren),41.48431,166.91832,Cloudy,0.3
+85,5,Norris (McLaren),42.19104,209.10936,Cloudy,0.3
+86,1,Hamilton (Mercedes),41.54465,41.54465,Cloudy,0.3
+86,2,Hamilton (Mercedes),41.03192,82.57657,Cloudy,0.3
+86,3,Hamilton (Mercedes),41.98909,124.56566,Cloudy,0.3
+86,4,Hamilton (Mercedes),40.84382,165.40948,Cloudy,0.3
+86,5,Hamilton (Mercedes),41.50415,206.91364,Cloudy,0.3
+86,1,Verstappen (Red Bull),41.30249,41.30249,Cloudy,0.3
+86,2,Verstappen (Red Bull),40.985,82.28749,Cloudy,0.3
+86,3,Verstappen (Red Bull),40.70046,122.98795,Cloudy,0.3
+86,4,Verstappen (Red Bull),41.4231,164.41105,Cloudy,0.3
+86,5,Verstappen (Red Bull),41.05174,205.46279,Cloudy,0.3
+86,1,Norris (McLaren),40.54075,40.54075,Cloudy,0.3
+86,2,Norris (McLaren),41.09939,81.64013,Cloudy,0.3
+86,3,Norris (McLaren),40.16945,121.80958,Cloudy,0.3
+86,4,Norris (McLaren),40.32556,162.13515,Cloudy,0.3
+86,5,Norris (McLaren),42.37286,204.50801,Cloudy,0.3
+87,1,Hamilton (Mercedes),41.54155,41.54155,Cloudy,0.3
+87,2,Hamilton (Mercedes),41.67072,83.21226,Cloudy,0.3
+87,3,Hamilton (Mercedes),41.86401,125.07628,Cloudy,0.3
+87,4,Hamilton (Mercedes),40.96698,166.04326,Cloudy,0.3
+87,5,Hamilton (Mercedes),41.57587,207.61913,Cloudy,0.3
+87,1,Verstappen (Red Bull),42.39011,42.39011,Cloudy,0.3
+87,2,Verstappen (Red Bull),41.45957,83.84968,Cloudy,0.3
+87,3,Verstappen (Red Bull),40.53346,124.38313,Cloudy,0.3
+87,4,Verstappen (Red Bull),42.13216,166.5153,Cloudy,0.3
+87,5,Verstappen (Red Bull),40.49562,207.01091,Cloudy,0.3
+87,1,Norris (McLaren),41.37367,41.37367,Cloudy,0.3
+87,2,Norris (McLaren),41.57029,82.94396,Cloudy,0.3
+87,3,Norris (McLaren),40.58616,123.53012,Cloudy,0.3
+87,4,Norris (McLaren),41.96347,165.49359,Cloudy,0.3
+87,5,Norris (McLaren),41.17709,206.67068,Cloudy,0.3
+88,1,Hamilton (Mercedes),42.48885,42.48885,Cloudy,0.3
+88,2,Hamilton (Mercedes),42.36315,84.852,Cloudy,0.3
+88,3,Hamilton (Mercedes),41.39436,126.24635,Cloudy,0.3
+88,4,Hamilton (Mercedes),40.99568,167.24204,Cloudy,0.3
+88,5,Hamilton (Mercedes),42.07385,209.31588,Cloudy,0.3
+88,1,Verstappen (Red Bull),41.2507,41.2507,Cloudy,0.3
+88,2,Verstappen (Red Bull),41.36437,82.61506,Cloudy,0.3
+88,3,Verstappen (Red Bull),41.66729,124.28235,Cloudy,0.3
+88,4,Verstappen (Red Bull),41.01864,165.30099,Cloudy,0.3
+88,5,Verstappen (Red Bull),41.26248,206.56347,Cloudy,0.3
+88,1,Norris (McLaren),40.95009,40.95009,Cloudy,0.3
+88,2,Norris (McLaren),41.67924,82.62933,Cloudy,0.3
+88,3,Norris (McLaren),41.76501,124.39434,Cloudy,0.3
+88,4,Norris (McLaren),41.8217,166.21604,Cloudy,0.3
+88,5,Norris (McLaren),40.96336,207.17939,Cloudy,0.3
+89,1,Hamilton (Mercedes),40.89155,40.89155,Cloudy,0.3
+89,2,Hamilton (Mercedes),40.39439,81.28594,Cloudy,0.3
+89,3,Hamilton (Mercedes),41.33108,122.61702,Cloudy,0.3
+89,4,Hamilton (Mercedes),40.62258,163.2396,Cloudy,0.3
+89,5,Hamilton (Mercedes),41.46899,204.70859,Cloudy,0.3
+89,1,Verstappen (Red Bull),41.15561,41.15561,Cloudy,0.3
+89,2,Verstappen (Red Bull),42.04025,83.19587,Cloudy,0.3
+89,3,Verstappen (Red Bull),41.21344,124.40931,Cloudy,0.3
+89,4,Verstappen (Red Bull),40.80805,165.21736,Cloudy,0.3
+89,5,Verstappen (Red Bull),42.07712,207.29448,Cloudy,0.3
+89,1,Norris (McLaren),39.78682,39.78682,Cloudy,0.3
+89,2,Norris (McLaren),41.30619,81.093,Cloudy,0.3
+89,3,Norris (McLaren),42.16884,123.26184,Cloudy,0.3
+89,4,Norris (McLaren),40.76367,164.02551,Cloudy,0.3
+89,5,Norris (McLaren),40.9852,205.01071,Cloudy,0.3
+90,1,Hamilton (Mercedes),42.20464,42.20464,Cloudy,0.3
+90,2,Hamilton (Mercedes),42.34503,84.54967,Cloudy,0.3
+90,3,Hamilton (Mercedes),41.37972,125.92938,Cloudy,0.3
+90,4,Hamilton (Mercedes),42.28848,168.21786,Cloudy,0.3
+90,5,Hamilton (Mercedes),41.93092,210.14878,Cloudy,0.3
+90,1,Verstappen (Red Bull),42.36394,42.36394,Cloudy,0.3
+90,2,Verstappen (Red Bull),40.40692,82.77086,Cloudy,0.3
+90,3,Verstappen (Red Bull),40.2439,123.01475,Cloudy,0.3
+90,4,Verstappen (Red Bull),41.48512,164.49987,Cloudy,0.3
+90,5,Verstappen (Red Bull),41.25384,205.75371,Cloudy,0.3
+90,1,Norris (McLaren),40.70904,40.70904,Cloudy,0.3
+90,2,Norris (McLaren),40.89794,81.60697,Cloudy,0.3
+90,3,Norris (McLaren),41.2281,122.83507,Cloudy,0.3
+90,4,Norris (McLaren),41.81492,164.64999,Cloudy,0.3
+90,5,Norris (McLaren),42.26566,206.91565,Cloudy,0.3
+91,1,Hamilton (Mercedes),42.30774,42.30774,Cloudy,0.3
+91,2,Hamilton (Mercedes),40.55284,82.86058,Cloudy,0.3
+91,3,Hamilton (Mercedes),40.77454,123.63512,Cloudy,0.3
+91,4,Hamilton (Mercedes),41.13954,164.77465,Cloudy,0.3
+91,5,Hamilton (Mercedes),41.70043,206.47508,Cloudy,0.3
+91,1,Verstappen (Red Bull),40.6967,40.6967,Cloudy,0.3
+91,2,Verstappen (Red Bull),41.88595,82.58265,Cloudy,0.3
+91,3,Verstappen (Red Bull),40.48048,123.06314,Cloudy,0.3
+91,4,Verstappen (Red Bull),41.1858,164.24894,Cloudy,0.3
+91,5,Verstappen (Red Bull),41.76485,206.01379,Cloudy,0.3
+91,1,Norris (McLaren),41.63031,41.63031,Cloudy,0.3
+91,2,Norris (McLaren),40.82523,82.45554,Cloudy,0.3
+91,3,Norris (McLaren),42.19604,124.65157,Cloudy,0.3
+91,4,Norris (McLaren),42.28273,166.9343,Cloudy,0.3
+91,5,Norris (McLaren),40.69634,207.63064,Cloudy,0.3
+92,1,Hamilton (Mercedes),41.70377,41.70377,Cloudy,0.3
+92,2,Hamilton (Mercedes),40.2296,81.93337,Cloudy,0.3
+92,3,Hamilton (Mercedes),40.98609,122.91945,Cloudy,0.3
+92,4,Hamilton (Mercedes),43.08931,166.00877,Cloudy,0.3
+92,5,Hamilton (Mercedes),42.03728,208.04604,Cloudy,0.3
+92,1,Verstappen (Red Bull),41.26147,41.26147,Cloudy,0.3
+92,2,Verstappen (Red Bull),41.31226,82.57372,Cloudy,0.3
+92,3,Verstappen (Red Bull),41.71841,124.29214,Cloudy,0.3
+92,4,Verstappen (Red Bull),41.3164,165.60854,Cloudy,0.3
+92,5,Verstappen (Red Bull),40.86354,206.47208,Cloudy,0.3
+92,1,Norris (McLaren),40.71735,40.71735,Cloudy,0.3
+92,2,Norris (McLaren),41.46837,82.18572,Cloudy,0.3
+92,3,Norris (McLaren),40.14003,122.32575,Cloudy,0.3
+92,4,Norris (McLaren),41.13907,163.46482,Cloudy,0.3
+92,5,Norris (McLaren),40.41067,203.8755,Cloudy,0.3
+93,1,Hamilton (Mercedes),41.76834,41.76834,Cloudy,0.3
+93,2,Hamilton (Mercedes),40.87621,82.64455,Cloudy,0.3
+93,3,Hamilton (Mercedes),41.46567,124.11021,Cloudy,0.3
+93,4,Hamilton (Mercedes),41.63418,165.74439,Cloudy,0.3
+93,5,Hamilton (Mercedes),42.68466,208.42905,Cloudy,0.3
+93,1,Verstappen (Red Bull),41.04213,41.04213,Cloudy,0.3
+93,2,Verstappen (Red Bull),41.45961,82.50174,Cloudy,0.3
+93,3,Verstappen (Red Bull),40.16546,122.6672,Cloudy,0.3
+93,4,Verstappen (Red Bull),41.68218,164.34938,Cloudy,0.3
+93,5,Verstappen (Red Bull),41.23624,205.58562,Cloudy,0.3
+93,1,Norris (McLaren),41.21011,41.21011,Cloudy,0.3
+93,2,Norris (McLaren),39.64192,80.85203,Cloudy,0.3
+93,3,Norris (McLaren),41.31261,122.16464,Cloudy,0.3
+93,4,Norris (McLaren),41.8963,164.06094,Cloudy,0.3
+93,5,Norris (McLaren),41.98929,206.05023,Cloudy,0.3
+94,1,Hamilton (Mercedes),41.59267,41.59267,Cloudy,0.3
+94,2,Hamilton (Mercedes),41.66202,83.25469,Cloudy,0.3
+94,3,Hamilton (Mercedes),41.17496,124.42965,Cloudy,0.3
+94,4,Hamilton (Mercedes),41.76252,166.19217,Cloudy,0.3
+94,5,Hamilton (Mercedes),41.34095,207.53312,Cloudy,0.3
+94,1,Verstappen (Red Bull),40.83151,40.83151,Cloudy,0.3
+94,2,Verstappen (Red Bull),41.44311,82.27462,Cloudy,0.3
+94,3,Verstappen (Red Bull),41.41066,123.68528,Cloudy,0.3
+94,4,Verstappen (Red Bull),41.41141,165.09669,Cloudy,0.3
+94,5,Verstappen (Red Bull),40.97313,206.06982,Cloudy,0.3
+94,1,Norris (McLaren),42.56471,42.56471,Cloudy,0.3
+94,2,Norris (McLaren),40.40511,82.96982,Cloudy,0.3
+94,3,Norris (McLaren),41.79514,124.76496,Cloudy,0.3
+94,4,Norris (McLaren),41.67531,166.44026,Cloudy,0.3
+94,5,Norris (McLaren),42.00118,208.44144,Cloudy,0.3
+95,1,Hamilton (Mercedes),41.89057,41.89057,Cloudy,0.3
+95,2,Hamilton (Mercedes),41.68382,83.57439,Cloudy,0.3
+95,3,Hamilton (Mercedes),42.13094,125.70533,Cloudy,0.3
+95,4,Hamilton (Mercedes),42.01807,167.7234,Cloudy,0.3
+95,5,Hamilton (Mercedes),41.62192,209.34532,Cloudy,0.3
+95,1,Verstappen (Red Bull),40.52343,40.52343,Cloudy,0.3
+95,2,Verstappen (Red Bull),41.63935,82.16278,Cloudy,0.3
+95,3,Verstappen (Red Bull),40.362,122.52478,Cloudy,0.3
+95,4,Verstappen (Red Bull),40.86198,163.38676,Cloudy,0.3
+95,5,Verstappen (Red Bull),39.90132,203.28809,Cloudy,0.3
+95,1,Norris (McLaren),41.51936,41.51936,Cloudy,0.3
+95,2,Norris (McLaren),41.95361,83.47297,Cloudy,0.3
+95,3,Norris (McLaren),42.78601,126.25898,Cloudy,0.3
+95,4,Norris (McLaren),41.68215,167.94113,Cloudy,0.3
+95,5,Norris (McLaren),41.78978,209.73091,Cloudy,0.3
+96,1,Hamilton (Mercedes),41.55833,41.55833,Cloudy,0.3
+96,2,Hamilton (Mercedes),42.78127,84.3396,Cloudy,0.3
+96,3,Hamilton (Mercedes),41.79794,126.13754,Cloudy,0.3
+96,4,Hamilton (Mercedes),41.90022,168.03775,Cloudy,0.3
+96,5,Hamilton (Mercedes),41.22015,209.2579,Cloudy,0.3
+96,1,Verstappen (Red Bull),41.6951,41.6951,Cloudy,0.3
+96,2,Verstappen (Red Bull),41.07288,82.76799,Cloudy,0.3
+96,3,Verstappen (Red Bull),42.50148,125.26946,Cloudy,0.3
+96,4,Verstappen (Red Bull),41.52185,166.79131,Cloudy,0.3
+96,5,Verstappen (Red Bull),41.61526,208.40657,Cloudy,0.3
+96,1,Norris (McLaren),41.2047,41.2047,Cloudy,0.3
+96,2,Norris (McLaren),39.90318,81.10788,Cloudy,0.3
+96,3,Norris (McLaren),41.77393,122.88182,Cloudy,0.3
+96,4,Norris (McLaren),40.1731,163.05492,Cloudy,0.3
+96,5,Norris (McLaren),41.06873,204.12364,Cloudy,0.3
+97,1,Hamilton (Mercedes),40.3704,40.3704,Cloudy,0.3
+97,2,Hamilton (Mercedes),42.04859,82.41899,Cloudy,0.3
+97,3,Hamilton (Mercedes),41.31935,123.73834,Cloudy,0.3
+97,4,Hamilton (Mercedes),40.59603,164.33437,Cloudy,0.3
+97,5,Hamilton (Mercedes),41.73112,206.06549,Cloudy,0.3
+97,1,Verstappen (Red Bull),41.15361,41.15361,Cloudy,0.3
+97,2,Verstappen (Red Bull),41.02065,82.17426,Cloudy,0.3
+97,3,Verstappen (Red Bull),40.53227,122.70652,Cloudy,0.3
+97,4,Verstappen (Red Bull),40.5798,163.28632,Cloudy,0.3
+97,5,Verstappen (Red Bull),41.17105,204.45737,Cloudy,0.3
+97,1,Norris (McLaren),41.42086,41.42086,Cloudy,0.3
+97,2,Norris (McLaren),41.44944,82.8703,Cloudy,0.3
+97,3,Norris (McLaren),40.67154,123.54184,Cloudy,0.3
+97,4,Norris (McLaren),40.13081,163.67265,Cloudy,0.3
+97,5,Norris (McLaren),40.73101,204.40366,Cloudy,0.3
+98,1,Hamilton (Mercedes),40.71865,40.71865,Cloudy,0.3
+98,2,Hamilton (Mercedes),41.62672,82.34537,Cloudy,0.3
+98,3,Hamilton (Mercedes),40.67469,123.02006,Cloudy,0.3
+98,4,Hamilton (Mercedes),41.84478,164.86484,Cloudy,0.3
+98,5,Hamilton (Mercedes),41.57499,206.43983,Cloudy,0.3
+98,1,Verstappen (Red Bull),41.10981,41.10981,Cloudy,0.3
+98,2,Verstappen (Red Bull),41.74818,82.85799,Cloudy,0.3
+98,3,Verstappen (Red Bull),42.3801,125.23809,Cloudy,0.3
+98,4,Verstappen (Red Bull),41.21152,166.44961,Cloudy,0.3
+98,5,Verstappen (Red Bull),41.14216,207.59177,Cloudy,0.3
+98,1,Norris (McLaren),41.50059,41.50059,Cloudy,0.3
+98,2,Norris (McLaren),42.31829,83.81887,Cloudy,0.3
+98,3,Norris (McLaren),40.82554,124.64441,Cloudy,0.3
+98,4,Norris (McLaren),41.72562,166.37003,Cloudy,0.3
+98,5,Norris (McLaren),41.97384,208.34387,Cloudy,0.3
+99,1,Hamilton (Mercedes),41.21413,41.21413,Cloudy,0.3
+99,2,Hamilton (Mercedes),41.38061,82.59474,Cloudy,0.3
+99,3,Hamilton (Mercedes),41.85982,124.45456,Cloudy,0.3
+99,4,Hamilton (Mercedes),41.57003,166.02459,Cloudy,0.3
+99,5,Hamilton (Mercedes),42.14271,208.1673,Cloudy,0.3
+99,1,Verstappen (Red Bull),41.89648,41.89648,Cloudy,0.3
+99,2,Verstappen (Red Bull),41.35579,83.25227,Cloudy,0.3
+99,3,Verstappen (Red Bull),42.13177,125.38404,Cloudy,0.3
+99,4,Verstappen (Red Bull),41.14664,166.53068,Cloudy,0.3
+99,5,Verstappen (Red Bull),41.12279,207.65347,Cloudy,0.3
+99,1,Norris (McLaren),42.60637,42.60637,Cloudy,0.3
+99,2,Norris (McLaren),41.43441,84.04079,Cloudy,0.3
+99,3,Norris (McLaren),41.34617,125.38696,Cloudy,0.3
+99,4,Norris (McLaren),41.70187,167.08882,Cloudy,0.3
+99,5,Norris (McLaren),42.00645,209.09527,Cloudy,0.3
+100,1,Hamilton (Mercedes),41.60477,41.60477,Cloudy,0.3
+100,2,Hamilton (Mercedes),42.64959,84.25435,Cloudy,0.3
+100,3,Hamilton (Mercedes),41.05518,125.30953,Cloudy,0.3
+100,4,Hamilton (Mercedes),41.85937,167.1689,Cloudy,0.3
+100,5,Hamilton (Mercedes),42.40552,209.57442,Cloudy,0.3
+100,1,Verstappen (Red Bull),41.60046,41.60046,Cloudy,0.3
+100,2,Verstappen (Red Bull),40.52163,82.1221,Cloudy,0.3
+100,3,Verstappen (Red Bull),40.41985,122.54195,Cloudy,0.3
+100,4,Verstappen (Red Bull),41.84787,164.38983,Cloudy,0.3
+100,5,Verstappen (Red Bull),40.95722,205.34704,Cloudy,0.3
+100,1,Norris (McLaren),42.81716,42.81716,Cloudy,0.3
+100,2,Norris (McLaren),41.84092,84.65808,Cloudy,0.3
+100,3,Norris (McLaren),42.53224,127.19032,Cloudy,0.3
+100,4,Norris (McLaren),41.78733,168.97764,Cloudy,0.3
+100,5,Norris (McLaren),41.05069,210.02833,Cloudy,0.3
+101,1,Hamilton (Mercedes),40.06178,40.06178,Cloudy,0.3
+101,2,Hamilton (Mercedes),41.26742,81.3292,Cloudy,0.3
+101,3,Hamilton (Mercedes),41.2163,122.5455,Cloudy,0.3
+101,4,Hamilton (Mercedes),42.2131,164.75859,Cloudy,0.3
+101,5,Hamilton (Mercedes),41.75056,206.50915,Cloudy,0.3
+101,1,Verstappen (Red Bull),40.95091,40.95091,Cloudy,0.3
+101,2,Verstappen (Red Bull),41.19623,82.14713,Cloudy,0.3
+101,3,Verstappen (Red Bull),42.51335,124.66048,Cloudy,0.3
+101,4,Verstappen (Red Bull),41.50734,166.16782,Cloudy,0.3
+101,5,Verstappen (Red Bull),40.52507,206.69289,Cloudy,0.3
+101,1,Norris (McLaren),42.25272,42.25272,Cloudy,0.3
+101,2,Norris (McLaren),41.66487,83.91759,Cloudy,0.3
+101,3,Norris (McLaren),40.97809,124.89568,Cloudy,0.3
+101,4,Norris (McLaren),41.80016,166.69584,Cloudy,0.3
+101,5,Norris (McLaren),41.60891,208.30475,Cloudy,0.3
+102,1,Hamilton (Mercedes),40.96619,40.96619,Cloudy,0.3
+102,2,Hamilton (Mercedes),42.02439,82.99058,Cloudy,0.3
+102,3,Hamilton (Mercedes),40.72445,123.71503,Cloudy,0.3
+102,4,Hamilton (Mercedes),42.00012,165.71515,Cloudy,0.3
+102,5,Hamilton (Mercedes),42.35723,208.07238,Cloudy,0.3
+102,1,Verstappen (Red Bull),40.90143,40.90143,Cloudy,0.3
+102,2,Verstappen (Red Bull),40.77018,81.67161,Cloudy,0.3
+102,3,Verstappen (Red Bull),41.11616,122.78777,Cloudy,0.3
+102,4,Verstappen (Red Bull),41.25687,164.04464,Cloudy,0.3
+102,5,Verstappen (Red Bull),41.36586,205.4105,Cloudy,0.3
+102,1,Norris (McLaren),42.04186,42.04186,Cloudy,0.3
+102,2,Norris (McLaren),40.33099,82.37285,Cloudy,0.3
+102,3,Norris (McLaren),42.51829,124.89115,Cloudy,0.3
+102,4,Norris (McLaren),40.68046,165.57161,Cloudy,0.3
+102,5,Norris (McLaren),41.60438,207.17599,Cloudy,0.3
+103,1,Hamilton (Mercedes),41.8531,41.8531,Cloudy,0.3
+103,2,Hamilton (Mercedes),41.80579,83.65889,Cloudy,0.3
+103,3,Hamilton (Mercedes),41.54176,125.20065,Cloudy,0.3
+103,4,Hamilton (Mercedes),40.72378,165.92443,Cloudy,0.3
+103,5,Hamilton (Mercedes),40.85438,206.77881,Cloudy,0.3
+103,1,Verstappen (Red Bull),40.14251,40.14251,Cloudy,0.3
+103,2,Verstappen (Red Bull),41.27075,81.41326,Cloudy,0.3
+103,3,Verstappen (Red Bull),41.87688,123.29015,Cloudy,0.3
+103,4,Verstappen (Red Bull),40.33579,163.62593,Cloudy,0.3
+103,5,Verstappen (Red Bull),40.64095,204.26688,Cloudy,0.3
+103,1,Norris (McLaren),42.3003,42.3003,Cloudy,0.3
+103,2,Norris (McLaren),41.1996,83.4999,Cloudy,0.3
+103,3,Norris (McLaren),41.69642,125.19631,Cloudy,0.3
+103,4,Norris (McLaren),39.93586,165.13218,Cloudy,0.3
+103,5,Norris (McLaren),41.84786,206.98004,Cloudy,0.3
+104,1,Hamilton (Mercedes),41.13643,41.13643,Cloudy,0.3
+104,2,Hamilton (Mercedes),41.84754,82.98396,Cloudy,0.3
+104,3,Hamilton (Mercedes),40.0628,123.04676,Cloudy,0.3
+104,4,Hamilton (Mercedes),40.82868,163.87545,Cloudy,0.3
+104,5,Hamilton (Mercedes),41.88869,205.76414,Cloudy,0.3
+104,1,Verstappen (Red Bull),40.94903,40.94903,Cloudy,0.3
+104,2,Verstappen (Red Bull),40.65436,81.60339,Cloudy,0.3
+104,3,Verstappen (Red Bull),40.72481,122.3282,Cloudy,0.3
+104,4,Verstappen (Red Bull),40.70104,163.02924,Cloudy,0.3
+104,5,Verstappen (Red Bull),40.74954,203.77878,Cloudy,0.3
+104,1,Norris (McLaren),41.42633,41.42633,Cloudy,0.3
+104,2,Norris (McLaren),40.86864,82.29497,Cloudy,0.3
+104,3,Norris (McLaren),41.85794,124.15291,Cloudy,0.3
+104,4,Norris (McLaren),39.86418,164.01709,Cloudy,0.3
+104,5,Norris (McLaren),41.38107,205.39817,Cloudy,0.3
+105,1,Hamilton (Mercedes),41.65835,41.65835,Cloudy,0.3
+105,2,Hamilton (Mercedes),41.35571,83.01406,Cloudy,0.3
+105,3,Hamilton (Mercedes),41.36022,124.37428,Cloudy,0.3
+105,4,Hamilton (Mercedes),42.3253,166.69958,Cloudy,0.3
+105,5,Hamilton (Mercedes),41.47551,208.17509,Cloudy,0.3
+105,1,Verstappen (Red Bull),41.76634,41.76634,Cloudy,0.3
+105,2,Verstappen (Red Bull),41.14964,82.91598,Cloudy,0.3
+105,3,Verstappen (Red Bull),40.61474,123.53073,Cloudy,0.3
+105,4,Verstappen (Red Bull),41.14995,164.68067,Cloudy,0.3
+105,5,Verstappen (Red Bull),41.46813,206.1488,Cloudy,0.3
+105,1,Norris (McLaren),40.76457,40.76457,Cloudy,0.3
+105,2,Norris (McLaren),40.5266,81.29117,Cloudy,0.3
+105,3,Norris (McLaren),40.66326,121.95443,Cloudy,0.3
+105,4,Norris (McLaren),41.18091,163.13534,Cloudy,0.3
+105,5,Norris (McLaren),40.58355,203.71889,Cloudy,0.3
+106,1,Hamilton (Mercedes),41.52241,41.52241,Cloudy,0.3
+106,2,Hamilton (Mercedes),40.70584,82.22825,Cloudy,0.3
+106,3,Hamilton (Mercedes),41.15603,123.38427,Cloudy,0.3
+106,4,Hamilton (Mercedes),42.08424,165.46852,Cloudy,0.3
+106,5,Hamilton (Mercedes),41.50487,206.97339,Cloudy,0.3
+106,1,Verstappen (Red Bull),41.37832,41.37832,Cloudy,0.3
+106,2,Verstappen (Red Bull),42.24928,83.6276,Cloudy,0.3
+106,3,Verstappen (Red Bull),40.56703,124.19463,Cloudy,0.3
+106,4,Verstappen (Red Bull),41.20631,165.40094,Cloudy,0.3
+106,5,Verstappen (Red Bull),40.35264,205.75357,Cloudy,0.3
+106,1,Norris (McLaren),41.32593,41.32593,Cloudy,0.3
+106,2,Norris (McLaren),41.32402,82.64994,Cloudy,0.3
+106,3,Norris (McLaren),41.64919,124.29913,Cloudy,0.3
+106,4,Norris (McLaren),42.24081,166.53994,Cloudy,0.3
+106,5,Norris (McLaren),41.01528,207.55522,Cloudy,0.3
+107,1,Hamilton (Mercedes),41.39611,41.39611,Cloudy,0.3
+107,2,Hamilton (Mercedes),41.72343,83.11954,Cloudy,0.3
+107,3,Hamilton (Mercedes),42.35873,125.47827,Cloudy,0.3
+107,4,Hamilton (Mercedes),41.57073,167.049,Cloudy,0.3
+107,5,Hamilton (Mercedes),41.24445,208.29345,Cloudy,0.3
+107,1,Verstappen (Red Bull),41.77395,41.77395,Cloudy,0.3
+107,2,Verstappen (Red Bull),41.30966,83.08361,Cloudy,0.3
+107,3,Verstappen (Red Bull),41.45689,124.5405,Cloudy,0.3
+107,4,Verstappen (Red Bull),40.99265,165.53314,Cloudy,0.3
+107,5,Verstappen (Red Bull),41.22813,206.76127,Cloudy,0.3
+107,1,Norris (McLaren),40.94654,40.94654,Cloudy,0.3
+107,2,Norris (McLaren),40.89177,81.83831,Cloudy,0.3
+107,3,Norris (McLaren),41.84234,123.68065,Cloudy,0.3
+107,4,Norris (McLaren),41.08639,164.76704,Cloudy,0.3
+107,5,Norris (McLaren),40.27918,205.04621,Cloudy,0.3
+108,1,Hamilton (Mercedes),40.97293,40.97293,Cloudy,0.3
+108,2,Hamilton (Mercedes),40.1881,81.16104,Cloudy,0.3
+108,3,Hamilton (Mercedes),41.01066,122.17169,Cloudy,0.3
+108,4,Hamilton (Mercedes),41.42616,163.59786,Cloudy,0.3
+108,5,Hamilton (Mercedes),41.86937,205.46723,Cloudy,0.3
+108,1,Verstappen (Red Bull),40.99648,40.99648,Cloudy,0.3
+108,2,Verstappen (Red Bull),40.87053,81.867,Cloudy,0.3
+108,3,Verstappen (Red Bull),40.50847,122.37547,Cloudy,0.3
+108,4,Verstappen (Red Bull),40.73692,163.11239,Cloudy,0.3
+108,5,Verstappen (Red Bull),40.89795,204.01033,Cloudy,0.3
+108,1,Norris (McLaren),41.66189,41.66189,Cloudy,0.3
+108,2,Norris (McLaren),41.79768,83.45957,Cloudy,0.3
+108,3,Norris (McLaren),40.65351,124.11308,Cloudy,0.3
+108,4,Norris (McLaren),41.49978,165.61286,Cloudy,0.3
+108,5,Norris (McLaren),40.913,206.52586,Cloudy,0.3
+109,1,Hamilton (Mercedes),40.82561,40.82561,Cloudy,0.3
+109,2,Hamilton (Mercedes),41.51921,82.34483,Cloudy,0.3
+109,3,Hamilton (Mercedes),41.49432,123.83914,Cloudy,0.3
+109,4,Hamilton (Mercedes),41.4885,165.32764,Cloudy,0.3
+109,5,Hamilton (Mercedes),42.18827,207.51591,Cloudy,0.3
+109,1,Verstappen (Red Bull),41.21374,41.21374,Cloudy,0.3
+109,2,Verstappen (Red Bull),40.65489,81.86863,Cloudy,0.3
+109,3,Verstappen (Red Bull),40.67277,122.54141,Cloudy,0.3
+109,4,Verstappen (Red Bull),41.08723,163.62864,Cloudy,0.3
+109,5,Verstappen (Red Bull),41.10061,204.72925,Cloudy,0.3
+109,1,Norris (McLaren),41.65465,41.65465,Cloudy,0.3
+109,2,Norris (McLaren),41.12397,82.77863,Cloudy,0.3
+109,3,Norris (McLaren),42.16333,124.94196,Cloudy,0.3
+109,4,Norris (McLaren),41.19455,166.1365,Cloudy,0.3
+109,5,Norris (McLaren),41.76115,207.89765,Cloudy,0.3
+110,1,Hamilton (Mercedes),41.20444,41.20444,Cloudy,0.3
+110,2,Hamilton (Mercedes),41.20437,82.4088,Cloudy,0.3
+110,3,Hamilton (Mercedes),42.16735,124.57616,Cloudy,0.3
+110,4,Hamilton (Mercedes),41.89492,166.47108,Cloudy,0.3
+110,5,Hamilton (Mercedes),41.4016,207.87268,Cloudy,0.3
+110,1,Verstappen (Red Bull),40.0543,40.0543,Cloudy,0.3
+110,2,Verstappen (Red Bull),41.01011,81.06441,Cloudy,0.3
+110,3,Verstappen (Red Bull),41.07847,122.14288,Cloudy,0.3
+110,4,Verstappen (Red Bull),41.03441,163.17729,Cloudy,0.3
+110,5,Verstappen (Red Bull),41.5324,204.70969,Cloudy,0.3
+110,1,Norris (McLaren),40.83326,40.83326,Cloudy,0.3
+110,2,Norris (McLaren),41.35738,82.19064,Cloudy,0.3
+110,3,Norris (McLaren),42.27419,124.46483,Cloudy,0.3
+110,4,Norris (McLaren),41.5331,165.99794,Cloudy,0.3
+110,5,Norris (McLaren),41.81473,207.81266,Cloudy,0.3
+111,1,Hamilton (Mercedes),41.42013,41.42013,Cloudy,0.3
+111,2,Hamilton (Mercedes),41.79321,83.21334,Cloudy,0.3
+111,3,Hamilton (Mercedes),41.18573,124.39906,Cloudy,0.3
+111,4,Hamilton (Mercedes),41.98346,166.38253,Cloudy,0.3
+111,5,Hamilton (Mercedes),42.63055,209.01308,Cloudy,0.3
+111,1,Verstappen (Red Bull),41.17519,41.17519,Cloudy,0.3
+111,2,Verstappen (Red Bull),41.42723,82.60242,Cloudy,0.3
+111,3,Verstappen (Red Bull),40.80948,123.4119,Cloudy,0.3
+111,4,Verstappen (Red Bull),41.11936,164.53125,Cloudy,0.3
+111,5,Verstappen (Red Bull),40.85898,205.39024,Cloudy,0.3
+111,1,Norris (McLaren),41.15676,41.15676,Cloudy,0.3
+111,2,Norris (McLaren),41.46098,82.61774,Cloudy,0.3
+111,3,Norris (McLaren),41.49777,124.1155,Cloudy,0.3
+111,4,Norris (McLaren),41.2743,165.3898,Cloudy,0.3
+111,5,Norris (McLaren),41.5577,206.94751,Cloudy,0.3
+112,1,Hamilton (Mercedes),41.60521,41.60521,Cloudy,0.3
+112,2,Hamilton (Mercedes),41.83758,83.44279,Cloudy,0.3
+112,3,Hamilton (Mercedes),42.10458,125.54737,Cloudy,0.3
+112,4,Hamilton (Mercedes),41.57445,167.12182,Cloudy,0.3
+112,5,Hamilton (Mercedes),41.84689,208.9687,Cloudy,0.3
+112,1,Verstappen (Red Bull),41.33792,41.33792,Cloudy,0.3
+112,2,Verstappen (Red Bull),40.95334,82.29126,Cloudy,0.3
+112,3,Verstappen (Red Bull),41.26747,123.55874,Cloudy,0.3
+112,4,Verstappen (Red Bull),40.68955,164.24829,Cloudy,0.3
+112,5,Verstappen (Red Bull),40.98071,205.229,Cloudy,0.3
+112,1,Norris (McLaren),42.22587,42.22587,Cloudy,0.3
+112,2,Norris (McLaren),40.71303,82.9389,Cloudy,0.3
+112,3,Norris (McLaren),40.63238,123.57127,Cloudy,0.3
+112,4,Norris (McLaren),41.14535,164.71662,Cloudy,0.3
+112,5,Norris (McLaren),40.51167,205.22829,Cloudy,0.3
+113,1,Hamilton (Mercedes),41.89768,41.89768,Cloudy,0.3
+113,2,Hamilton (Mercedes),40.89136,82.78904,Cloudy,0.3
+113,3,Hamilton (Mercedes),41.16096,123.94999,Cloudy,0.3
+113,4,Hamilton (Mercedes),42.16348,166.11347,Cloudy,0.3
+113,5,Hamilton (Mercedes),41.50452,207.61799,Cloudy,0.3
+113,1,Verstappen (Red Bull),40.30492,40.30492,Cloudy,0.3
+113,2,Verstappen (Red Bull),40.37586,80.68078,Cloudy,0.3
+113,3,Verstappen (Red Bull),41.1735,121.85428,Cloudy,0.3
+113,4,Verstappen (Red Bull),41.17021,163.02449,Cloudy,0.3
+113,5,Verstappen (Red Bull),40.8443,203.86878,Cloudy,0.3
+113,1,Norris (McLaren),42.86599,42.86599,Cloudy,0.3
+113,2,Norris (McLaren),41.36248,84.22847,Cloudy,0.3
+113,3,Norris (McLaren),41.47392,125.70239,Cloudy,0.3
+113,4,Norris (McLaren),41.21528,166.91767,Cloudy,0.3
+113,5,Norris (McLaren),40.92558,207.84325,Cloudy,0.3
+114,1,Hamilton (Mercedes),42.33377,42.33377,Cloudy,0.3
+114,2,Hamilton (Mercedes),40.9688,83.30257,Cloudy,0.3
+114,3,Hamilton (Mercedes),40.12354,123.42611,Cloudy,0.3
+114,4,Hamilton (Mercedes),40.90965,164.33576,Cloudy,0.3
+114,5,Hamilton (Mercedes),41.71461,206.05037,Cloudy,0.3
+114,1,Verstappen (Red Bull),41.6534,41.6534,Cloudy,0.3
+114,2,Verstappen (Red Bull),40.40585,82.05926,Cloudy,0.3
+114,3,Verstappen (Red Bull),41.26147,123.32073,Cloudy,0.3
+114,4,Verstappen (Red Bull),40.8275,164.14823,Cloudy,0.3
+114,5,Verstappen (Red Bull),41.90575,206.05398,Cloudy,0.3
+114,1,Norris (McLaren),41.37223,41.37223,Cloudy,0.3
+114,2,Norris (McLaren),41.2826,82.65483,Cloudy,0.3
+114,3,Norris (McLaren),42.12352,124.77835,Cloudy,0.3
+114,4,Norris (McLaren),40.27485,165.05321,Cloudy,0.3
+114,5,Norris (McLaren),40.86018,205.91339,Cloudy,0.3
+115,1,Hamilton (Mercedes),42.43055,42.43055,Cloudy,0.3
+115,2,Hamilton (Mercedes),42.16948,84.60003,Cloudy,0.3
+115,3,Hamilton (Mercedes),41.39093,125.99096,Cloudy,0.3
+115,4,Hamilton (Mercedes),42.1382,168.12916,Cloudy,0.3
+115,5,Hamilton (Mercedes),41.87125,210.00041,Cloudy,0.3
+115,1,Verstappen (Red Bull),40.95721,40.95721,Cloudy,0.3
+115,2,Verstappen (Red Bull),41.4114,82.36861,Cloudy,0.3
+115,3,Verstappen (Red Bull),42.11488,124.48349,Cloudy,0.3
+115,4,Verstappen (Red Bull),40.75395,165.23744,Cloudy,0.3
+115,5,Verstappen (Red Bull),42.21401,207.45145,Cloudy,0.3
+115,1,Norris (McLaren),41.07575,41.07575,Cloudy,0.3
+115,2,Norris (McLaren),43.11325,84.189,Cloudy,0.3
+115,3,Norris (McLaren),41.66478,125.85378,Cloudy,0.3
+115,4,Norris (McLaren),42.37446,168.22824,Cloudy,0.3
+115,5,Norris (McLaren),40.94713,209.17538,Cloudy,0.3
+116,1,Hamilton (Mercedes),41.23276,41.23276,Cloudy,0.3
+116,2,Hamilton (Mercedes),41.88179,83.11455,Cloudy,0.3
+116,3,Hamilton (Mercedes),40.72431,123.83886,Cloudy,0.3
+116,4,Hamilton (Mercedes),40.19087,164.02973,Cloudy,0.3
+116,5,Hamilton (Mercedes),40.35422,204.38395,Cloudy,0.3
+116,1,Verstappen (Red Bull),41.84316,41.84316,Cloudy,0.3
+116,2,Verstappen (Red Bull),40.98239,82.82555,Cloudy,0.3
+116,3,Verstappen (Red Bull),41.50539,124.33094,Cloudy,0.3
+116,4,Verstappen (Red Bull),41.07305,165.404,Cloudy,0.3
+116,5,Verstappen (Red Bull),41.10487,206.50886,Cloudy,0.3
+116,1,Norris (McLaren),42.01232,42.01232,Cloudy,0.3
+116,2,Norris (McLaren),40.97314,82.98546,Cloudy,0.3
+116,3,Norris (McLaren),42.38581,125.37127,Cloudy,0.3
+116,4,Norris (McLaren),41.5478,166.91907,Cloudy,0.3
+116,5,Norris (McLaren),40.54791,207.46698,Cloudy,0.3
+117,1,Hamilton (Mercedes),41.57573,41.57573,Cloudy,0.3
+117,2,Hamilton (Mercedes),42.26588,83.84161,Cloudy,0.3
+117,3,Hamilton (Mercedes),41.17687,125.01848,Cloudy,0.3
+117,4,Hamilton (Mercedes),41.48689,166.50537,Cloudy,0.3
+117,5,Hamilton (Mercedes),41.12449,207.62986,Cloudy,0.3
+117,1,Verstappen (Red Bull),40.5563,40.5563,Cloudy,0.3
+117,2,Verstappen (Red Bull),41.26381,81.82011,Cloudy,0.3
+117,3,Verstappen (Red Bull),41.09523,122.91534,Cloudy,0.3
+117,4,Verstappen (Red Bull),40.92622,163.84156,Cloudy,0.3
+117,5,Verstappen (Red Bull),41.84753,205.68909,Cloudy,0.3
+117,1,Norris (McLaren),41.18052,41.18052,Cloudy,0.3
+117,2,Norris (McLaren),41.26238,82.4429,Cloudy,0.3
+117,3,Norris (McLaren),42.08622,124.52911,Cloudy,0.3
+117,4,Norris (McLaren),41.91545,166.44456,Cloudy,0.3
+117,5,Norris (McLaren),42.15313,208.59769,Cloudy,0.3
+118,1,Hamilton (Mercedes),42.33771,42.33771,Cloudy,0.3
+118,2,Hamilton (Mercedes),41.69426,84.03197,Cloudy,0.3
+118,3,Hamilton (Mercedes),40.27037,124.30234,Cloudy,0.3
+118,4,Hamilton (Mercedes),41.73499,166.03733,Cloudy,0.3
+118,5,Hamilton (Mercedes),41.71346,207.7508,Cloudy,0.3
+118,1,Verstappen (Red Bull),41.96617,41.96617,Cloudy,0.3
+118,2,Verstappen (Red Bull),39.5432,81.50937,Cloudy,0.3
+118,3,Verstappen (Red Bull),41.20648,122.71585,Cloudy,0.3
+118,4,Verstappen (Red Bull),40.74153,163.45737,Cloudy,0.3
+118,5,Verstappen (Red Bull),41.66048,205.11786,Cloudy,0.3
+118,1,Norris (McLaren),41.60938,41.60938,Cloudy,0.3
+118,2,Norris (McLaren),41.93454,83.54392,Cloudy,0.3
+118,3,Norris (McLaren),42.04376,125.58768,Cloudy,0.3
+118,4,Norris (McLaren),41.92666,167.51434,Cloudy,0.3
+118,5,Norris (McLaren),40.67634,208.19068,Cloudy,0.3
+119,1,Hamilton (Mercedes),41.32227,41.32227,Cloudy,0.3
+119,2,Hamilton (Mercedes),42.02815,83.35043,Cloudy,0.3
+119,3,Hamilton (Mercedes),41.51278,124.86321,Cloudy,0.3
+119,4,Hamilton (Mercedes),41.30859,166.1718,Cloudy,0.3
+119,5,Hamilton (Mercedes),41.94182,208.11361,Cloudy,0.3
+119,1,Verstappen (Red Bull),41.00218,41.00218,Cloudy,0.3
+119,2,Verstappen (Red Bull),42.19371,83.19589,Cloudy,0.3
+119,3,Verstappen (Red Bull),40.96629,124.16218,Cloudy,0.3
+119,4,Verstappen (Red Bull),40.63412,164.7963,Cloudy,0.3
+119,5,Verstappen (Red Bull),41.35758,206.15389,Cloudy,0.3
+119,1,Norris (McLaren),41.90294,41.90294,Cloudy,0.3
+119,2,Norris (McLaren),41.16646,83.0694,Cloudy,0.3
+119,3,Norris (McLaren),40.50443,123.57383,Cloudy,0.3
+119,4,Norris (McLaren),42.61524,166.18907,Cloudy,0.3
+119,5,Norris (McLaren),41.47152,207.66059,Cloudy,0.3
+120,1,Hamilton (Mercedes),41.79576,41.79576,Cloudy,0.3
+120,2,Hamilton (Mercedes),42.43866,84.23442,Cloudy,0.3
+120,3,Hamilton (Mercedes),41.81333,126.04775,Cloudy,0.3
+120,4,Hamilton (Mercedes),41.7265,167.77425,Cloudy,0.3
+120,5,Hamilton (Mercedes),41.6969,209.47115,Cloudy,0.3
+120,1,Verstappen (Red Bull),40.98172,40.98172,Cloudy,0.3
+120,2,Verstappen (Red Bull),41.37746,82.35918,Cloudy,0.3
+120,3,Verstappen (Red Bull),40.38079,122.73997,Cloudy,0.3
+120,4,Verstappen (Red Bull),40.51944,163.25941,Cloudy,0.3
+120,5,Verstappen (Red Bull),41.59356,204.85297,Cloudy,0.3
+120,1,Norris (McLaren),41.07782,41.07782,Cloudy,0.3
+120,2,Norris (McLaren),41.62171,82.69953,Cloudy,0.3
+120,3,Norris (McLaren),42.25825,124.95779,Cloudy,0.3
+120,4,Norris (McLaren),40.48568,165.44346,Cloudy,0.3
+120,5,Norris (McLaren),41.74935,207.19282,Cloudy,0.3
+121,1,Hamilton (Mercedes),42.38867,42.38867,Cloudy,0.3
+121,2,Hamilton (Mercedes),41.36435,83.75302,Cloudy,0.3
+121,3,Hamilton (Mercedes),42.09968,125.8527,Cloudy,0.3
+121,4,Hamilton (Mercedes),41.54267,167.39537,Cloudy,0.3
+121,5,Hamilton (Mercedes),41.16308,208.55845,Cloudy,0.3
+121,1,Verstappen (Red Bull),42.55107,42.55107,Cloudy,0.3
+121,2,Verstappen (Red Bull),41.62288,84.17396,Cloudy,0.3
+121,3,Verstappen (Red Bull),41.47827,125.65222,Cloudy,0.3
+121,4,Verstappen (Red Bull),41.17414,166.82636,Cloudy,0.3
+121,5,Verstappen (Red Bull),40.51075,207.33711,Cloudy,0.3
+121,1,Norris (McLaren),42.15746,42.15746,Cloudy,0.3
+121,2,Norris (McLaren),42.55273,84.71019,Cloudy,0.3
+121,3,Norris (McLaren),40.57174,125.28193,Cloudy,0.3
+121,4,Norris (McLaren),41.89154,167.17347,Cloudy,0.3
+121,5,Norris (McLaren),41.18285,208.35633,Cloudy,0.3
+122,1,Hamilton (Mercedes),41.94899,41.94899,Cloudy,0.3
+122,2,Hamilton (Mercedes),41.32452,83.27351,Cloudy,0.3
+122,3,Hamilton (Mercedes),41.28912,124.56264,Cloudy,0.3
+122,4,Hamilton (Mercedes),41.4434,166.00604,Cloudy,0.3
+122,5,Hamilton (Mercedes),41.43326,207.4393,Cloudy,0.3
+122,1,Verstappen (Red Bull),41.71052,41.71052,Cloudy,0.3
+122,2,Verstappen (Red Bull),41.42929,83.13981,Cloudy,0.3
+122,3,Verstappen (Red Bull),41.29168,124.43149,Cloudy,0.3
+122,4,Verstappen (Red Bull),41.69217,166.12366,Cloudy,0.3
+122,5,Verstappen (Red Bull),41.44235,207.56601,Cloudy,0.3
+122,1,Norris (McLaren),41.18556,41.18556,Cloudy,0.3
+122,2,Norris (McLaren),40.43452,81.62008,Cloudy,0.3
+122,3,Norris (McLaren),41.70719,123.32727,Cloudy,0.3
+122,4,Norris (McLaren),40.30383,163.6311,Cloudy,0.3
+122,5,Norris (McLaren),40.84398,204.47509,Cloudy,0.3
+123,1,Hamilton (Mercedes),41.31828,41.31828,Cloudy,0.3
+123,2,Hamilton (Mercedes),41.16745,82.48573,Cloudy,0.3
+123,3,Hamilton (Mercedes),41.21928,123.70501,Cloudy,0.3
+123,4,Hamilton (Mercedes),41.99369,165.6987,Cloudy,0.3
+123,5,Hamilton (Mercedes),41.56898,207.26769,Cloudy,0.3
+123,1,Verstappen (Red Bull),40.32883,40.32883,Cloudy,0.3
+123,2,Verstappen (Red Bull),40.99703,81.32586,Cloudy,0.3
+123,3,Verstappen (Red Bull),41.05482,122.38067,Cloudy,0.3
+123,4,Verstappen (Red Bull),41.13956,163.52024,Cloudy,0.3
+123,5,Verstappen (Red Bull),41.70622,205.22645,Cloudy,0.3
+123,1,Norris (McLaren),41.43033,41.43033,Cloudy,0.3
+123,2,Norris (McLaren),41.5452,82.97554,Cloudy,0.3
+123,3,Norris (McLaren),40.40795,123.38348,Cloudy,0.3
+123,4,Norris (McLaren),40.70858,164.09207,Cloudy,0.3
+123,5,Norris (McLaren),41.37392,205.46599,Cloudy,0.3
+124,1,Hamilton (Mercedes),41.66941,41.66941,Cloudy,0.3
+124,2,Hamilton (Mercedes),42.27623,83.94564,Cloudy,0.3
+124,3,Hamilton (Mercedes),41.81124,125.75688,Cloudy,0.3
+124,4,Hamilton (Mercedes),41.62685,167.38373,Cloudy,0.3
+124,5,Hamilton (Mercedes),41.44153,208.82526,Cloudy,0.3
+124,1,Verstappen (Red Bull),42.08402,42.08402,Cloudy,0.3
+124,2,Verstappen (Red Bull),41.71382,83.79783,Cloudy,0.3
+124,3,Verstappen (Red Bull),41.87508,125.67291,Cloudy,0.3
+124,4,Verstappen (Red Bull),40.62571,166.29863,Cloudy,0.3
+124,5,Verstappen (Red Bull),41.28923,207.58785,Cloudy,0.3
+124,1,Norris (McLaren),41.66666,41.66666,Cloudy,0.3
+124,2,Norris (McLaren),40.89905,82.56571,Cloudy,0.3
+124,3,Norris (McLaren),40.6688,123.23451,Cloudy,0.3
+124,4,Norris (McLaren),42.22526,165.45977,Cloudy,0.3
+124,5,Norris (McLaren),41.60988,207.06965,Cloudy,0.3
+125,1,Hamilton (Mercedes),41.45795,41.45795,Cloudy,0.3
+125,2,Hamilton (Mercedes),41.32067,82.77862,Cloudy,0.3
+125,3,Hamilton (Mercedes),41.3502,124.12882,Cloudy,0.3
+125,4,Hamilton (Mercedes),41.66839,165.79721,Cloudy,0.3
+125,5,Hamilton (Mercedes),42.04478,207.84199,Cloudy,0.3
+125,1,Verstappen (Red Bull),40.69435,40.69435,Cloudy,0.3
+125,2,Verstappen (Red Bull),41.20858,81.90293,Cloudy,0.3
+125,3,Verstappen (Red Bull),40.61019,122.51312,Cloudy,0.3
+125,4,Verstappen (Red Bull),40.7414,163.25451,Cloudy,0.3
+125,5,Verstappen (Red Bull),41.66971,204.92422,Cloudy,0.3
+125,1,Norris (McLaren),41.19727,41.19727,Cloudy,0.3
+125,2,Norris (McLaren),41.87575,83.07302,Cloudy,0.3
+125,3,Norris (McLaren),41.38824,124.46126,Cloudy,0.3
+125,4,Norris (McLaren),41.72205,166.18331,Cloudy,0.3
+125,5,Norris (McLaren),41.02449,207.20779,Cloudy,0.3
+126,1,Hamilton (Mercedes),41.65701,41.65701,Cloudy,0.3
+126,2,Hamilton (Mercedes),41.04137,82.69838,Cloudy,0.3
+126,3,Hamilton (Mercedes),40.64433,123.34271,Cloudy,0.3
+126,4,Hamilton (Mercedes),40.78402,164.12673,Cloudy,0.3
+126,5,Hamilton (Mercedes),41.20201,205.32874,Cloudy,0.3
+126,1,Verstappen (Red Bull),41.26411,41.26411,Cloudy,0.3
+126,2,Verstappen (Red Bull),40.6959,81.96001,Cloudy,0.3
+126,3,Verstappen (Red Bull),40.93636,122.89637,Cloudy,0.3
+126,4,Verstappen (Red Bull),42.04638,164.94275,Cloudy,0.3
+126,5,Verstappen (Red Bull),42.07475,207.0175,Cloudy,0.3
+126,1,Norris (McLaren),41.73174,41.73174,Cloudy,0.3
+126,2,Norris (McLaren),41.86889,83.60063,Cloudy,0.3
+126,3,Norris (McLaren),40.88852,124.48915,Cloudy,0.3
+126,4,Norris (McLaren),41.5318,166.02095,Cloudy,0.3
+126,5,Norris (McLaren),42.27418,208.29514,Cloudy,0.3
+127,1,Hamilton (Mercedes),42.26599,42.26599,Cloudy,0.3
+127,2,Hamilton (Mercedes),41.17795,83.44394,Cloudy,0.3
+127,3,Hamilton (Mercedes),41.89356,125.3375,Cloudy,0.3
+127,4,Hamilton (Mercedes),41.11286,166.45036,Cloudy,0.3
+127,5,Hamilton (Mercedes),42.46692,208.91729,Cloudy,0.3
+127,1,Verstappen (Red Bull),41.64305,41.64305,Cloudy,0.3
+127,2,Verstappen (Red Bull),41.4208,83.06385,Cloudy,0.3
+127,3,Verstappen (Red Bull),41.5748,124.63865,Cloudy,0.3
+127,4,Verstappen (Red Bull),39.94187,164.58052,Cloudy,0.3
+127,5,Verstappen (Red Bull),40.91372,205.49425,Cloudy,0.3
+127,1,Norris (McLaren),41.64295,41.64295,Cloudy,0.3
+127,2,Norris (McLaren),41.84277,83.48573,Cloudy,0.3
+127,3,Norris (McLaren),42.23409,125.71982,Cloudy,0.3
+127,4,Norris (McLaren),41.82072,167.54054,Cloudy,0.3
+127,5,Norris (McLaren),42.06448,209.60501,Cloudy,0.3
+128,1,Hamilton (Mercedes),41.36033,41.36033,Cloudy,0.3
+128,2,Hamilton (Mercedes),41.56096,82.92129,Cloudy,0.3
+128,3,Hamilton (Mercedes),41.206,124.12729,Cloudy,0.3
+128,4,Hamilton (Mercedes),41.70864,165.83593,Cloudy,0.3
+128,5,Hamilton (Mercedes),40.9778,206.81372,Cloudy,0.3
+128,1,Verstappen (Red Bull),40.03784,40.03784,Cloudy,0.3
+128,2,Verstappen (Red Bull),41.46152,81.49937,Cloudy,0.3
+128,3,Verstappen (Red Bull),40.99022,122.48958,Cloudy,0.3
+128,4,Verstappen (Red Bull),40.79138,163.28096,Cloudy,0.3
+128,5,Verstappen (Red Bull),41.12209,204.40305,Cloudy,0.3
+128,1,Norris (McLaren),41.95677,41.95677,Cloudy,0.3
+128,2,Norris (McLaren),40.32279,82.27956,Cloudy,0.3
+128,3,Norris (McLaren),42.00045,124.28001,Cloudy,0.3
+128,4,Norris (McLaren),41.61812,165.89813,Cloudy,0.3
+128,5,Norris (McLaren),42.08485,207.98298,Cloudy,0.3
+129,1,Hamilton (Mercedes),41.44014,41.44014,Cloudy,0.3
+129,2,Hamilton (Mercedes),41.48133,82.92148,Cloudy,0.3
+129,3,Hamilton (Mercedes),40.90855,123.83002,Cloudy,0.3
+129,4,Hamilton (Mercedes),41.26591,165.09593,Cloudy,0.3
+129,5,Hamilton (Mercedes),40.94807,206.044,Cloudy,0.3
+129,1,Verstappen (Red Bull),40.53371,40.53371,Cloudy,0.3
+129,2,Verstappen (Red Bull),41.39718,81.93089,Cloudy,0.3
+129,3,Verstappen (Red Bull),40.60181,122.53269,Cloudy,0.3
+129,4,Verstappen (Red Bull),40.41655,162.94925,Cloudy,0.3
+129,5,Verstappen (Red Bull),41.38436,204.33361,Cloudy,0.3
+129,1,Norris (McLaren),41.73381,41.73381,Cloudy,0.3
+129,2,Norris (McLaren),41.08148,82.81529,Cloudy,0.3
+129,3,Norris (McLaren),41.18978,124.00506,Cloudy,0.3
+129,4,Norris (McLaren),39.97424,163.9793,Cloudy,0.3
+129,5,Norris (McLaren),41.4268,205.40611,Cloudy,0.3
+130,1,Hamilton (Mercedes),40.89034,40.89034,Cloudy,0.3
+130,2,Hamilton (Mercedes),41.61953,82.50987,Cloudy,0.3
+130,3,Hamilton (Mercedes),41.8758,124.38566,Cloudy,0.3
+130,4,Hamilton (Mercedes),42.72073,167.10639,Cloudy,0.3
+130,5,Hamilton (Mercedes),42.20893,209.31532,Cloudy,0.3
+130,1,Verstappen (Red Bull),40.99439,40.99439,Cloudy,0.3
+130,2,Verstappen (Red Bull),41.78459,82.77898,Cloudy,0.3
+130,3,Verstappen (Red Bull),42.27447,125.05344,Cloudy,0.3
+130,4,Verstappen (Red Bull),40.32651,165.37995,Cloudy,0.3
+130,5,Verstappen (Red Bull),40.17049,205.55044,Cloudy,0.3
+130,1,Norris (McLaren),41.67101,41.67101,Cloudy,0.3
+130,2,Norris (McLaren),41.48496,83.15598,Cloudy,0.3
+130,3,Norris (McLaren),41.36521,124.52118,Cloudy,0.3
+130,4,Norris (McLaren),41.68568,166.20687,Cloudy,0.3
+130,5,Norris (McLaren),41.27223,207.4791,Cloudy,0.3
+131,1,Hamilton (Mercedes),41.82991,41.82991,Cloudy,0.3
+131,2,Hamilton (Mercedes),42.11851,83.94842,Cloudy,0.3
+131,3,Hamilton (Mercedes),40.75683,124.70525,Cloudy,0.3
+131,4,Hamilton (Mercedes),40.67639,165.38164,Cloudy,0.3
+131,5,Hamilton (Mercedes),42.03698,207.41863,Cloudy,0.3
+131,1,Verstappen (Red Bull),40.75395,40.75395,Cloudy,0.3
+131,2,Verstappen (Red Bull),41.43543,82.18938,Cloudy,0.3
+131,3,Verstappen (Red Bull),40.6414,122.83078,Cloudy,0.3
+131,4,Verstappen (Red Bull),41.19227,164.02305,Cloudy,0.3
+131,5,Verstappen (Red Bull),41.37765,205.40069,Cloudy,0.3
+131,1,Norris (McLaren),42.18117,42.18117,Cloudy,0.3
+131,2,Norris (McLaren),39.87945,82.06062,Cloudy,0.3
+131,3,Norris (McLaren),41.49498,123.55561,Cloudy,0.3
+131,4,Norris (McLaren),42.01276,165.56837,Cloudy,0.3
+131,5,Norris (McLaren),41.69303,207.2614,Cloudy,0.3
+132,1,Hamilton (Mercedes),41.47746,41.47746,Cloudy,0.3
+132,2,Hamilton (Mercedes),40.17978,81.65724,Cloudy,0.3
+132,3,Hamilton (Mercedes),40.54225,122.19948,Cloudy,0.3
+132,4,Hamilton (Mercedes),41.60378,163.80326,Cloudy,0.3
+132,5,Hamilton (Mercedes),41.61918,205.42244,Cloudy,0.3
+132,1,Verstappen (Red Bull),41.08669,41.08669,Cloudy,0.3
+132,2,Verstappen (Red Bull),41.07995,82.16664,Cloudy,0.3
+132,3,Verstappen (Red Bull),40.81031,122.97696,Cloudy,0.3
+132,4,Verstappen (Red Bull),40.75743,163.73439,Cloudy,0.3
+132,5,Verstappen (Red Bull),40.77017,204.50456,Cloudy,0.3
+132,1,Norris (McLaren),40.57818,40.57818,Cloudy,0.3
+132,2,Norris (McLaren),41.70599,82.28417,Cloudy,0.3
+132,3,Norris (McLaren),40.48213,122.7663,Cloudy,0.3
+132,4,Norris (McLaren),41.47218,164.23847,Cloudy,0.3
+132,5,Norris (McLaren),41.32207,205.56054,Cloudy,0.3
+133,1,Hamilton (Mercedes),40.98349,40.98349,Cloudy,0.3
+133,2,Hamilton (Mercedes),41.11901,82.1025,Cloudy,0.3
+133,3,Hamilton (Mercedes),41.51123,123.61373,Cloudy,0.3
+133,4,Hamilton (Mercedes),40.66723,164.28095,Cloudy,0.3
+133,5,Hamilton (Mercedes),41.29001,205.57096,Cloudy,0.3
+133,1,Verstappen (Red Bull),40.32482,40.32482,Cloudy,0.3
+133,2,Verstappen (Red Bull),41.75793,82.08275,Cloudy,0.3
+133,3,Verstappen (Red Bull),42.25453,124.33727,Cloudy,0.3
+133,4,Verstappen (Red Bull),40.79989,165.13716,Cloudy,0.3
+133,5,Verstappen (Red Bull),40.09485,205.23202,Cloudy,0.3
+133,1,Norris (McLaren),41.4195,41.4195,Cloudy,0.3
+133,2,Norris (McLaren),42.11937,83.53887,Cloudy,0.3
+133,3,Norris (McLaren),40.40399,123.94286,Cloudy,0.3
+133,4,Norris (McLaren),41.1152,165.05806,Cloudy,0.3
+133,5,Norris (McLaren),40.68627,205.74433,Cloudy,0.3
+134,1,Hamilton (Mercedes),40.55795,40.55795,Cloudy,0.3
+134,2,Hamilton (Mercedes),42.20935,82.76729,Cloudy,0.3
+134,3,Hamilton (Mercedes),41.19453,123.96182,Cloudy,0.3
+134,4,Hamilton (Mercedes),41.33295,165.29477,Cloudy,0.3
+134,5,Hamilton (Mercedes),40.82599,206.12076,Cloudy,0.3
+134,1,Verstappen (Red Bull),40.75873,40.75873,Cloudy,0.3
+134,2,Verstappen (Red Bull),40.5986,81.35733,Cloudy,0.3
+134,3,Verstappen (Red Bull),40.33912,121.69645,Cloudy,0.3
+134,4,Verstappen (Red Bull),41.30682,163.00327,Cloudy,0.3
+134,5,Verstappen (Red Bull),40.43668,203.43995,Cloudy,0.3
+134,1,Norris (McLaren),41.77484,41.77484,Cloudy,0.3
+134,2,Norris (McLaren),41.75103,83.52587,Cloudy,0.3
+134,3,Norris (McLaren),39.96345,123.48932,Cloudy,0.3
+134,4,Norris (McLaren),41.75819,165.24752,Cloudy,0.3
+134,5,Norris (McLaren),41.36615,206.61366,Cloudy,0.3
+135,1,Hamilton (Mercedes),41.61003,41.61003,Cloudy,0.3
+135,2,Hamilton (Mercedes),42.2789,83.88893,Cloudy,0.3
+135,3,Hamilton (Mercedes),41.12903,125.01796,Cloudy,0.3
+135,4,Hamilton (Mercedes),42.04835,167.06631,Cloudy,0.3
+135,5,Hamilton (Mercedes),41.02041,208.08673,Cloudy,0.3
+135,1,Verstappen (Red Bull),40.5191,40.5191,Cloudy,0.3
+135,2,Verstappen (Red Bull),40.40714,80.92624,Cloudy,0.3
+135,3,Verstappen (Red Bull),40.59528,121.52152,Cloudy,0.3
+135,4,Verstappen (Red Bull),40.14437,161.66589,Cloudy,0.3
+135,5,Verstappen (Red Bull),41.41054,203.07643,Cloudy,0.3
+135,1,Norris (McLaren),41.67967,41.67967,Cloudy,0.3
+135,2,Norris (McLaren),41.52865,83.20833,Cloudy,0.3
+135,3,Norris (McLaren),40.57948,123.78781,Cloudy,0.3
+135,4,Norris (McLaren),41.18679,164.97459,Cloudy,0.3
+135,5,Norris (McLaren),41.25393,206.22852,Cloudy,0.3
+136,1,Hamilton (Mercedes),42.45913,42.45913,Cloudy,0.3
+136,2,Hamilton (Mercedes),40.67244,83.13156,Cloudy,0.3
+136,3,Hamilton (Mercedes),41.61593,124.7475,Cloudy,0.3
+136,4,Hamilton (Mercedes),40.57686,165.32435,Cloudy,0.3
+136,5,Hamilton (Mercedes),41.45078,206.77513,Cloudy,0.3
+136,1,Verstappen (Red Bull),41.32278,41.32278,Cloudy,0.3
+136,2,Verstappen (Red Bull),41.18041,82.50319,Cloudy,0.3
+136,3,Verstappen (Red Bull),40.52045,123.02364,Cloudy,0.3
+136,4,Verstappen (Red Bull),41.59982,164.62346,Cloudy,0.3
+136,5,Verstappen (Red Bull),41.56171,206.18517,Cloudy,0.3
+136,1,Norris (McLaren),41.40982,41.40982,Cloudy,0.3
+136,2,Norris (McLaren),40.20786,81.61768,Cloudy,0.3
+136,3,Norris (McLaren),41.87391,123.49159,Cloudy,0.3
+136,4,Norris (McLaren),41.71434,165.20593,Cloudy,0.3
+136,5,Norris (McLaren),40.20165,205.40758,Cloudy,0.3
+137,1,Hamilton (Mercedes),42.04881,42.04881,Cloudy,0.3
+137,2,Hamilton (Mercedes),41.37823,83.42704,Cloudy,0.3
+137,3,Hamilton (Mercedes),41.83546,125.2625,Cloudy,0.3
+137,4,Hamilton (Mercedes),41.04474,166.30724,Cloudy,0.3
+137,5,Hamilton (Mercedes),42.33922,208.64647,Cloudy,0.3
+137,1,Verstappen (Red Bull),41.17852,41.17852,Cloudy,0.3
+137,2,Verstappen (Red Bull),41.77951,82.95802,Cloudy,0.3
+137,3,Verstappen (Red Bull),40.21874,123.17676,Cloudy,0.3
+137,4,Verstappen (Red Bull),39.58059,162.75735,Cloudy,0.3
+137,5,Verstappen (Red Bull),41.62156,204.37892,Cloudy,0.3
+137,1,Norris (McLaren),41.13163,41.13163,Cloudy,0.3
+137,2,Norris (McLaren),40.458,81.58963,Cloudy,0.3
+137,3,Norris (McLaren),42.51962,124.10926,Cloudy,0.3
+137,4,Norris (McLaren),40.05125,164.1605,Cloudy,0.3
+137,5,Norris (McLaren),41.54473,205.70524,Cloudy,0.3
+138,1,Hamilton (Mercedes),41.44994,41.44994,Cloudy,0.3
+138,2,Hamilton (Mercedes),41.29695,82.74688,Cloudy,0.3
+138,3,Hamilton (Mercedes),41.66195,124.40883,Cloudy,0.3
+138,4,Hamilton (Mercedes),41.35652,165.76535,Cloudy,0.3
+138,5,Hamilton (Mercedes),41.6236,207.38895,Cloudy,0.3
+138,1,Verstappen (Red Bull),40.74928,40.74928,Cloudy,0.3
+138,2,Verstappen (Red Bull),42.18837,82.93764,Cloudy,0.3
+138,3,Verstappen (Red Bull),40.61777,123.55541,Cloudy,0.3
+138,4,Verstappen (Red Bull),41.26655,164.82196,Cloudy,0.3
+138,5,Verstappen (Red Bull),41.31927,206.14122,Cloudy,0.3
+138,1,Norris (McLaren),40.9811,40.9811,Cloudy,0.3
+138,2,Norris (McLaren),40.66755,81.64865,Cloudy,0.3
+138,3,Norris (McLaren),40.79181,122.44045,Cloudy,0.3
+138,4,Norris (McLaren),42.46872,164.90917,Cloudy,0.3
+138,5,Norris (McLaren),41.94686,206.85603,Cloudy,0.3
+139,1,Hamilton (Mercedes),41.89981,41.89981,Cloudy,0.3
+139,2,Hamilton (Mercedes),41.89531,83.79512,Cloudy,0.3
+139,3,Hamilton (Mercedes),41.57033,125.36545,Cloudy,0.3
+139,4,Hamilton (Mercedes),40.6445,166.00995,Cloudy,0.3
+139,5,Hamilton (Mercedes),41.30916,207.31911,Cloudy,0.3
+139,1,Verstappen (Red Bull),40.98544,40.98544,Cloudy,0.3
+139,2,Verstappen (Red Bull),40.4767,81.46214,Cloudy,0.3
+139,3,Verstappen (Red Bull),41.50816,122.9703,Cloudy,0.3
+139,4,Verstappen (Red Bull),39.9954,162.9657,Cloudy,0.3
+139,5,Verstappen (Red Bull),41.33495,204.30065,Cloudy,0.3
+139,1,Norris (McLaren),41.45189,41.45189,Cloudy,0.3
+139,2,Norris (McLaren),41.3795,82.8314,Cloudy,0.3
+139,3,Norris (McLaren),41.69444,124.52584,Cloudy,0.3
+139,4,Norris (McLaren),40.23823,164.76407,Cloudy,0.3
+139,5,Norris (McLaren),41.3114,206.07547,Cloudy,0.3
+140,1,Hamilton (Mercedes),41.66305,41.66305,Cloudy,0.3
+140,2,Hamilton (Mercedes),41.57344,83.23649,Cloudy,0.3
+140,3,Hamilton (Mercedes),41.33508,124.57157,Cloudy,0.3
+140,4,Hamilton (Mercedes),41.00367,165.57525,Cloudy,0.3
+140,5,Hamilton (Mercedes),41.75368,207.32893,Cloudy,0.3
+140,1,Verstappen (Red Bull),41.87916,41.87916,Cloudy,0.3
+140,2,Verstappen (Red Bull),40.99805,82.87722,Cloudy,0.3
+140,3,Verstappen (Red Bull),42.2473,125.12451,Cloudy,0.3
+140,4,Verstappen (Red Bull),40.12412,165.24864,Cloudy,0.3
+140,5,Verstappen (Red Bull),41.78231,207.03095,Cloudy,0.3
+140,1,Norris (McLaren),40.78955,40.78955,Cloudy,0.3
+140,2,Norris (McLaren),42.78084,83.5704,Cloudy,0.3
+140,3,Norris (McLaren),41.56082,125.13121,Cloudy,0.3
+140,4,Norris (McLaren),41.65313,166.78434,Cloudy,0.3
+140,5,Norris (McLaren),40.53352,207.31786,Cloudy,0.3
+141,1,Hamilton (Mercedes),42.46274,42.46274,Cloudy,0.3
+141,2,Hamilton (Mercedes),42.59114,85.05389,Cloudy,0.3
+141,3,Hamilton (Mercedes),41.50323,126.55712,Cloudy,0.3
+141,4,Hamilton (Mercedes),42.03675,168.59387,Cloudy,0.3
+141,5,Hamilton (Mercedes),41.49157,210.08544,Cloudy,0.3
+141,1,Verstappen (Red Bull),40.96667,40.96667,Cloudy,0.3
+141,2,Verstappen (Red Bull),41.57884,82.54551,Cloudy,0.3
+141,3,Verstappen (Red Bull),40.66612,123.21162,Cloudy,0.3
+141,4,Verstappen (Red Bull),40.78547,163.9971,Cloudy,0.3
+141,5,Verstappen (Red Bull),41.29251,205.28961,Cloudy,0.3
+141,1,Norris (McLaren),41.31219,41.31219,Cloudy,0.3
+141,2,Norris (McLaren),41.10797,82.42016,Cloudy,0.3
+141,3,Norris (McLaren),41.83924,124.2594,Cloudy,0.3
+141,4,Norris (McLaren),41.28056,165.53995,Cloudy,0.3
+141,5,Norris (McLaren),41.08976,206.62972,Cloudy,0.3
+142,1,Hamilton (Mercedes),42.26677,42.26677,Cloudy,0.3
+142,2,Hamilton (Mercedes),41.33238,83.59915,Cloudy,0.3
+142,3,Hamilton (Mercedes),42.04968,125.64883,Cloudy,0.3
+142,4,Hamilton (Mercedes),42.7415,168.39032,Cloudy,0.3
+142,5,Hamilton (Mercedes),41.20004,209.59037,Cloudy,0.3
+142,1,Verstappen (Red Bull),40.7277,40.7277,Cloudy,0.3
+142,2,Verstappen (Red Bull),41.18916,81.91686,Cloudy,0.3
+142,3,Verstappen (Red Bull),41.82192,123.73879,Cloudy,0.3
+142,4,Verstappen (Red Bull),40.89158,164.63037,Cloudy,0.3
+142,5,Verstappen (Red Bull),41.69669,206.32706,Cloudy,0.3
+142,1,Norris (McLaren),41.30905,41.30905,Cloudy,0.3
+142,2,Norris (McLaren),42.20793,83.51698,Cloudy,0.3
+142,3,Norris (McLaren),41.51082,125.0278,Cloudy,0.3
+142,4,Norris (McLaren),41.37028,166.39808,Cloudy,0.3
+142,5,Norris (McLaren),41.58334,207.98142,Cloudy,0.3
+143,1,Hamilton (Mercedes),41.57751,41.57751,Cloudy,0.3
+143,2,Hamilton (Mercedes),41.5856,83.16312,Cloudy,0.3
+143,3,Hamilton (Mercedes),41.93006,125.09317,Cloudy,0.3
+143,4,Hamilton (Mercedes),40.34903,165.44221,Cloudy,0.3
+143,5,Hamilton (Mercedes),41.84486,207.28707,Cloudy,0.3
+143,1,Verstappen (Red Bull),41.58996,41.58996,Cloudy,0.3
+143,2,Verstappen (Red Bull),41.05332,82.64328,Cloudy,0.3
+143,3,Verstappen (Red Bull),41.69662,124.3399,Cloudy,0.3
+143,4,Verstappen (Red Bull),41.13067,165.47057,Cloudy,0.3
+143,5,Verstappen (Red Bull),41.69829,207.16886,Cloudy,0.3
+143,1,Norris (McLaren),40.88591,40.88591,Cloudy,0.3
+143,2,Norris (McLaren),41.67686,82.56277,Cloudy,0.3
+143,3,Norris (McLaren),41.9305,124.49327,Cloudy,0.3
+143,4,Norris (McLaren),40.76931,165.26258,Cloudy,0.3
+143,5,Norris (McLaren),40.79756,206.06014,Cloudy,0.3
+144,1,Hamilton (Mercedes),42.7458,42.7458,Cloudy,0.3
+144,2,Hamilton (Mercedes),40.92701,83.67281,Cloudy,0.3
+144,3,Hamilton (Mercedes),42.22368,125.89649,Cloudy,0.3
+144,4,Hamilton (Mercedes),41.14591,167.0424,Cloudy,0.3
+144,5,Hamilton (Mercedes),42.49078,209.53319,Cloudy,0.3
+144,1,Verstappen (Red Bull),40.87834,40.87834,Cloudy,0.3
+144,2,Verstappen (Red Bull),40.43907,81.3174,Cloudy,0.3
+144,3,Verstappen (Red Bull),41.87909,123.19649,Cloudy,0.3
+144,4,Verstappen (Red Bull),40.5439,163.74039,Cloudy,0.3
+144,5,Verstappen (Red Bull),40.54399,204.28438,Cloudy,0.3
+144,1,Norris (McLaren),40.77792,40.77792,Cloudy,0.3
+144,2,Norris (McLaren),41.46067,82.2386,Cloudy,0.3
+144,3,Norris (McLaren),40.36346,122.60206,Cloudy,0.3
+144,4,Norris (McLaren),39.93915,162.5412,Cloudy,0.3
+144,5,Norris (McLaren),40.73116,203.27236,Cloudy,0.3
+145,1,Hamilton (Mercedes),40.84072,40.84072,Cloudy,0.3
+145,2,Hamilton (Mercedes),41.15202,81.99275,Cloudy,0.3
+145,3,Hamilton (Mercedes),42.72649,124.71924,Cloudy,0.3
+145,4,Hamilton (Mercedes),41.74645,166.46569,Cloudy,0.3
+145,5,Hamilton (Mercedes),41.86189,208.32758,Cloudy,0.3
+145,1,Verstappen (Red Bull),41.33571,41.33571,Cloudy,0.3
+145,2,Verstappen (Red Bull),41.60441,82.94012,Cloudy,0.3
+145,3,Verstappen (Red Bull),42.12888,125.069,Cloudy,0.3
+145,4,Verstappen (Red Bull),40.75905,165.82805,Cloudy,0.3
+145,5,Verstappen (Red Bull),40.79092,206.61897,Cloudy,0.3
+145,1,Norris (McLaren),41.28071,41.28071,Cloudy,0.3
+145,2,Norris (McLaren),40.8938,82.17452,Cloudy,0.3
+145,3,Norris (McLaren),40.66253,122.83705,Cloudy,0.3
+145,4,Norris (McLaren),41.93961,164.77665,Cloudy,0.3
+145,5,Norris (McLaren),42.17786,206.95452,Cloudy,0.3
+146,1,Hamilton (Mercedes),41.51682,41.51682,Cloudy,0.3
+146,2,Hamilton (Mercedes),42.29531,83.81213,Cloudy,0.3
+146,3,Hamilton (Mercedes),41.49818,125.31031,Cloudy,0.3
+146,4,Hamilton (Mercedes),41.14902,166.45932,Cloudy,0.3
+146,5,Hamilton (Mercedes),41.56526,208.02459,Cloudy,0.3
+146,1,Verstappen (Red Bull),40.54742,40.54742,Cloudy,0.3
+146,2,Verstappen (Red Bull),40.99621,81.54362,Cloudy,0.3
+146,3,Verstappen (Red Bull),41.22389,122.76751,Cloudy,0.3
+146,4,Verstappen (Red Bull),40.76404,163.53155,Cloudy,0.3
+146,5,Verstappen (Red Bull),40.48788,204.01943,Cloudy,0.3
+146,1,Norris (McLaren),41.78837,41.78837,Cloudy,0.3
+146,2,Norris (McLaren),40.6634,82.45177,Cloudy,0.3
+146,3,Norris (McLaren),41.83837,124.29014,Cloudy,0.3
+146,4,Norris (McLaren),42.59215,166.88229,Cloudy,0.3
+146,5,Norris (McLaren),40.71518,207.59747,Cloudy,0.3
+147,1,Hamilton (Mercedes),42.49543,42.49543,Cloudy,0.3
+147,2,Hamilton (Mercedes),41.22076,83.71619,Cloudy,0.3
+147,3,Hamilton (Mercedes),40.93213,124.64832,Cloudy,0.3
+147,4,Hamilton (Mercedes),40.80186,165.45018,Cloudy,0.3
+147,5,Hamilton (Mercedes),40.75433,206.20451,Cloudy,0.3
+147,1,Verstappen (Red Bull),40.61471,40.61471,Cloudy,0.3
+147,2,Verstappen (Red Bull),40.65865,81.27335,Cloudy,0.3
+147,3,Verstappen (Red Bull),41.49491,122.76826,Cloudy,0.3
+147,4,Verstappen (Red Bull),40.66406,163.43232,Cloudy,0.3
+147,5,Verstappen (Red Bull),41.18984,204.62215,Cloudy,0.3
+147,1,Norris (McLaren),41.23868,41.23868,Cloudy,0.3
+147,2,Norris (McLaren),41.66339,82.90207,Cloudy,0.3
+147,3,Norris (McLaren),42.28326,125.18533,Cloudy,0.3
+147,4,Norris (McLaren),41.82089,167.00622,Cloudy,0.3
+147,5,Norris (McLaren),41.28867,208.29489,Cloudy,0.3
+148,1,Hamilton (Mercedes),41.49821,41.49821,Cloudy,0.3
+148,2,Hamilton (Mercedes),40.94561,82.44382,Cloudy,0.3
+148,3,Hamilton (Mercedes),41.10731,123.55113,Cloudy,0.3
+148,4,Hamilton (Mercedes),41.80858,165.3597,Cloudy,0.3
+148,5,Hamilton (Mercedes),41.89049,207.25019,Cloudy,0.3
+148,1,Verstappen (Red Bull),40.95826,40.95826,Cloudy,0.3
+148,2,Verstappen (Red Bull),40.87633,81.83459,Cloudy,0.3
+148,3,Verstappen (Red Bull),40.89916,122.73375,Cloudy,0.3
+148,4,Verstappen (Red Bull),40.7744,163.50815,Cloudy,0.3
+148,5,Verstappen (Red Bull),41.15291,204.66106,Cloudy,0.3
+148,1,Norris (McLaren),41.63736,41.63736,Cloudy,0.3
+148,2,Norris (McLaren),41.27361,82.91098,Cloudy,0.3
+148,3,Norris (McLaren),42.30046,125.21144,Cloudy,0.3
+148,4,Norris (McLaren),41.54825,166.75968,Cloudy,0.3
+148,5,Norris (McLaren),41.79537,208.55505,Cloudy,0.3
+149,1,Hamilton (Mercedes),41.69224,41.69224,Cloudy,0.3
+149,2,Hamilton (Mercedes),41.41984,83.11208,Cloudy,0.3
+149,3,Hamilton (Mercedes),40.97145,124.08354,Cloudy,0.3
+149,4,Hamilton (Mercedes),41.93106,166.0146,Cloudy,0.3
+149,5,Hamilton (Mercedes),40.92035,206.93495,Cloudy,0.3
+149,1,Verstappen (Red Bull),41.17701,41.17701,Cloudy,0.3
+149,2,Verstappen (Red Bull),39.83964,81.01666,Cloudy,0.3
+149,3,Verstappen (Red Bull),41.72547,122.74212,Cloudy,0.3
+149,4,Verstappen (Red Bull),39.89496,162.63709,Cloudy,0.3
+149,5,Verstappen (Red Bull),41.22815,203.86524,Cloudy,0.3
+149,1,Norris (McLaren),40.15117,40.15117,Cloudy,0.3
+149,2,Norris (McLaren),41.256,81.40717,Cloudy,0.3
+149,3,Norris (McLaren),42.64079,124.04796,Cloudy,0.3
+149,4,Norris (McLaren),40.48963,164.53759,Cloudy,0.3
+149,5,Norris (McLaren),41.3681,205.90569,Cloudy,0.3
+150,1,Hamilton (Mercedes),42.2838,42.2838,Cloudy,0.3
+150,2,Hamilton (Mercedes),41.33785,83.62164,Cloudy,0.3
+150,3,Hamilton (Mercedes),42.06931,125.69095,Cloudy,0.3
+150,4,Hamilton (Mercedes),42.04591,167.73686,Cloudy,0.3
+150,5,Hamilton (Mercedes),41.55624,209.2931,Cloudy,0.3
+150,1,Verstappen (Red Bull),41.80203,41.80203,Cloudy,0.3
+150,2,Verstappen (Red Bull),40.64242,82.44445,Cloudy,0.3
+150,3,Verstappen (Red Bull),41.79954,124.24399,Cloudy,0.3
+150,4,Verstappen (Red Bull),41.08676,165.33076,Cloudy,0.3
+150,5,Verstappen (Red Bull),40.96198,206.29274,Cloudy,0.3
+150,1,Norris (McLaren),41.78544,41.78544,Cloudy,0.3
+150,2,Norris (McLaren),40.87334,82.65878,Cloudy,0.3
+150,3,Norris (McLaren),41.44232,124.10111,Cloudy,0.3
+150,4,Norris (McLaren),41.74285,165.84396,Cloudy,0.3
+150,5,Norris (McLaren),40.92837,206.77232,Cloudy,0.3
+151,1,Hamilton (Mercedes),41.51588,41.51588,Cloudy,0.3
+151,2,Hamilton (Mercedes),41.24912,82.765,Cloudy,0.3
+151,3,Hamilton (Mercedes),42.03077,124.79576,Cloudy,0.3
+151,4,Hamilton (Mercedes),42.62352,167.41929,Cloudy,0.3
+151,5,Hamilton (Mercedes),41.30842,208.72771,Cloudy,0.3
+151,1,Verstappen (Red Bull),41.32657,41.32657,Cloudy,0.3
+151,2,Verstappen (Red Bull),41.17717,82.50374,Cloudy,0.3
+151,3,Verstappen (Red Bull),41.67026,124.174,Cloudy,0.3
+151,4,Verstappen (Red Bull),41.35802,165.53202,Cloudy,0.3
+151,5,Verstappen (Red Bull),40.12063,205.65265,Cloudy,0.3
+151,1,Norris (McLaren),41.85174,41.85174,Cloudy,0.3
+151,2,Norris (McLaren),39.80968,81.66142,Cloudy,0.3
+151,3,Norris (McLaren),41.41035,123.07177,Cloudy,0.3
+151,4,Norris (McLaren),41.07046,164.14223,Cloudy,0.3
+151,5,Norris (McLaren),41.22562,205.36785,Cloudy,0.3
+152,1,Hamilton (Mercedes),41.77796,41.77796,Cloudy,0.3
+152,2,Hamilton (Mercedes),41.30661,83.08457,Cloudy,0.3
+152,3,Hamilton (Mercedes),41.55088,124.63545,Cloudy,0.3
+152,4,Hamilton (Mercedes),41.40358,166.03903,Cloudy,0.3
+152,5,Hamilton (Mercedes),40.8807,206.91974,Cloudy,0.3
+152,1,Verstappen (Red Bull),41.07336,41.07336,Cloudy,0.3
+152,2,Verstappen (Red Bull),40.93214,82.0055,Cloudy,0.3
+152,3,Verstappen (Red Bull),41.05336,123.05886,Cloudy,0.3
+152,4,Verstappen (Red Bull),40.99621,164.05507,Cloudy,0.3
+152,5,Verstappen (Red Bull),41.23216,205.28724,Cloudy,0.3
+152,1,Norris (McLaren),41.27278,41.27278,Cloudy,0.3
+152,2,Norris (McLaren),40.70157,81.97435,Cloudy,0.3
+152,3,Norris (McLaren),40.46703,122.44138,Cloudy,0.3
+152,4,Norris (McLaren),40.52163,162.963,Cloudy,0.3
+152,5,Norris (McLaren),41.37703,204.34003,Cloudy,0.3
+153,1,Hamilton (Mercedes),40.99845,40.99845,Cloudy,0.3
+153,2,Hamilton (Mercedes),40.80133,81.79978,Cloudy,0.3
+153,3,Hamilton (Mercedes),41.50238,123.30216,Cloudy,0.3
+153,4,Hamilton (Mercedes),41.59829,164.90045,Cloudy,0.3
+153,5,Hamilton (Mercedes),42.07194,206.97239,Cloudy,0.3
+153,1,Verstappen (Red Bull),40.77234,40.77234,Cloudy,0.3
+153,2,Verstappen (Red Bull),42.22658,82.99892,Cloudy,0.3
+153,3,Verstappen (Red Bull),40.97247,123.97139,Cloudy,0.3
+153,4,Verstappen (Red Bull),41.44961,165.421,Cloudy,0.3
+153,5,Verstappen (Red Bull),40.56333,205.98433,Cloudy,0.3
+153,1,Norris (McLaren),42.7089,42.7089,Cloudy,0.3
+153,2,Norris (McLaren),41.48654,84.19544,Cloudy,0.3
+153,3,Norris (McLaren),40.84978,125.04522,Cloudy,0.3
+153,4,Norris (McLaren),41.93766,166.98288,Cloudy,0.3
+153,5,Norris (McLaren),41.29648,208.27936,Cloudy,0.3
+154,1,Hamilton (Mercedes),42.11397,42.11397,Cloudy,0.3
+154,2,Hamilton (Mercedes),42.36194,84.47592,Cloudy,0.3
+154,3,Hamilton (Mercedes),41.40208,125.878,Cloudy,0.3
+154,4,Hamilton (Mercedes),42.1402,168.01819,Cloudy,0.3
+154,5,Hamilton (Mercedes),40.96586,208.98405,Cloudy,0.3
+154,1,Verstappen (Red Bull),40.55604,40.55604,Cloudy,0.3
+154,2,Verstappen (Red Bull),41.25978,81.81582,Cloudy,0.3
+154,3,Verstappen (Red Bull),41.17863,122.99445,Cloudy,0.3
+154,4,Verstappen (Red Bull),41.19673,164.19118,Cloudy,0.3
+154,5,Verstappen (Red Bull),42.21576,206.40694,Cloudy,0.3
+154,1,Norris (McLaren),41.93947,41.93947,Cloudy,0.3
+154,2,Norris (McLaren),41.79899,83.73846,Cloudy,0.3
+154,3,Norris (McLaren),41.22905,124.9675,Cloudy,0.3
+154,4,Norris (McLaren),40.8673,165.83481,Cloudy,0.3
+154,5,Norris (McLaren),42.27789,208.1127,Cloudy,0.3
+155,1,Hamilton (Mercedes),41.24637,41.24637,Cloudy,0.3
+155,2,Hamilton (Mercedes),41.67258,82.91895,Cloudy,0.3
+155,3,Hamilton (Mercedes),41.52284,124.44179,Cloudy,0.3
+155,4,Hamilton (Mercedes),41.73965,166.18144,Cloudy,0.3
+155,5,Hamilton (Mercedes),41.57571,207.75715,Cloudy,0.3
+155,1,Verstappen (Red Bull),41.15558,41.15558,Cloudy,0.3
+155,2,Verstappen (Red Bull),41.58004,82.73562,Cloudy,0.3
+155,3,Verstappen (Red Bull),40.92197,123.65759,Cloudy,0.3
+155,4,Verstappen (Red Bull),41.52533,165.18292,Cloudy,0.3
+155,5,Verstappen (Red Bull),41.44969,206.63261,Cloudy,0.3
+155,1,Norris (McLaren),41.26199,41.26199,Cloudy,0.3
+155,2,Norris (McLaren),41.32523,82.58722,Cloudy,0.3
+155,3,Norris (McLaren),41.16187,123.74909,Cloudy,0.3
+155,4,Norris (McLaren),41.10375,164.85284,Cloudy,0.3
+155,5,Norris (McLaren),42.90436,207.7572,Cloudy,0.3
+156,1,Hamilton (Mercedes),41.13494,41.13494,Cloudy,0.3
+156,2,Hamilton (Mercedes),41.79633,82.93128,Cloudy,0.3
+156,3,Hamilton (Mercedes),41.66852,124.5998,Cloudy,0.3
+156,4,Hamilton (Mercedes),40.5404,165.14019,Cloudy,0.3
+156,5,Hamilton (Mercedes),41.82748,206.96767,Cloudy,0.3
+156,1,Verstappen (Red Bull),41.7121,41.7121,Cloudy,0.3
+156,2,Verstappen (Red Bull),42.13382,83.84592,Cloudy,0.3
+156,3,Verstappen (Red Bull),41.09251,124.93843,Cloudy,0.3
+156,4,Verstappen (Red Bull),40.58478,165.52321,Cloudy,0.3
+156,5,Verstappen (Red Bull),41.45661,206.97983,Cloudy,0.3
+156,1,Norris (McLaren),41.05877,41.05877,Cloudy,0.3
+156,2,Norris (McLaren),41.18723,82.246,Cloudy,0.3
+156,3,Norris (McLaren),43.06828,125.31428,Cloudy,0.3
+156,4,Norris (McLaren),41.35393,166.66821,Cloudy,0.3
+156,5,Norris (McLaren),40.841,207.50921,Cloudy,0.3
+157,1,Hamilton (Mercedes),41.60067,41.60067,Cloudy,0.3
+157,2,Hamilton (Mercedes),41.81147,83.41214,Cloudy,0.3
+157,3,Hamilton (Mercedes),41.03321,124.44534,Cloudy,0.3
+157,4,Hamilton (Mercedes),41.46495,165.91029,Cloudy,0.3
+157,5,Hamilton (Mercedes),41.11396,207.02425,Cloudy,0.3
+157,1,Verstappen (Red Bull),40.72451,40.72451,Cloudy,0.3
+157,2,Verstappen (Red Bull),40.86429,81.5888,Cloudy,0.3
+157,3,Verstappen (Red Bull),40.35477,121.94358,Cloudy,0.3
+157,4,Verstappen (Red Bull),41.47434,163.41791,Cloudy,0.3
+157,5,Verstappen (Red Bull),41.84794,205.26585,Cloudy,0.3
+157,1,Norris (McLaren),41.03578,41.03578,Cloudy,0.3
+157,2,Norris (McLaren),41.98436,83.02014,Cloudy,0.3
+157,3,Norris (McLaren),41.3949,124.41504,Cloudy,0.3
+157,4,Norris (McLaren),41.56706,165.9821,Cloudy,0.3
+157,5,Norris (McLaren),41.6215,207.6036,Cloudy,0.3
+158,1,Hamilton (Mercedes),40.98726,40.98726,Cloudy,0.3
+158,2,Hamilton (Mercedes),40.73003,81.71729,Cloudy,0.3
+158,3,Hamilton (Mercedes),41.18605,122.90334,Cloudy,0.3
+158,4,Hamilton (Mercedes),42.35481,165.25815,Cloudy,0.3
+158,5,Hamilton (Mercedes),41.65382,206.91197,Cloudy,0.3
+158,1,Verstappen (Red Bull),40.82799,40.82799,Cloudy,0.3
+158,2,Verstappen (Red Bull),40.23493,81.06292,Cloudy,0.3
+158,3,Verstappen (Red Bull),41.72265,122.78557,Cloudy,0.3
+158,4,Verstappen (Red Bull),40.36889,163.15445,Cloudy,0.3
+158,5,Verstappen (Red Bull),41.59385,204.7483,Cloudy,0.3
+158,1,Norris (McLaren),41.71474,41.71474,Cloudy,0.3
+158,2,Norris (McLaren),42.63646,84.35119,Cloudy,0.3
+158,3,Norris (McLaren),41.36336,125.71456,Cloudy,0.3
+158,4,Norris (McLaren),40.89466,166.60922,Cloudy,0.3
+158,5,Norris (McLaren),42.5977,209.20691,Cloudy,0.3
+159,1,Hamilton (Mercedes),42.20912,42.20912,Cloudy,0.3
+159,2,Hamilton (Mercedes),41.07393,83.28305,Cloudy,0.3
+159,3,Hamilton (Mercedes),41.51027,124.79332,Cloudy,0.3
+159,4,Hamilton (Mercedes),43.08387,167.87718,Cloudy,0.3
+159,5,Hamilton (Mercedes),41.47973,209.35691,Cloudy,0.3
+159,1,Verstappen (Red Bull),41.43214,41.43214,Cloudy,0.3
+159,2,Verstappen (Red Bull),40.80282,82.23495,Cloudy,0.3
+159,3,Verstappen (Red Bull),41.08237,123.31732,Cloudy,0.3
+159,4,Verstappen (Red Bull),41.43453,164.75185,Cloudy,0.3
+159,5,Verstappen (Red Bull),40.86093,205.61277,Cloudy,0.3
+159,1,Norris (McLaren),41.82101,41.82101,Cloudy,0.3
+159,2,Norris (McLaren),42.57812,84.39912,Cloudy,0.3
+159,3,Norris (McLaren),41.37993,125.77905,Cloudy,0.3
+159,4,Norris (McLaren),40.33097,166.11003,Cloudy,0.3
+159,5,Norris (McLaren),41.96871,208.07873,Cloudy,0.3
+160,1,Hamilton (Mercedes),41.22521,41.22521,Cloudy,0.3
+160,2,Hamilton (Mercedes),42.33082,83.55603,Cloudy,0.3
+160,3,Hamilton (Mercedes),41.66286,125.2189,Cloudy,0.3
+160,4,Hamilton (Mercedes),40.56936,165.78826,Cloudy,0.3
+160,5,Hamilton (Mercedes),42.39553,208.18379,Cloudy,0.3
+160,1,Verstappen (Red Bull),40.81351,40.81351,Cloudy,0.3
+160,2,Verstappen (Red Bull),40.78146,81.59497,Cloudy,0.3
+160,3,Verstappen (Red Bull),40.56015,122.15512,Cloudy,0.3
+160,4,Verstappen (Red Bull),41.67656,163.83168,Cloudy,0.3
+160,5,Verstappen (Red Bull),40.90597,204.73765,Cloudy,0.3
+160,1,Norris (McLaren),40.99325,40.99325,Cloudy,0.3
+160,2,Norris (McLaren),41.54663,82.53988,Cloudy,0.3
+160,3,Norris (McLaren),40.29542,122.8353,Cloudy,0.3
+160,4,Norris (McLaren),41.19435,164.02965,Cloudy,0.3
+160,5,Norris (McLaren),40.03297,204.06262,Cloudy,0.3
+161,1,Hamilton (Mercedes),41.8741,41.8741,Cloudy,0.3
+161,2,Hamilton (Mercedes),41.91854,83.79264,Cloudy,0.3
+161,3,Hamilton (Mercedes),41.34153,125.13417,Cloudy,0.3
+161,4,Hamilton (Mercedes),41.69363,166.82781,Cloudy,0.3
+161,5,Hamilton (Mercedes),40.17885,207.00665,Cloudy,0.3
+161,1,Verstappen (Red Bull),40.38771,40.38771,Cloudy,0.3
+161,2,Verstappen (Red Bull),40.89771,81.28542,Cloudy,0.3
+161,3,Verstappen (Red Bull),41.44641,122.73182,Cloudy,0.3
+161,4,Verstappen (Red Bull),40.74085,163.47267,Cloudy,0.3
+161,5,Verstappen (Red Bull),41.24969,204.72236,Cloudy,0.3
+161,1,Norris (McLaren),42.42922,42.42922,Cloudy,0.3
+161,2,Norris (McLaren),41.96269,84.39191,Cloudy,0.3
+161,3,Norris (McLaren),42.06534,126.45725,Cloudy,0.3
+161,4,Norris (McLaren),41.68221,168.13946,Cloudy,0.3
+161,5,Norris (McLaren),40.95548,209.09493,Cloudy,0.3
+162,1,Hamilton (Mercedes),41.04717,41.04717,Cloudy,0.3
+162,2,Hamilton (Mercedes),41.54716,82.59433,Cloudy,0.3
+162,3,Hamilton (Mercedes),41.63775,124.23208,Cloudy,0.3
+162,4,Hamilton (Mercedes),41.44603,165.67811,Cloudy,0.3
+162,5,Hamilton (Mercedes),41.1147,206.79281,Cloudy,0.3
+162,1,Verstappen (Red Bull),41.93487,41.93487,Cloudy,0.3
+162,2,Verstappen (Red Bull),40.81892,82.75379,Cloudy,0.3
+162,3,Verstappen (Red Bull),41.54653,124.30032,Cloudy,0.3
+162,4,Verstappen (Red Bull),41.16709,165.46741,Cloudy,0.3
+162,5,Verstappen (Red Bull),40.86963,206.33703,Cloudy,0.3
+162,1,Norris (McLaren),41.34482,41.34482,Cloudy,0.3
+162,2,Norris (McLaren),40.51373,81.85855,Cloudy,0.3
+162,3,Norris (McLaren),42.3317,124.19025,Cloudy,0.3
+162,4,Norris (McLaren),42.51108,166.70134,Cloudy,0.3
+162,5,Norris (McLaren),41.38199,208.08333,Cloudy,0.3
+163,1,Hamilton (Mercedes),42.39707,42.39707,Cloudy,0.3
+163,2,Hamilton (Mercedes),42.52466,84.92172,Cloudy,0.3
+163,3,Hamilton (Mercedes),41.7506,126.67233,Cloudy,0.3
+163,4,Hamilton (Mercedes),40.94097,167.61329,Cloudy,0.3
+163,5,Hamilton (Mercedes),41.1764,208.7897,Cloudy,0.3
+163,1,Verstappen (Red Bull),41.19491,41.19491,Cloudy,0.3
+163,2,Verstappen (Red Bull),41.2903,82.48521,Cloudy,0.3
+163,3,Verstappen (Red Bull),41.09226,123.57747,Cloudy,0.3
+163,4,Verstappen (Red Bull),41.9876,165.56507,Cloudy,0.3
+163,5,Verstappen (Red Bull),40.29901,205.86408,Cloudy,0.3
+163,1,Norris (McLaren),41.23135,41.23135,Cloudy,0.3
+163,2,Norris (McLaren),41.36207,82.59342,Cloudy,0.3
+163,3,Norris (McLaren),41.90177,124.49519,Cloudy,0.3
+163,4,Norris (McLaren),40.9957,165.49089,Cloudy,0.3
+163,5,Norris (McLaren),40.81343,206.30432,Cloudy,0.3
+164,1,Hamilton (Mercedes),41.28906,41.28906,Cloudy,0.3
+164,2,Hamilton (Mercedes),41.57915,82.86821,Cloudy,0.3
+164,3,Hamilton (Mercedes),41.12956,123.99777,Cloudy,0.3
+164,4,Hamilton (Mercedes),41.25928,165.25705,Cloudy,0.3
+164,5,Hamilton (Mercedes),41.02774,206.28479,Cloudy,0.3
+164,1,Verstappen (Red Bull),41.08599,41.08599,Cloudy,0.3
+164,2,Verstappen (Red Bull),40.49217,81.57816,Cloudy,0.3
+164,3,Verstappen (Red Bull),40.69423,122.27239,Cloudy,0.3
+164,4,Verstappen (Red Bull),40.52321,162.7956,Cloudy,0.3
+164,5,Verstappen (Red Bull),41.10774,203.90334,Cloudy,0.3
+164,1,Norris (McLaren),40.80439,40.80439,Cloudy,0.3
+164,2,Norris (McLaren),41.46674,82.27113,Cloudy,0.3
+164,3,Norris (McLaren),41.67099,123.94213,Cloudy,0.3
+164,4,Norris (McLaren),40.77959,164.72172,Cloudy,0.3
+164,5,Norris (McLaren),41.53836,206.26007,Cloudy,0.3
+165,1,Hamilton (Mercedes),40.34927,40.34927,Cloudy,0.3
+165,2,Hamilton (Mercedes),41.7934,82.14267,Cloudy,0.3
+165,3,Hamilton (Mercedes),41.46138,123.60405,Cloudy,0.3
+165,4,Hamilton (Mercedes),41.09371,164.69776,Cloudy,0.3
+165,5,Hamilton (Mercedes),41.79725,206.49501,Cloudy,0.3
+165,1,Verstappen (Red Bull),41.77493,41.77493,Cloudy,0.3
+165,2,Verstappen (Red Bull),40.52112,82.29605,Cloudy,0.3
+165,3,Verstappen (Red Bull),41.69849,123.99454,Cloudy,0.3
+165,4,Verstappen (Red Bull),41.03406,165.0286,Cloudy,0.3
+165,5,Verstappen (Red Bull),41.22377,206.25237,Cloudy,0.3
+165,1,Norris (McLaren),41.2607,41.2607,Cloudy,0.3
+165,2,Norris (McLaren),40.01139,81.27209,Cloudy,0.3
+165,3,Norris (McLaren),41.77806,123.05015,Cloudy,0.3
+165,4,Norris (McLaren),40.35921,163.40936,Cloudy,0.3
+165,5,Norris (McLaren),41.30015,204.70951,Cloudy,0.3
+166,1,Hamilton (Mercedes),41.4711,41.4711,Cloudy,0.3
+166,2,Hamilton (Mercedes),42.09608,83.56718,Cloudy,0.3
+166,3,Hamilton (Mercedes),40.54535,124.11253,Cloudy,0.3
+166,4,Hamilton (Mercedes),41.65849,165.77102,Cloudy,0.3
+166,5,Hamilton (Mercedes),40.78503,206.55605,Cloudy,0.3
+166,1,Verstappen (Red Bull),40.06693,40.06693,Cloudy,0.3
+166,2,Verstappen (Red Bull),41.39558,81.46251,Cloudy,0.3
+166,3,Verstappen (Red Bull),42.01545,123.47795,Cloudy,0.3
+166,4,Verstappen (Red Bull),41.07802,164.55597,Cloudy,0.3
+166,5,Verstappen (Red Bull),41.69662,206.25259,Cloudy,0.3
+166,1,Norris (McLaren),42.70743,42.70743,Cloudy,0.3
+166,2,Norris (McLaren),40.62706,83.33449,Cloudy,0.3
+166,3,Norris (McLaren),42.22736,125.56185,Cloudy,0.3
+166,4,Norris (McLaren),41.30343,166.86528,Cloudy,0.3
+166,5,Norris (McLaren),40.67381,207.5391,Cloudy,0.3
+167,1,Hamilton (Mercedes),40.87208,40.87208,Cloudy,0.3
+167,2,Hamilton (Mercedes),40.62657,81.49866,Cloudy,0.3
+167,3,Hamilton (Mercedes),42.01477,123.51342,Cloudy,0.3
+167,4,Hamilton (Mercedes),41.68257,165.196,Cloudy,0.3
+167,5,Hamilton (Mercedes),42.08466,207.28066,Cloudy,0.3
+167,1,Verstappen (Red Bull),41.24637,41.24637,Cloudy,0.3
+167,2,Verstappen (Red Bull),41.22171,82.46807,Cloudy,0.3
+167,3,Verstappen (Red Bull),41.39357,123.86165,Cloudy,0.3
+167,4,Verstappen (Red Bull),41.36268,165.22433,Cloudy,0.3
+167,5,Verstappen (Red Bull),41.23444,206.45877,Cloudy,0.3
+167,1,Norris (McLaren),41.72388,41.72388,Cloudy,0.3
+167,2,Norris (McLaren),41.44635,83.17024,Cloudy,0.3
+167,3,Norris (McLaren),41.21934,124.38958,Cloudy,0.3
+167,4,Norris (McLaren),40.40357,164.79315,Cloudy,0.3
+167,5,Norris (McLaren),41.23677,206.02993,Cloudy,0.3
+168,1,Hamilton (Mercedes),41.62023,41.62023,Cloudy,0.3
+168,2,Hamilton (Mercedes),42.22343,83.84366,Cloudy,0.3
+168,3,Hamilton (Mercedes),42.12468,125.96834,Cloudy,0.3
+168,4,Hamilton (Mercedes),42.21234,168.18067,Cloudy,0.3
+168,5,Hamilton (Mercedes),41.16815,209.34883,Cloudy,0.3
+168,1,Verstappen (Red Bull),41.58937,41.58937,Cloudy,0.3
+168,2,Verstappen (Red Bull),40.53329,82.12266,Cloudy,0.3
+168,3,Verstappen (Red Bull),41.43093,123.55359,Cloudy,0.3
+168,4,Verstappen (Red Bull),41.41663,164.97023,Cloudy,0.3
+168,5,Verstappen (Red Bull),40.80634,205.77657,Cloudy,0.3
+168,1,Norris (McLaren),40.36124,40.36124,Cloudy,0.3
+168,2,Norris (McLaren),41.69191,82.05314,Cloudy,0.3
+168,3,Norris (McLaren),41.37565,123.42879,Cloudy,0.3
+168,4,Norris (McLaren),41.90482,165.33362,Cloudy,0.3
+168,5,Norris (McLaren),40.13135,205.46496,Cloudy,0.3
+169,1,Hamilton (Mercedes),42.16014,42.16014,Cloudy,0.3
+169,2,Hamilton (Mercedes),42.22962,84.38976,Cloudy,0.3
+169,3,Hamilton (Mercedes),40.52969,124.91946,Cloudy,0.3
+169,4,Hamilton (Mercedes),41.64699,166.56645,Cloudy,0.3
+169,5,Hamilton (Mercedes),41.60172,208.16817,Cloudy,0.3
+169,1,Verstappen (Red Bull),40.95996,40.95996,Cloudy,0.3
+169,2,Verstappen (Red Bull),41.45693,82.41688,Cloudy,0.3
+169,3,Verstappen (Red Bull),41.48093,123.89782,Cloudy,0.3
+169,4,Verstappen (Red Bull),40.2956,164.19342,Cloudy,0.3
+169,5,Verstappen (Red Bull),41.56522,205.75864,Cloudy,0.3
+169,1,Norris (McLaren),40.37789,40.37789,Cloudy,0.3
+169,2,Norris (McLaren),41.93687,82.31476,Cloudy,0.3
+169,3,Norris (McLaren),41.32071,123.63547,Cloudy,0.3
+169,4,Norris (McLaren),41.78448,165.41995,Cloudy,0.3
+169,5,Norris (McLaren),42.03211,207.45206,Cloudy,0.3
+170,1,Hamilton (Mercedes),41.2243,41.2243,Cloudy,0.3
+170,2,Hamilton (Mercedes),41.10765,82.33195,Cloudy,0.3
+170,3,Hamilton (Mercedes),41.11185,123.44379,Cloudy,0.3
+170,4,Hamilton (Mercedes),41.64407,165.08786,Cloudy,0.3
+170,5,Hamilton (Mercedes),41.73202,206.81989,Cloudy,0.3
+170,1,Verstappen (Red Bull),42.39361,42.39361,Cloudy,0.3
+170,2,Verstappen (Red Bull),40.96449,83.3581,Cloudy,0.3
+170,3,Verstappen (Red Bull),41.05828,124.41638,Cloudy,0.3
+170,4,Verstappen (Red Bull),41.22138,165.63776,Cloudy,0.3
+170,5,Verstappen (Red Bull),40.14856,205.78632,Cloudy,0.3
+170,1,Norris (McLaren),41.5476,41.5476,Cloudy,0.3
+170,2,Norris (McLaren),41.78986,83.33746,Cloudy,0.3
+170,3,Norris (McLaren),41.80676,125.14422,Cloudy,0.3
+170,4,Norris (McLaren),41.34072,166.48494,Cloudy,0.3
+170,5,Norris (McLaren),42.21521,208.70015,Cloudy,0.3
+171,1,Hamilton (Mercedes),41.87327,41.87327,Cloudy,0.3
+171,2,Hamilton (Mercedes),40.72452,82.59779,Cloudy,0.3
+171,3,Hamilton (Mercedes),41.95296,124.55075,Cloudy,0.3
+171,4,Hamilton (Mercedes),40.88754,165.4383,Cloudy,0.3
+171,5,Hamilton (Mercedes),41.13197,206.57026,Cloudy,0.3
+171,1,Verstappen (Red Bull),42.03087,42.03087,Cloudy,0.3
+171,2,Verstappen (Red Bull),40.88668,82.91755,Cloudy,0.3
+171,3,Verstappen (Red Bull),41.54197,124.45952,Cloudy,0.3
+171,4,Verstappen (Red Bull),40.86559,165.32511,Cloudy,0.3
+171,5,Verstappen (Red Bull),40.93042,206.25553,Cloudy,0.3
+171,1,Norris (McLaren),42.57274,42.57274,Cloudy,0.3
+171,2,Norris (McLaren),41.07071,83.64344,Cloudy,0.3
+171,3,Norris (McLaren),40.65248,124.29592,Cloudy,0.3
+171,4,Norris (McLaren),40.83557,165.1315,Cloudy,0.3
+171,5,Norris (McLaren),41.04175,206.17325,Cloudy,0.3
+172,1,Hamilton (Mercedes),41.43143,41.43143,Cloudy,0.3
+172,2,Hamilton (Mercedes),41.72467,83.1561,Cloudy,0.3
+172,3,Hamilton (Mercedes),41.27347,124.42958,Cloudy,0.3
+172,4,Hamilton (Mercedes),41.7687,166.19827,Cloudy,0.3
+172,5,Hamilton (Mercedes),41.98845,208.18672,Cloudy,0.3
+172,1,Verstappen (Red Bull),41.23418,41.23418,Cloudy,0.3
+172,2,Verstappen (Red Bull),41.13202,82.3662,Cloudy,0.3
+172,3,Verstappen (Red Bull),39.78633,122.15253,Cloudy,0.3
+172,4,Verstappen (Red Bull),41.36522,163.51775,Cloudy,0.3
+172,5,Verstappen (Red Bull),41.24346,204.76121,Cloudy,0.3
+172,1,Norris (McLaren),41.76409,41.76409,Cloudy,0.3
+172,2,Norris (McLaren),40.62742,82.39151,Cloudy,0.3
+172,3,Norris (McLaren),41.86642,124.25793,Cloudy,0.3
+172,4,Norris (McLaren),41.61265,165.87059,Cloudy,0.3
+172,5,Norris (McLaren),41.75771,207.62829,Cloudy,0.3
+173,1,Hamilton (Mercedes),41.7956,41.7956,Cloudy,0.3
+173,2,Hamilton (Mercedes),40.24396,82.03955,Cloudy,0.3
+173,3,Hamilton (Mercedes),41.0384,123.07796,Cloudy,0.3
+173,4,Hamilton (Mercedes),41.91518,164.99313,Cloudy,0.3
+173,5,Hamilton (Mercedes),40.97177,205.9649,Cloudy,0.3
+173,1,Verstappen (Red Bull),40.88061,40.88061,Cloudy,0.3
+173,2,Verstappen (Red Bull),41.20913,82.08974,Cloudy,0.3
+173,3,Verstappen (Red Bull),40.63087,122.7206,Cloudy,0.3
+173,4,Verstappen (Red Bull),40.40138,163.12198,Cloudy,0.3
+173,5,Verstappen (Red Bull),42.64361,205.76559,Cloudy,0.3
+173,1,Norris (McLaren),40.21994,40.21994,Cloudy,0.3
+173,2,Norris (McLaren),41.0172,81.23714,Cloudy,0.3
+173,3,Norris (McLaren),40.44976,121.6869,Cloudy,0.3
+173,4,Norris (McLaren),41.46249,163.14939,Cloudy,0.3
+173,5,Norris (McLaren),41.66434,204.81374,Cloudy,0.3
+174,1,Hamilton (Mercedes),41.22867,41.22867,Cloudy,0.3
+174,2,Hamilton (Mercedes),41.66951,82.89817,Cloudy,0.3
+174,3,Hamilton (Mercedes),40.73679,123.63497,Cloudy,0.3
+174,4,Hamilton (Mercedes),41.45535,165.09032,Cloudy,0.3
+174,5,Hamilton (Mercedes),41.16488,206.2552,Cloudy,0.3
+174,1,Verstappen (Red Bull),41.78615,41.78615,Cloudy,0.3
+174,2,Verstappen (Red Bull),40.70975,82.4959,Cloudy,0.3
+174,3,Verstappen (Red Bull),41.64789,124.14379,Cloudy,0.3
+174,4,Verstappen (Red Bull),40.41723,164.56101,Cloudy,0.3
+174,5,Verstappen (Red Bull),41.59538,206.15639,Cloudy,0.3
+174,1,Norris (McLaren),40.54008,40.54008,Cloudy,0.3
+174,2,Norris (McLaren),40.89975,81.43983,Cloudy,0.3
+174,3,Norris (McLaren),40.63515,122.07498,Cloudy,0.3
+174,4,Norris (McLaren),41.89665,163.97163,Cloudy,0.3
+174,5,Norris (McLaren),40.9111,204.88273,Cloudy,0.3
+175,1,Hamilton (Mercedes),42.35176,42.35176,Cloudy,0.3
+175,2,Hamilton (Mercedes),41.3439,83.69566,Cloudy,0.3
+175,3,Hamilton (Mercedes),40.74852,124.44418,Cloudy,0.3
+175,4,Hamilton (Mercedes),41.453,165.89718,Cloudy,0.3
+175,5,Hamilton (Mercedes),41.25544,207.15262,Cloudy,0.3
+175,1,Verstappen (Red Bull),41.36567,41.36567,Cloudy,0.3
+175,2,Verstappen (Red Bull),41.78361,83.14928,Cloudy,0.3
+175,3,Verstappen (Red Bull),40.53463,123.68391,Cloudy,0.3
+175,4,Verstappen (Red Bull),41.66256,165.34647,Cloudy,0.3
+175,5,Verstappen (Red Bull),40.97027,206.31674,Cloudy,0.3
+175,1,Norris (McLaren),40.16485,40.16485,Cloudy,0.3
+175,2,Norris (McLaren),41.90802,82.07287,Cloudy,0.3
+175,3,Norris (McLaren),41.5917,123.66456,Cloudy,0.3
+175,4,Norris (McLaren),40.64574,164.3103,Cloudy,0.3
+175,5,Norris (McLaren),41.26485,205.57515,Cloudy,0.3
+176,1,Hamilton (Mercedes),42.20079,42.20079,Cloudy,0.3
+176,2,Hamilton (Mercedes),41.94059,84.14138,Cloudy,0.3
+176,3,Hamilton (Mercedes),41.62913,125.77051,Cloudy,0.3
+176,4,Hamilton (Mercedes),41.68991,167.46042,Cloudy,0.3
+176,5,Hamilton (Mercedes),40.98024,208.44066,Cloudy,0.3
+176,1,Verstappen (Red Bull),40.56186,40.56186,Cloudy,0.3
+176,2,Verstappen (Red Bull),41.25904,81.82091,Cloudy,0.3
+176,3,Verstappen (Red Bull),42.22764,124.04855,Cloudy,0.3
+176,4,Verstappen (Red Bull),41.49101,165.53955,Cloudy,0.3
+176,5,Verstappen (Red Bull),41.86074,207.4003,Cloudy,0.3
+176,1,Norris (McLaren),42.06868,42.06868,Cloudy,0.3
+176,2,Norris (McLaren),40.88585,82.95453,Cloudy,0.3
+176,3,Norris (McLaren),41.60528,124.55981,Cloudy,0.3
+176,4,Norris (McLaren),40.73851,165.29832,Cloudy,0.3
+176,5,Norris (McLaren),42.79086,208.08918,Cloudy,0.3
+177,1,Hamilton (Mercedes),41.55269,41.55269,Cloudy,0.3
+177,2,Hamilton (Mercedes),41.42383,82.97652,Cloudy,0.3
+177,3,Hamilton (Mercedes),41.56442,124.54094,Cloudy,0.3
+177,4,Hamilton (Mercedes),41.08593,165.62687,Cloudy,0.3
+177,5,Hamilton (Mercedes),41.43779,207.06466,Cloudy,0.3
+177,1,Verstappen (Red Bull),40.92873,40.92873,Cloudy,0.3
+177,2,Verstappen (Red Bull),41.05922,81.98795,Cloudy,0.3
+177,3,Verstappen (Red Bull),40.42079,122.40874,Cloudy,0.3
+177,4,Verstappen (Red Bull),40.37524,162.78398,Cloudy,0.3
+177,5,Verstappen (Red Bull),40.31884,203.10282,Cloudy,0.3
+177,1,Norris (McLaren),42.33387,42.33387,Cloudy,0.3
+177,2,Norris (McLaren),41.9601,84.29397,Cloudy,0.3
+177,3,Norris (McLaren),41.81185,126.10582,Cloudy,0.3
+177,4,Norris (McLaren),41.26346,167.36929,Cloudy,0.3
+177,5,Norris (McLaren),40.79259,208.16188,Cloudy,0.3
+178,1,Hamilton (Mercedes),41.78861,41.78861,Cloudy,0.3
+178,2,Hamilton (Mercedes),41.463,83.25161,Cloudy,0.3
+178,3,Hamilton (Mercedes),40.47376,123.72537,Cloudy,0.3
+178,4,Hamilton (Mercedes),42.59162,166.31699,Cloudy,0.3
+178,5,Hamilton (Mercedes),42.17063,208.48762,Cloudy,0.3
+178,1,Verstappen (Red Bull),41.65197,41.65197,Cloudy,0.3
+178,2,Verstappen (Red Bull),41.21777,82.86974,Cloudy,0.3
+178,3,Verstappen (Red Bull),40.4837,123.35344,Cloudy,0.3
+178,4,Verstappen (Red Bull),41.9958,165.34924,Cloudy,0.3
+178,5,Verstappen (Red Bull),41.74874,207.09798,Cloudy,0.3
+178,1,Norris (McLaren),40.73764,40.73764,Cloudy,0.3
+178,2,Norris (McLaren),42.21852,82.95616,Cloudy,0.3
+178,3,Norris (McLaren),40.78562,123.74177,Cloudy,0.3
+178,4,Norris (McLaren),40.64132,164.38309,Cloudy,0.3
+178,5,Norris (McLaren),41.71848,206.10157,Cloudy,0.3
+179,1,Hamilton (Mercedes),41.93069,41.93069,Cloudy,0.3
+179,2,Hamilton (Mercedes),41.40509,83.33579,Cloudy,0.3
+179,3,Hamilton (Mercedes),41.82484,125.16063,Cloudy,0.3
+179,4,Hamilton (Mercedes),41.83942,167.00005,Cloudy,0.3
+179,5,Hamilton (Mercedes),41.49645,208.4965,Cloudy,0.3
+179,1,Verstappen (Red Bull),41.40894,41.40894,Cloudy,0.3
+179,2,Verstappen (Red Bull),41.04747,82.45641,Cloudy,0.3
+179,3,Verstappen (Red Bull),40.90528,123.36169,Cloudy,0.3
+179,4,Verstappen (Red Bull),42.05016,165.41185,Cloudy,0.3
+179,5,Verstappen (Red Bull),41.67383,207.08567,Cloudy,0.3
+179,1,Norris (McLaren),43.23154,43.23154,Cloudy,0.3
+179,2,Norris (McLaren),40.14204,83.37358,Cloudy,0.3
+179,3,Norris (McLaren),41.66127,125.03485,Cloudy,0.3
+179,4,Norris (McLaren),41.27026,166.30512,Cloudy,0.3
+179,5,Norris (McLaren),40.99093,207.29605,Cloudy,0.3
+180,1,Hamilton (Mercedes),42.50819,42.50819,Cloudy,0.3
+180,2,Hamilton (Mercedes),40.90322,83.41141,Cloudy,0.3
+180,3,Hamilton (Mercedes),41.4288,124.84022,Cloudy,0.3
+180,4,Hamilton (Mercedes),41.26341,166.10362,Cloudy,0.3
+180,5,Hamilton (Mercedes),42.8385,208.94212,Cloudy,0.3
+180,1,Verstappen (Red Bull),41.83092,41.83092,Cloudy,0.3
+180,2,Verstappen (Red Bull),41.07418,82.9051,Cloudy,0.3
+180,3,Verstappen (Red Bull),40.82639,123.7315,Cloudy,0.3
+180,4,Verstappen (Red Bull),41.26254,164.99403,Cloudy,0.3
+180,5,Verstappen (Red Bull),41.04207,206.0361,Cloudy,0.3
+180,1,Norris (McLaren),41.81861,41.81861,Cloudy,0.3
+180,2,Norris (McLaren),41.29848,83.1171,Cloudy,0.3
+180,3,Norris (McLaren),41.55255,124.66965,Cloudy,0.3
+180,4,Norris (McLaren),41.34014,166.00978,Cloudy,0.3
+180,5,Norris (McLaren),41.51008,207.51986,Cloudy,0.3
+181,1,Hamilton (Mercedes),41.06857,41.06857,Cloudy,0.3
+181,2,Hamilton (Mercedes),42.13331,83.20189,Cloudy,0.3
+181,3,Hamilton (Mercedes),41.46413,124.66601,Cloudy,0.3
+181,4,Hamilton (Mercedes),41.30663,165.97264,Cloudy,0.3
+181,5,Hamilton (Mercedes),42.08708,208.05972,Cloudy,0.3
+181,1,Verstappen (Red Bull),39.84717,39.84717,Cloudy,0.3
+181,2,Verstappen (Red Bull),40.51303,80.3602,Cloudy,0.3
+181,3,Verstappen (Red Bull),40.27546,120.63566,Cloudy,0.3
+181,4,Verstappen (Red Bull),41.34135,161.97701,Cloudy,0.3
+181,5,Verstappen (Red Bull),40.87778,202.85479,Cloudy,0.3
+181,1,Norris (McLaren),41.49569,41.49569,Cloudy,0.3
+181,2,Norris (McLaren),40.96686,82.46255,Cloudy,0.3
+181,3,Norris (McLaren),41.2011,123.66364,Cloudy,0.3
+181,4,Norris (McLaren),42.57128,166.23492,Cloudy,0.3
+181,5,Norris (McLaren),41.44552,207.68044,Cloudy,0.3
+182,1,Hamilton (Mercedes),42.25984,42.25984,Cloudy,0.3
+182,2,Hamilton (Mercedes),41.07864,83.33848,Cloudy,0.3
+182,3,Hamilton (Mercedes),41.56581,124.90429,Cloudy,0.3
+182,4,Hamilton (Mercedes),41.35282,166.25711,Cloudy,0.3
+182,5,Hamilton (Mercedes),40.98063,207.23774,Cloudy,0.3
+182,1,Verstappen (Red Bull),41.61623,41.61623,Cloudy,0.3
+182,2,Verstappen (Red Bull),41.84046,83.45669,Cloudy,0.3
+182,3,Verstappen (Red Bull),40.70672,124.1634,Cloudy,0.3
+182,4,Verstappen (Red Bull),42.04554,166.20894,Cloudy,0.3
+182,5,Verstappen (Red Bull),40.44601,206.65495,Cloudy,0.3
+182,1,Norris (McLaren),41.32358,41.32358,Cloudy,0.3
+182,2,Norris (McLaren),41.84666,83.17024,Cloudy,0.3
+182,3,Norris (McLaren),40.91965,124.08989,Cloudy,0.3
+182,4,Norris (McLaren),40.27243,164.36231,Cloudy,0.3
+182,5,Norris (McLaren),41.3662,205.72851,Cloudy,0.3
+183,1,Hamilton (Mercedes),41.22474,41.22474,Cloudy,0.3
+183,2,Hamilton (Mercedes),41.27914,82.50388,Cloudy,0.3
+183,3,Hamilton (Mercedes),41.39187,123.89575,Cloudy,0.3
+183,4,Hamilton (Mercedes),41.51709,165.41284,Cloudy,0.3
+183,5,Hamilton (Mercedes),40.61053,206.02336,Cloudy,0.3
+183,1,Verstappen (Red Bull),41.69118,41.69118,Cloudy,0.3
+183,2,Verstappen (Red Bull),40.97358,82.66476,Cloudy,0.3
+183,3,Verstappen (Red Bull),42.19038,124.85514,Cloudy,0.3
+183,4,Verstappen (Red Bull),40.83421,165.68935,Cloudy,0.3
+183,5,Verstappen (Red Bull),40.35548,206.04483,Cloudy,0.3
+183,1,Norris (McLaren),42.32155,42.32155,Cloudy,0.3
+183,2,Norris (McLaren),43.33845,85.66,Cloudy,0.3
+183,3,Norris (McLaren),40.9812,126.64119,Cloudy,0.3
+183,4,Norris (McLaren),41.3065,167.94769,Cloudy,0.3
+183,5,Norris (McLaren),41.56402,209.51171,Cloudy,0.3
+184,1,Hamilton (Mercedes),40.59291,40.59291,Cloudy,0.3
+184,2,Hamilton (Mercedes),41.12242,81.71532,Cloudy,0.3
+184,3,Hamilton (Mercedes),42.33631,124.05164,Cloudy,0.3
+184,4,Hamilton (Mercedes),40.40396,164.4556,Cloudy,0.3
+184,5,Hamilton (Mercedes),41.16283,205.61843,Cloudy,0.3
+184,1,Verstappen (Red Bull),41.0904,41.0904,Cloudy,0.3
+184,2,Verstappen (Red Bull),41.22496,82.31536,Cloudy,0.3
+184,3,Verstappen (Red Bull),40.88354,123.1989,Cloudy,0.3
+184,4,Verstappen (Red Bull),40.45822,163.65711,Cloudy,0.3
+184,5,Verstappen (Red Bull),41.53008,205.18719,Cloudy,0.3
+184,1,Norris (McLaren),42.32396,42.32396,Cloudy,0.3
+184,2,Norris (McLaren),41.86514,84.1891,Cloudy,0.3
+184,3,Norris (McLaren),42.04517,126.23427,Cloudy,0.3
+184,4,Norris (McLaren),41.06191,167.29618,Cloudy,0.3
+184,5,Norris (McLaren),41.15327,208.44945,Cloudy,0.3
+185,1,Hamilton (Mercedes),41.05239,41.05239,Cloudy,0.3
+185,2,Hamilton (Mercedes),41.94813,83.00052,Cloudy,0.3
+185,3,Hamilton (Mercedes),41.80676,124.80728,Cloudy,0.3
+185,4,Hamilton (Mercedes),41.71385,166.52113,Cloudy,0.3
+185,5,Hamilton (Mercedes),42.34614,208.86727,Cloudy,0.3
+185,1,Verstappen (Red Bull),41.77385,41.77385,Cloudy,0.3
+185,2,Verstappen (Red Bull),40.7295,82.50335,Cloudy,0.3
+185,3,Verstappen (Red Bull),41.02039,123.52374,Cloudy,0.3
+185,4,Verstappen (Red Bull),41.70602,165.22977,Cloudy,0.3
+185,5,Verstappen (Red Bull),40.7734,206.00316,Cloudy,0.3
+185,1,Norris (McLaren),40.26607,40.26607,Cloudy,0.3
+185,2,Norris (McLaren),41.82403,82.09009,Cloudy,0.3
+185,3,Norris (McLaren),41.9821,124.07219,Cloudy,0.3
+185,4,Norris (McLaren),41.70956,165.78175,Cloudy,0.3
+185,5,Norris (McLaren),41.36818,207.14993,Cloudy,0.3
+186,1,Hamilton (Mercedes),41.33821,41.33821,Cloudy,0.3
+186,2,Hamilton (Mercedes),41.09603,82.43424,Cloudy,0.3
+186,3,Hamilton (Mercedes),42.09896,124.53319,Cloudy,0.3
+186,4,Hamilton (Mercedes),40.96374,165.49694,Cloudy,0.3
+186,5,Hamilton (Mercedes),42.11948,207.61642,Cloudy,0.3
+186,1,Verstappen (Red Bull),40.70942,40.70942,Cloudy,0.3
+186,2,Verstappen (Red Bull),40.6527,81.36213,Cloudy,0.3
+186,3,Verstappen (Red Bull),41.57206,122.93419,Cloudy,0.3
+186,4,Verstappen (Red Bull),41.68889,164.62308,Cloudy,0.3
+186,5,Verstappen (Red Bull),41.62737,206.25045,Cloudy,0.3
+186,1,Norris (McLaren),41.19152,41.19152,Cloudy,0.3
+186,2,Norris (McLaren),41.00465,82.19617,Cloudy,0.3
+186,3,Norris (McLaren),41.23727,123.43344,Cloudy,0.3
+186,4,Norris (McLaren),41.97735,165.41079,Cloudy,0.3
+186,5,Norris (McLaren),40.92485,206.33564,Cloudy,0.3
+187,1,Hamilton (Mercedes),41.31413,41.31413,Cloudy,0.3
+187,2,Hamilton (Mercedes),41.84838,83.16251,Cloudy,0.3
+187,3,Hamilton (Mercedes),41.19341,124.35592,Cloudy,0.3
+187,4,Hamilton (Mercedes),41.18952,165.54544,Cloudy,0.3
+187,5,Hamilton (Mercedes),41.86954,207.41498,Cloudy,0.3
+187,1,Verstappen (Red Bull),40.62577,40.62577,Cloudy,0.3
+187,2,Verstappen (Red Bull),41.47429,82.10007,Cloudy,0.3
+187,3,Verstappen (Red Bull),40.55075,122.65082,Cloudy,0.3
+187,4,Verstappen (Red Bull),40.02179,162.67261,Cloudy,0.3
+187,5,Verstappen (Red Bull),41.44,204.11262,Cloudy,0.3
+187,1,Norris (McLaren),41.76499,41.76499,Cloudy,0.3
+187,2,Norris (McLaren),41.64894,83.41392,Cloudy,0.3
+187,3,Norris (McLaren),41.65155,125.06548,Cloudy,0.3
+187,4,Norris (McLaren),41.88631,166.95178,Cloudy,0.3
+187,5,Norris (McLaren),40.96881,207.92059,Cloudy,0.3
+188,1,Hamilton (Mercedes),41.59346,41.59346,Cloudy,0.3
+188,2,Hamilton (Mercedes),41.96321,83.55667,Cloudy,0.3
+188,3,Hamilton (Mercedes),41.72356,125.28023,Cloudy,0.3
+188,4,Hamilton (Mercedes),41.07814,166.35837,Cloudy,0.3
+188,5,Hamilton (Mercedes),41.89401,208.25239,Cloudy,0.3
+188,1,Verstappen (Red Bull),41.85988,41.85988,Cloudy,0.3
+188,2,Verstappen (Red Bull),41.44935,83.30923,Cloudy,0.3
+188,3,Verstappen (Red Bull),41.01439,124.32362,Cloudy,0.3
+188,4,Verstappen (Red Bull),41.06639,165.39001,Cloudy,0.3
+188,5,Verstappen (Red Bull),41.87201,207.26202,Cloudy,0.3
+188,1,Norris (McLaren),41.29298,41.29298,Cloudy,0.3
+188,2,Norris (McLaren),41.72357,83.01654,Cloudy,0.3
+188,3,Norris (McLaren),40.33687,123.35342,Cloudy,0.3
+188,4,Norris (McLaren),41.63478,164.98819,Cloudy,0.3
+188,5,Norris (McLaren),42.07009,207.05829,Cloudy,0.3
+189,1,Hamilton (Mercedes),41.95294,41.95294,Cloudy,0.3
+189,2,Hamilton (Mercedes),40.27591,82.22885,Cloudy,0.3
+189,3,Hamilton (Mercedes),40.87635,123.1052,Cloudy,0.3
+189,4,Hamilton (Mercedes),42.01147,165.11667,Cloudy,0.3
+189,5,Hamilton (Mercedes),41.63703,206.7537,Cloudy,0.3
+189,1,Verstappen (Red Bull),41.44555,41.44555,Cloudy,0.3
+189,2,Verstappen (Red Bull),41.1432,82.58875,Cloudy,0.3
+189,3,Verstappen (Red Bull),41.9148,124.50354,Cloudy,0.3
+189,4,Verstappen (Red Bull),41.18027,165.68381,Cloudy,0.3
+189,5,Verstappen (Red Bull),41.20593,206.88975,Cloudy,0.3
+189,1,Norris (McLaren),42.47314,42.47314,Cloudy,0.3
+189,2,Norris (McLaren),41.01046,83.4836,Cloudy,0.3
+189,3,Norris (McLaren),41.09923,124.58283,Cloudy,0.3
+189,4,Norris (McLaren),41.33938,165.92221,Cloudy,0.3
+189,5,Norris (McLaren),42.60072,208.52293,Cloudy,0.3
+190,1,Hamilton (Mercedes),42.29474,42.29474,Cloudy,0.3
+190,2,Hamilton (Mercedes),41.59709,83.89183,Cloudy,0.3
+190,3,Hamilton (Mercedes),41.48859,125.38042,Cloudy,0.3
+190,4,Hamilton (Mercedes),42.49274,167.87316,Cloudy,0.3
+190,5,Hamilton (Mercedes),42.11757,209.99073,Cloudy,0.3
+190,1,Verstappen (Red Bull),40.49589,40.49589,Cloudy,0.3
+190,2,Verstappen (Red Bull),42.00001,82.4959,Cloudy,0.3
+190,3,Verstappen (Red Bull),41.11628,123.61218,Cloudy,0.3
+190,4,Verstappen (Red Bull),41.422,165.03418,Cloudy,0.3
+190,5,Verstappen (Red Bull),40.42163,205.4558,Cloudy,0.3
+190,1,Norris (McLaren),42.39029,42.39029,Cloudy,0.3
+190,2,Norris (McLaren),41.12642,83.51671,Cloudy,0.3
+190,3,Norris (McLaren),40.25834,123.77505,Cloudy,0.3
+190,4,Norris (McLaren),39.45202,163.22706,Cloudy,0.3
+190,5,Norris (McLaren),42.55582,205.78288,Cloudy,0.3
+191,1,Hamilton (Mercedes),41.3206,41.3206,Cloudy,0.3
+191,2,Hamilton (Mercedes),41.97538,83.29598,Cloudy,0.3
+191,3,Hamilton (Mercedes),41.71148,125.00747,Cloudy,0.3
+191,4,Hamilton (Mercedes),41.31634,166.32381,Cloudy,0.3
+191,5,Hamilton (Mercedes),41.80568,208.12949,Cloudy,0.3
+191,1,Verstappen (Red Bull),41.0586,41.0586,Cloudy,0.3
+191,2,Verstappen (Red Bull),40.45678,81.51538,Cloudy,0.3
+191,3,Verstappen (Red Bull),41.10413,122.61951,Cloudy,0.3
+191,4,Verstappen (Red Bull),41.00787,163.62738,Cloudy,0.3
+191,5,Verstappen (Red Bull),41.33331,204.96069,Cloudy,0.3
+191,1,Norris (McLaren),40.58317,40.58317,Cloudy,0.3
+191,2,Norris (McLaren),41.19579,81.77896,Cloudy,0.3
+191,3,Norris (McLaren),41.48852,123.26748,Cloudy,0.3
+191,4,Norris (McLaren),40.96541,164.23289,Cloudy,0.3
+191,5,Norris (McLaren),41.04418,205.27707,Cloudy,0.3
+192,1,Hamilton (Mercedes),40.89305,40.89305,Cloudy,0.3
+192,2,Hamilton (Mercedes),41.32075,82.2138,Cloudy,0.3
+192,3,Hamilton (Mercedes),40.96711,123.18091,Cloudy,0.3
+192,4,Hamilton (Mercedes),41.53796,164.71887,Cloudy,0.3
+192,5,Hamilton (Mercedes),41.5693,206.28816,Cloudy,0.3
+192,1,Verstappen (Red Bull),40.40876,40.40876,Cloudy,0.3
+192,2,Verstappen (Red Bull),41.70055,82.1093,Cloudy,0.3
+192,3,Verstappen (Red Bull),40.54858,122.65788,Cloudy,0.3
+192,4,Verstappen (Red Bull),40.66784,163.32573,Cloudy,0.3
+192,5,Verstappen (Red Bull),40.20119,203.52692,Cloudy,0.3
+192,1,Norris (McLaren),42.75035,42.75035,Cloudy,0.3
+192,2,Norris (McLaren),40.95147,83.70182,Cloudy,0.3
+192,3,Norris (McLaren),41.03405,124.73587,Cloudy,0.3
+192,4,Norris (McLaren),42.18813,166.924,Cloudy,0.3
+192,5,Norris (McLaren),41.41318,208.33719,Cloudy,0.3
+193,1,Hamilton (Mercedes),41.06033,41.06033,Cloudy,0.3
+193,2,Hamilton (Mercedes),41.20418,82.26452,Cloudy,0.3
+193,3,Hamilton (Mercedes),41.83302,124.09754,Cloudy,0.3
+193,4,Hamilton (Mercedes),41.7803,165.87784,Cloudy,0.3
+193,5,Hamilton (Mercedes),41.2996,207.17744,Cloudy,0.3
+193,1,Verstappen (Red Bull),42.2612,42.2612,Cloudy,0.3
+193,2,Verstappen (Red Bull),41.1421,83.4033,Cloudy,0.3
+193,3,Verstappen (Red Bull),41.28355,124.68685,Cloudy,0.3
+193,4,Verstappen (Red Bull),40.37721,165.06406,Cloudy,0.3
+193,5,Verstappen (Red Bull),40.83742,205.90147,Cloudy,0.3
+193,1,Norris (McLaren),41.14911,41.14911,Cloudy,0.3
+193,2,Norris (McLaren),41.53478,82.6839,Cloudy,0.3
+193,3,Norris (McLaren),41.16047,123.84436,Cloudy,0.3
+193,4,Norris (McLaren),41.48136,165.32572,Cloudy,0.3
+193,5,Norris (McLaren),41.59076,206.91648,Cloudy,0.3
+194,1,Hamilton (Mercedes),41.67733,41.67733,Cloudy,0.3
+194,2,Hamilton (Mercedes),42.013,83.69034,Cloudy,0.3
+194,3,Hamilton (Mercedes),41.56972,125.26006,Cloudy,0.3
+194,4,Hamilton (Mercedes),41.65841,166.91847,Cloudy,0.3
+194,5,Hamilton (Mercedes),42.02249,208.94096,Cloudy,0.3
+194,1,Verstappen (Red Bull),41.63892,41.63892,Cloudy,0.3
+194,2,Verstappen (Red Bull),40.39546,82.03438,Cloudy,0.3
+194,3,Verstappen (Red Bull),40.69496,122.72934,Cloudy,0.3
+194,4,Verstappen (Red Bull),41.33489,164.06423,Cloudy,0.3
+194,5,Verstappen (Red Bull),41.86394,205.92817,Cloudy,0.3
+194,1,Norris (McLaren),42.1735,42.1735,Cloudy,0.3
+194,2,Norris (McLaren),41.40094,83.57444,Cloudy,0.3
+194,3,Norris (McLaren),41.05324,124.62767,Cloudy,0.3
+194,4,Norris (McLaren),41.59014,166.21781,Cloudy,0.3
+194,5,Norris (McLaren),41.36575,207.58356,Cloudy,0.3
+195,1,Hamilton (Mercedes),40.91759,40.91759,Cloudy,0.3
+195,2,Hamilton (Mercedes),41.5778,82.49539,Cloudy,0.3
+195,3,Hamilton (Mercedes),41.10821,123.6036,Cloudy,0.3
+195,4,Hamilton (Mercedes),41.76088,165.36448,Cloudy,0.3
+195,5,Hamilton (Mercedes),41.45672,206.8212,Cloudy,0.3
+195,1,Verstappen (Red Bull),41.47011,41.47011,Cloudy,0.3
+195,2,Verstappen (Red Bull),41.48804,82.95815,Cloudy,0.3
+195,3,Verstappen (Red Bull),42.05543,125.01359,Cloudy,0.3
+195,4,Verstappen (Red Bull),41.15085,166.16443,Cloudy,0.3
+195,5,Verstappen (Red Bull),40.26274,206.42717,Cloudy,0.3
+195,1,Norris (McLaren),41.21694,41.21694,Cloudy,0.3
+195,2,Norris (McLaren),41.47001,82.68695,Cloudy,0.3
+195,3,Norris (McLaren),41.73888,124.42583,Cloudy,0.3
+195,4,Norris (McLaren),41.56283,165.98866,Cloudy,0.3
+195,5,Norris (McLaren),41.5064,207.49506,Cloudy,0.3
+196,1,Hamilton (Mercedes),40.31984,40.31984,Cloudy,0.3
+196,2,Hamilton (Mercedes),41.56865,81.88849,Cloudy,0.3
+196,3,Hamilton (Mercedes),41.72236,123.61085,Cloudy,0.3
+196,4,Hamilton (Mercedes),40.78056,164.39141,Cloudy,0.3
+196,5,Hamilton (Mercedes),41.08698,205.47839,Cloudy,0.3
+196,1,Verstappen (Red Bull),40.89417,40.89417,Cloudy,0.3
+196,2,Verstappen (Red Bull),41.4172,82.31137,Cloudy,0.3
+196,3,Verstappen (Red Bull),41.1489,123.46027,Cloudy,0.3
+196,4,Verstappen (Red Bull),41.16252,164.62279,Cloudy,0.3
+196,5,Verstappen (Red Bull),40.26903,204.89182,Cloudy,0.3
+196,1,Norris (McLaren),43.34378,43.34378,Cloudy,0.3
+196,2,Norris (McLaren),40.84659,84.19037,Cloudy,0.3
+196,3,Norris (McLaren),41.37795,125.56832,Cloudy,0.3
+196,4,Norris (McLaren),41.3161,166.88442,Cloudy,0.3
+196,5,Norris (McLaren),40.28049,207.16491,Cloudy,0.3
+197,1,Hamilton (Mercedes),41.7582,41.7582,Cloudy,0.3
+197,2,Hamilton (Mercedes),41.47554,83.23373,Cloudy,0.3
+197,3,Hamilton (Mercedes),41.60118,124.83491,Cloudy,0.3
+197,4,Hamilton (Mercedes),41.15674,165.99165,Cloudy,0.3
+197,5,Hamilton (Mercedes),41.1465,207.13815,Cloudy,0.3
+197,1,Verstappen (Red Bull),40.70953,40.70953,Cloudy,0.3
+197,2,Verstappen (Red Bull),41.45105,82.16058,Cloudy,0.3
+197,3,Verstappen (Red Bull),41.20438,123.36496,Cloudy,0.3
+197,4,Verstappen (Red Bull),40.76407,164.12903,Cloudy,0.3
+197,5,Verstappen (Red Bull),40.8999,205.02893,Cloudy,0.3
+197,1,Norris (McLaren),40.7477,40.7477,Cloudy,0.3
+197,2,Norris (McLaren),41.2202,81.9679,Cloudy,0.3
+197,3,Norris (McLaren),40.06036,122.02826,Cloudy,0.3
+197,4,Norris (McLaren),41.218,163.24627,Cloudy,0.3
+197,5,Norris (McLaren),41.58865,204.83492,Cloudy,0.3
+198,1,Hamilton (Mercedes),41.7902,41.7902,Cloudy,0.3
+198,2,Hamilton (Mercedes),41.4191,83.2093,Cloudy,0.3
+198,3,Hamilton (Mercedes),41.61037,124.81967,Cloudy,0.3
+198,4,Hamilton (Mercedes),40.7402,165.55987,Cloudy,0.3
+198,5,Hamilton (Mercedes),42.10216,207.66202,Cloudy,0.3
+198,1,Verstappen (Red Bull),40.89592,40.89592,Cloudy,0.3
+198,2,Verstappen (Red Bull),41.65648,82.5524,Cloudy,0.3
+198,3,Verstappen (Red Bull),41.66132,124.21372,Cloudy,0.3
+198,4,Verstappen (Red Bull),41.18566,165.39938,Cloudy,0.3
+198,5,Verstappen (Red Bull),40.85475,206.25413,Cloudy,0.3
+198,1,Norris (McLaren),41.29919,41.29919,Cloudy,0.3
+198,2,Norris (McLaren),41.79056,83.08975,Cloudy,0.3
+198,3,Norris (McLaren),41.92922,125.01897,Cloudy,0.3
+198,4,Norris (McLaren),41.95151,166.97049,Cloudy,0.3
+198,5,Norris (McLaren),40.46411,207.43459,Cloudy,0.3
+199,1,Hamilton (Mercedes),41.85592,41.85592,Cloudy,0.3
+199,2,Hamilton (Mercedes),41.27093,83.12685,Cloudy,0.3
+199,3,Hamilton (Mercedes),42.04406,125.17092,Cloudy,0.3
+199,4,Hamilton (Mercedes),41.8489,167.01982,Cloudy,0.3
+199,5,Hamilton (Mercedes),41.95076,208.97058,Cloudy,0.3
+199,1,Verstappen (Red Bull),41.06065,41.06065,Cloudy,0.3
+199,2,Verstappen (Red Bull),40.44222,81.50287,Cloudy,0.3
+199,3,Verstappen (Red Bull),41.12252,122.62539,Cloudy,0.3
+199,4,Verstappen (Red Bull),42.25233,164.87772,Cloudy,0.3
+199,5,Verstappen (Red Bull),42.11399,206.99171,Cloudy,0.3
+199,1,Norris (McLaren),41.60677,41.60677,Cloudy,0.3
+199,2,Norris (McLaren),42.16615,83.77292,Cloudy,0.3
+199,3,Norris (McLaren),41.04545,124.81837,Cloudy,0.3
+199,4,Norris (McLaren),41.80883,166.6272,Cloudy,0.3
+199,5,Norris (McLaren),42.49446,209.12166,Cloudy,0.3
+200,1,Hamilton (Mercedes),41.193,41.193,Cloudy,0.3
+200,2,Hamilton (Mercedes),42.0454,83.2384,Cloudy,0.3
+200,3,Hamilton (Mercedes),41.73596,124.97436,Cloudy,0.3
+200,4,Hamilton (Mercedes),41.70951,166.68387,Cloudy,0.3
+200,5,Hamilton (Mercedes),41.81685,208.50072,Cloudy,0.3
+200,1,Verstappen (Red Bull),40.3661,40.3661,Cloudy,0.3
+200,2,Verstappen (Red Bull),40.33078,80.69689,Cloudy,0.3
+200,3,Verstappen (Red Bull),41.99499,122.69188,Cloudy,0.3
+200,4,Verstappen (Red Bull),41.57085,164.26273,Cloudy,0.3
+200,5,Verstappen (Red Bull),40.79497,205.0577,Cloudy,0.3
+200,1,Norris (McLaren),42.12986,42.12986,Cloudy,0.3
+200,2,Norris (McLaren),40.18417,82.31403,Cloudy,0.3
+200,3,Norris (McLaren),40.45515,122.76918,Cloudy,0.3
+200,4,Norris (McLaren),42.90931,165.67849,Cloudy,0.3
+200,5,Norris (McLaren),42.20924,207.88772,Cloudy,0.3

@@ -1,0 +1,141 @@
+{
+  "run_id": "003",
+  "description": "Cloudy mixed conditions - crossover zone for tire strategy",
+  "random_seed": 300,
+  "num_laps": 5,
+  "num_trials": 200,
+  "track": {
+    "name": "Silverstone Analog",
+    "total_length_m": 1486.98,
+    "num_segments": 12,
+    "segments": [
+      {
+        "type": "STRAIGHT",
+        "length_m": 189.65,
+        "radius_m": null
+      },
+      {
+        "type": "CORNER",
+        "length_m": 37.34,
+        "radius_m": 47.41
+      },
+      {
+        "type": "STRAIGHT",
+        "length_m": 151.97,
+        "radius_m": null
+      },
+      {
+        "type": "CORNER",
+        "length_m": 113.88,
+        "radius_m": 78.51
+      },
+      {
+        "type": "STRAIGHT",
+        "length_m": 186.97,
+        "radius_m": null
+      },
+      {
+        "type": "CORNER",
+        "length_m": 51.75,
+        "radius_m": 35.51
+      },
+      {
+        "type": "STRAIGHT",
+        "length_m": 155.23,
+        "radius_m": null
+      },
+      {
+        "type": "CORNER",
+        "length_m": 39.87,
+        "radius_m": 34.01
+      },
+      {
+        "type": "STRAIGHT",
+        "length_m": 114.15,
+        "radius_m": null
+      },
+      {
+        "type": "CORNER",
+        "length_m": 128.31,
+        "radius_m": 81.46
+      },
+      {
+        "type": "STRAIGHT",
+        "length_m": 177.28,
+        "radius_m": null
+      },
+      {
+        "type": "CORNER",
+        "length_m": 140.58,
+        "radius_m": 75.18
+      }
+    ]
+  },
+  "environment": {
+    "weather": "Cloudy",
+    "wetness": 0.3,
+    "visibility": 0.85
+  },
+  "entrants": [
+    {
+      "name": "Hamilton (Mercedes)",
+      "driver": {
+        "name": "Hamilton",
+        "experience": 9.0,
+        "aggressiveness": 0.7
+      },
+      "car": {
+        "name": "Mercedes",
+        "mass": 798.0,
+        "cd": 0.9,
+        "cl": 1.55,
+        "top_speed": 89.0
+      },
+      "tire": {
+        "compound": "DRY",
+        "mu_dry": 1.04,
+        "mu_wet": 0.88
+      }
+    },
+    {
+      "name": "Verstappen (Red Bull)",
+      "driver": {
+        "name": "Verstappen",
+        "experience": 8.5,
+        "aggressiveness": 0.85
+      },
+      "car": {
+        "name": "Red Bull",
+        "mass": 798.0,
+        "cd": 0.92,
+        "cl": 1.58,
+        "top_speed": 88.5
+      },
+      "tire": {
+        "compound": "INTERMEDIATE",
+        "mu_dry": 1.02,
+        "mu_wet": 0.93
+      }
+    },
+    {
+      "name": "Norris (McLaren)",
+      "driver": {
+        "name": "Norris",
+        "experience": 6.0,
+        "aggressiveness": 0.75
+      },
+      "car": {
+        "name": "McLaren",
+        "mass": 798.0,
+        "cd": 0.88,
+        "cl": 1.52,
+        "top_speed": 89.5
+      },
+      "tire": {
+        "compound": "WET",
+        "mu_dry": 1.0,
+        "mu_wet": 0.97
+      }
+    }
+  ]
+}
