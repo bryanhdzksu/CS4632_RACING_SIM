@@ -1,0 +1,39 @@
+{
+  "run_id": "002",
+  "description": "Baseline wet conditions - 3 entrants, rainy weather",
+  "timestamp": "2026-03-25T23:54:57.365155+00:00",
+  "execution_time_seconds": 0.322,
+  "num_trials": 200,
+  "num_laps": 5,
+  "track_name": "Silverstone Analog",
+  "track_length_m": 1203.84,
+  "weather": "Rainy",
+  "wetness": 0.8,
+  "visibility": 0.6,
+  "entrants": {
+    "Hamilton (Mercedes)": {
+      "avg_time": 184.7856,
+      "std_time": 1.2715,
+      "min_time": 181.8706,
+      "max_time": 187.9655,
+      "wins": 3,
+      "win_pct": 1.5
+    },
+    "Verstappen (Red Bull)": {
+      "avg_time": 181.8556,
+      "std_time": 1.2382,
+      "min_time": 177.7061,
+      "max_time": 185.9477,
+      "wins": 131,
+      "win_pct": 65.5
+    },
+    "Norris (McLaren)": {
+      "avg_time": 182.66,
+      "std_time": 1.589,
+      "min_time": 178.2376,
+      "max_time": 186.9865,
+      "wins": 66,
+      "win_pct": 33.0
+    }
+  }
+}
