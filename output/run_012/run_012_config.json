@@ -1,0 +1,161 @@
+{
+  "run_id": "012",
+  "description": "Mixed tire strategy in foggy conditions - visibility penalty test",
+  "random_seed": 1200,
+  "num_laps": 5,
+  "num_trials": 200,
+  "track": {
+    "name": "Foggy Mountain Circuit",
+    "total_length_m": 1308.8,
+    "num_segments": 12,
+    "segments": [
+      {
+        "type": "STRAIGHT",
+        "length_m": 194.5,
+        "radius_m": null
+      },
+      {
+        "type": "CORNER",
+        "length_m": 52.25,
+        "radius_m": 50.87
+      },
+      {
+        "type": "STRAIGHT",
+        "length_m": 170.41,
+        "radius_m": null
+      },
+      {
+        "type": "CORNER",
+        "length_m": 61.94,
+        "radius_m": 52.38
+      },
+      {
+        "type": "STRAIGHT",
+        "length_m": 110.42,
+        "radius_m": null
+      },
+      {
+        "type": "CORNER",
+        "length_m": 149.19,
+        "radius_m": 65.99
+      },
+      {
+        "type": "STRAIGHT",
+        "length_m": 138.32,
+        "radius_m": null
+      },
+      {
+        "type": "CORNER",
+        "length_m": 31.99,
+        "radius_m": 26.88
+      },
+      {
+        "type": "STRAIGHT",
+        "length_m": 152.94,
+        "radius_m": null
+      },
+      {
+        "type": "CORNER",
+        "length_m": 54.3,
+        "radius_m": 42.52
+      },
+      {
+        "type": "STRAIGHT",
+        "length_m": 134.45,
+        "radius_m": null
+      },
+      {
+        "type": "CORNER",
+        "length_m": 58.08,
+        "radius_m": 66.42
+      }
+    ]
+  },
+  "environment": {
+    "weather": "Foggy",
+    "wetness": 0.4,
+    "visibility": 0.35
+  },
+  "entrants": [
+    {
+      "name": "Hamilton (Mercedes)",
+      "driver": {
+        "name": "Hamilton",
+        "experience": 9.0,
+        "aggressiveness": 0.7
+      },
+      "car": {
+        "name": "Mercedes",
+        "mass": 798.0,
+        "cd": 0.9,
+        "cl": 1.55,
+        "top_speed": 89.0
+      },
+      "tire": {
+        "compound": "DRY",
+        "mu_dry": 1.04,
+        "mu_wet": 0.88
+      }
+    },
+    {
+      "name": "Verstappen (Red Bull)",
+      "driver": {
+        "name": "Verstappen",
+        "experience": 8.5,
+        "aggressiveness": 0.85
+      },
+      "car": {
+        "name": "Red Bull",
+        "mass": 798.0,
+        "cd": 0.92,
+        "cl": 1.58,
+        "top_speed": 88.5
+      },
+      "tire": {
+        "compound": "INTERMEDIATE",
+        "mu_dry": 1.02,
+        "mu_wet": 0.93
+      }
+    },
+    {
+      "name": "Norris (McLaren)",
+      "driver": {
+        "name": "Norris",
+        "experience": 6.0,
+        "aggressiveness": 0.75
+      },
+      "car": {
+        "name": "McLaren",
+        "mass": 798.0,
+        "cd": 0.88,
+        "cl": 1.52,
+        "top_speed": 89.5
+      },
+      "tire": {
+        "compound": "WET",
+        "mu_dry": 1.0,
+        "mu_wet": 0.97
+      }
+    },
+    {
+      "name": "Leclerc (Ferrari)",
+      "driver": {
+        "name": "Leclerc",
+        "experience": 7.0,
+        "aggressiveness": 0.8
+      },
+      "car": {
+        "name": "Ferrari",
+        "mass": 798.0,
+        "cd": 0.91,
+        "cl": 1.56,
+        "top_speed": 88.8
+      },
+      "tire": {
+        "compound": "INTERMEDIATE",
+        "mu_dry": 1.02,
+        "mu_wet": 0.93
+      }
+    }
+  ]
+}
