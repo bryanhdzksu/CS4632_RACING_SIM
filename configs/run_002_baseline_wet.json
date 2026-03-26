@@ -1,0 +1,103 @@
+{
+  "run_id": "002",
+  "description": "Baseline wet conditions - 3 entrants, rainy weather",
+  "random_seed": 200,
+  "num_laps": 5,
+  "num_trials": 200,
+  "collect_detail": true,
+  "track": {
+    "name": "Silverstone Analog",
+    "num_pairs": 6,
+    "straight_range": [
+      100.0,
+      250.0
+    ],
+    "corner_radius_range": [
+      25.0,
+      90.0
+    ],
+    "corner_arc_range_deg": [
+      45.0,
+      135.0
+    ]
+  },
+  "environment": {
+    "weather": "Rainy",
+    "wetness": 0.8,
+    "visibility": 0.6
+  },
+  "entrants": [
+    {
+      "driver": {
+        "name": "Hamilton",
+        "experience": 9.0,
+        "aggressiveness": 0.7
+      },
+      "car": {
+        "name": "Mercedes",
+        "mass": 798.0,
+        "cd": 0.9,
+        "cl": 1.55,
+        "frontal_area": 1.5,
+        "max_accel": 5.9,
+        "max_brake": 8.3,
+        "top_speed": 89.0,
+        "brake_efficiency": 1.0,
+        "suspension_factor": 0.02
+      },
+      "tire": {
+        "compound": "DRY",
+        "mu_dry": 1.04,
+        "mu_wet": 0.88
+      }
+    },
+    {
+      "driver": {
+        "name": "Verstappen",
+        "experience": 8.5,
+        "aggressiveness": 0.85
+      },
+      "car": {
+        "name": "Red Bull",
+        "mass": 798.0,
+        "cd": 0.92,
+        "cl": 1.58,
+        "frontal_area": 1.5,
+        "max_accel": 5.9,
+        "max_brake": 8.2,
+        "top_speed": 88.5,
+        "brake_efficiency": 0.98,
+        "suspension_factor": 0.01
+      },
+      "tire": {
+        "compound": "INTERMEDIATE",
+        "mu_dry": 1.02,
+        "mu_wet": 0.93
+      }
+    },
+    {
+      "driver": {
+        "name": "Norris",
+        "experience": 6.0,
+        "aggressiveness": 0.75
+      },
+      "car": {
+        "name": "McLaren",
+        "mass": 798.0,
+        "cd": 0.88,
+        "cl": 1.52,
+        "frontal_area": 1.5,
+        "max_accel": 5.9,
+        "max_brake": 8.1,
+        "top_speed": 89.5,
+        "brake_efficiency": 0.99,
+        "suspension_factor": 0.0
+      },
+      "tire": {
+        "compound": "WET",
+        "mu_dry": 1.0,
+        "mu_wet": 0.97
+      }
+    }
+  ]
+}
