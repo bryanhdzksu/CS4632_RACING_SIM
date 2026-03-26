@@ -2,69 +2,75 @@
 Official repository for the **Stochastic Motorsport Performance Simulator** for CS 4632 Modeling and Simulation.
 
 ## Overview
-This project is a custom-built Python simulation that models motorsport race performance using physics-inspired equations, stochastic variability, and Monte Carlo trials. The simulation focuses on how vehicle setup, environmental conditions, and driver behavior interact to affect lap times and race outcomes.
+This project is a custom-built Python simulation that models motorsport race performance using physics-inspired equations, stochastic variability, and Monte Carlo trials. The simulation focuses on how vehicle setup, environmental conditions, tire strategy, and driver behavior interact to affect lap times and race outcomes.
 
 This implementation is written from scratch in Python and does **not** rely on prebuilt simulation frameworks or premade simulation engines.
 
-## Current M2 Implementation
-The current Milestone 2 implementation establishes a working initial prototype of the simulator. The project now includes:
-- core entity classes for track, cars, tires, drivers, and environment
-- random track generation with alternating straights and corners
-- aerodynamic drag and downforce calculations
-- friction-limited corner speed calculations
-- simple straight-line acceleration and braking transition logic
-- wetness sampling for environment conditions
-- driver experience mapped to stochastic performance variance
-- Monte Carlo race trials with result aggregation
-- sample output logging
+## Current M3 Implementation
+Milestone 3 completes the core simulator and adds comprehensive data collection, a configuration system, and systematic execution of 12 documented simulation runs. Key changes since M2:
 
-This version represents an initial vertical slice of the final simulator and is intended to demonstrate core functionality, not full final realism.
+- **N-participant generalization** — the simulator now supports any number of drivers/cars, up from the hardcoded two-driver limit in M2
+- **Wetness/tire sensitivity rebalancing** — smoothstep grip blending, traction-limited acceleration, grip-aware braking, and visibility penalties distribute performance across multiple dimensions rather than tire choice alone
+- **JSON configuration system** — every run is defined by a self-contained JSON config file; the CLI supports single-config runs, batch `--run-all`, and parameter overrides
+- **Full data export** — per-run output includes time-series CSV (trial × lap × entrant), segment-level events CSV, summary JSON, config JSON, and a master run index
+- **12 documented runs** varying weather, field size, lap count, track complexity, tire strategy, and trial count
 
 ## What Is Implemented
-The following features are currently implemented:
-- `compute_aero()` for aerodynamic drag and downforce
-- `compute_corner_vmax()` for friction-limited corner speed
-- straight-segment speed updates
-- braking transition logic before corners
-- lap simulation across track segments
-- race simulation for two drivers
-- repeated Monte Carlo trials
-- summary metric generation:
-  - average race time
-  - standard deviation
-  - win counts
-  - win probability
-- console output and file logging
+- `Entrant` dataclass pairing a `Driver` with a `RaceCar`
+- `Tire.mu_effective()` with smoothstep blending for gradual grip transitions
+- `Driver.skill_factor()` multiplicative lap-time scaling by experience/aggressiveness
+- `SimulationEngine` with:
+  - aerodynamic drag and downforce (`compute_aero`)
+  - friction-limited corner speed iteration (`compute_corner_vmax`)
+  - traction-limited straight-line acceleration (`_traction_limited_accel`)
+  - grip-aware braking deceleration (`_wet_brake_decel`)
+  - visibility reaction-time penalty (`_visibility_penalty`)
+  - detailed segment/lap/race data collection
+  - N-entrant Monte Carlo trial execution
+- `SimConfig` with JSON loading, CLI arg parsing, and validation
+- `DataCollector` writing per-run CSV/JSON files and master index
+- 12 preset configs in `configs/` covering dry, wet, cloudy, foggy, sprint, endurance, complex track, simple track, large field, and tire strategy scenarios
 
-## What Is Not Yet Implemented
-The following features are planned for future milestones:
-- advanced powertrain modeling
-- more detailed corner entry/exit dynamics
-- pit strategies
-- fuel load effects
-- richer parameter tuning from literature sources
-- visualization beyond console and text-file output
-- more sophisticated balancing between setup factors
+## Scope Updates From Original Proposal
+Several items from the original project board were completed, partially addressed, or intentionally deferred during M3. These decisions were driven by the M2 feedback priorities (wetness sensitivity, CSV export, N-participant support) and the goal of producing a defensible, data-ready simulator rather than adding breadth at the cost of depth.
 
-## Changes From M1
-This implementation directly addresses Milestone 1 feedback by:
-- defining performance quantitatively as lowest expected race time
-- defining wetness range and sampling rules
-- defining driver variance as a function of experience
-- adding straight-line acceleration logic
-- adding braking logic before corners
-- defining a concrete track-generation algorithm
-- moving from conceptual equations to executable simulation code
+### Completed in M3 (moved from Todo/In Progress)
+- **Tune tire friction values (#18)** — mu values recalibrated with smoothstep blending so per-lap gaps fall within stochastic noise, producing probabilistic rather than deterministic outcomes
+- **Tune aerodynamic coefficients (#19)** — cars now have genuine tradeoffs (high-downforce/high-drag vs low-drag/low-downforce) instead of one car dominating every dimension
+- **Export results to CSV (#20)** — full DataCollector pipeline: timeseries CSV, events CSV, summary JSON, config JSON, and master run index
+- **Add configurable simulation parameters (#21)** — JSON config files, CLI arg parsing, parameter validation, default presets, and batch `--run-all` mode
+- **Refine braking model before corners (#24)** — `_wet_brake_decel()` degrades braking proportionally with reduced tire grip in wet conditions
+- **Refine wetness/tire sensitivity balance (#16)** — the primary M2 feedback item, addressed through five physics changes across straights, corners, braking, and visibility
+- **Implement first-pass straight-line dynamics (#26)** — `_traction_limited_accel()` limits acceleration by whichever is lower: engine output or tire traction
+
+### Partially Addressed
+- **Improve segment transition realism (#22)** — braking transitions are now grip-aware, but the core model still passes exit speed directly as entry speed to the next segment without a coasting phase. A full lift-and-coast model was deprioritized in favor of the sensitivity rebalancing work.
+- **Define clearer suspension impact (#23)** — `suspension_factor` is a configurable per-car parameter that scales tire mu_effective. A richer multi-parameter suspension model was deferred because the current single-factor approach is sufficient for the tire-strategy sensitivity analysis the simulation targets.
+- **Add explicit powertrain / acceleration model (#25)** — traction-limited acceleration was added so grip constrains straight performance in wet conditions. A full torque-curve / gear-ratio powertrain was descoped because the simulation focuses on tire strategy and environmental sensitivity, not drivetrain engineering.
+
+### Updates To Project Scope 
+- **Extract parameter values from references (#30)** — current values are calibrated for balanced competitive outcomes; M4 validation will compare simulation behavior against published performance data
+- **Add parameter details to UML method definitions (#31)** — architecture documentation is maintained in this README; formal UML updates are planned for the M5 final report
+- **Fuel load and pit-stop strategies** — out of scope for the current simulation model
+- **Tire degradation over race distance** — planned for potential M4/M5 extension if time allows
+- **Visualization and charting** — planned for M4 analysis phase
+
+## Changes From M2
+This implementation addresses Milestone 2 feedback by:
+- **Fixing the wetness/tire sensitivity imbalance**: replaced linear grip interpolation with a smoothstep S-curve that widens the crossover zone; added traction-limited acceleration, grip-aware braking, and a visibility penalty so that wet conditions affect straights and braking, not just corners
+- **Implementing CSV/JSON export**: the `DataCollector` writes four files per run (config, timeseries, events, summary) plus a master index
+- **Expanding beyond two drivers/cars**: refactored all simulation data structures to support N entrants; demonstrated with runs of 3, 4, and 6 participants
+- **Adding a configuration system**: JSON config files with CLI support, parameter validation, and default scenario presets
 
 ## Dependencies
-The current M2 implementation uses only Python standard library modules and does not require external packages.
+This project uses only the Python standard library and requires no external packages.
 
 ## Installation Instructions
 
 ### Requirements
 - Python 3.10 or newer
 - A terminal or command prompt
-- No external libraries are required for the current milestone
+- No external libraries required
 
 ### Setup
 1. Clone the repository:
@@ -87,109 +93,164 @@ The current M2 implementation uses only Python standard library modules and does
    ```bash
    source venv/bin/activate
    ```
-4. Run the simulator:
-   ```bash
-   python main.py
-   ```
 
 ## Usage
-Run the simulator from the repository root:
 
+### Run a single configuration
+```bash
+python main.py --config configs/run_001_baseline_dry.json
+```
+
+### Run all 12 preset configurations
+```bash
+python main.py --run-all
+```
+
+### Run with parameter overrides
+```bash
+python main.py --config configs/run_001_baseline_dry.json --seed 999 --num-trials 500
+```
+
+### Run with defaults (no config file)
 ```bash
 python main.py
 ```
 
-### Current Configuration
-The current M2 prototype uses:
-- one generated test track per run
-- one sampled weather/environment condition per run
-- two preconfigured cars
-- two preconfigured drivers
-- a fixed number of laps and Monte Carlo trials defined in `main.py`
+### CLI Options
+| Flag | Description |
+|------|-------------|
+| `--config PATH` | Path to a JSON configuration file |
+| `--run-all` | Run every `.json` config in `configs/` sequentially |
+| `--seed N` | Override the random seed |
+| `--num-laps N` | Override the number of laps |
+| `--num-trials N` | Override the number of Monte Carlo trials |
+| `--run-id ID` | Override the run identifier |
 
-### Expected Output
-The simulator currently prints:
-- track name and total track length
-- number of generated segments
-- weather condition and wetness value
-- number of laps and Monte Carlo trials
-- average race time for both drivers
-- standard deviation of race times
-- win counts and win probabilities
-- best expected performer for the current run
+## Output Structure
+Each run produces a directory under `output/`:
+```
+output/
+├── run_index.json              # Master index of all runs
+├── run_001/
+│   ├── run_001_config.json     # Full parameter snapshot
+│   ├── run_001_timeseries.csv  # One row per trial × lap × entrant
+│   ├── run_001_events.csv      # One row per trial × lap × entrant × segment
+│   └── run_001_summary.json    # Aggregate statistics
+├── run_002/
+│   └── ...
+```
 
-A text copy of the results is also written to:
-- `output/sample_results.txt`
+### File Descriptions
+| File | Format | Contents |
+|------|--------|----------|
+| `*_config.json` | JSON | Track layout, environment, entrant details, random seed |
+| `*_timeseries.csv` | CSV | `trial, lap, entrant, lap_time, cumulative_time, weather, wetness` |
+| `*_events.csv` | CSV | Segment-level: entry/exit speed, segment time, mu_effective |
+| `*_summary.json` | JSON | Per-entrant avg/std/min/max times, wins, win percentage |
+| `run_index.json` | JSON | Run metadata: ID, description, execution time, best performer |
 
-## Troubleshooting
-- If `python main.py` does not run, confirm that Python 3 is installed and accessible from your terminal.
-- If import errors occur, make sure you are running the command from the project root directory.
-- If the output file is not created, verify that the `output/` folder exists and is writable.
-- If results do not change between runs, check whether a fixed random seed is enabled in `main.py`.
+## Configuration File Format
+Each JSON config specifies:
+```json
+{
+  "run_id": "001",
+  "description": "Baseline dry conditions",
+  "random_seed": 100,
+  "num_laps": 5,
+  "num_trials": 200,
+  "collect_detail": true,
+  "track": { "name": "...", "num_pairs": 6, "straight_range": [...], ... },
+  "environment": { "weather": "Sunny", "wetness": 0.05, "visibility": 0.95 },
+  "entrants": [
+    {
+      "driver": { "name": "Hamilton", "experience": 9.0, "aggressiveness": 0.7 },
+      "car": { "name": "Mercedes", "mass": 798.0, "cd": 0.90, ... },
+      "tire": { "compound": "DRY", "mu_dry": 1.04, "mu_wet": 0.88 }
+    }
+  ]
+}
+```
+
+## Preset Configurations (12 Runs)
+| Run | Description | Params Varied |
+|-----|-------------|---------------|
+| 001 | Baseline dry | Default (Sunny, 3 entrants, 5 laps) |
+| 002 | Baseline wet | weather=Rainy, wetness=0.80 |
+| 003 | Cloudy mixed | weather=Cloudy, wetness=0.30 |
+| 004 | Large field dry | 6 entrants, Sunny |
+| 005 | Large field wet | 6 entrants, Rainy |
+| 006 | Long race | num_laps=10 |
+| 007 | Sprint | num_laps=1 |
+| 008 | Complex track | num_pairs=8, tight corners |
+| 009 | Simple track | num_pairs=2, wide corners |
+| 010 | High trials | num_trials=500, 4 entrants |
+| 011 | Wrong strategy | All WET tires in dry conditions |
+| 012 | Foggy mixed | Foggy, visibility=0.35, 4 entrants |
 
 ## Architecture Overview
-The current implementation follows the conceptual model defined in Milestone 1 and maps directly to the submitted UML design.
 
 ### Main Components
-- `Track` and `TrackSegment` represent the generated circuit layout using straights and corners.
-- `Environment` stores weather, wetness, and visibility conditions.
-- `Tire` defines dry and wet friction behavior.
-- `RaceCar` stores vehicle parameters such as mass, drag coefficient, downforce coefficient, braking efficiency, suspension factor, and tire choice.
-- `Driver` stores experience, aggressiveness, and stochastic performance variance behavior.
-- `SimulationEngine` acts as the central controller and handles:
-  - aerodynamic calculations
-  - corner speed calculations
-  - lap simulation
-  - race simulation
-  - Monte Carlo trial execution
-  - metric aggregation
+- `main.py` — entry point, orchestrates config → simulation → data export
+- `src/config.py` — JSON config loading, CLI parsing, validation, default entrants
+- `src/simulation.py` — physics engine, lap/race/trial simulation, N-entrant support
+- `src/data_collector.py` — CSV/JSON export, master index management
+- `src/entrant.py` — `Entrant` dataclass pairing `Driver` + `RaceCar`
+- `src/track.py` — `Track` and `TrackSegment` generation
+- `src/environment.py` — weather, wetness, visibility conditions
+- `src/tire.py` — tire compound friction model with smoothstep blending
+- `src/car.py` — vehicle parameters (mass, aero, braking, top speed)
+- `src/driver.py` — driver experience, aggressiveness, stochastic variance, skill factor
+- `src/utils.py` — `RaceMetrics`, `EntrantMetrics`, statistical helpers
 
-### Relation to UML
-The implementation directly follows the UML structure from Milestone 1:
-- `SimulationEngine` coordinates the simulation workflow.
-- `Track` is composed of multiple `TrackSegment` objects.
-- `RaceCar` contains a `Tire`.
-- drivers, cars, track, and environment are passed into the simulation engine to compute outcomes.
-
-### Architectural Changes Since M1
-The overall structure remains consistent with the original proposal, but the implementation now defines explicit operational rules for:
-- straight-line acceleration
-- braking before corners
-- stochastic driver variance
-- wetness sampling and environmental response
-
-These additions make the model more concrete and implementation-ready than the original conceptual design.
-
-## Current Limitations and Early Findings
-Initial testing shows that the simulator is functioning end-to-end and producing logically consistent outcomes. Environmental conditions, particularly wetness, clearly affect race results, which confirms that the model is responsive to changing inputs.
-
-However, early testing also shows that race outcomes are currently highly sensitive to wetness and tire selection, which makes the prototype more predictable than intended in some scenarios. This indicates that the core simulation is working, while also identifying balancing and refinement as key next steps.
-
-At this stage:
-- the system is producing logical outcomes
-- the outcomes respond to environmental changes
-- the simulation framework is working end-to-end
-- further refinement is needed to make results less binary and more realistic
-
-## Future Improvements
-Planned improvements for future milestones include:
-- refining powertrain and straight-line dynamics
-- improving braking and segment transition realism
-- tuning aerodynamic and tire parameters
-- linking more parameter values directly to literature sources
-- expanding output logging and analysis
-- adding more configurability and visualization
+### Data Flow
+```
+JSON Config → SimConfig → build_track / build_environment / build_entrants
+                           ↓
+                    SimulationEngine.run_trials()
+                           ↓
+              (RaceMetrics, list[TrialResult])
+                           ↓
+                    DataCollector.save_run()
+                           ↓
+              output/run_XXX/ (CSV + JSON files)
+```
 
 ## Project Structure
-- `main.py` - entry point for running the simulator
-- `src/track.py` - track and segment generation
-- `src/environment.py` - weather and wetness logic
-- `src/tire.py` - tire grip and friction behavior
-- `src/car.py` - vehicle parameters
-- `src/driver.py` - driver variability model
-- `src/simulation.py` - race logic and Monte Carlo trial execution
-- `src/utils.py` - helper utilities and metric calculations
-- `output/` - saved simulation results
+```
+CS4632_RACING_SIM/
+├── main.py
+├── README.md
+├── requirements.txt
+├── .gitignore
+├── configs/
+│   ├── run_001_baseline_dry.json
+│   ├── run_002_baseline_wet.json
+│   ├── ... (12 config files)
+│   └── run_012_mixed_strategy_foggy.json
+├── src/
+│   ├── car.py
+│   ├── config.py
+│   ├── data_collector.py
+│   ├── driver.py
+│   ├── entrant.py
+│   ├── environment.py
+│   ├── simulation.py
+│   ├── tire.py
+│   ├── track.py
+│   └── utils.py
+├── output/
+│   ├── run_index.json
+│   ├── test_results.csv
+│   └── run_001/ ... run_012/
+└── docs/
+    └── Project_BOARD.png
+```
+
+## Troubleshooting
+- If `python main.py` does not run, confirm that Python 3.10+ is installed.
+- If import errors occur, make sure you are running from the project root directory.
+- If `--run-all` finds no configs, verify the `configs/` directory contains `.json` files.
+- If output is not created, verify the `output/` directory exists and is writable.
 
 ## Notes
-This project is an initial implementation milestone and is intended to demonstrate meaningful progress toward the final simulator. Full functionality and full realism are not expected at this stage. The current version establishes the core executable structure that future milestones will refine and expand.
+This is a Milestone 3 submission demonstrating complete implementation and systematic testing. The data collected here will serve as the foundation for the M4 analysis and validation phase.
