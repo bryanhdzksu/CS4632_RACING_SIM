@@ -1,0 +1,63 @@
+{
+  "run_id": "004",
+  "description": "Large field dry - 6 entrants demonstrating N-participant generality",
+  "timestamp": "2026-03-25T23:54:58.504239+00:00",
+  "execution_time_seconds": 0.622,
+  "num_trials": 200,
+  "num_laps": 5,
+  "track_name": "Monza Sprint Circuit",
+  "track_length_m": 1972.2,
+  "weather": "Sunny",
+  "wetness": 0.03,
+  "visibility": 0.98,
+  "entrants": {
+    "Hamilton (Mercedes)": {
+      "avg_time": 231.8722,
+      "std_time": 0.98,
+      "min_time": 229.8209,
+      "max_time": 234.5428,
+      "wins": 1,
+      "win_pct": 0.5
+    },
+    "Verstappen (Red Bull)": {
+      "avg_time": 230.5924,
+      "std_time": 1.2313,
+      "min_time": 227.2324,
+      "max_time": 233.9931,
+      "wins": 36,
+      "win_pct": 18.0
+    },
+    "Norris (McLaren)": {
+      "avg_time": 233.1131,
+      "std_time": 1.5795,
+      "min_time": 228.6797,
+      "max_time": 237.0906,
+      "wins": 2,
+      "win_pct": 1.0
+    },
+    "Leclerc (Ferrari)": {
+      "avg_time": 228.9402,
+      "std_time": 1.5503,
+      "min_time": 225.1649,
+      "max_time": 232.6263,
+      "wins": 140,
+      "win_pct": 70.0
+    },
+    "Russell (Williams)": {
+      "avg_time": 231.841,
+      "std_time": 1.5799,
+      "min_time": 228.1528,
+      "max_time": 235.7214,
+      "wins": 19,
+      "win_pct": 9.5
+    },
+    "Piastri (Alpine)": {
+      "avg_time": 233.126,
+      "std_time": 1.8083,
+      "min_time": 228.4109,
+      "max_time": 237.6511,
+      "wins": 2,
+      "win_pct": 1.0
+    }
+  }
+}
