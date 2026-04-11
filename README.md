@@ -293,6 +293,4 @@ CS4632_RACING_SIM/
 
 ## Notes
 - **M3** delivered the full simulator, 12 preset runs, and `output/test_results.csv` as the implementation/testing baseline.
-- **M4** builds on that data with isolated parameter sweeps, scenario comparison (subset of M3 runs), validation narrative, statistics (means, variability, 95% CIs), and figures — see `CS4632_M4_Bryan_Juarez.H_M4.html` and `output/m4_analysis/`.
-- **Git / course policy:** push the repo as required by the syllabus; M4 LMS submission is typically the **PDF report** plus **supplementary data** (CSVs/figures), not necessarily a full re-upload of source unless the instructor asks.
-- **Next (M5):** final report, deeper literature alignment (#30), or UML/documentation polish per project board — see course schedule.
+- **M4** builds on that data with isolated parameter sweeps, scenario comparison (subset of M3 runs), validation narrative, statistics (means, variability, 95% CIs), and figures 
