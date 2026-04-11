@@ -1,0 +1,9 @@
+{
+  "reference_entrant": "Verstappen (Red Bull)",
+  "sensitivity_wetness_02_to_08": {
+    "delta_wetness_fraction": 0.6,
+    "pct_delta_output": 0.1515428460585751,
+    "sensitivity_ratio_py_over_px": 0.0005051428201952502
+  },
+  "scenario_rows_source": "output/test_results.csv (M3 runs 001,002,007,012)"
+}

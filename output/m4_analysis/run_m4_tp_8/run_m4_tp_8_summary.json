@@ -1,0 +1,39 @@
+{
+  "run_id": "m4_tp_8",
+  "description": "M4 sensitivity: track_num_pairs=8",
+  "timestamp": "2026-04-10T23:45:01.915763+00:00",
+  "execution_time_seconds": 0.291,
+  "num_trials": 200,
+  "num_laps": 5,
+  "track_name": "Silverstone Analog",
+  "track_length_m": 2152.03,
+  "weather": "Sunny",
+  "wetness": 0.05,
+  "visibility": 0.95,
+  "entrants": {
+    "Hamilton (Mercedes)": {
+      "avg_time": 291.2504,
+      "std_time": 1.1758,
+      "min_time": 287.6251,
+      "max_time": 294.1961,
+      "wins": 20,
+      "win_pct": 10.0
+    },
+    "Verstappen (Red Bull)": {
+      "avg_time": 288.9726,
+      "std_time": 1.4246,
+      "min_time": 285.3543,
+      "max_time": 292.7992,
+      "wins": 176,
+      "win_pct": 88.0
+    },
+    "Norris (McLaren)": {
+      "avg_time": 292.7554,
+      "std_time": 1.5504,
+      "min_time": 288.4419,
+      "max_time": 297.9912,
+      "wins": 4,
+      "win_pct": 2.0
+    }
+  }
+}
