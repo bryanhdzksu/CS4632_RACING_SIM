@@ -1,2 +1,4 @@
 # No prebuilt simulation frameworks are used.
 # This project is implemented from scratch in Python.
+# Optional: Milestone 4 figures (python m4_analysis.py)
+matplotlib>=3.7.0

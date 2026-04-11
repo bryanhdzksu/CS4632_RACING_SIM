@@ -15,6 +15,17 @@ Milestone 3 completes the core simulator and adds comprehensive data collection,
 - **Full data export** — per-run output includes time-series CSV (trial × lap × entrant), segment-level events CSV, summary JSON, config JSON, and a master run index
 - **12 documented runs** varying weather, field size, lap count, track complexity, tire strategy, and trial count
 
+## Milestone 4 (Analysis & Validation)
+Milestone 4 adds **one-factor-at-a-time sensitivity sweeps**, aggregated CSVs, **matplotlib figures**, and the analysis report 
+
+- **Script:** `m4_analysis.py` — run from the project root after installing dependencies:
+  ```bash
+  pip install -r requirements.txt
+  python m4_analysis.py
+  ```
+- **Outputs:** `output/m4_analysis/` — per-sweep run folders (`run_m4_*`), CSVs (`sensitivity_*.csv`, `scenario_m3_runs_subset.csv`), `m4_analysis_meta.json`, and `figures/*.png`.
+- **Core simulation** is unchanged; analysis calls `run_simulation_core()` from `main.py`.
+
 ## What Is Implemented
 - `Entrant` dataclass pairing a `Driver` with a `RaceCar`
 - `Tire.mu_effective()` with smoothstep blending for gradual grip transitions
@@ -53,7 +64,7 @@ Several items from the original project board were completed, partially addresse
 - **Add parameter details to UML method definitions (#31)** — architecture documentation is maintained in this README; formal UML updates are planned for the M5 final report
 - **Fuel load and pit-stop strategies** — out of scope for the current simulation model
 - **Tire degradation over race distance** — planned for potential M4/M5 extension if time allows
-- **Visualization and charting** — planned for M4 analysis phase
+- **Visualization and charting** — M4 adds `m4_analysis.py` + matplotlib figures under `output/m4_analysis/figures/`
 
 ## Changes From M2
 This implementation addresses Milestone 2 feedback by:
@@ -63,14 +74,15 @@ This implementation addresses Milestone 2 feedback by:
 - **Adding a configuration system**: JSON config files with CLI support, parameter validation, and default scenario presets
 
 ## Dependencies
-This project uses only the Python standard library and requires no external packages.
+- **Simulator (M2–M3):** Python standard library only — no packages required to run `main.py`.
+- **Milestone 4 figures:** `matplotlib` (listed in `requirements.txt`). Install with `pip install -r requirements.txt` before running `m4_analysis.py`.
 
 ## Installation Instructions
 
 ### Requirements
 - Python 3.10 or newer
 - A terminal or command prompt
-- No external libraries required
+- Optional: `matplotlib` for M4 (`pip install -r requirements.txt`)
 
 ### Setup
 1. Clone the repository:
