@@ -1,0 +1,7 @@
+parameter,wetness,visibility,num_laps,num_trials,track_num_pairs,Verstappen (Red Bull) avg_race_time_s,Verstappen (Red Bull) std_s,Verstappen (Red Bull) win_pct,ci95_mean_low,ci95_mean_high
+wetness,0.0,0.95,5,200,6,213.8744,1.2511,79.0,213.701,214.0478
+wetness,0.2,0.95,5,200,6,214.4608,1.2511,77.5,214.2874,214.6342
+wetness,0.4,0.95,5,200,6,215.7509,1.2511,58.5,215.5775,215.9243
+wetness,0.6,0.95,5,200,6,215.2828,1.2511,64.5,215.1095,215.4562
+wetness,0.8,0.95,5,200,6,214.7858,1.2511,71.5,214.6124,214.9592
+wetness,1.0,0.95,5,200,6,214.5463,1.2511,73.5,214.3729,214.7197

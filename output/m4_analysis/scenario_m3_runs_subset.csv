@@ -1,0 +1,14 @@
+run_id,description,track,weather,wetness,visibility,num_laps,num_trials,num_entrants,execution_time_s,entrant,avg_time,std_time,min_time,max_time,wins,win_pct
+001,"Baseline dry conditions - 3 entrants, standard track",Silverstone Analog,Sunny,0.05,0.95,5,200,3,0.312,Hamilton (Mercedes),215.5885,1.2825,211.8266,219.0494,26,13.0
+001,"Baseline dry conditions - 3 entrants, standard track",Silverstone Analog,Sunny,0.05,0.95,5,200,3,0.312,Verstappen (Red Bull),213.915,1.2511,210.2968,217.5093,158,79.0
+001,"Baseline dry conditions - 3 entrants, standard track",Silverstone Analog,Sunny,0.05,0.95,5,200,3,0.312,Norris (McLaren),216.3897,1.66,211.5506,220.7865,16,8.0
+002,"Baseline wet conditions - 3 entrants, rainy weather",Silverstone Analog,Rainy,0.8,0.6,5,200,3,0.322,Hamilton (Mercedes),184.7856,1.2715,181.8706,187.9655,3,1.5
+002,"Baseline wet conditions - 3 entrants, rainy weather",Silverstone Analog,Rainy,0.8,0.6,5,200,3,0.322,Verstappen (Red Bull),181.8556,1.2382,177.7061,185.9477,131,65.5
+002,"Baseline wet conditions - 3 entrants, rainy weather",Silverstone Analog,Rainy,0.8,0.6,5,200,3,0.322,Norris (McLaren),182.66,1.589,178.2376,186.9865,66,33.0
+007,Sprint race - 1 lap to isolate single-lap variance from race-length effects,Sprint Track,Sunny,0.05,0.95,1,200,3,0.065,Hamilton (Mercedes),39.2676,0.5051,37.9174,40.7387,54,27.0
+007,Sprint race - 1 lap to isolate single-lap variance from race-length effects,Sprint Track,Sunny,0.05,0.95,1,200,3,0.065,Verstappen (Red Bull),38.927,0.5508,37.64,40.2647,106,53.0
+007,Sprint race - 1 lap to isolate single-lap variance from race-length effects,Sprint Track,Sunny,0.05,0.95,1,200,3,0.065,Norris (McLaren),39.4479,0.6996,37.4827,40.9456,40,20.0
+012,Mixed tire strategy in foggy conditions - visibility penalty test,Foggy Mountain Circuit,Foggy,0.4,0.35,5,200,4,0.405,Hamilton (Mercedes),201.045,1.254,197.5618,204.6279,2,1.0
+012,Mixed tire strategy in foggy conditions - visibility penalty test,Foggy Mountain Circuit,Foggy,0.4,0.35,5,200,4,0.405,Verstappen (Red Bull),197.9628,1.2955,195.3182,201.4212,65,32.5
+012,Mixed tire strategy in foggy conditions - visibility penalty test,Foggy Mountain Circuit,Foggy,0.4,0.35,5,200,4,0.405,Norris (McLaren),198.5595,1.4645,194.2742,203.3676,37,18.5
+012,Mixed tire strategy in foggy conditions - visibility penalty test,Foggy Mountain Circuit,Foggy,0.4,0.35,5,200,4,0.405,Leclerc (Ferrari),197.7531,1.4204,194.471,201.9842,96,48.0
