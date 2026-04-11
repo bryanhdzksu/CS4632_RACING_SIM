@@ -1,0 +1,3001 @@
+trial,lap,entrant,lap_time,cumulative_time,weather,wetness
+1,1,Hamilton (Mercedes),30.0628,30.0628,Sunny,0.05
+1,2,Hamilton (Mercedes),29.44704,59.50984,Sunny,0.05
+1,3,Hamilton (Mercedes),29.27116,88.781,Sunny,0.05
+1,4,Hamilton (Mercedes),30.45782,119.23882,Sunny,0.05
+1,5,Hamilton (Mercedes),29.7011,148.93992,Sunny,0.05
+1,1,Verstappen (Red Bull),29.77602,29.77602,Sunny,0.05
+1,2,Verstappen (Red Bull),29.63522,59.41124,Sunny,0.05
+1,3,Verstappen (Red Bull),29.91741,89.32866,Sunny,0.05
+1,4,Verstappen (Red Bull),28.44059,117.76924,Sunny,0.05
+1,5,Verstappen (Red Bull),28.42381,146.19305,Sunny,0.05
+1,1,Norris (McLaren),30.22518,30.22518,Sunny,0.05
+1,2,Norris (McLaren),31.4633,61.68848,Sunny,0.05
+1,3,Norris (McLaren),28.43101,90.11949,Sunny,0.05
+1,4,Norris (McLaren),29.30954,119.42903,Sunny,0.05
+1,5,Norris (McLaren),29.977,149.40603,Sunny,0.05
+2,1,Hamilton (Mercedes),29.31679,29.31679,Sunny,0.05
+2,2,Hamilton (Mercedes),29.44097,58.75776,Sunny,0.05
+2,3,Hamilton (Mercedes),29.38349,88.14125,Sunny,0.05
+2,4,Hamilton (Mercedes),30.14229,118.28354,Sunny,0.05
+2,5,Hamilton (Mercedes),29.62416,147.9077,Sunny,0.05
+2,1,Verstappen (Red Bull),29.54784,29.54784,Sunny,0.05
+2,2,Verstappen (Red Bull),28.73205,58.27989,Sunny,0.05
+2,3,Verstappen (Red Bull),29.81803,88.09792,Sunny,0.05
+2,4,Verstappen (Red Bull),30.43947,118.53739,Sunny,0.05
+2,5,Verstappen (Red Bull),29.79251,148.3299,Sunny,0.05
+2,1,Norris (McLaren),29.55115,29.55115,Sunny,0.05
+2,2,Norris (McLaren),28.8892,58.44035,Sunny,0.05
+2,3,Norris (McLaren),30.12063,88.56097,Sunny,0.05
+2,4,Norris (McLaren),30.09994,118.66092,Sunny,0.05
+2,5,Norris (McLaren),29.60559,148.26651,Sunny,0.05
+3,1,Hamilton (Mercedes),28.27634,28.27634,Sunny,0.05
+3,2,Hamilton (Mercedes),29.13658,57.41292,Sunny,0.05
+3,3,Hamilton (Mercedes),28.9459,86.35882,Sunny,0.05
+3,4,Hamilton (Mercedes),29.06601,115.42483,Sunny,0.05
+3,5,Hamilton (Mercedes),29.70461,145.12945,Sunny,0.05
+3,1,Verstappen (Red Bull),28.78947,28.78947,Sunny,0.05
+3,2,Verstappen (Red Bull),29.25827,58.04774,Sunny,0.05
+3,3,Verstappen (Red Bull),30.1613,88.20905,Sunny,0.05
+3,4,Verstappen (Red Bull),28.94071,117.14975,Sunny,0.05
+3,5,Verstappen (Red Bull),29.35247,146.50222,Sunny,0.05
+3,1,Norris (McLaren),30.20409,30.20409,Sunny,0.05
+3,2,Norris (McLaren),29.29617,59.50026,Sunny,0.05
+3,3,Norris (McLaren),28.6616,88.16186,Sunny,0.05
+3,4,Norris (McLaren),29.92889,118.09074,Sunny,0.05
+3,5,Norris (McLaren),30.36957,148.46031,Sunny,0.05
+4,1,Hamilton (Mercedes),28.56783,28.56783,Sunny,0.05
+4,2,Hamilton (Mercedes),29.36799,57.93582,Sunny,0.05
+4,3,Hamilton (Mercedes),29.27217,87.20799,Sunny,0.05
+4,4,Hamilton (Mercedes),30.27923,117.48722,Sunny,0.05
+4,5,Hamilton (Mercedes),28.64427,146.13149,Sunny,0.05
+4,1,Verstappen (Red Bull),29.23387,29.23387,Sunny,0.05
+4,2,Verstappen (Red Bull),28.51717,57.75104,Sunny,0.05
+4,3,Verstappen (Red Bull),28.79659,86.54763,Sunny,0.05
+4,4,Verstappen (Red Bull),29.38699,115.93462,Sunny,0.05
+4,5,Verstappen (Red Bull),29.17007,145.10469,Sunny,0.05
+4,1,Norris (McLaren),29.61886,29.61886,Sunny,0.05
+4,2,Norris (McLaren),29.20198,58.82085,Sunny,0.05
+4,3,Norris (McLaren),28.59851,87.41936,Sunny,0.05
+4,4,Norris (McLaren),30.39287,117.81222,Sunny,0.05
+4,5,Norris (McLaren),30.79149,148.60372,Sunny,0.05
+5,1,Hamilton (Mercedes),29.53114,29.53114,Sunny,0.05
+5,2,Hamilton (Mercedes),29.34327,58.8744,Sunny,0.05
+5,3,Hamilton (Mercedes),30.28945,89.16385,Sunny,0.05
+5,4,Hamilton (Mercedes),29.83089,118.99474,Sunny,0.05
+5,5,Hamilton (Mercedes),29.69398,148.68873,Sunny,0.05
+5,1,Verstappen (Red Bull),29.91171,29.91171,Sunny,0.05
+5,2,Verstappen (Red Bull),28.8588,58.77051,Sunny,0.05
+5,3,Verstappen (Red Bull),28.8862,87.65671,Sunny,0.05
+5,4,Verstappen (Red Bull),29.43655,117.09325,Sunny,0.05
+5,5,Verstappen (Red Bull),28.72222,145.81548,Sunny,0.05
+5,1,Norris (McLaren),29.75551,29.75551,Sunny,0.05
+5,2,Norris (McLaren),29.9035,59.65901,Sunny,0.05
+5,3,Norris (McLaren),30.14643,89.80544,Sunny,0.05
+5,4,Norris (McLaren),30.10297,119.90841,Sunny,0.05
+5,5,Norris (McLaren),28.73551,148.64392,Sunny,0.05
+6,1,Hamilton (Mercedes),29.46986,29.46986,Sunny,0.05
+6,2,Hamilton (Mercedes),29.7403,59.21016,Sunny,0.05
+6,3,Hamilton (Mercedes),30.12017,89.33033,Sunny,0.05
+6,4,Hamilton (Mercedes),30.10444,119.43476,Sunny,0.05
+6,5,Hamilton (Mercedes),29.39428,148.82904,Sunny,0.05
+6,1,Verstappen (Red Bull),29.26551,29.26551,Sunny,0.05
+6,2,Verstappen (Red Bull),28.69148,57.95698,Sunny,0.05
+6,3,Verstappen (Red Bull),29.10253,87.05951,Sunny,0.05
+6,4,Verstappen (Red Bull),28.90893,115.96844,Sunny,0.05
+6,5,Verstappen (Red Bull),28.61353,144.58197,Sunny,0.05
+6,1,Norris (McLaren),29.5138,29.5138,Sunny,0.05
+6,2,Norris (McLaren),30.45675,59.97055,Sunny,0.05
+6,3,Norris (McLaren),30.84533,90.81588,Sunny,0.05
+6,4,Norris (McLaren),29.95763,120.77351,Sunny,0.05
+6,5,Norris (McLaren),29.65813,150.43164,Sunny,0.05
+7,1,Hamilton (Mercedes),29.73486,29.73486,Sunny,0.05
+7,2,Hamilton (Mercedes),29.98898,59.72384,Sunny,0.05
+7,3,Hamilton (Mercedes),29.84911,89.57296,Sunny,0.05
+7,4,Hamilton (Mercedes),29.76946,119.34241,Sunny,0.05
+7,5,Hamilton (Mercedes),29.43205,148.77447,Sunny,0.05
+7,1,Verstappen (Red Bull),29.22125,29.22125,Sunny,0.05
+7,2,Verstappen (Red Bull),30.66733,59.88858,Sunny,0.05
+7,3,Verstappen (Red Bull),29.9889,89.87748,Sunny,0.05
+7,4,Verstappen (Red Bull),28.87655,118.75403,Sunny,0.05
+7,5,Verstappen (Red Bull),29.8423,148.59633,Sunny,0.05
+7,1,Norris (McLaren),29.19243,29.19243,Sunny,0.05
+7,2,Norris (McLaren),29.91115,59.10358,Sunny,0.05
+7,3,Norris (McLaren),29.38023,88.48381,Sunny,0.05
+7,4,Norris (McLaren),29.937,118.42081,Sunny,0.05
+7,5,Norris (McLaren),29.35498,147.77579,Sunny,0.05
+8,1,Hamilton (Mercedes),29.40938,29.40938,Sunny,0.05
+8,2,Hamilton (Mercedes),29.82915,59.23852,Sunny,0.05
+8,3,Hamilton (Mercedes),29.89518,89.1337,Sunny,0.05
+8,4,Hamilton (Mercedes),28.54981,117.68351,Sunny,0.05
+8,5,Hamilton (Mercedes),30.24977,147.93328,Sunny,0.05
+8,1,Verstappen (Red Bull),28.16662,28.16662,Sunny,0.05
+8,2,Verstappen (Red Bull),28.54119,56.70781,Sunny,0.05
+8,3,Verstappen (Red Bull),29.0918,85.79962,Sunny,0.05
+8,4,Verstappen (Red Bull),29.69416,115.49377,Sunny,0.05
+8,5,Verstappen (Red Bull),29.35387,144.84764,Sunny,0.05
+8,1,Norris (McLaren),29.38009,29.38009,Sunny,0.05
+8,2,Norris (McLaren),30.48836,59.86845,Sunny,0.05
+8,3,Norris (McLaren),29.80162,89.67007,Sunny,0.05
+8,4,Norris (McLaren),29.73714,119.40721,Sunny,0.05
+8,5,Norris (McLaren),30.34741,149.75462,Sunny,0.05
+9,1,Hamilton (Mercedes),29.18272,29.18272,Sunny,0.05
+9,2,Hamilton (Mercedes),30.79076,59.97348,Sunny,0.05
+9,3,Hamilton (Mercedes),30.28923,90.26271,Sunny,0.05
+9,4,Hamilton (Mercedes),29.57146,119.83418,Sunny,0.05
+9,5,Hamilton (Mercedes),29.61357,149.44775,Sunny,0.05
+9,1,Verstappen (Red Bull),29.51944,29.51944,Sunny,0.05
+9,2,Verstappen (Red Bull),29.85173,59.37117,Sunny,0.05
+9,3,Verstappen (Red Bull),29.66733,89.0385,Sunny,0.05
+9,4,Verstappen (Red Bull),28.95585,117.99435,Sunny,0.05
+9,5,Verstappen (Red Bull),28.83298,146.82734,Sunny,0.05
+9,1,Norris (McLaren),30.57458,30.57458,Sunny,0.05
+9,2,Norris (McLaren),28.8024,59.37698,Sunny,0.05
+9,3,Norris (McLaren),29.19653,88.57351,Sunny,0.05
+9,4,Norris (McLaren),30.6256,119.19911,Sunny,0.05
+9,5,Norris (McLaren),28.77597,147.97508,Sunny,0.05
+10,1,Hamilton (Mercedes),29.90143,29.90143,Sunny,0.05
+10,2,Hamilton (Mercedes),30.19403,60.09547,Sunny,0.05
+10,3,Hamilton (Mercedes),30.94911,91.04458,Sunny,0.05
+10,4,Hamilton (Mercedes),30.34031,121.38489,Sunny,0.05
+10,5,Hamilton (Mercedes),29.71133,151.09621,Sunny,0.05
+10,1,Verstappen (Red Bull),28.84322,28.84322,Sunny,0.05
+10,2,Verstappen (Red Bull),30.24034,59.08356,Sunny,0.05
+10,3,Verstappen (Red Bull),30.1668,89.25036,Sunny,0.05
+10,4,Verstappen (Red Bull),30.36016,119.61052,Sunny,0.05
+10,5,Verstappen (Red Bull),30.3477,149.95822,Sunny,0.05
+10,1,Norris (McLaren),29.83236,29.83236,Sunny,0.05
+10,2,Norris (McLaren),29.57603,59.40839,Sunny,0.05
+10,3,Norris (McLaren),29.033,88.4414,Sunny,0.05
+10,4,Norris (McLaren),30.11556,118.55695,Sunny,0.05
+10,5,Norris (McLaren),30.40507,148.96202,Sunny,0.05
+11,1,Hamilton (Mercedes),29.25534,29.25534,Sunny,0.05
+11,2,Hamilton (Mercedes),29.72693,58.98227,Sunny,0.05
+11,3,Hamilton (Mercedes),30.15156,89.13384,Sunny,0.05
+11,4,Hamilton (Mercedes),30.47808,119.61191,Sunny,0.05
+11,5,Hamilton (Mercedes),29.19986,148.81177,Sunny,0.05
+11,1,Verstappen (Red Bull),29.30683,29.30683,Sunny,0.05
+11,2,Verstappen (Red Bull),28.88749,58.19432,Sunny,0.05
+11,3,Verstappen (Red Bull),28.88455,87.07887,Sunny,0.05
+11,4,Verstappen (Red Bull),29.9255,117.00437,Sunny,0.05
+11,5,Verstappen (Red Bull),29.99783,147.00221,Sunny,0.05
+11,1,Norris (McLaren),29.52449,29.52449,Sunny,0.05
+11,2,Norris (McLaren),29.64257,59.16706,Sunny,0.05
+11,3,Norris (McLaren),29.38317,88.55023,Sunny,0.05
+11,4,Norris (McLaren),31.10114,119.65137,Sunny,0.05
+11,5,Norris (McLaren),29.38395,149.03532,Sunny,0.05
+12,1,Hamilton (Mercedes),29.42374,29.42374,Sunny,0.05
+12,2,Hamilton (Mercedes),29.13971,58.56345,Sunny,0.05
+12,3,Hamilton (Mercedes),29.97305,88.5365,Sunny,0.05
+12,4,Hamilton (Mercedes),29.32935,117.86585,Sunny,0.05
+12,5,Hamilton (Mercedes),28.57771,146.44356,Sunny,0.05
+12,1,Verstappen (Red Bull),29.58868,29.58868,Sunny,0.05
+12,2,Verstappen (Red Bull),29.53189,59.12057,Sunny,0.05
+12,3,Verstappen (Red Bull),29.33802,88.45859,Sunny,0.05
+12,4,Verstappen (Red Bull),29.4823,117.94089,Sunny,0.05
+12,5,Verstappen (Red Bull),29.59113,147.53203,Sunny,0.05
+12,1,Norris (McLaren),30.07634,30.07634,Sunny,0.05
+12,2,Norris (McLaren),30.62127,60.69761,Sunny,0.05
+12,3,Norris (McLaren),30.31422,91.01183,Sunny,0.05
+12,4,Norris (McLaren),30.53769,121.54952,Sunny,0.05
+12,5,Norris (McLaren),30.30765,151.85717,Sunny,0.05
+13,1,Hamilton (Mercedes),29.89322,29.89322,Sunny,0.05
+13,2,Hamilton (Mercedes),29.54288,59.43609,Sunny,0.05
+13,3,Hamilton (Mercedes),29.64511,89.0812,Sunny,0.05
+13,4,Hamilton (Mercedes),28.89651,117.97771,Sunny,0.05
+13,5,Hamilton (Mercedes),30.23504,148.21275,Sunny,0.05
+13,1,Verstappen (Red Bull),30.63409,30.63409,Sunny,0.05
+13,2,Verstappen (Red Bull),29.39691,60.031,Sunny,0.05
+13,3,Verstappen (Red Bull),28.90141,88.93242,Sunny,0.05
+13,4,Verstappen (Red Bull),29.64128,118.5737,Sunny,0.05
+13,5,Verstappen (Red Bull),29.27412,147.84782,Sunny,0.05
+13,1,Norris (McLaren),30.46803,30.46803,Sunny,0.05
+13,2,Norris (McLaren),28.67628,59.14431,Sunny,0.05
+13,3,Norris (McLaren),30.94013,90.08444,Sunny,0.05
+13,4,Norris (McLaren),30.81907,120.90351,Sunny,0.05
+13,5,Norris (McLaren),30.13078,151.03429,Sunny,0.05
+14,1,Hamilton (Mercedes),28.44372,28.44372,Sunny,0.05
+14,2,Hamilton (Mercedes),29.43244,57.87616,Sunny,0.05
+14,3,Hamilton (Mercedes),30.46525,88.34141,Sunny,0.05
+14,4,Hamilton (Mercedes),29.69706,118.03847,Sunny,0.05
+14,5,Hamilton (Mercedes),29.11796,147.15643,Sunny,0.05
+14,1,Verstappen (Red Bull),29.53389,29.53389,Sunny,0.05
+14,2,Verstappen (Red Bull),29.46272,58.9966,Sunny,0.05
+14,3,Verstappen (Red Bull),28.74268,87.73928,Sunny,0.05
+14,4,Verstappen (Red Bull),29.41314,117.15242,Sunny,0.05
+14,5,Verstappen (Red Bull),29.99687,147.14929,Sunny,0.05
+14,1,Norris (McLaren),30.49062,30.49062,Sunny,0.05
+14,2,Norris (McLaren),30.54611,61.03673,Sunny,0.05
+14,3,Norris (McLaren),30.05994,91.09666,Sunny,0.05
+14,4,Norris (McLaren),29.35091,120.44758,Sunny,0.05
+14,5,Norris (McLaren),29.7792,150.22678,Sunny,0.05
+15,1,Hamilton (Mercedes),30.71119,30.71119,Sunny,0.05
+15,2,Hamilton (Mercedes),29.94549,60.65668,Sunny,0.05
+15,3,Hamilton (Mercedes),30.03332,90.69,Sunny,0.05
+15,4,Hamilton (Mercedes),29.03434,119.72433,Sunny,0.05
+15,5,Hamilton (Mercedes),30.24799,149.97233,Sunny,0.05
+15,1,Verstappen (Red Bull),29.5666,29.5666,Sunny,0.05
+15,2,Verstappen (Red Bull),30.365,59.9316,Sunny,0.05
+15,3,Verstappen (Red Bull),29.22363,89.15524,Sunny,0.05
+15,4,Verstappen (Red Bull),29.38272,118.53795,Sunny,0.05
+15,5,Verstappen (Red Bull),29.29595,147.8339,Sunny,0.05
+15,1,Norris (McLaren),29.37257,29.37257,Sunny,0.05
+15,2,Norris (McLaren),29.57537,58.94793,Sunny,0.05
+15,3,Norris (McLaren),29.91067,88.8586,Sunny,0.05
+15,4,Norris (McLaren),29.80132,118.65992,Sunny,0.05
+15,5,Norris (McLaren),30.04912,148.70904,Sunny,0.05
+16,1,Hamilton (Mercedes),30.69207,30.69207,Sunny,0.05
+16,2,Hamilton (Mercedes),29.93477,60.62684,Sunny,0.05
+16,3,Hamilton (Mercedes),29.91508,90.54192,Sunny,0.05
+16,4,Hamilton (Mercedes),29.22103,119.76295,Sunny,0.05
+16,5,Hamilton (Mercedes),30.64308,150.40603,Sunny,0.05
+16,1,Verstappen (Red Bull),29.01292,29.01292,Sunny,0.05
+16,2,Verstappen (Red Bull),28.22035,57.23326,Sunny,0.05
+16,3,Verstappen (Red Bull),29.52734,86.7606,Sunny,0.05
+16,4,Verstappen (Red Bull),29.66536,116.42595,Sunny,0.05
+16,5,Verstappen (Red Bull),28.9185,145.34446,Sunny,0.05
+16,1,Norris (McLaren),30.77829,30.77829,Sunny,0.05
+16,2,Norris (McLaren),28.64126,59.41954,Sunny,0.05
+16,3,Norris (McLaren),28.72482,88.14436,Sunny,0.05
+16,4,Norris (McLaren),29.74471,117.88906,Sunny,0.05
+16,5,Norris (McLaren),29.53566,147.42472,Sunny,0.05
+17,1,Hamilton (Mercedes),29.46129,29.46129,Sunny,0.05
+17,2,Hamilton (Mercedes),29.93687,59.39816,Sunny,0.05
+17,3,Hamilton (Mercedes),29.51693,88.91509,Sunny,0.05
+17,4,Hamilton (Mercedes),30.39414,119.30923,Sunny,0.05
+17,5,Hamilton (Mercedes),28.76038,148.0696,Sunny,0.05
+17,1,Verstappen (Red Bull),29.76596,29.76596,Sunny,0.05
+17,2,Verstappen (Red Bull),30.65184,60.4178,Sunny,0.05
+17,3,Verstappen (Red Bull),29.56371,89.9815,Sunny,0.05
+17,4,Verstappen (Red Bull),29.92157,119.90308,Sunny,0.05
+17,5,Verstappen (Red Bull),30.222,150.12507,Sunny,0.05
+17,1,Norris (McLaren),29.92173,29.92173,Sunny,0.05
+17,2,Norris (McLaren),29.6439,59.56563,Sunny,0.05
+17,3,Norris (McLaren),28.0227,87.58832,Sunny,0.05
+17,4,Norris (McLaren),29.32263,116.91095,Sunny,0.05
+17,5,Norris (McLaren),30.60854,147.5195,Sunny,0.05
+18,1,Hamilton (Mercedes),29.63396,29.63396,Sunny,0.05
+18,2,Hamilton (Mercedes),29.13676,58.77072,Sunny,0.05
+18,3,Hamilton (Mercedes),29.84266,88.61337,Sunny,0.05
+18,4,Hamilton (Mercedes),29.72076,118.33413,Sunny,0.05
+18,5,Hamilton (Mercedes),29.92258,148.25671,Sunny,0.05
+18,1,Verstappen (Red Bull),29.40325,29.40325,Sunny,0.05
+18,2,Verstappen (Red Bull),29.82937,59.23262,Sunny,0.05
+18,3,Verstappen (Red Bull),29.11603,88.34865,Sunny,0.05
+18,4,Verstappen (Red Bull),30.59389,118.94253,Sunny,0.05
+18,5,Verstappen (Red Bull),29.85123,148.79376,Sunny,0.05
+18,1,Norris (McLaren),29.64333,29.64333,Sunny,0.05
+18,2,Norris (McLaren),30.33824,59.98157,Sunny,0.05
+18,3,Norris (McLaren),29.90217,89.88374,Sunny,0.05
+18,4,Norris (McLaren),30.07325,119.95699,Sunny,0.05
+18,5,Norris (McLaren),29.47721,149.4342,Sunny,0.05
+19,1,Hamilton (Mercedes),29.48088,29.48088,Sunny,0.05
+19,2,Hamilton (Mercedes),29.40385,58.88474,Sunny,0.05
+19,3,Hamilton (Mercedes),29.4092,88.29393,Sunny,0.05
+19,4,Hamilton (Mercedes),29.86631,118.16025,Sunny,0.05
+19,5,Hamilton (Mercedes),29.22174,147.38198,Sunny,0.05
+19,1,Verstappen (Red Bull),29.08527,29.08527,Sunny,0.05
+19,2,Verstappen (Red Bull),29.54237,58.62763,Sunny,0.05
+19,3,Verstappen (Red Bull),28.77835,87.40598,Sunny,0.05
+19,4,Verstappen (Red Bull),29.34693,116.75292,Sunny,0.05
+19,5,Verstappen (Red Bull),29.50804,146.26096,Sunny,0.05
+19,1,Norris (McLaren),29.9116,29.9116,Sunny,0.05
+19,2,Norris (McLaren),29.64647,59.55808,Sunny,0.05
+19,3,Norris (McLaren),27.78503,87.34311,Sunny,0.05
+19,4,Norris (McLaren),29.82371,117.16682,Sunny,0.05
+19,5,Norris (McLaren),29.97113,147.13796,Sunny,0.05
+20,1,Hamilton (Mercedes),29.11919,29.11919,Sunny,0.05
+20,2,Hamilton (Mercedes),29.97959,59.09878,Sunny,0.05
+20,3,Hamilton (Mercedes),29.42841,88.5272,Sunny,0.05
+20,4,Hamilton (Mercedes),28.99399,117.52119,Sunny,0.05
+20,5,Hamilton (Mercedes),29.26141,146.7826,Sunny,0.05
+20,1,Verstappen (Red Bull),29.35901,29.35901,Sunny,0.05
+20,2,Verstappen (Red Bull),28.99136,58.35037,Sunny,0.05
+20,3,Verstappen (Red Bull),29.04834,87.39872,Sunny,0.05
+20,4,Verstappen (Red Bull),29.73729,117.13601,Sunny,0.05
+20,5,Verstappen (Red Bull),30.23546,147.37146,Sunny,0.05
+20,1,Norris (McLaren),29.2646,29.2646,Sunny,0.05
+20,2,Norris (McLaren),29.18059,58.44519,Sunny,0.05
+20,3,Norris (McLaren),30.80284,89.24803,Sunny,0.05
+20,4,Norris (McLaren),29.43062,118.67865,Sunny,0.05
+20,5,Norris (McLaren),29.46377,148.14242,Sunny,0.05
+21,1,Hamilton (Mercedes),29.3623,29.3623,Sunny,0.05
+21,2,Hamilton (Mercedes),29.60648,58.96877,Sunny,0.05
+21,3,Hamilton (Mercedes),29.6566,88.62537,Sunny,0.05
+21,4,Hamilton (Mercedes),29.81332,118.43869,Sunny,0.05
+21,5,Hamilton (Mercedes),30.25248,148.69116,Sunny,0.05
+21,1,Verstappen (Red Bull),29.8154,29.8154,Sunny,0.05
+21,2,Verstappen (Red Bull),29.94937,59.76477,Sunny,0.05
+21,3,Verstappen (Red Bull),28.5182,88.28297,Sunny,0.05
+21,4,Verstappen (Red Bull),29.70211,117.98509,Sunny,0.05
+21,5,Verstappen (Red Bull),30.76683,148.75192,Sunny,0.05
+21,1,Norris (McLaren),29.2778,29.2778,Sunny,0.05
+21,2,Norris (McLaren),30.70982,59.98762,Sunny,0.05
+21,3,Norris (McLaren),29.17005,89.15767,Sunny,0.05
+21,4,Norris (McLaren),29.37196,118.52963,Sunny,0.05
+21,5,Norris (McLaren),29.27704,147.80667,Sunny,0.05
+22,1,Hamilton (Mercedes),28.55812,28.55812,Sunny,0.05
+22,2,Hamilton (Mercedes),29.39221,57.95033,Sunny,0.05
+22,3,Hamilton (Mercedes),29.00253,86.95286,Sunny,0.05
+22,4,Hamilton (Mercedes),30.17656,117.12942,Sunny,0.05
+22,5,Hamilton (Mercedes),28.92674,146.05616,Sunny,0.05
+22,1,Verstappen (Red Bull),28.35426,28.35426,Sunny,0.05
+22,2,Verstappen (Red Bull),30.5381,58.89236,Sunny,0.05
+22,3,Verstappen (Red Bull),29.31251,88.20487,Sunny,0.05
+22,4,Verstappen (Red Bull),29.53225,117.73712,Sunny,0.05
+22,5,Verstappen (Red Bull),30.73604,148.47316,Sunny,0.05
+22,1,Norris (McLaren),29.44057,29.44057,Sunny,0.05
+22,2,Norris (McLaren),28.70186,58.14243,Sunny,0.05
+22,3,Norris (McLaren),29.55968,87.70211,Sunny,0.05
+22,4,Norris (McLaren),29.70649,117.4086,Sunny,0.05
+22,5,Norris (McLaren),29.51686,146.92546,Sunny,0.05
+23,1,Hamilton (Mercedes),29.81829,29.81829,Sunny,0.05
+23,2,Hamilton (Mercedes),28.88259,58.70089,Sunny,0.05
+23,3,Hamilton (Mercedes),30.20255,88.90344,Sunny,0.05
+23,4,Hamilton (Mercedes),29.47303,118.37647,Sunny,0.05
+23,5,Hamilton (Mercedes),29.44536,147.82183,Sunny,0.05
+23,1,Verstappen (Red Bull),30.37974,30.37974,Sunny,0.05
+23,2,Verstappen (Red Bull),28.37638,58.75612,Sunny,0.05
+23,3,Verstappen (Red Bull),29.07389,87.83001,Sunny,0.05
+23,4,Verstappen (Red Bull),30.25573,118.08573,Sunny,0.05
+23,5,Verstappen (Red Bull),29.66617,147.75191,Sunny,0.05
+23,1,Norris (McLaren),30.17476,30.17476,Sunny,0.05
+23,2,Norris (McLaren),29.57741,59.75217,Sunny,0.05
+23,3,Norris (McLaren),30.4765,90.22867,Sunny,0.05
+23,4,Norris (McLaren),30.23743,120.4661,Sunny,0.05
+23,5,Norris (McLaren),29.26045,149.72655,Sunny,0.05
+24,1,Hamilton (Mercedes),28.98347,28.98347,Sunny,0.05
+24,2,Hamilton (Mercedes),29.12621,58.10968,Sunny,0.05
+24,3,Hamilton (Mercedes),29.51481,87.62448,Sunny,0.05
+24,4,Hamilton (Mercedes),29.21367,116.83815,Sunny,0.05
+24,5,Hamilton (Mercedes),28.05821,144.89636,Sunny,0.05
+24,1,Verstappen (Red Bull),28.88525,28.88525,Sunny,0.05
+24,2,Verstappen (Red Bull),29.4201,58.30535,Sunny,0.05
+24,3,Verstappen (Red Bull),29.78288,88.08822,Sunny,0.05
+24,4,Verstappen (Red Bull),29.3747,117.46292,Sunny,0.05
+24,5,Verstappen (Red Bull),28.46076,145.92368,Sunny,0.05
+24,1,Norris (McLaren),29.30939,29.30939,Sunny,0.05
+24,2,Norris (McLaren),30.09449,59.40389,Sunny,0.05
+24,3,Norris (McLaren),28.71452,88.11841,Sunny,0.05
+24,4,Norris (McLaren),29.49884,117.61725,Sunny,0.05
+24,5,Norris (McLaren),29.13247,146.74972,Sunny,0.05
+25,1,Hamilton (Mercedes),29.6345,29.6345,Sunny,0.05
+25,2,Hamilton (Mercedes),29.59869,59.23319,Sunny,0.05
+25,3,Hamilton (Mercedes),29.08512,88.31831,Sunny,0.05
+25,4,Hamilton (Mercedes),29.87609,118.19441,Sunny,0.05
+25,5,Hamilton (Mercedes),29.5169,147.71131,Sunny,0.05
+25,1,Verstappen (Red Bull),28.99406,28.99406,Sunny,0.05
+25,2,Verstappen (Red Bull),29.63724,58.6313,Sunny,0.05
+25,3,Verstappen (Red Bull),30.01548,88.64678,Sunny,0.05
+25,4,Verstappen (Red Bull),28.99525,117.64203,Sunny,0.05
+25,5,Verstappen (Red Bull),28.92787,146.5699,Sunny,0.05
+25,1,Norris (McLaren),30.35461,30.35461,Sunny,0.05
+25,2,Norris (McLaren),29.26361,59.61822,Sunny,0.05
+25,3,Norris (McLaren),30.08198,89.7002,Sunny,0.05
+25,4,Norris (McLaren),30.74863,120.44883,Sunny,0.05
+25,5,Norris (McLaren),29.69201,150.14084,Sunny,0.05
+26,1,Hamilton (Mercedes),29.68227,29.68227,Sunny,0.05
+26,2,Hamilton (Mercedes),29.39411,59.07638,Sunny,0.05
+26,3,Hamilton (Mercedes),29.75629,88.83267,Sunny,0.05
+26,4,Hamilton (Mercedes),28.86328,117.69596,Sunny,0.05
+26,5,Hamilton (Mercedes),28.7158,146.41176,Sunny,0.05
+26,1,Verstappen (Red Bull),29.29135,29.29135,Sunny,0.05
+26,2,Verstappen (Red Bull),28.05469,57.34604,Sunny,0.05
+26,3,Verstappen (Red Bull),30.09955,87.44559,Sunny,0.05
+26,4,Verstappen (Red Bull),30.26807,117.71366,Sunny,0.05
+26,5,Verstappen (Red Bull),29.4771,147.19075,Sunny,0.05
+26,1,Norris (McLaren),29.30628,29.30628,Sunny,0.05
+26,2,Norris (McLaren),29.39544,58.70173,Sunny,0.05
+26,3,Norris (McLaren),29.87931,88.58104,Sunny,0.05
+26,4,Norris (McLaren),29.50729,118.08833,Sunny,0.05
+26,5,Norris (McLaren),30.58412,148.67245,Sunny,0.05
+27,1,Hamilton (Mercedes),29.1984,29.1984,Sunny,0.05
+27,2,Hamilton (Mercedes),29.94787,59.14627,Sunny,0.05
+27,3,Hamilton (Mercedes),29.41029,88.55656,Sunny,0.05
+27,4,Hamilton (Mercedes),28.82348,117.38004,Sunny,0.05
+27,5,Hamilton (Mercedes),30.12449,147.50453,Sunny,0.05
+27,1,Verstappen (Red Bull),29.92362,29.92362,Sunny,0.05
+27,2,Verstappen (Red Bull),29.46676,59.39038,Sunny,0.05
+27,3,Verstappen (Red Bull),29.30219,88.69257,Sunny,0.05
+27,4,Verstappen (Red Bull),29.44008,118.13265,Sunny,0.05
+27,5,Verstappen (Red Bull),29.32938,147.46203,Sunny,0.05
+27,1,Norris (McLaren),29.20792,29.20792,Sunny,0.05
+27,2,Norris (McLaren),30.10202,59.30994,Sunny,0.05
+27,3,Norris (McLaren),30.07583,89.38577,Sunny,0.05
+27,4,Norris (McLaren),29.84399,119.22976,Sunny,0.05
+27,5,Norris (McLaren),29.55116,148.78092,Sunny,0.05
+28,1,Hamilton (Mercedes),29.23484,29.23484,Sunny,0.05
+28,2,Hamilton (Mercedes),29.28806,58.5229,Sunny,0.05
+28,3,Hamilton (Mercedes),29.56686,88.08975,Sunny,0.05
+28,4,Hamilton (Mercedes),28.66896,116.75871,Sunny,0.05
+28,5,Hamilton (Mercedes),28.77268,145.53139,Sunny,0.05
+28,1,Verstappen (Red Bull),29.45098,29.45098,Sunny,0.05
+28,2,Verstappen (Red Bull),28.91125,58.36223,Sunny,0.05
+28,3,Verstappen (Red Bull),29.94012,88.30236,Sunny,0.05
+28,4,Verstappen (Red Bull),29.3073,117.60966,Sunny,0.05
+28,5,Verstappen (Red Bull),29.33893,146.94859,Sunny,0.05
+28,1,Norris (McLaren),30.51264,30.51264,Sunny,0.05
+28,2,Norris (McLaren),30.48147,60.99411,Sunny,0.05
+28,3,Norris (McLaren),29.74651,90.74062,Sunny,0.05
+28,4,Norris (McLaren),29.5933,120.33392,Sunny,0.05
+28,5,Norris (McLaren),30.63514,150.96906,Sunny,0.05
+29,1,Hamilton (Mercedes),29.01335,29.01335,Sunny,0.05
+29,2,Hamilton (Mercedes),28.92258,57.93593,Sunny,0.05
+29,3,Hamilton (Mercedes),29.40352,87.33945,Sunny,0.05
+29,4,Hamilton (Mercedes),28.83022,116.16967,Sunny,0.05
+29,5,Hamilton (Mercedes),29.11585,145.28551,Sunny,0.05
+29,1,Verstappen (Red Bull),29.75617,29.75617,Sunny,0.05
+29,2,Verstappen (Red Bull),30.08665,59.84282,Sunny,0.05
+29,3,Verstappen (Red Bull),29.36686,89.20968,Sunny,0.05
+29,4,Verstappen (Red Bull),29.47772,118.6874,Sunny,0.05
+29,5,Verstappen (Red Bull),28.9193,147.6067,Sunny,0.05
+29,1,Norris (McLaren),30.48774,30.48774,Sunny,0.05
+29,2,Norris (McLaren),29.85817,60.34591,Sunny,0.05
+29,3,Norris (McLaren),29.12837,89.47428,Sunny,0.05
+29,4,Norris (McLaren),29.71557,119.18985,Sunny,0.05
+29,5,Norris (McLaren),29.91103,149.10087,Sunny,0.05
+30,1,Hamilton (Mercedes),29.91277,29.91277,Sunny,0.05
+30,2,Hamilton (Mercedes),30.40305,60.31582,Sunny,0.05
+30,3,Hamilton (Mercedes),29.86248,90.1783,Sunny,0.05
+30,4,Hamilton (Mercedes),28.63441,118.81271,Sunny,0.05
+30,5,Hamilton (Mercedes),29.43465,148.24736,Sunny,0.05
+30,1,Verstappen (Red Bull),30.04974,30.04974,Sunny,0.05
+30,2,Verstappen (Red Bull),28.74007,58.78981,Sunny,0.05
+30,3,Verstappen (Red Bull),29.77152,88.56133,Sunny,0.05
+30,4,Verstappen (Red Bull),28.28847,116.8498,Sunny,0.05
+30,5,Verstappen (Red Bull),30.32441,147.17421,Sunny,0.05
+30,1,Norris (McLaren),29.15968,29.15968,Sunny,0.05
+30,2,Norris (McLaren),30.31049,59.47017,Sunny,0.05
+30,3,Norris (McLaren),29.42613,88.8963,Sunny,0.05
+30,4,Norris (McLaren),31.25113,120.14743,Sunny,0.05
+30,5,Norris (McLaren),29.7782,149.92563,Sunny,0.05
+31,1,Hamilton (Mercedes),30.00618,30.00618,Sunny,0.05
+31,2,Hamilton (Mercedes),28.64307,58.64925,Sunny,0.05
+31,3,Hamilton (Mercedes),29.58936,88.23861,Sunny,0.05
+31,4,Hamilton (Mercedes),28.90518,117.14379,Sunny,0.05
+31,5,Hamilton (Mercedes),28.37372,145.5175,Sunny,0.05
+31,1,Verstappen (Red Bull),29.29641,29.29641,Sunny,0.05
+31,2,Verstappen (Red Bull),29.25878,58.55519,Sunny,0.05
+31,3,Verstappen (Red Bull),30.22025,88.77543,Sunny,0.05
+31,4,Verstappen (Red Bull),29.84163,118.61706,Sunny,0.05
+31,5,Verstappen (Red Bull),29.26631,147.88337,Sunny,0.05
+31,1,Norris (McLaren),30.13499,30.13499,Sunny,0.05
+31,2,Norris (McLaren),30.29985,60.43484,Sunny,0.05
+31,3,Norris (McLaren),29.05181,89.48665,Sunny,0.05
+31,4,Norris (McLaren),30.09958,119.58623,Sunny,0.05
+31,5,Norris (McLaren),29.86308,149.44931,Sunny,0.05
+32,1,Hamilton (Mercedes),30.00158,30.00158,Sunny,0.05
+32,2,Hamilton (Mercedes),29.97098,59.97256,Sunny,0.05
+32,3,Hamilton (Mercedes),30.08613,90.0587,Sunny,0.05
+32,4,Hamilton (Mercedes),29.91953,119.97822,Sunny,0.05
+32,5,Hamilton (Mercedes),29.99337,149.97159,Sunny,0.05
+32,1,Verstappen (Red Bull),29.81093,29.81093,Sunny,0.05
+32,2,Verstappen (Red Bull),30.13711,59.94804,Sunny,0.05
+32,3,Verstappen (Red Bull),29.14985,89.09789,Sunny,0.05
+32,4,Verstappen (Red Bull),29.16718,118.26507,Sunny,0.05
+32,5,Verstappen (Red Bull),29.8966,148.16167,Sunny,0.05
+32,1,Norris (McLaren),29.80714,29.80714,Sunny,0.05
+32,2,Norris (McLaren),30.28938,60.09652,Sunny,0.05
+32,3,Norris (McLaren),29.49158,89.5881,Sunny,0.05
+32,4,Norris (McLaren),28.96624,118.55434,Sunny,0.05
+32,5,Norris (McLaren),29.4672,148.02154,Sunny,0.05
+33,1,Hamilton (Mercedes),29.17583,29.17583,Sunny,0.05
+33,2,Hamilton (Mercedes),29.37486,58.5507,Sunny,0.05
+33,3,Hamilton (Mercedes),29.79502,88.34571,Sunny,0.05
+33,4,Hamilton (Mercedes),28.88153,117.22724,Sunny,0.05
+33,5,Hamilton (Mercedes),29.03477,146.26201,Sunny,0.05
+33,1,Verstappen (Red Bull),29.2052,29.2052,Sunny,0.05
+33,2,Verstappen (Red Bull),29.32415,58.52935,Sunny,0.05
+33,3,Verstappen (Red Bull),29.99861,88.52796,Sunny,0.05
+33,4,Verstappen (Red Bull),29.35754,117.8855,Sunny,0.05
+33,5,Verstappen (Red Bull),28.57235,146.45785,Sunny,0.05
+33,1,Norris (McLaren),30.90937,30.90937,Sunny,0.05
+33,2,Norris (McLaren),29.77496,60.68433,Sunny,0.05
+33,3,Norris (McLaren),30.41724,91.10157,Sunny,0.05
+33,4,Norris (McLaren),29.77895,120.88053,Sunny,0.05
+33,5,Norris (McLaren),29.41871,150.29923,Sunny,0.05
+34,1,Hamilton (Mercedes),31.41308,31.41308,Sunny,0.05
+34,2,Hamilton (Mercedes),28.9748,60.38788,Sunny,0.05
+34,3,Hamilton (Mercedes),29.92235,90.31023,Sunny,0.05
+34,4,Hamilton (Mercedes),29.79314,120.10337,Sunny,0.05
+34,5,Hamilton (Mercedes),29.40186,149.50523,Sunny,0.05
+34,1,Verstappen (Red Bull),29.89877,29.89877,Sunny,0.05
+34,2,Verstappen (Red Bull),29.86623,59.765,Sunny,0.05
+34,3,Verstappen (Red Bull),29.50307,89.26806,Sunny,0.05
+34,4,Verstappen (Red Bull),29.63086,118.89892,Sunny,0.05
+34,5,Verstappen (Red Bull),29.27723,148.17615,Sunny,0.05
+34,1,Norris (McLaren),28.97153,28.97153,Sunny,0.05
+34,2,Norris (McLaren),28.87631,57.84783,Sunny,0.05
+34,3,Norris (McLaren),30.08372,87.93155,Sunny,0.05
+34,4,Norris (McLaren),29.57659,117.50814,Sunny,0.05
+34,5,Norris (McLaren),30.45354,147.96168,Sunny,0.05
+35,1,Hamilton (Mercedes),29.21316,29.21316,Sunny,0.05
+35,2,Hamilton (Mercedes),30.26799,59.48115,Sunny,0.05
+35,3,Hamilton (Mercedes),28.92501,88.40616,Sunny,0.05
+35,4,Hamilton (Mercedes),29.78674,118.1929,Sunny,0.05
+35,5,Hamilton (Mercedes),28.9433,147.13619,Sunny,0.05
+35,1,Verstappen (Red Bull),29.2236,29.2236,Sunny,0.05
+35,2,Verstappen (Red Bull),30.37018,59.59379,Sunny,0.05
+35,3,Verstappen (Red Bull),29.71424,89.30802,Sunny,0.05
+35,4,Verstappen (Red Bull),29.6194,118.92742,Sunny,0.05
+35,5,Verstappen (Red Bull),29.32771,148.25513,Sunny,0.05
+35,1,Norris (McLaren),29.7683,29.7683,Sunny,0.05
+35,2,Norris (McLaren),28.92373,58.69203,Sunny,0.05
+35,3,Norris (McLaren),29.80274,88.49478,Sunny,0.05
+35,4,Norris (McLaren),29.68722,118.18199,Sunny,0.05
+35,5,Norris (McLaren),30.64481,148.82681,Sunny,0.05
+36,1,Hamilton (Mercedes),29.75154,29.75154,Sunny,0.05
+36,2,Hamilton (Mercedes),29.36701,59.11855,Sunny,0.05
+36,3,Hamilton (Mercedes),29.5209,88.63945,Sunny,0.05
+36,4,Hamilton (Mercedes),29.64515,118.2846,Sunny,0.05
+36,5,Hamilton (Mercedes),29.36507,147.64966,Sunny,0.05
+36,1,Verstappen (Red Bull),30.21588,30.21588,Sunny,0.05
+36,2,Verstappen (Red Bull),28.8224,59.03828,Sunny,0.05
+36,3,Verstappen (Red Bull),29.26263,88.30092,Sunny,0.05
+36,4,Verstappen (Red Bull),28.363,116.66391,Sunny,0.05
+36,5,Verstappen (Red Bull),29.24393,145.90784,Sunny,0.05
+36,1,Norris (McLaren),30.71542,30.71542,Sunny,0.05
+36,2,Norris (McLaren),30.93517,61.65059,Sunny,0.05
+36,3,Norris (McLaren),29.96846,91.61906,Sunny,0.05
+36,4,Norris (McLaren),29.90101,121.52006,Sunny,0.05
+36,5,Norris (McLaren),30.00873,151.52879,Sunny,0.05
+37,1,Hamilton (Mercedes),29.6176,29.6176,Sunny,0.05
+37,2,Hamilton (Mercedes),29.41544,59.03304,Sunny,0.05
+37,3,Hamilton (Mercedes),28.76101,87.79406,Sunny,0.05
+37,4,Hamilton (Mercedes),28.54152,116.33558,Sunny,0.05
+37,5,Hamilton (Mercedes),28.95161,145.28719,Sunny,0.05
+37,1,Verstappen (Red Bull),29.26648,29.26648,Sunny,0.05
+37,2,Verstappen (Red Bull),29.5025,58.76898,Sunny,0.05
+37,3,Verstappen (Red Bull),28.52797,87.29695,Sunny,0.05
+37,4,Verstappen (Red Bull),29.26096,116.55791,Sunny,0.05
+37,5,Verstappen (Red Bull),29.44242,146.00033,Sunny,0.05
+37,1,Norris (McLaren),30.90534,30.90534,Sunny,0.05
+37,2,Norris (McLaren),29.70333,60.60867,Sunny,0.05
+37,3,Norris (McLaren),28.80777,89.41644,Sunny,0.05
+37,4,Norris (McLaren),29.94976,119.3662,Sunny,0.05
+37,5,Norris (McLaren),29.80639,149.17259,Sunny,0.05
+38,1,Hamilton (Mercedes),29.99509,29.99509,Sunny,0.05
+38,2,Hamilton (Mercedes),30.1279,60.12299,Sunny,0.05
+38,3,Hamilton (Mercedes),29.73549,89.85848,Sunny,0.05
+38,4,Hamilton (Mercedes),29.37779,119.23627,Sunny,0.05
+38,5,Hamilton (Mercedes),29.50534,148.74161,Sunny,0.05
+38,1,Verstappen (Red Bull),29.66073,29.66073,Sunny,0.05
+38,2,Verstappen (Red Bull),29.94818,59.60891,Sunny,0.05
+38,3,Verstappen (Red Bull),30.45406,90.06297,Sunny,0.05
+38,4,Verstappen (Red Bull),29.44413,119.50709,Sunny,0.05
+38,5,Verstappen (Red Bull),30.08053,149.58762,Sunny,0.05
+38,1,Norris (McLaren),31.07095,31.07095,Sunny,0.05
+38,2,Norris (McLaren),29.27782,60.34877,Sunny,0.05
+38,3,Norris (McLaren),29.55901,89.90778,Sunny,0.05
+38,4,Norris (McLaren),30.67602,120.5838,Sunny,0.05
+38,5,Norris (McLaren),30.22711,150.81091,Sunny,0.05
+39,1,Hamilton (Mercedes),30.05487,30.05487,Sunny,0.05
+39,2,Hamilton (Mercedes),29.77973,59.8346,Sunny,0.05
+39,3,Hamilton (Mercedes),30.61152,90.44612,Sunny,0.05
+39,4,Hamilton (Mercedes),29.59149,120.03761,Sunny,0.05
+39,5,Hamilton (Mercedes),29.4286,149.46622,Sunny,0.05
+39,1,Verstappen (Red Bull),28.72951,28.72951,Sunny,0.05
+39,2,Verstappen (Red Bull),28.76786,57.49737,Sunny,0.05
+39,3,Verstappen (Red Bull),28.81911,86.31648,Sunny,0.05
+39,4,Verstappen (Red Bull),29.62254,115.93902,Sunny,0.05
+39,5,Verstappen (Red Bull),29.26509,145.20411,Sunny,0.05
+39,1,Norris (McLaren),31.28595,31.28595,Sunny,0.05
+39,2,Norris (McLaren),28.67319,59.95914,Sunny,0.05
+39,3,Norris (McLaren),29.27957,89.2387,Sunny,0.05
+39,4,Norris (McLaren),29.50566,118.74437,Sunny,0.05
+39,5,Norris (McLaren),30.40254,149.1469,Sunny,0.05
+40,1,Hamilton (Mercedes),29.76402,29.76402,Sunny,0.05
+40,2,Hamilton (Mercedes),30.39078,60.15481,Sunny,0.05
+40,3,Hamilton (Mercedes),29.78501,89.93981,Sunny,0.05
+40,4,Hamilton (Mercedes),28.88658,118.82639,Sunny,0.05
+40,5,Hamilton (Mercedes),29.11764,147.94403,Sunny,0.05
+40,1,Verstappen (Red Bull),29.77199,29.77199,Sunny,0.05
+40,2,Verstappen (Red Bull),29.08874,58.86072,Sunny,0.05
+40,3,Verstappen (Red Bull),29.4419,88.30262,Sunny,0.05
+40,4,Verstappen (Red Bull),28.53111,116.83373,Sunny,0.05
+40,5,Verstappen (Red Bull),29.25581,146.08954,Sunny,0.05
+40,1,Norris (McLaren),29.722,29.722,Sunny,0.05
+40,2,Norris (McLaren),30.37938,60.10138,Sunny,0.05
+40,3,Norris (McLaren),29.1626,89.26398,Sunny,0.05
+40,4,Norris (McLaren),28.50811,117.7721,Sunny,0.05
+40,5,Norris (McLaren),30.10085,147.87294,Sunny,0.05
+41,1,Hamilton (Mercedes),29.71031,29.71031,Sunny,0.05
+41,2,Hamilton (Mercedes),29.69909,59.4094,Sunny,0.05
+41,3,Hamilton (Mercedes),29.1745,88.5839,Sunny,0.05
+41,4,Hamilton (Mercedes),28.87249,117.45639,Sunny,0.05
+41,5,Hamilton (Mercedes),28.93214,146.38854,Sunny,0.05
+41,1,Verstappen (Red Bull),29.31071,29.31071,Sunny,0.05
+41,2,Verstappen (Red Bull),29.58401,58.89472,Sunny,0.05
+41,3,Verstappen (Red Bull),28.41431,87.30902,Sunny,0.05
+41,4,Verstappen (Red Bull),28.90311,116.21213,Sunny,0.05
+41,5,Verstappen (Red Bull),28.71816,144.9303,Sunny,0.05
+41,1,Norris (McLaren),29.40065,29.40065,Sunny,0.05
+41,2,Norris (McLaren),29.78696,59.18761,Sunny,0.05
+41,3,Norris (McLaren),29.87547,89.06308,Sunny,0.05
+41,4,Norris (McLaren),29.60725,118.67033,Sunny,0.05
+41,5,Norris (McLaren),30.24482,148.91515,Sunny,0.05
+42,1,Hamilton (Mercedes),30.21256,30.21256,Sunny,0.05
+42,2,Hamilton (Mercedes),28.85034,59.06291,Sunny,0.05
+42,3,Hamilton (Mercedes),30.43564,89.49855,Sunny,0.05
+42,4,Hamilton (Mercedes),29.41094,118.90949,Sunny,0.05
+42,5,Hamilton (Mercedes),30.19716,149.10665,Sunny,0.05
+42,1,Verstappen (Red Bull),29.8426,29.8426,Sunny,0.05
+42,2,Verstappen (Red Bull),30.43315,60.27575,Sunny,0.05
+42,3,Verstappen (Red Bull),28.87619,89.15194,Sunny,0.05
+42,4,Verstappen (Red Bull),30.11949,119.27143,Sunny,0.05
+42,5,Verstappen (Red Bull),29.3875,148.65893,Sunny,0.05
+42,1,Norris (McLaren),29.0676,29.0676,Sunny,0.05
+42,2,Norris (McLaren),31.13286,60.20046,Sunny,0.05
+42,3,Norris (McLaren),30.97506,91.17552,Sunny,0.05
+42,4,Norris (McLaren),31.05133,122.22685,Sunny,0.05
+42,5,Norris (McLaren),30.09967,152.32653,Sunny,0.05
+43,1,Hamilton (Mercedes),29.91621,29.91621,Sunny,0.05
+43,2,Hamilton (Mercedes),30.07999,59.9962,Sunny,0.05
+43,3,Hamilton (Mercedes),29.076,89.0722,Sunny,0.05
+43,4,Hamilton (Mercedes),29.79893,118.87113,Sunny,0.05
+43,5,Hamilton (Mercedes),28.92329,147.79442,Sunny,0.05
+43,1,Verstappen (Red Bull),28.99931,28.99931,Sunny,0.05
+43,2,Verstappen (Red Bull),29.35222,58.35154,Sunny,0.05
+43,3,Verstappen (Red Bull),29.25754,87.60908,Sunny,0.05
+43,4,Verstappen (Red Bull),29.19411,116.80319,Sunny,0.05
+43,5,Verstappen (Red Bull),29.70333,146.50652,Sunny,0.05
+43,1,Norris (McLaren),30.64289,30.64289,Sunny,0.05
+43,2,Norris (McLaren),29.64034,60.28323,Sunny,0.05
+43,3,Norris (McLaren),30.27758,90.56081,Sunny,0.05
+43,4,Norris (McLaren),29.77985,120.34065,Sunny,0.05
+43,5,Norris (McLaren),29.48287,149.82352,Sunny,0.05
+44,1,Hamilton (Mercedes),29.00859,29.00859,Sunny,0.05
+44,2,Hamilton (Mercedes),29.4377,58.44628,Sunny,0.05
+44,3,Hamilton (Mercedes),29.91075,88.35703,Sunny,0.05
+44,4,Hamilton (Mercedes),28.71435,117.07138,Sunny,0.05
+44,5,Hamilton (Mercedes),28.91894,145.99032,Sunny,0.05
+44,1,Verstappen (Red Bull),28.77234,28.77234,Sunny,0.05
+44,2,Verstappen (Red Bull),29.46853,58.24088,Sunny,0.05
+44,3,Verstappen (Red Bull),29.84742,88.0883,Sunny,0.05
+44,4,Verstappen (Red Bull),29.29745,117.38574,Sunny,0.05
+44,5,Verstappen (Red Bull),28.75117,146.13691,Sunny,0.05
+44,1,Norris (McLaren),30.93718,30.93718,Sunny,0.05
+44,2,Norris (McLaren),29.97372,60.9109,Sunny,0.05
+44,3,Norris (McLaren),29.89978,90.81068,Sunny,0.05
+44,4,Norris (McLaren),29.40438,120.21506,Sunny,0.05
+44,5,Norris (McLaren),29.14164,149.35671,Sunny,0.05
+45,1,Hamilton (Mercedes),30.1846,30.1846,Sunny,0.05
+45,2,Hamilton (Mercedes),29.22024,59.40483,Sunny,0.05
+45,3,Hamilton (Mercedes),29.46631,88.87114,Sunny,0.05
+45,4,Hamilton (Mercedes),30.38235,119.2535,Sunny,0.05
+45,5,Hamilton (Mercedes),28.89701,148.15051,Sunny,0.05
+45,1,Verstappen (Red Bull),29.7091,29.7091,Sunny,0.05
+45,2,Verstappen (Red Bull),29.50792,59.21702,Sunny,0.05
+45,3,Verstappen (Red Bull),29.633,88.85002,Sunny,0.05
+45,4,Verstappen (Red Bull),30.34375,119.19377,Sunny,0.05
+45,5,Verstappen (Red Bull),28.86873,148.0625,Sunny,0.05
+45,1,Norris (McLaren),29.99947,29.99947,Sunny,0.05
+45,2,Norris (McLaren),30.0725,60.07197,Sunny,0.05
+45,3,Norris (McLaren),30.31459,90.38657,Sunny,0.05
+45,4,Norris (McLaren),28.86568,119.25224,Sunny,0.05
+45,5,Norris (McLaren),28.55354,147.80579,Sunny,0.05
+46,1,Hamilton (Mercedes),29.93503,29.93503,Sunny,0.05
+46,2,Hamilton (Mercedes),30.01345,59.94847,Sunny,0.05
+46,3,Hamilton (Mercedes),28.69466,88.64314,Sunny,0.05
+46,4,Hamilton (Mercedes),30.44131,119.08444,Sunny,0.05
+46,5,Hamilton (Mercedes),29.1035,148.18794,Sunny,0.05
+46,1,Verstappen (Red Bull),30.23625,30.23625,Sunny,0.05
+46,2,Verstappen (Red Bull),29.45231,59.68856,Sunny,0.05
+46,3,Verstappen (Red Bull),30.4194,90.10795,Sunny,0.05
+46,4,Verstappen (Red Bull),30.1007,120.20865,Sunny,0.05
+46,5,Verstappen (Red Bull),29.78045,149.9891,Sunny,0.05
+46,1,Norris (McLaren),28.97643,28.97643,Sunny,0.05
+46,2,Norris (McLaren),28.85019,57.82662,Sunny,0.05
+46,3,Norris (McLaren),30.20956,88.03617,Sunny,0.05
+46,4,Norris (McLaren),29.50974,117.54591,Sunny,0.05
+46,5,Norris (McLaren),30.80791,148.35382,Sunny,0.05
+47,1,Hamilton (Mercedes),29.75029,29.75029,Sunny,0.05
+47,2,Hamilton (Mercedes),29.56966,59.31995,Sunny,0.05
+47,3,Hamilton (Mercedes),28.85589,88.17584,Sunny,0.05
+47,4,Hamilton (Mercedes),30.22158,118.39742,Sunny,0.05
+47,5,Hamilton (Mercedes),29.81778,148.2152,Sunny,0.05
+47,1,Verstappen (Red Bull),29.90988,29.90988,Sunny,0.05
+47,2,Verstappen (Red Bull),29.73824,59.64812,Sunny,0.05
+47,3,Verstappen (Red Bull),28.78228,88.4304,Sunny,0.05
+47,4,Verstappen (Red Bull),29.39814,117.82854,Sunny,0.05
+47,5,Verstappen (Red Bull),30.00257,147.83111,Sunny,0.05
+47,1,Norris (McLaren),29.27341,29.27341,Sunny,0.05
+47,2,Norris (McLaren),30.42166,59.69508,Sunny,0.05
+47,3,Norris (McLaren),30.32423,90.01931,Sunny,0.05
+47,4,Norris (McLaren),29.78726,119.80657,Sunny,0.05
+47,5,Norris (McLaren),29.17653,148.98309,Sunny,0.05
+48,1,Hamilton (Mercedes),30.61621,30.61621,Sunny,0.05
+48,2,Hamilton (Mercedes),28.83535,59.45156,Sunny,0.05
+48,3,Hamilton (Mercedes),29.66551,89.11707,Sunny,0.05
+48,4,Hamilton (Mercedes),29.77109,118.88817,Sunny,0.05
+48,5,Hamilton (Mercedes),29.42244,148.31061,Sunny,0.05
+48,1,Verstappen (Red Bull),29.57744,29.57744,Sunny,0.05
+48,2,Verstappen (Red Bull),29.71828,59.29572,Sunny,0.05
+48,3,Verstappen (Red Bull),29.53077,88.82648,Sunny,0.05
+48,4,Verstappen (Red Bull),29.62137,118.44785,Sunny,0.05
+48,5,Verstappen (Red Bull),29.54543,147.99328,Sunny,0.05
+48,1,Norris (McLaren),31.32292,31.32292,Sunny,0.05
+48,2,Norris (McLaren),30.64756,61.97048,Sunny,0.05
+48,3,Norris (McLaren),29.19667,91.16715,Sunny,0.05
+48,4,Norris (McLaren),28.68637,119.85352,Sunny,0.05
+48,5,Norris (McLaren),29.69875,149.55226,Sunny,0.05
+49,1,Hamilton (Mercedes),30.02522,30.02522,Sunny,0.05
+49,2,Hamilton (Mercedes),29.48606,59.51128,Sunny,0.05
+49,3,Hamilton (Mercedes),29.57105,89.08233,Sunny,0.05
+49,4,Hamilton (Mercedes),29.3279,118.41023,Sunny,0.05
+49,5,Hamilton (Mercedes),29.12477,147.535,Sunny,0.05
+49,1,Verstappen (Red Bull),29.90348,29.90348,Sunny,0.05
+49,2,Verstappen (Red Bull),29.17851,59.08198,Sunny,0.05
+49,3,Verstappen (Red Bull),29.17067,88.25265,Sunny,0.05
+49,4,Verstappen (Red Bull),29.15709,117.40974,Sunny,0.05
+49,5,Verstappen (Red Bull),29.61967,147.02941,Sunny,0.05
+49,1,Norris (McLaren),29.01255,29.01255,Sunny,0.05
+49,2,Norris (McLaren),30.74757,59.76012,Sunny,0.05
+49,3,Norris (McLaren),29.84846,89.60858,Sunny,0.05
+49,4,Norris (McLaren),30.41792,120.0265,Sunny,0.05
+49,5,Norris (McLaren),29.45469,149.48119,Sunny,0.05
+50,1,Hamilton (Mercedes),29.3976,29.3976,Sunny,0.05
+50,2,Hamilton (Mercedes),29.95474,59.35234,Sunny,0.05
+50,3,Hamilton (Mercedes),29.28419,88.63653,Sunny,0.05
+50,4,Hamilton (Mercedes),29.45604,118.09257,Sunny,0.05
+50,5,Hamilton (Mercedes),30.05089,148.14346,Sunny,0.05
+50,1,Verstappen (Red Bull),28.86054,28.86054,Sunny,0.05
+50,2,Verstappen (Red Bull),29.61567,58.47621,Sunny,0.05
+50,3,Verstappen (Red Bull),28.96671,87.44292,Sunny,0.05
+50,4,Verstappen (Red Bull),29.76587,117.20879,Sunny,0.05
+50,5,Verstappen (Red Bull),29.51191,146.72071,Sunny,0.05
+50,1,Norris (McLaren),30.04492,30.04492,Sunny,0.05
+50,2,Norris (McLaren),30.66675,60.71166,Sunny,0.05
+50,3,Norris (McLaren),28.84007,89.55173,Sunny,0.05
+50,4,Norris (McLaren),29.77961,119.33134,Sunny,0.05
+50,5,Norris (McLaren),29.02453,148.35587,Sunny,0.05
+51,1,Hamilton (Mercedes),29.88003,29.88003,Sunny,0.05
+51,2,Hamilton (Mercedes),29.54037,59.42039,Sunny,0.05
+51,3,Hamilton (Mercedes),30.76815,90.18855,Sunny,0.05
+51,4,Hamilton (Mercedes),29.99384,120.18238,Sunny,0.05
+51,5,Hamilton (Mercedes),28.96055,149.14293,Sunny,0.05
+51,1,Verstappen (Red Bull),29.25718,29.25718,Sunny,0.05
+51,2,Verstappen (Red Bull),28.56429,57.82147,Sunny,0.05
+51,3,Verstappen (Red Bull),29.35098,87.17244,Sunny,0.05
+51,4,Verstappen (Red Bull),28.96706,116.13951,Sunny,0.05
+51,5,Verstappen (Red Bull),28.66155,144.80106,Sunny,0.05
+51,1,Norris (McLaren),28.61335,28.61335,Sunny,0.05
+51,2,Norris (McLaren),29.70675,58.3201,Sunny,0.05
+51,3,Norris (McLaren),29.1439,87.464,Sunny,0.05
+51,4,Norris (McLaren),28.70776,116.17175,Sunny,0.05
+51,5,Norris (McLaren),29.86455,146.0363,Sunny,0.05
+52,1,Hamilton (Mercedes),29.32816,29.32816,Sunny,0.05
+52,2,Hamilton (Mercedes),28.85335,58.18151,Sunny,0.05
+52,3,Hamilton (Mercedes),29.87736,88.05887,Sunny,0.05
+52,4,Hamilton (Mercedes),29.47792,117.53679,Sunny,0.05
+52,5,Hamilton (Mercedes),29.03891,146.5757,Sunny,0.05
+52,1,Verstappen (Red Bull),28.47907,28.47907,Sunny,0.05
+52,2,Verstappen (Red Bull),28.8037,57.28278,Sunny,0.05
+52,3,Verstappen (Red Bull),29.52284,86.80561,Sunny,0.05
+52,4,Verstappen (Red Bull),29.874,116.67962,Sunny,0.05
+52,5,Verstappen (Red Bull),29.33829,146.01791,Sunny,0.05
+52,1,Norris (McLaren),30.17371,30.17371,Sunny,0.05
+52,2,Norris (McLaren),29.07441,59.24812,Sunny,0.05
+52,3,Norris (McLaren),29.28511,88.53323,Sunny,0.05
+52,4,Norris (McLaren),30.64414,119.17738,Sunny,0.05
+52,5,Norris (McLaren),29.73838,148.91576,Sunny,0.05
+53,1,Hamilton (Mercedes),29.62541,29.62541,Sunny,0.05
+53,2,Hamilton (Mercedes),29.85557,59.48098,Sunny,0.05
+53,3,Hamilton (Mercedes),29.36089,88.84187,Sunny,0.05
+53,4,Hamilton (Mercedes),29.43545,118.27732,Sunny,0.05
+53,5,Hamilton (Mercedes),30.00725,148.28457,Sunny,0.05
+53,1,Verstappen (Red Bull),29.9026,29.9026,Sunny,0.05
+53,2,Verstappen (Red Bull),29.61658,59.51918,Sunny,0.05
+53,3,Verstappen (Red Bull),29.01448,88.53367,Sunny,0.05
+53,4,Verstappen (Red Bull),29.41827,117.95193,Sunny,0.05
+53,5,Verstappen (Red Bull),29.62055,147.57248,Sunny,0.05
+53,1,Norris (McLaren),31.00341,31.00341,Sunny,0.05
+53,2,Norris (McLaren),29.53885,60.54227,Sunny,0.05
+53,3,Norris (McLaren),29.54349,90.08576,Sunny,0.05
+53,4,Norris (McLaren),29.76498,119.85074,Sunny,0.05
+53,5,Norris (McLaren),30.68892,150.53965,Sunny,0.05
+54,1,Hamilton (Mercedes),29.36963,29.36963,Sunny,0.05
+54,2,Hamilton (Mercedes),29.40066,58.77029,Sunny,0.05
+54,3,Hamilton (Mercedes),28.8377,87.608,Sunny,0.05
+54,4,Hamilton (Mercedes),29.08886,116.69685,Sunny,0.05
+54,5,Hamilton (Mercedes),29.41307,146.10992,Sunny,0.05
+54,1,Verstappen (Red Bull),29.46249,29.46249,Sunny,0.05
+54,2,Verstappen (Red Bull),29.20254,58.66503,Sunny,0.05
+54,3,Verstappen (Red Bull),29.3394,88.00443,Sunny,0.05
+54,4,Verstappen (Red Bull),30.14893,118.15336,Sunny,0.05
+54,5,Verstappen (Red Bull),28.80708,146.96044,Sunny,0.05
+54,1,Norris (McLaren),30.01724,30.01724,Sunny,0.05
+54,2,Norris (McLaren),29.50943,59.52666,Sunny,0.05
+54,3,Norris (McLaren),29.68115,89.20781,Sunny,0.05
+54,4,Norris (McLaren),29.84136,119.04918,Sunny,0.05
+54,5,Norris (McLaren),29.86689,148.91607,Sunny,0.05
+55,1,Hamilton (Mercedes),29.21786,29.21786,Sunny,0.05
+55,2,Hamilton (Mercedes),28.94238,58.16024,Sunny,0.05
+55,3,Hamilton (Mercedes),29.9534,88.11364,Sunny,0.05
+55,4,Hamilton (Mercedes),29.64818,117.76182,Sunny,0.05
+55,5,Hamilton (Mercedes),29.16119,146.92301,Sunny,0.05
+55,1,Verstappen (Red Bull),30.31612,30.31612,Sunny,0.05
+55,2,Verstappen (Red Bull),29.43,59.74612,Sunny,0.05
+55,3,Verstappen (Red Bull),29.08774,88.83387,Sunny,0.05
+55,4,Verstappen (Red Bull),28.73665,117.57052,Sunny,0.05
+55,5,Verstappen (Red Bull),29.64057,147.21109,Sunny,0.05
+55,1,Norris (McLaren),29.92625,29.92625,Sunny,0.05
+55,2,Norris (McLaren),29.38909,59.31535,Sunny,0.05
+55,3,Norris (McLaren),30.1301,89.44544,Sunny,0.05
+55,4,Norris (McLaren),30.93319,120.37863,Sunny,0.05
+55,5,Norris (McLaren),29.61228,149.99091,Sunny,0.05
+56,1,Hamilton (Mercedes),29.17577,29.17577,Sunny,0.05
+56,2,Hamilton (Mercedes),29.62027,58.79604,Sunny,0.05
+56,3,Hamilton (Mercedes),30.18775,88.98379,Sunny,0.05
+56,4,Hamilton (Mercedes),30.33647,119.32026,Sunny,0.05
+56,5,Hamilton (Mercedes),29.76785,149.08811,Sunny,0.05
+56,1,Verstappen (Red Bull),29.53233,29.53233,Sunny,0.05
+56,2,Verstappen (Red Bull),29.06769,58.60002,Sunny,0.05
+56,3,Verstappen (Red Bull),30.23064,88.83066,Sunny,0.05
+56,4,Verstappen (Red Bull),28.71125,117.54191,Sunny,0.05
+56,5,Verstappen (Red Bull),30.32384,147.86575,Sunny,0.05
+56,1,Norris (McLaren),30.19724,30.19724,Sunny,0.05
+56,2,Norris (McLaren),29.9757,60.17294,Sunny,0.05
+56,3,Norris (McLaren),28.90816,89.0811,Sunny,0.05
+56,4,Norris (McLaren),29.92483,119.00594,Sunny,0.05
+56,5,Norris (McLaren),30.58096,149.58689,Sunny,0.05
+57,1,Hamilton (Mercedes),30.2999,30.2999,Sunny,0.05
+57,2,Hamilton (Mercedes),29.38317,59.68307,Sunny,0.05
+57,3,Hamilton (Mercedes),30.56332,90.24639,Sunny,0.05
+57,4,Hamilton (Mercedes),29.36575,119.61213,Sunny,0.05
+57,5,Hamilton (Mercedes),28.79792,148.41005,Sunny,0.05
+57,1,Verstappen (Red Bull),28.84284,28.84284,Sunny,0.05
+57,2,Verstappen (Red Bull),29.14251,57.98534,Sunny,0.05
+57,3,Verstappen (Red Bull),29.49727,87.48261,Sunny,0.05
+57,4,Verstappen (Red Bull),29.08984,116.57245,Sunny,0.05
+57,5,Verstappen (Red Bull),29.32777,145.90022,Sunny,0.05
+57,1,Norris (McLaren),29.70824,29.70824,Sunny,0.05
+57,2,Norris (McLaren),30.08164,59.78988,Sunny,0.05
+57,3,Norris (McLaren),28.64995,88.43983,Sunny,0.05
+57,4,Norris (McLaren),29.62705,118.06688,Sunny,0.05
+57,5,Norris (McLaren),30.95801,149.02489,Sunny,0.05
+58,1,Hamilton (Mercedes),29.59827,29.59827,Sunny,0.05
+58,2,Hamilton (Mercedes),29.4123,59.01057,Sunny,0.05
+58,3,Hamilton (Mercedes),28.71776,87.72833,Sunny,0.05
+58,4,Hamilton (Mercedes),29.68724,117.41557,Sunny,0.05
+58,5,Hamilton (Mercedes),30.3401,147.75567,Sunny,0.05
+58,1,Verstappen (Red Bull),30.13577,30.13577,Sunny,0.05
+58,2,Verstappen (Red Bull),29.01469,59.15046,Sunny,0.05
+58,3,Verstappen (Red Bull),28.76296,87.91342,Sunny,0.05
+58,4,Verstappen (Red Bull),30.03155,117.94497,Sunny,0.05
+58,5,Verstappen (Red Bull),29.87159,147.81656,Sunny,0.05
+58,1,Norris (McLaren),29.32537,29.32537,Sunny,0.05
+58,2,Norris (McLaren),29.90358,59.22895,Sunny,0.05
+58,3,Norris (McLaren),30.43339,89.66234,Sunny,0.05
+58,4,Norris (McLaren),29.74574,119.40808,Sunny,0.05
+58,5,Norris (McLaren),29.3532,148.76128,Sunny,0.05
+59,1,Hamilton (Mercedes),29.93563,29.93563,Sunny,0.05
+59,2,Hamilton (Mercedes),30.93256,60.86819,Sunny,0.05
+59,3,Hamilton (Mercedes),29.84446,90.71265,Sunny,0.05
+59,4,Hamilton (Mercedes),29.67356,120.38621,Sunny,0.05
+59,5,Hamilton (Mercedes),29.87103,150.25724,Sunny,0.05
+59,1,Verstappen (Red Bull),28.67307,28.67307,Sunny,0.05
+59,2,Verstappen (Red Bull),30.3723,59.04538,Sunny,0.05
+59,3,Verstappen (Red Bull),28.56934,87.61471,Sunny,0.05
+59,4,Verstappen (Red Bull),29.82132,117.43603,Sunny,0.05
+59,5,Verstappen (Red Bull),30.2651,147.70113,Sunny,0.05
+59,1,Norris (McLaren),29.68458,29.68458,Sunny,0.05
+59,2,Norris (McLaren),30.82052,60.5051,Sunny,0.05
+59,3,Norris (McLaren),30.90997,91.41507,Sunny,0.05
+59,4,Norris (McLaren),30.18889,121.60396,Sunny,0.05
+59,5,Norris (McLaren),30.07531,151.67927,Sunny,0.05
+60,1,Hamilton (Mercedes),30.35578,30.35578,Sunny,0.05
+60,2,Hamilton (Mercedes),28.8461,59.20187,Sunny,0.05
+60,3,Hamilton (Mercedes),29.8121,89.01398,Sunny,0.05
+60,4,Hamilton (Mercedes),29.50765,118.52163,Sunny,0.05
+60,5,Hamilton (Mercedes),29.67085,148.19248,Sunny,0.05
+60,1,Verstappen (Red Bull),29.30129,29.30129,Sunny,0.05
+60,2,Verstappen (Red Bull),29.84503,59.14633,Sunny,0.05
+60,3,Verstappen (Red Bull),29.61128,88.75761,Sunny,0.05
+60,4,Verstappen (Red Bull),29.44026,118.19787,Sunny,0.05
+60,5,Verstappen (Red Bull),29.48105,147.67892,Sunny,0.05
+60,1,Norris (McLaren),29.44718,29.44718,Sunny,0.05
+60,2,Norris (McLaren),29.28957,58.73675,Sunny,0.05
+60,3,Norris (McLaren),30.74663,89.48338,Sunny,0.05
+60,4,Norris (McLaren),29.64816,119.13153,Sunny,0.05
+60,5,Norris (McLaren),29.74523,148.87676,Sunny,0.05
+61,1,Hamilton (Mercedes),29.51066,29.51066,Sunny,0.05
+61,2,Hamilton (Mercedes),30.04552,59.55618,Sunny,0.05
+61,3,Hamilton (Mercedes),29.21232,88.7685,Sunny,0.05
+61,4,Hamilton (Mercedes),29.09734,117.86584,Sunny,0.05
+61,5,Hamilton (Mercedes),29.51992,147.38576,Sunny,0.05
+61,1,Verstappen (Red Bull),29.46707,29.46707,Sunny,0.05
+61,2,Verstappen (Red Bull),28.86746,58.33453,Sunny,0.05
+61,3,Verstappen (Red Bull),29.6696,88.00413,Sunny,0.05
+61,4,Verstappen (Red Bull),29.88963,117.89376,Sunny,0.05
+61,5,Verstappen (Red Bull),30.00055,147.89431,Sunny,0.05
+61,1,Norris (McLaren),30.22456,30.22456,Sunny,0.05
+61,2,Norris (McLaren),30.33562,60.56017,Sunny,0.05
+61,3,Norris (McLaren),30.25783,90.818,Sunny,0.05
+61,4,Norris (McLaren),30.27005,121.08805,Sunny,0.05
+61,5,Norris (McLaren),30.56028,151.64833,Sunny,0.05
+62,1,Hamilton (Mercedes),29.96696,29.96696,Sunny,0.05
+62,2,Hamilton (Mercedes),28.56743,58.53439,Sunny,0.05
+62,3,Hamilton (Mercedes),28.86186,87.39626,Sunny,0.05
+62,4,Hamilton (Mercedes),29.51088,116.90713,Sunny,0.05
+62,5,Hamilton (Mercedes),29.85252,146.75965,Sunny,0.05
+62,1,Verstappen (Red Bull),28.69338,28.69338,Sunny,0.05
+62,2,Verstappen (Red Bull),29.95536,58.64874,Sunny,0.05
+62,3,Verstappen (Red Bull),29.55521,88.20395,Sunny,0.05
+62,4,Verstappen (Red Bull),30.82052,119.02447,Sunny,0.05
+62,5,Verstappen (Red Bull),29.40801,148.43248,Sunny,0.05
+62,1,Norris (McLaren),30.78537,30.78537,Sunny,0.05
+62,2,Norris (McLaren),30.50648,61.29185,Sunny,0.05
+62,3,Norris (McLaren),30.37426,91.66611,Sunny,0.05
+62,4,Norris (McLaren),29.90469,121.57081,Sunny,0.05
+62,5,Norris (McLaren),29.01039,150.58119,Sunny,0.05
+63,1,Hamilton (Mercedes),29.46078,29.46078,Sunny,0.05
+63,2,Hamilton (Mercedes),30.28468,59.74545,Sunny,0.05
+63,3,Hamilton (Mercedes),30.02451,89.76996,Sunny,0.05
+63,4,Hamilton (Mercedes),29.58436,119.35432,Sunny,0.05
+63,5,Hamilton (Mercedes),29.57248,148.9268,Sunny,0.05
+63,1,Verstappen (Red Bull),28.75142,28.75142,Sunny,0.05
+63,2,Verstappen (Red Bull),29.88567,58.63709,Sunny,0.05
+63,3,Verstappen (Red Bull),29.40675,88.04384,Sunny,0.05
+63,4,Verstappen (Red Bull),29.52167,117.56551,Sunny,0.05
+63,5,Verstappen (Red Bull),29.32932,146.89483,Sunny,0.05
+63,1,Norris (McLaren),30.012,30.012,Sunny,0.05
+63,2,Norris (McLaren),29.72936,59.74136,Sunny,0.05
+63,3,Norris (McLaren),29.57917,89.32053,Sunny,0.05
+63,4,Norris (McLaren),30.24004,119.56058,Sunny,0.05
+63,5,Norris (McLaren),29.54723,149.10781,Sunny,0.05
+64,1,Hamilton (Mercedes),30.69239,30.69239,Sunny,0.05
+64,2,Hamilton (Mercedes),29.77781,60.4702,Sunny,0.05
+64,3,Hamilton (Mercedes),30.2914,90.7616,Sunny,0.05
+64,4,Hamilton (Mercedes),29.45518,120.21678,Sunny,0.05
+64,5,Hamilton (Mercedes),29.49447,149.71125,Sunny,0.05
+64,1,Verstappen (Red Bull),29.57634,29.57634,Sunny,0.05
+64,2,Verstappen (Red Bull),28.00074,57.57709,Sunny,0.05
+64,3,Verstappen (Red Bull),29.07376,86.65085,Sunny,0.05
+64,4,Verstappen (Red Bull),29.39751,116.04836,Sunny,0.05
+64,5,Verstappen (Red Bull),29.20957,145.25793,Sunny,0.05
+64,1,Norris (McLaren),30.6556,30.6556,Sunny,0.05
+64,2,Norris (McLaren),30.91302,61.56862,Sunny,0.05
+64,3,Norris (McLaren),29.55621,91.12483,Sunny,0.05
+64,4,Norris (McLaren),29.72445,120.84928,Sunny,0.05
+64,5,Norris (McLaren),30.1758,151.02508,Sunny,0.05
+65,1,Hamilton (Mercedes),29.53628,29.53628,Sunny,0.05
+65,2,Hamilton (Mercedes),28.98555,58.52183,Sunny,0.05
+65,3,Hamilton (Mercedes),29.1796,87.70143,Sunny,0.05
+65,4,Hamilton (Mercedes),30.49268,118.19411,Sunny,0.05
+65,5,Hamilton (Mercedes),29.2733,147.46741,Sunny,0.05
+65,1,Verstappen (Red Bull),30.32076,30.32076,Sunny,0.05
+65,2,Verstappen (Red Bull),29.54382,59.86458,Sunny,0.05
+65,3,Verstappen (Red Bull),28.46842,88.33301,Sunny,0.05
+65,4,Verstappen (Red Bull),29.45791,117.79092,Sunny,0.05
+65,5,Verstappen (Red Bull),30.08778,147.8787,Sunny,0.05
+65,1,Norris (McLaren),30.24035,30.24035,Sunny,0.05
+65,2,Norris (McLaren),29.45719,59.69754,Sunny,0.05
+65,3,Norris (McLaren),30.00389,89.70143,Sunny,0.05
+65,4,Norris (McLaren),29.93421,119.63564,Sunny,0.05
+65,5,Norris (McLaren),29.28194,148.91758,Sunny,0.05
+66,1,Hamilton (Mercedes),29.14676,29.14676,Sunny,0.05
+66,2,Hamilton (Mercedes),29.3738,58.52055,Sunny,0.05
+66,3,Hamilton (Mercedes),28.3906,86.91116,Sunny,0.05
+66,4,Hamilton (Mercedes),29.10569,116.01685,Sunny,0.05
+66,5,Hamilton (Mercedes),29.3421,145.35895,Sunny,0.05
+66,1,Verstappen (Red Bull),30.07007,30.07007,Sunny,0.05
+66,2,Verstappen (Red Bull),28.87232,58.94239,Sunny,0.05
+66,3,Verstappen (Red Bull),29.85453,88.79692,Sunny,0.05
+66,4,Verstappen (Red Bull),29.59688,118.39381,Sunny,0.05
+66,5,Verstappen (Red Bull),29.13496,147.52877,Sunny,0.05
+66,1,Norris (McLaren),29.50847,29.50847,Sunny,0.05
+66,2,Norris (McLaren),30.02564,59.53411,Sunny,0.05
+66,3,Norris (McLaren),29.80289,89.337,Sunny,0.05
+66,4,Norris (McLaren),31.10376,120.44076,Sunny,0.05
+66,5,Norris (McLaren),28.86925,149.31,Sunny,0.05
+67,1,Hamilton (Mercedes),29.22317,29.22317,Sunny,0.05
+67,2,Hamilton (Mercedes),29.94251,59.16567,Sunny,0.05
+67,3,Hamilton (Mercedes),29.24588,88.41156,Sunny,0.05
+67,4,Hamilton (Mercedes),29.41876,117.83032,Sunny,0.05
+67,5,Hamilton (Mercedes),30.37574,148.20605,Sunny,0.05
+67,1,Verstappen (Red Bull),29.41313,29.41313,Sunny,0.05
+67,2,Verstappen (Red Bull),29.00668,58.41981,Sunny,0.05
+67,3,Verstappen (Red Bull),29.4002,87.82001,Sunny,0.05
+67,4,Verstappen (Red Bull),28.78024,116.60025,Sunny,0.05
+67,5,Verstappen (Red Bull),29.06821,145.66846,Sunny,0.05
+67,1,Norris (McLaren),29.68007,29.68007,Sunny,0.05
+67,2,Norris (McLaren),28.7186,58.39867,Sunny,0.05
+67,3,Norris (McLaren),29.77763,88.1763,Sunny,0.05
+67,4,Norris (McLaren),29.52221,117.69851,Sunny,0.05
+67,5,Norris (McLaren),29.13646,146.83497,Sunny,0.05
+68,1,Hamilton (Mercedes),29.67245,29.67245,Sunny,0.05
+68,2,Hamilton (Mercedes),29.70619,59.37864,Sunny,0.05
+68,3,Hamilton (Mercedes),29.23613,88.61476,Sunny,0.05
+68,4,Hamilton (Mercedes),29.42514,118.0399,Sunny,0.05
+68,5,Hamilton (Mercedes),30.00046,148.04036,Sunny,0.05
+68,1,Verstappen (Red Bull),28.91672,28.91672,Sunny,0.05
+68,2,Verstappen (Red Bull),30.64079,59.55751,Sunny,0.05
+68,3,Verstappen (Red Bull),30.5914,90.14891,Sunny,0.05
+68,4,Verstappen (Red Bull),28.42456,118.57347,Sunny,0.05
+68,5,Verstappen (Red Bull),29.09068,147.66415,Sunny,0.05
+68,1,Norris (McLaren),30.40789,30.40789,Sunny,0.05
+68,2,Norris (McLaren),30.72174,61.12963,Sunny,0.05
+68,3,Norris (McLaren),30.12097,91.2506,Sunny,0.05
+68,4,Norris (McLaren),29.19145,120.44206,Sunny,0.05
+68,5,Norris (McLaren),30.01521,150.45727,Sunny,0.05
+69,1,Hamilton (Mercedes),31.05295,31.05295,Sunny,0.05
+69,2,Hamilton (Mercedes),28.14865,59.2016,Sunny,0.05
+69,3,Hamilton (Mercedes),29.22265,88.42425,Sunny,0.05
+69,4,Hamilton (Mercedes),28.80258,117.22683,Sunny,0.05
+69,5,Hamilton (Mercedes),29.26286,146.48969,Sunny,0.05
+69,1,Verstappen (Red Bull),28.50279,28.50279,Sunny,0.05
+69,2,Verstappen (Red Bull),28.23488,56.73767,Sunny,0.05
+69,3,Verstappen (Red Bull),28.85228,85.58994,Sunny,0.05
+69,4,Verstappen (Red Bull),29.74211,115.33205,Sunny,0.05
+69,5,Verstappen (Red Bull),30.1859,145.51795,Sunny,0.05
+69,1,Norris (McLaren),29.21675,29.21675,Sunny,0.05
+69,2,Norris (McLaren),29.87903,59.09578,Sunny,0.05
+69,3,Norris (McLaren),29.73643,88.83221,Sunny,0.05
+69,4,Norris (McLaren),29.61536,118.44758,Sunny,0.05
+69,5,Norris (McLaren),30.81142,149.25899,Sunny,0.05
+70,1,Hamilton (Mercedes),29.06771,29.06771,Sunny,0.05
+70,2,Hamilton (Mercedes),30.24863,59.31635,Sunny,0.05
+70,3,Hamilton (Mercedes),30.5214,89.83774,Sunny,0.05
+70,4,Hamilton (Mercedes),29.11645,118.95419,Sunny,0.05
+70,5,Hamilton (Mercedes),30.31643,149.27062,Sunny,0.05
+70,1,Verstappen (Red Bull),30.41468,30.41468,Sunny,0.05
+70,2,Verstappen (Red Bull),29.72654,60.14122,Sunny,0.05
+70,3,Verstappen (Red Bull),29.45195,89.59317,Sunny,0.05
+70,4,Verstappen (Red Bull),28.87352,118.46669,Sunny,0.05
+70,5,Verstappen (Red Bull),28.96334,147.43003,Sunny,0.05
+70,1,Norris (McLaren),30.36541,30.36541,Sunny,0.05
+70,2,Norris (McLaren),31.25611,61.62153,Sunny,0.05
+70,3,Norris (McLaren),31.06649,92.68802,Sunny,0.05
+70,4,Norris (McLaren),28.86185,121.54987,Sunny,0.05
+70,5,Norris (McLaren),29.77039,151.32026,Sunny,0.05
+71,1,Hamilton (Mercedes),29.30929,29.30929,Sunny,0.05
+71,2,Hamilton (Mercedes),29.47045,58.77974,Sunny,0.05
+71,3,Hamilton (Mercedes),29.2125,87.99223,Sunny,0.05
+71,4,Hamilton (Mercedes),28.30904,116.30128,Sunny,0.05
+71,5,Hamilton (Mercedes),30.18139,146.48266,Sunny,0.05
+71,1,Verstappen (Red Bull),29.41821,29.41821,Sunny,0.05
+71,2,Verstappen (Red Bull),27.8103,57.22851,Sunny,0.05
+71,3,Verstappen (Red Bull),29.96187,87.19038,Sunny,0.05
+71,4,Verstappen (Red Bull),29.65423,116.84461,Sunny,0.05
+71,5,Verstappen (Red Bull),28.63422,145.47883,Sunny,0.05
+71,1,Norris (McLaren),29.21851,29.21851,Sunny,0.05
+71,2,Norris (McLaren),28.56395,57.78246,Sunny,0.05
+71,3,Norris (McLaren),29.57096,87.35342,Sunny,0.05
+71,4,Norris (McLaren),30.3918,117.74522,Sunny,0.05
+71,5,Norris (McLaren),29.58071,147.32594,Sunny,0.05
+72,1,Hamilton (Mercedes),29.9032,29.9032,Sunny,0.05
+72,2,Hamilton (Mercedes),29.54377,59.44697,Sunny,0.05
+72,3,Hamilton (Mercedes),29.56207,89.00904,Sunny,0.05
+72,4,Hamilton (Mercedes),29.27604,118.28509,Sunny,0.05
+72,5,Hamilton (Mercedes),29.30646,147.59154,Sunny,0.05
+72,1,Verstappen (Red Bull),29.17458,29.17458,Sunny,0.05
+72,2,Verstappen (Red Bull),29.61024,58.78481,Sunny,0.05
+72,3,Verstappen (Red Bull),29.62386,88.40867,Sunny,0.05
+72,4,Verstappen (Red Bull),29.11358,117.52225,Sunny,0.05
+72,5,Verstappen (Red Bull),30.41602,147.93827,Sunny,0.05
+72,1,Norris (McLaren),30.13174,30.13174,Sunny,0.05
+72,2,Norris (McLaren),30.36455,60.49629,Sunny,0.05
+72,3,Norris (McLaren),29.94973,90.44602,Sunny,0.05
+72,4,Norris (McLaren),30.22097,120.66699,Sunny,0.05
+72,5,Norris (McLaren),29.80389,150.47088,Sunny,0.05
+73,1,Hamilton (Mercedes),28.78445,28.78445,Sunny,0.05
+73,2,Hamilton (Mercedes),29.41155,58.196,Sunny,0.05
+73,3,Hamilton (Mercedes),28.99479,87.19079,Sunny,0.05
+73,4,Hamilton (Mercedes),29.36906,116.55985,Sunny,0.05
+73,5,Hamilton (Mercedes),29.61907,146.17892,Sunny,0.05
+73,1,Verstappen (Red Bull),29.26407,29.26407,Sunny,0.05
+73,2,Verstappen (Red Bull),29.29574,58.55981,Sunny,0.05
+73,3,Verstappen (Red Bull),29.75696,88.31677,Sunny,0.05
+73,4,Verstappen (Red Bull),30.62499,118.94175,Sunny,0.05
+73,5,Verstappen (Red Bull),29.33248,148.27423,Sunny,0.05
+73,1,Norris (McLaren),30.03826,30.03826,Sunny,0.05
+73,2,Norris (McLaren),30.63739,60.67565,Sunny,0.05
+73,3,Norris (McLaren),29.72062,90.39627,Sunny,0.05
+73,4,Norris (McLaren),28.96322,119.3595,Sunny,0.05
+73,5,Norris (McLaren),29.80393,149.16343,Sunny,0.05
+74,1,Hamilton (Mercedes),28.6866,28.6866,Sunny,0.05
+74,2,Hamilton (Mercedes),29.85102,58.53762,Sunny,0.05
+74,3,Hamilton (Mercedes),29.69626,88.23389,Sunny,0.05
+74,4,Hamilton (Mercedes),29.6701,117.90399,Sunny,0.05
+74,5,Hamilton (Mercedes),29.97196,147.87595,Sunny,0.05
+74,1,Verstappen (Red Bull),29.79301,29.79301,Sunny,0.05
+74,2,Verstappen (Red Bull),29.74265,59.53566,Sunny,0.05
+74,3,Verstappen (Red Bull),28.89659,88.43224,Sunny,0.05
+74,4,Verstappen (Red Bull),29.67689,118.10914,Sunny,0.05
+74,5,Verstappen (Red Bull),29.80574,147.91488,Sunny,0.05
+74,1,Norris (McLaren),30.55662,30.55662,Sunny,0.05
+74,2,Norris (McLaren),29.42949,59.98611,Sunny,0.05
+74,3,Norris (McLaren),29.42007,89.40618,Sunny,0.05
+74,4,Norris (McLaren),30.81811,120.22429,Sunny,0.05
+74,5,Norris (McLaren),29.72131,149.94559,Sunny,0.05
+75,1,Hamilton (Mercedes),30.19026,30.19026,Sunny,0.05
+75,2,Hamilton (Mercedes),29.40411,59.59436,Sunny,0.05
+75,3,Hamilton (Mercedes),29.64066,89.23502,Sunny,0.05
+75,4,Hamilton (Mercedes),28.84057,118.07559,Sunny,0.05
+75,5,Hamilton (Mercedes),29.9836,148.05919,Sunny,0.05
+75,1,Verstappen (Red Bull),29.16763,29.16763,Sunny,0.05
+75,2,Verstappen (Red Bull),28.411,57.57864,Sunny,0.05
+75,3,Verstappen (Red Bull),30.14552,87.72415,Sunny,0.05
+75,4,Verstappen (Red Bull),29.44106,117.16522,Sunny,0.05
+75,5,Verstappen (Red Bull),30.02415,147.18937,Sunny,0.05
+75,1,Norris (McLaren),29.79572,29.79572,Sunny,0.05
+75,2,Norris (McLaren),30.01758,59.8133,Sunny,0.05
+75,3,Norris (McLaren),29.89242,89.70571,Sunny,0.05
+75,4,Norris (McLaren),29.78651,119.49223,Sunny,0.05
+75,5,Norris (McLaren),29.0068,148.49902,Sunny,0.05
+76,1,Hamilton (Mercedes),29.38765,29.38765,Sunny,0.05
+76,2,Hamilton (Mercedes),30.6436,60.03125,Sunny,0.05
+76,3,Hamilton (Mercedes),28.39802,88.42927,Sunny,0.05
+76,4,Hamilton (Mercedes),29.47901,117.90828,Sunny,0.05
+76,5,Hamilton (Mercedes),28.98835,146.89663,Sunny,0.05
+76,1,Verstappen (Red Bull),29.74512,29.74512,Sunny,0.05
+76,2,Verstappen (Red Bull),29.22959,58.97471,Sunny,0.05
+76,3,Verstappen (Red Bull),29.1278,88.10251,Sunny,0.05
+76,4,Verstappen (Red Bull),29.07891,117.18142,Sunny,0.05
+76,5,Verstappen (Red Bull),29.62233,146.80375,Sunny,0.05
+76,1,Norris (McLaren),29.70199,29.70199,Sunny,0.05
+76,2,Norris (McLaren),29.3684,59.07039,Sunny,0.05
+76,3,Norris (McLaren),29.49905,88.56944,Sunny,0.05
+76,4,Norris (McLaren),30.21583,118.78527,Sunny,0.05
+76,5,Norris (McLaren),29.67537,148.46064,Sunny,0.05
+77,1,Hamilton (Mercedes),29.59498,29.59498,Sunny,0.05
+77,2,Hamilton (Mercedes),29.53727,59.13225,Sunny,0.05
+77,3,Hamilton (Mercedes),29.62947,88.76172,Sunny,0.05
+77,4,Hamilton (Mercedes),30.11937,118.88109,Sunny,0.05
+77,5,Hamilton (Mercedes),28.99251,147.8736,Sunny,0.05
+77,1,Verstappen (Red Bull),28.70058,28.70058,Sunny,0.05
+77,2,Verstappen (Red Bull),29.15522,57.8558,Sunny,0.05
+77,3,Verstappen (Red Bull),29.53054,87.38634,Sunny,0.05
+77,4,Verstappen (Red Bull),29.3005,116.68684,Sunny,0.05
+77,5,Verstappen (Red Bull),29.68785,146.37469,Sunny,0.05
+77,1,Norris (McLaren),30.24689,30.24689,Sunny,0.05
+77,2,Norris (McLaren),29.2333,59.48019,Sunny,0.05
+77,3,Norris (McLaren),28.75938,88.23957,Sunny,0.05
+77,4,Norris (McLaren),30.07937,118.31894,Sunny,0.05
+77,5,Norris (McLaren),29.28311,147.60205,Sunny,0.05
+78,1,Hamilton (Mercedes),29.12759,29.12759,Sunny,0.05
+78,2,Hamilton (Mercedes),29.01561,58.14321,Sunny,0.05
+78,3,Hamilton (Mercedes),30.01687,88.16008,Sunny,0.05
+78,4,Hamilton (Mercedes),30.43623,118.5963,Sunny,0.05
+78,5,Hamilton (Mercedes),29.82184,148.41814,Sunny,0.05
+78,1,Verstappen (Red Bull),29.35803,29.35803,Sunny,0.05
+78,2,Verstappen (Red Bull),29.90443,59.26245,Sunny,0.05
+78,3,Verstappen (Red Bull),30.7607,90.02315,Sunny,0.05
+78,4,Verstappen (Red Bull),29.99551,120.01866,Sunny,0.05
+78,5,Verstappen (Red Bull),29.30614,149.3248,Sunny,0.05
+78,1,Norris (McLaren),29.87788,29.87788,Sunny,0.05
+78,2,Norris (McLaren),31.02439,60.90227,Sunny,0.05
+78,3,Norris (McLaren),29.74306,90.64533,Sunny,0.05
+78,4,Norris (McLaren),29.95769,120.60303,Sunny,0.05
+78,5,Norris (McLaren),29.48255,150.08558,Sunny,0.05
+79,1,Hamilton (Mercedes),29.77344,29.77344,Sunny,0.05
+79,2,Hamilton (Mercedes),30.48046,60.2539,Sunny,0.05
+79,3,Hamilton (Mercedes),28.80031,89.05422,Sunny,0.05
+79,4,Hamilton (Mercedes),29.26916,118.32337,Sunny,0.05
+79,5,Hamilton (Mercedes),29.36587,147.68924,Sunny,0.05
+79,1,Verstappen (Red Bull),28.65139,28.65139,Sunny,0.05
+79,2,Verstappen (Red Bull),30.33467,58.98606,Sunny,0.05
+79,3,Verstappen (Red Bull),28.76334,87.7494,Sunny,0.05
+79,4,Verstappen (Red Bull),29.25779,117.00718,Sunny,0.05
+79,5,Verstappen (Red Bull),29.20474,146.21192,Sunny,0.05
+79,1,Norris (McLaren),29.01229,29.01229,Sunny,0.05
+79,2,Norris (McLaren),29.67544,58.68773,Sunny,0.05
+79,3,Norris (McLaren),28.31316,87.00089,Sunny,0.05
+79,4,Norris (McLaren),30.44392,117.44481,Sunny,0.05
+79,5,Norris (McLaren),28.46876,145.91357,Sunny,0.05
+80,1,Hamilton (Mercedes),29.38183,29.38183,Sunny,0.05
+80,2,Hamilton (Mercedes),30.33094,59.71278,Sunny,0.05
+80,3,Hamilton (Mercedes),29.00528,88.71806,Sunny,0.05
+80,4,Hamilton (Mercedes),30.25315,118.97121,Sunny,0.05
+80,5,Hamilton (Mercedes),29.96527,148.93648,Sunny,0.05
+80,1,Verstappen (Red Bull),28.88629,28.88629,Sunny,0.05
+80,2,Verstappen (Red Bull),30.15958,59.04587,Sunny,0.05
+80,3,Verstappen (Red Bull),29.49336,88.53923,Sunny,0.05
+80,4,Verstappen (Red Bull),29.48187,118.0211,Sunny,0.05
+80,5,Verstappen (Red Bull),29.16245,147.18355,Sunny,0.05
+80,1,Norris (McLaren),28.87721,28.87721,Sunny,0.05
+80,2,Norris (McLaren),29.61798,58.49519,Sunny,0.05
+80,3,Norris (McLaren),29.55427,88.04946,Sunny,0.05
+80,4,Norris (McLaren),29.02117,117.07063,Sunny,0.05
+80,5,Norris (McLaren),28.60161,145.67224,Sunny,0.05
+81,1,Hamilton (Mercedes),30.03342,30.03342,Sunny,0.05
+81,2,Hamilton (Mercedes),29.09048,59.1239,Sunny,0.05
+81,3,Hamilton (Mercedes),28.94681,88.07072,Sunny,0.05
+81,4,Hamilton (Mercedes),30.51652,118.58724,Sunny,0.05
+81,5,Hamilton (Mercedes),30.48039,149.06763,Sunny,0.05
+81,1,Verstappen (Red Bull),29.07373,29.07373,Sunny,0.05
+81,2,Verstappen (Red Bull),29.19686,58.27059,Sunny,0.05
+81,3,Verstappen (Red Bull),29.51043,87.78102,Sunny,0.05
+81,4,Verstappen (Red Bull),28.64188,116.4229,Sunny,0.05
+81,5,Verstappen (Red Bull),29.90933,146.33223,Sunny,0.05
+81,1,Norris (McLaren),29.94821,29.94821,Sunny,0.05
+81,2,Norris (McLaren),30.45173,60.39994,Sunny,0.05
+81,3,Norris (McLaren),29.19116,89.5911,Sunny,0.05
+81,4,Norris (McLaren),30.82511,120.41621,Sunny,0.05
+81,5,Norris (McLaren),29.45859,149.8748,Sunny,0.05
+82,1,Hamilton (Mercedes),30.24008,30.24008,Sunny,0.05
+82,2,Hamilton (Mercedes),29.43132,59.6714,Sunny,0.05
+82,3,Hamilton (Mercedes),30.8835,90.5549,Sunny,0.05
+82,4,Hamilton (Mercedes),29.90555,120.46045,Sunny,0.05
+82,5,Hamilton (Mercedes),30.58166,151.04211,Sunny,0.05
+82,1,Verstappen (Red Bull),28.74221,28.74221,Sunny,0.05
+82,2,Verstappen (Red Bull),30.00389,58.7461,Sunny,0.05
+82,3,Verstappen (Red Bull),29.67788,88.42398,Sunny,0.05
+82,4,Verstappen (Red Bull),29.35156,117.77554,Sunny,0.05
+82,5,Verstappen (Red Bull),29.53389,147.30943,Sunny,0.05
+82,1,Norris (McLaren),30.2439,30.2439,Sunny,0.05
+82,2,Norris (McLaren),30.1611,60.405,Sunny,0.05
+82,3,Norris (McLaren),30.88785,91.29285,Sunny,0.05
+82,4,Norris (McLaren),29.62296,120.91581,Sunny,0.05
+82,5,Norris (McLaren),30.63691,151.55271,Sunny,0.05
+83,1,Hamilton (Mercedes),30.0522,30.0522,Sunny,0.05
+83,2,Hamilton (Mercedes),30.06691,60.11911,Sunny,0.05
+83,3,Hamilton (Mercedes),29.36015,89.47926,Sunny,0.05
+83,4,Hamilton (Mercedes),30.42873,119.90798,Sunny,0.05
+83,5,Hamilton (Mercedes),29.43929,149.34727,Sunny,0.05
+83,1,Verstappen (Red Bull),29.63746,29.63746,Sunny,0.05
+83,2,Verstappen (Red Bull),29.02646,58.66392,Sunny,0.05
+83,3,Verstappen (Red Bull),29.4892,88.15312,Sunny,0.05
+83,4,Verstappen (Red Bull),30.0595,118.21261,Sunny,0.05
+83,5,Verstappen (Red Bull),29.48485,147.69746,Sunny,0.05
+83,1,Norris (McLaren),28.93417,28.93417,Sunny,0.05
+83,2,Norris (McLaren),29.06692,58.00109,Sunny,0.05
+83,3,Norris (McLaren),29.78368,87.78477,Sunny,0.05
+83,4,Norris (McLaren),29.6337,117.41848,Sunny,0.05
+83,5,Norris (McLaren),29.30951,146.72799,Sunny,0.05
+84,1,Hamilton (Mercedes),29.88317,29.88317,Sunny,0.05
+84,2,Hamilton (Mercedes),30.07251,59.95569,Sunny,0.05
+84,3,Hamilton (Mercedes),28.98402,88.93971,Sunny,0.05
+84,4,Hamilton (Mercedes),29.67211,118.61181,Sunny,0.05
+84,5,Hamilton (Mercedes),30.29432,148.90613,Sunny,0.05
+84,1,Verstappen (Red Bull),29.78289,29.78289,Sunny,0.05
+84,2,Verstappen (Red Bull),28.68302,58.46591,Sunny,0.05
+84,3,Verstappen (Red Bull),28.95857,87.42448,Sunny,0.05
+84,4,Verstappen (Red Bull),28.90893,116.33341,Sunny,0.05
+84,5,Verstappen (Red Bull),30.59669,146.9301,Sunny,0.05
+84,1,Norris (McLaren),29.72035,29.72035,Sunny,0.05
+84,2,Norris (McLaren),28.19456,57.91491,Sunny,0.05
+84,3,Norris (McLaren),30.53617,88.45108,Sunny,0.05
+84,4,Norris (McLaren),30.20515,118.65623,Sunny,0.05
+84,5,Norris (McLaren),29.24953,147.90576,Sunny,0.05
+85,1,Hamilton (Mercedes),29.4782,29.4782,Sunny,0.05
+85,2,Hamilton (Mercedes),29.6555,59.1337,Sunny,0.05
+85,3,Hamilton (Mercedes),29.71688,88.85058,Sunny,0.05
+85,4,Hamilton (Mercedes),29.37675,118.22733,Sunny,0.05
+85,5,Hamilton (Mercedes),29.07461,147.30194,Sunny,0.05
+85,1,Verstappen (Red Bull),30.49257,30.49257,Sunny,0.05
+85,2,Verstappen (Red Bull),29.77019,60.26277,Sunny,0.05
+85,3,Verstappen (Red Bull),29.26932,89.53209,Sunny,0.05
+85,4,Verstappen (Red Bull),28.95371,118.4858,Sunny,0.05
+85,5,Verstappen (Red Bull),29.29775,147.78355,Sunny,0.05
+85,1,Norris (McLaren),29.66119,29.66119,Sunny,0.05
+85,2,Norris (McLaren),29.04298,58.70417,Sunny,0.05
+85,3,Norris (McLaren),29.18746,87.89163,Sunny,0.05
+85,4,Norris (McLaren),28.96167,116.8533,Sunny,0.05
+85,5,Norris (McLaren),30.42471,147.27802,Sunny,0.05
+86,1,Hamilton (Mercedes),29.56986,29.56986,Sunny,0.05
+86,2,Hamilton (Mercedes),30.0476,59.61746,Sunny,0.05
+86,3,Hamilton (Mercedes),29.62241,89.23986,Sunny,0.05
+86,4,Hamilton (Mercedes),29.79659,119.03646,Sunny,0.05
+86,5,Hamilton (Mercedes),29.62468,148.66113,Sunny,0.05
+86,1,Verstappen (Red Bull),29.84803,29.84803,Sunny,0.05
+86,2,Verstappen (Red Bull),29.52633,59.37436,Sunny,0.05
+86,3,Verstappen (Red Bull),29.21496,88.58932,Sunny,0.05
+86,4,Verstappen (Red Bull),29.29688,117.8862,Sunny,0.05
+86,5,Verstappen (Red Bull),28.55921,146.44541,Sunny,0.05
+86,1,Norris (McLaren),30.31697,30.31697,Sunny,0.05
+86,2,Norris (McLaren),29.19328,59.51026,Sunny,0.05
+86,3,Norris (McLaren),29.5952,89.10545,Sunny,0.05
+86,4,Norris (McLaren),29.57332,118.67877,Sunny,0.05
+86,5,Norris (McLaren),28.37571,147.05448,Sunny,0.05
+87,1,Hamilton (Mercedes),30.07878,30.07878,Sunny,0.05
+87,2,Hamilton (Mercedes),29.32624,59.40502,Sunny,0.05
+87,3,Hamilton (Mercedes),29.59104,88.99606,Sunny,0.05
+87,4,Hamilton (Mercedes),28.75536,117.75142,Sunny,0.05
+87,5,Hamilton (Mercedes),29.45662,147.20805,Sunny,0.05
+87,1,Verstappen (Red Bull),29.77331,29.77331,Sunny,0.05
+87,2,Verstappen (Red Bull),29.37545,59.14876,Sunny,0.05
+87,3,Verstappen (Red Bull),29.29423,88.44298,Sunny,0.05
+87,4,Verstappen (Red Bull),31.26186,119.70484,Sunny,0.05
+87,5,Verstappen (Red Bull),29.82755,149.5324,Sunny,0.05
+87,1,Norris (McLaren),29.15549,29.15549,Sunny,0.05
+87,2,Norris (McLaren),29.65091,58.8064,Sunny,0.05
+87,3,Norris (McLaren),29.35654,88.16294,Sunny,0.05
+87,4,Norris (McLaren),29.83641,117.99935,Sunny,0.05
+87,5,Norris (McLaren),30.17431,148.17366,Sunny,0.05
+88,1,Hamilton (Mercedes),30.06393,30.06393,Sunny,0.05
+88,2,Hamilton (Mercedes),29.50852,59.57244,Sunny,0.05
+88,3,Hamilton (Mercedes),28.53454,88.10698,Sunny,0.05
+88,4,Hamilton (Mercedes),30.08832,118.19531,Sunny,0.05
+88,5,Hamilton (Mercedes),29.73798,147.93329,Sunny,0.05
+88,1,Verstappen (Red Bull),29.51912,29.51912,Sunny,0.05
+88,2,Verstappen (Red Bull),28.77107,58.29019,Sunny,0.05
+88,3,Verstappen (Red Bull),29.8847,88.17489,Sunny,0.05
+88,4,Verstappen (Red Bull),29.0994,117.27429,Sunny,0.05
+88,5,Verstappen (Red Bull),28.92114,146.19543,Sunny,0.05
+88,1,Norris (McLaren),28.60037,28.60037,Sunny,0.05
+88,2,Norris (McLaren),29.46272,58.06309,Sunny,0.05
+88,3,Norris (McLaren),29.80146,87.86455,Sunny,0.05
+88,4,Norris (McLaren),30.1421,118.00665,Sunny,0.05
+88,5,Norris (McLaren),29.91711,147.92376,Sunny,0.05
+89,1,Hamilton (Mercedes),28.49949,28.49949,Sunny,0.05
+89,2,Hamilton (Mercedes),28.90375,57.40324,Sunny,0.05
+89,3,Hamilton (Mercedes),29.84088,87.24412,Sunny,0.05
+89,4,Hamilton (Mercedes),30.10806,117.35217,Sunny,0.05
+89,5,Hamilton (Mercedes),30.0109,147.36308,Sunny,0.05
+89,1,Verstappen (Red Bull),29.58762,29.58762,Sunny,0.05
+89,2,Verstappen (Red Bull),29.44052,59.02813,Sunny,0.05
+89,3,Verstappen (Red Bull),29.52794,88.55607,Sunny,0.05
+89,4,Verstappen (Red Bull),29.10863,117.6647,Sunny,0.05
+89,5,Verstappen (Red Bull),28.50781,146.17251,Sunny,0.05
+89,1,Norris (McLaren),29.14566,29.14566,Sunny,0.05
+89,2,Norris (McLaren),31.12116,60.26682,Sunny,0.05
+89,3,Norris (McLaren),30.95944,91.22627,Sunny,0.05
+89,4,Norris (McLaren),29.12683,120.3531,Sunny,0.05
+89,5,Norris (McLaren),29.40138,149.75448,Sunny,0.05
+90,1,Hamilton (Mercedes),29.28085,29.28085,Sunny,0.05
+90,2,Hamilton (Mercedes),29.7228,59.00365,Sunny,0.05
+90,3,Hamilton (Mercedes),29.13134,88.13499,Sunny,0.05
+90,4,Hamilton (Mercedes),30.76353,118.89853,Sunny,0.05
+90,5,Hamilton (Mercedes),29.50592,148.40444,Sunny,0.05
+90,1,Verstappen (Red Bull),29.27425,29.27425,Sunny,0.05
+90,2,Verstappen (Red Bull),30.56837,59.84262,Sunny,0.05
+90,3,Verstappen (Red Bull),29.82743,89.67004,Sunny,0.05
+90,4,Verstappen (Red Bull),29.69998,119.37003,Sunny,0.05
+90,5,Verstappen (Red Bull),28.64027,148.0103,Sunny,0.05
+90,1,Norris (McLaren),30.84374,30.84374,Sunny,0.05
+90,2,Norris (McLaren),29.64445,60.48819,Sunny,0.05
+90,3,Norris (McLaren),28.81368,89.30187,Sunny,0.05
+90,4,Norris (McLaren),29.79079,119.09266,Sunny,0.05
+90,5,Norris (McLaren),29.02399,148.11665,Sunny,0.05
+91,1,Hamilton (Mercedes),29.54152,29.54152,Sunny,0.05
+91,2,Hamilton (Mercedes),29.89615,59.43767,Sunny,0.05
+91,3,Hamilton (Mercedes),29.64714,89.08481,Sunny,0.05
+91,4,Hamilton (Mercedes),29.08294,118.16775,Sunny,0.05
+91,5,Hamilton (Mercedes),29.28921,147.45696,Sunny,0.05
+91,1,Verstappen (Red Bull),29.62754,29.62754,Sunny,0.05
+91,2,Verstappen (Red Bull),29.80466,59.43221,Sunny,0.05
+91,3,Verstappen (Red Bull),29.40222,88.83443,Sunny,0.05
+91,4,Verstappen (Red Bull),29.94608,118.78051,Sunny,0.05
+91,5,Verstappen (Red Bull),29.49082,148.27133,Sunny,0.05
+91,1,Norris (McLaren),29.831,29.831,Sunny,0.05
+91,2,Norris (McLaren),30.36837,60.19936,Sunny,0.05
+91,3,Norris (McLaren),31.01646,91.21582,Sunny,0.05
+91,4,Norris (McLaren),30.31142,121.52724,Sunny,0.05
+91,5,Norris (McLaren),28.70091,150.22815,Sunny,0.05
+92,1,Hamilton (Mercedes),29.86123,29.86123,Sunny,0.05
+92,2,Hamilton (Mercedes),29.48006,59.34129,Sunny,0.05
+92,3,Hamilton (Mercedes),29.44932,88.79061,Sunny,0.05
+92,4,Hamilton (Mercedes),29.82653,118.61714,Sunny,0.05
+92,5,Hamilton (Mercedes),29.21944,147.83659,Sunny,0.05
+92,1,Verstappen (Red Bull),29.59515,29.59515,Sunny,0.05
+92,2,Verstappen (Red Bull),28.91596,58.51111,Sunny,0.05
+92,3,Verstappen (Red Bull),29.36897,87.88008,Sunny,0.05
+92,4,Verstappen (Red Bull),29.60739,117.48747,Sunny,0.05
+92,5,Verstappen (Red Bull),29.69211,147.17958,Sunny,0.05
+92,1,Norris (McLaren),30.01498,30.01498,Sunny,0.05
+92,2,Norris (McLaren),28.48138,58.49636,Sunny,0.05
+92,3,Norris (McLaren),29.61691,88.11327,Sunny,0.05
+92,4,Norris (McLaren),30.99571,119.10899,Sunny,0.05
+92,5,Norris (McLaren),30.50301,149.61199,Sunny,0.05
+93,1,Hamilton (Mercedes),29.04966,29.04966,Sunny,0.05
+93,2,Hamilton (Mercedes),30.54231,59.59197,Sunny,0.05
+93,3,Hamilton (Mercedes),29.46872,89.0607,Sunny,0.05
+93,4,Hamilton (Mercedes),29.89339,118.95408,Sunny,0.05
+93,5,Hamilton (Mercedes),29.95385,148.90793,Sunny,0.05
+93,1,Verstappen (Red Bull),30.56815,30.56815,Sunny,0.05
+93,2,Verstappen (Red Bull),29.51876,60.08691,Sunny,0.05
+93,3,Verstappen (Red Bull),29.27692,89.36383,Sunny,0.05
+93,4,Verstappen (Red Bull),28.64516,118.00899,Sunny,0.05
+93,5,Verstappen (Red Bull),29.55986,147.56885,Sunny,0.05
+93,1,Norris (McLaren),28.93028,28.93028,Sunny,0.05
+93,2,Norris (McLaren),29.77015,58.70043,Sunny,0.05
+93,3,Norris (McLaren),29.56303,88.26346,Sunny,0.05
+93,4,Norris (McLaren),29.5696,117.83306,Sunny,0.05
+93,5,Norris (McLaren),29.91682,147.74988,Sunny,0.05
+94,1,Hamilton (Mercedes),29.66515,29.66515,Sunny,0.05
+94,2,Hamilton (Mercedes),30.0843,59.74946,Sunny,0.05
+94,3,Hamilton (Mercedes),29.74373,89.49318,Sunny,0.05
+94,4,Hamilton (Mercedes),29.27426,118.76745,Sunny,0.05
+94,5,Hamilton (Mercedes),29.68896,148.45641,Sunny,0.05
+94,1,Verstappen (Red Bull),29.00971,29.00971,Sunny,0.05
+94,2,Verstappen (Red Bull),28.8762,57.88591,Sunny,0.05
+94,3,Verstappen (Red Bull),28.54519,86.4311,Sunny,0.05
+94,4,Verstappen (Red Bull),29.26528,115.69638,Sunny,0.05
+94,5,Verstappen (Red Bull),29.74395,145.44033,Sunny,0.05
+94,1,Norris (McLaren),29.80957,29.80957,Sunny,0.05
+94,2,Norris (McLaren),30.35565,60.16522,Sunny,0.05
+94,3,Norris (McLaren),29.6176,89.78282,Sunny,0.05
+94,4,Norris (McLaren),29.38296,119.16578,Sunny,0.05
+94,5,Norris (McLaren),29.26576,148.43154,Sunny,0.05
+95,1,Hamilton (Mercedes),30.74307,30.74307,Sunny,0.05
+95,2,Hamilton (Mercedes),29.08871,59.83178,Sunny,0.05
+95,3,Hamilton (Mercedes),29.68355,89.51533,Sunny,0.05
+95,4,Hamilton (Mercedes),29.72452,119.23985,Sunny,0.05
+95,5,Hamilton (Mercedes),29.08608,148.32593,Sunny,0.05
+95,1,Verstappen (Red Bull),29.31526,29.31526,Sunny,0.05
+95,2,Verstappen (Red Bull),29.23583,58.55109,Sunny,0.05
+95,3,Verstappen (Red Bull),28.622,87.17309,Sunny,0.05
+95,4,Verstappen (Red Bull),29.8504,117.02349,Sunny,0.05
+95,5,Verstappen (Red Bull),28.67421,145.69771,Sunny,0.05
+95,1,Norris (McLaren),29.70481,29.70481,Sunny,0.05
+95,2,Norris (McLaren),29.63626,59.34107,Sunny,0.05
+95,3,Norris (McLaren),28.70466,88.04573,Sunny,0.05
+95,4,Norris (McLaren),29.85584,117.90157,Sunny,0.05
+95,5,Norris (McLaren),29.17328,147.07485,Sunny,0.05
+96,1,Hamilton (Mercedes),28.86279,28.86279,Sunny,0.05
+96,2,Hamilton (Mercedes),28.43842,57.30121,Sunny,0.05
+96,3,Hamilton (Mercedes),28.96053,86.26174,Sunny,0.05
+96,4,Hamilton (Mercedes),28.95797,115.21971,Sunny,0.05
+96,5,Hamilton (Mercedes),28.45305,143.67276,Sunny,0.05
+96,1,Verstappen (Red Bull),29.59949,29.59949,Sunny,0.05
+96,2,Verstappen (Red Bull),29.26985,58.86934,Sunny,0.05
+96,3,Verstappen (Red Bull),29.70347,88.57282,Sunny,0.05
+96,4,Verstappen (Red Bull),29.29575,117.86857,Sunny,0.05
+96,5,Verstappen (Red Bull),28.69514,146.56371,Sunny,0.05
+96,1,Norris (McLaren),28.68512,28.68512,Sunny,0.05
+96,2,Norris (McLaren),29.6783,58.36341,Sunny,0.05
+96,3,Norris (McLaren),30.78687,89.15029,Sunny,0.05
+96,4,Norris (McLaren),28.6156,117.76589,Sunny,0.05
+96,5,Norris (McLaren),29.3626,147.12849,Sunny,0.05
+97,1,Hamilton (Mercedes),29.70591,29.70591,Sunny,0.05
+97,2,Hamilton (Mercedes),29.24889,58.9548,Sunny,0.05
+97,3,Hamilton (Mercedes),30.20507,89.15987,Sunny,0.05
+97,4,Hamilton (Mercedes),30.35255,119.51242,Sunny,0.05
+97,5,Hamilton (Mercedes),30.44568,149.9581,Sunny,0.05
+97,1,Verstappen (Red Bull),30.20915,30.20915,Sunny,0.05
+97,2,Verstappen (Red Bull),30.12061,60.32976,Sunny,0.05
+97,3,Verstappen (Red Bull),29.46862,89.79838,Sunny,0.05
+97,4,Verstappen (Red Bull),29.50642,119.3048,Sunny,0.05
+97,5,Verstappen (Red Bull),29.18903,148.49383,Sunny,0.05
+97,1,Norris (McLaren),29.01191,29.01191,Sunny,0.05
+97,2,Norris (McLaren),30.02589,59.0378,Sunny,0.05
+97,3,Norris (McLaren),29.39275,88.43055,Sunny,0.05
+97,4,Norris (McLaren),30.60146,119.03201,Sunny,0.05
+97,5,Norris (McLaren),29.91023,148.94224,Sunny,0.05
+98,1,Hamilton (Mercedes),29.79572,29.79572,Sunny,0.05
+98,2,Hamilton (Mercedes),29.91517,59.71089,Sunny,0.05
+98,3,Hamilton (Mercedes),30.4483,90.15919,Sunny,0.05
+98,4,Hamilton (Mercedes),29.89473,120.05391,Sunny,0.05
+98,5,Hamilton (Mercedes),29.30094,149.35485,Sunny,0.05
+98,1,Verstappen (Red Bull),29.94603,29.94603,Sunny,0.05
+98,2,Verstappen (Red Bull),29.61395,59.55997,Sunny,0.05
+98,3,Verstappen (Red Bull),28.27532,87.8353,Sunny,0.05
+98,4,Verstappen (Red Bull),28.06523,115.90053,Sunny,0.05
+98,5,Verstappen (Red Bull),29.06846,144.96898,Sunny,0.05
+98,1,Norris (McLaren),30.40965,30.40965,Sunny,0.05
+98,2,Norris (McLaren),29.88193,60.29157,Sunny,0.05
+98,3,Norris (McLaren),29.47693,89.7685,Sunny,0.05
+98,4,Norris (McLaren),31.15108,120.91958,Sunny,0.05
+98,5,Norris (McLaren),28.9661,149.88568,Sunny,0.05
+99,1,Hamilton (Mercedes),29.91994,29.91994,Sunny,0.05
+99,2,Hamilton (Mercedes),29.16992,59.08986,Sunny,0.05
+99,3,Hamilton (Mercedes),29.67335,88.76321,Sunny,0.05
+99,4,Hamilton (Mercedes),28.81301,117.57622,Sunny,0.05
+99,5,Hamilton (Mercedes),29.70524,147.28145,Sunny,0.05
+99,1,Verstappen (Red Bull),28.98611,28.98611,Sunny,0.05
+99,2,Verstappen (Red Bull),30.02085,59.00696,Sunny,0.05
+99,3,Verstappen (Red Bull),28.74276,87.74972,Sunny,0.05
+99,4,Verstappen (Red Bull),28.52588,116.27561,Sunny,0.05
+99,5,Verstappen (Red Bull),29.73412,146.00973,Sunny,0.05
+99,1,Norris (McLaren),28.87714,28.87714,Sunny,0.05
+99,2,Norris (McLaren),30.83719,59.71433,Sunny,0.05
+99,3,Norris (McLaren),30.217,89.93133,Sunny,0.05
+99,4,Norris (McLaren),28.9269,118.85823,Sunny,0.05
+99,5,Norris (McLaren),29.1532,148.01143,Sunny,0.05
+100,1,Hamilton (Mercedes),29.27808,29.27808,Sunny,0.05
+100,2,Hamilton (Mercedes),29.23526,58.51334,Sunny,0.05
+100,3,Hamilton (Mercedes),29.07496,87.58829,Sunny,0.05
+100,4,Hamilton (Mercedes),29.28944,116.87773,Sunny,0.05
+100,5,Hamilton (Mercedes),29.8448,146.72253,Sunny,0.05
+100,1,Verstappen (Red Bull),28.77359,28.77359,Sunny,0.05
+100,2,Verstappen (Red Bull),29.23467,58.00826,Sunny,0.05
+100,3,Verstappen (Red Bull),29.4279,87.43615,Sunny,0.05
+100,4,Verstappen (Red Bull),29.44609,116.88225,Sunny,0.05
+100,5,Verstappen (Red Bull),30.60497,147.48722,Sunny,0.05
+100,1,Norris (McLaren),30.11081,30.11081,Sunny,0.05
+100,2,Norris (McLaren),30.36251,60.47332,Sunny,0.05
+100,3,Norris (McLaren),29.58654,90.05987,Sunny,0.05
+100,4,Norris (McLaren),30.38464,120.44451,Sunny,0.05
+100,5,Norris (McLaren),28.92524,149.36975,Sunny,0.05
+101,1,Hamilton (Mercedes),29.97213,29.97213,Sunny,0.05
+101,2,Hamilton (Mercedes),30.01976,59.99189,Sunny,0.05
+101,3,Hamilton (Mercedes),30.04709,90.03898,Sunny,0.05
+101,4,Hamilton (Mercedes),29.82566,119.86464,Sunny,0.05
+101,5,Hamilton (Mercedes),28.91022,148.77486,Sunny,0.05
+101,1,Verstappen (Red Bull),28.91325,28.91325,Sunny,0.05
+101,2,Verstappen (Red Bull),29.92721,58.84046,Sunny,0.05
+101,3,Verstappen (Red Bull),28.86197,87.70243,Sunny,0.05
+101,4,Verstappen (Red Bull),29.99654,117.69896,Sunny,0.05
+101,5,Verstappen (Red Bull),29.28962,146.98858,Sunny,0.05
+101,1,Norris (McLaren),28.64145,28.64145,Sunny,0.05
+101,2,Norris (McLaren),29.18091,57.82236,Sunny,0.05
+101,3,Norris (McLaren),29.59025,87.4126,Sunny,0.05
+101,4,Norris (McLaren),31.95906,119.37167,Sunny,0.05
+101,5,Norris (McLaren),30.57119,149.94286,Sunny,0.05
+102,1,Hamilton (Mercedes),30.1037,30.1037,Sunny,0.05
+102,2,Hamilton (Mercedes),28.65878,58.76248,Sunny,0.05
+102,3,Hamilton (Mercedes),29.48913,88.25161,Sunny,0.05
+102,4,Hamilton (Mercedes),29.18326,117.43487,Sunny,0.05
+102,5,Hamilton (Mercedes),29.80627,147.24114,Sunny,0.05
+102,1,Verstappen (Red Bull),29.3336,29.3336,Sunny,0.05
+102,2,Verstappen (Red Bull),29.43788,58.77148,Sunny,0.05
+102,3,Verstappen (Red Bull),30.2503,89.02178,Sunny,0.05
+102,4,Verstappen (Red Bull),28.82151,117.84329,Sunny,0.05
+102,5,Verstappen (Red Bull),29.47782,147.32111,Sunny,0.05
+102,1,Norris (McLaren),29.03372,29.03372,Sunny,0.05
+102,2,Norris (McLaren),30.82064,59.85436,Sunny,0.05
+102,3,Norris (McLaren),31.28271,91.13707,Sunny,0.05
+102,4,Norris (McLaren),30.94059,122.07766,Sunny,0.05
+102,5,Norris (McLaren),30.37329,152.45095,Sunny,0.05
+103,1,Hamilton (Mercedes),29.27468,29.27468,Sunny,0.05
+103,2,Hamilton (Mercedes),29.23229,58.50698,Sunny,0.05
+103,3,Hamilton (Mercedes),30.23008,88.73705,Sunny,0.05
+103,4,Hamilton (Mercedes),29.18097,117.91803,Sunny,0.05
+103,5,Hamilton (Mercedes),30.80141,148.71944,Sunny,0.05
+103,1,Verstappen (Red Bull),29.57753,29.57753,Sunny,0.05
+103,2,Verstappen (Red Bull),30.21482,59.79235,Sunny,0.05
+103,3,Verstappen (Red Bull),29.15536,88.94771,Sunny,0.05
+103,4,Verstappen (Red Bull),29.46426,118.41197,Sunny,0.05
+103,5,Verstappen (Red Bull),29.87963,148.2916,Sunny,0.05
+103,1,Norris (McLaren),29.5934,29.5934,Sunny,0.05
+103,2,Norris (McLaren),30.20659,59.79999,Sunny,0.05
+103,3,Norris (McLaren),29.565,89.36499,Sunny,0.05
+103,4,Norris (McLaren),29.9761,119.34109,Sunny,0.05
+103,5,Norris (McLaren),28.88077,148.22185,Sunny,0.05
+104,1,Hamilton (Mercedes),28.92005,28.92005,Sunny,0.05
+104,2,Hamilton (Mercedes),29.46557,58.38563,Sunny,0.05
+104,3,Hamilton (Mercedes),29.95032,88.33595,Sunny,0.05
+104,4,Hamilton (Mercedes),29.86235,118.1983,Sunny,0.05
+104,5,Hamilton (Mercedes),29.47162,147.66991,Sunny,0.05
+104,1,Verstappen (Red Bull),28.9129,28.9129,Sunny,0.05
+104,2,Verstappen (Red Bull),29.75335,58.66625,Sunny,0.05
+104,3,Verstappen (Red Bull),30.27039,88.93664,Sunny,0.05
+104,4,Verstappen (Red Bull),29.72821,118.66485,Sunny,0.05
+104,5,Verstappen (Red Bull),28.72299,147.38784,Sunny,0.05
+104,1,Norris (McLaren),29.00693,29.00693,Sunny,0.05
+104,2,Norris (McLaren),29.47192,58.47886,Sunny,0.05
+104,3,Norris (McLaren),31.13362,89.61248,Sunny,0.05
+104,4,Norris (McLaren),29.22742,118.8399,Sunny,0.05
+104,5,Norris (McLaren),28.84969,147.68959,Sunny,0.05
+105,1,Hamilton (Mercedes),28.82868,28.82868,Sunny,0.05
+105,2,Hamilton (Mercedes),29.62292,58.4516,Sunny,0.05
+105,3,Hamilton (Mercedes),29.09915,87.55075,Sunny,0.05
+105,4,Hamilton (Mercedes),29.66312,117.21388,Sunny,0.05
+105,5,Hamilton (Mercedes),30.02175,147.23563,Sunny,0.05
+105,1,Verstappen (Red Bull),29.43357,29.43357,Sunny,0.05
+105,2,Verstappen (Red Bull),29.40972,58.84328,Sunny,0.05
+105,3,Verstappen (Red Bull),29.76987,88.61315,Sunny,0.05
+105,4,Verstappen (Red Bull),29.86346,118.47661,Sunny,0.05
+105,5,Verstappen (Red Bull),29.57194,148.04855,Sunny,0.05
+105,1,Norris (McLaren),30.2803,30.2803,Sunny,0.05
+105,2,Norris (McLaren),29.66093,59.94123,Sunny,0.05
+105,3,Norris (McLaren),30.3368,90.27802,Sunny,0.05
+105,4,Norris (McLaren),29.03657,119.3146,Sunny,0.05
+105,5,Norris (McLaren),29.41426,148.72886,Sunny,0.05
+106,1,Hamilton (Mercedes),30.01113,30.01113,Sunny,0.05
+106,2,Hamilton (Mercedes),29.16865,59.17977,Sunny,0.05
+106,3,Hamilton (Mercedes),29.30259,88.48237,Sunny,0.05
+106,4,Hamilton (Mercedes),30.35725,118.83961,Sunny,0.05
+106,5,Hamilton (Mercedes),29.57634,148.41595,Sunny,0.05
+106,1,Verstappen (Red Bull),29.75605,29.75605,Sunny,0.05
+106,2,Verstappen (Red Bull),29.51409,59.27014,Sunny,0.05
+106,3,Verstappen (Red Bull),29.56317,88.83331,Sunny,0.05
+106,4,Verstappen (Red Bull),29.31591,118.14922,Sunny,0.05
+106,5,Verstappen (Red Bull),29.84568,147.99489,Sunny,0.05
+106,1,Norris (McLaren),30.31226,30.31226,Sunny,0.05
+106,2,Norris (McLaren),30.37375,60.68601,Sunny,0.05
+106,3,Norris (McLaren),29.53101,90.21702,Sunny,0.05
+106,4,Norris (McLaren),28.96149,119.17852,Sunny,0.05
+106,5,Norris (McLaren),30.64344,149.82196,Sunny,0.05
+107,1,Hamilton (Mercedes),29.12217,29.12217,Sunny,0.05
+107,2,Hamilton (Mercedes),28.81354,57.9357,Sunny,0.05
+107,3,Hamilton (Mercedes),29.44033,87.37604,Sunny,0.05
+107,4,Hamilton (Mercedes),29.93363,117.30967,Sunny,0.05
+107,5,Hamilton (Mercedes),29.80602,147.11569,Sunny,0.05
+107,1,Verstappen (Red Bull),29.07851,29.07851,Sunny,0.05
+107,2,Verstappen (Red Bull),29.33289,58.4114,Sunny,0.05
+107,3,Verstappen (Red Bull),28.42996,86.84136,Sunny,0.05
+107,4,Verstappen (Red Bull),29.14525,115.98661,Sunny,0.05
+107,5,Verstappen (Red Bull),30.07413,146.06073,Sunny,0.05
+107,1,Norris (McLaren),29.76518,29.76518,Sunny,0.05
+107,2,Norris (McLaren),30.74707,60.51225,Sunny,0.05
+107,3,Norris (McLaren),30.35008,90.86233,Sunny,0.05
+107,4,Norris (McLaren),30.13174,120.99406,Sunny,0.05
+107,5,Norris (McLaren),28.94388,149.93795,Sunny,0.05
+108,1,Hamilton (Mercedes),29.16699,29.16699,Sunny,0.05
+108,2,Hamilton (Mercedes),28.99267,58.15965,Sunny,0.05
+108,3,Hamilton (Mercedes),29.25706,87.41671,Sunny,0.05
+108,4,Hamilton (Mercedes),29.49296,116.90967,Sunny,0.05
+108,5,Hamilton (Mercedes),29.52773,146.43739,Sunny,0.05
+108,1,Verstappen (Red Bull),30.04899,30.04899,Sunny,0.05
+108,2,Verstappen (Red Bull),27.84859,57.89758,Sunny,0.05
+108,3,Verstappen (Red Bull),29.24396,87.14154,Sunny,0.05
+108,4,Verstappen (Red Bull),28.27628,115.41782,Sunny,0.05
+108,5,Verstappen (Red Bull),29.80251,145.22033,Sunny,0.05
+108,1,Norris (McLaren),29.69457,29.69457,Sunny,0.05
+108,2,Norris (McLaren),29.5404,59.23497,Sunny,0.05
+108,3,Norris (McLaren),31.239,90.47398,Sunny,0.05
+108,4,Norris (McLaren),30.48674,120.96072,Sunny,0.05
+108,5,Norris (McLaren),29.82637,150.78708,Sunny,0.05
+109,1,Hamilton (Mercedes),29.53308,29.53308,Sunny,0.05
+109,2,Hamilton (Mercedes),30.17725,59.71033,Sunny,0.05
+109,3,Hamilton (Mercedes),29.26445,88.97478,Sunny,0.05
+109,4,Hamilton (Mercedes),30.05564,119.03042,Sunny,0.05
+109,5,Hamilton (Mercedes),30.03154,149.06195,Sunny,0.05
+109,1,Verstappen (Red Bull),28.71144,28.71144,Sunny,0.05
+109,2,Verstappen (Red Bull),29.2536,57.96504,Sunny,0.05
+109,3,Verstappen (Red Bull),28.29164,86.25668,Sunny,0.05
+109,4,Verstappen (Red Bull),29.22438,115.48106,Sunny,0.05
+109,5,Verstappen (Red Bull),29.32427,144.80533,Sunny,0.05
+109,1,Norris (McLaren),28.81481,28.81481,Sunny,0.05
+109,2,Norris (McLaren),29.48578,58.3006,Sunny,0.05
+109,3,Norris (McLaren),30.34632,88.64691,Sunny,0.05
+109,4,Norris (McLaren),29.88709,118.534,Sunny,0.05
+109,5,Norris (McLaren),30.38947,148.92347,Sunny,0.05
+110,1,Hamilton (Mercedes),29.09939,29.09939,Sunny,0.05
+110,2,Hamilton (Mercedes),29.69151,58.79089,Sunny,0.05
+110,3,Hamilton (Mercedes),30.06546,88.85635,Sunny,0.05
+110,4,Hamilton (Mercedes),28.49515,117.3515,Sunny,0.05
+110,5,Hamilton (Mercedes),29.54019,146.89168,Sunny,0.05
+110,1,Verstappen (Red Bull),30.05902,30.05902,Sunny,0.05
+110,2,Verstappen (Red Bull),29.65507,59.71408,Sunny,0.05
+110,3,Verstappen (Red Bull),29.53021,89.2443,Sunny,0.05
+110,4,Verstappen (Red Bull),29.72952,118.97382,Sunny,0.05
+110,5,Verstappen (Red Bull),30.09705,149.07087,Sunny,0.05
+110,1,Norris (McLaren),29.96506,29.96506,Sunny,0.05
+110,2,Norris (McLaren),28.79333,58.75839,Sunny,0.05
+110,3,Norris (McLaren),30.62807,89.38646,Sunny,0.05
+110,4,Norris (McLaren),30.12264,119.5091,Sunny,0.05
+110,5,Norris (McLaren),30.03567,149.54476,Sunny,0.05
+111,1,Hamilton (Mercedes),29.68675,29.68675,Sunny,0.05
+111,2,Hamilton (Mercedes),30.21259,59.89934,Sunny,0.05
+111,3,Hamilton (Mercedes),29.05341,88.95275,Sunny,0.05
+111,4,Hamilton (Mercedes),30.0165,118.96925,Sunny,0.05
+111,5,Hamilton (Mercedes),29.67991,148.64916,Sunny,0.05
+111,1,Verstappen (Red Bull),28.36639,28.36639,Sunny,0.05
+111,2,Verstappen (Red Bull),28.7787,57.14509,Sunny,0.05
+111,3,Verstappen (Red Bull),28.85609,86.00117,Sunny,0.05
+111,4,Verstappen (Red Bull),29.67827,115.67945,Sunny,0.05
+111,5,Verstappen (Red Bull),28.69942,144.37887,Sunny,0.05
+111,1,Norris (McLaren),30.6851,30.6851,Sunny,0.05
+111,2,Norris (McLaren),29.4105,60.0956,Sunny,0.05
+111,3,Norris (McLaren),30.56194,90.65754,Sunny,0.05
+111,4,Norris (McLaren),29.59108,120.24862,Sunny,0.05
+111,5,Norris (McLaren),29.86395,150.11257,Sunny,0.05
+112,1,Hamilton (Mercedes),30.67649,30.67649,Sunny,0.05
+112,2,Hamilton (Mercedes),29.16948,59.84597,Sunny,0.05
+112,3,Hamilton (Mercedes),29.89238,89.73835,Sunny,0.05
+112,4,Hamilton (Mercedes),28.86493,118.60328,Sunny,0.05
+112,5,Hamilton (Mercedes),29.40281,148.0061,Sunny,0.05
+112,1,Verstappen (Red Bull),28.53765,28.53765,Sunny,0.05
+112,2,Verstappen (Red Bull),29.51894,58.05658,Sunny,0.05
+112,3,Verstappen (Red Bull),28.4588,86.51538,Sunny,0.05
+112,4,Verstappen (Red Bull),29.80314,116.31852,Sunny,0.05
+112,5,Verstappen (Red Bull),29.50898,145.82751,Sunny,0.05
+112,1,Norris (McLaren),30.25876,30.25876,Sunny,0.05
+112,2,Norris (McLaren),30.37804,60.6368,Sunny,0.05
+112,3,Norris (McLaren),29.57229,90.20909,Sunny,0.05
+112,4,Norris (McLaren),29.71819,119.92729,Sunny,0.05
+112,5,Norris (McLaren),30.53651,150.46379,Sunny,0.05
+113,1,Hamilton (Mercedes),29.92836,29.92836,Sunny,0.05
+113,2,Hamilton (Mercedes),29.61971,59.54807,Sunny,0.05
+113,3,Hamilton (Mercedes),29.43035,88.97842,Sunny,0.05
+113,4,Hamilton (Mercedes),30.93692,119.91534,Sunny,0.05
+113,5,Hamilton (Mercedes),28.96004,148.87538,Sunny,0.05
+113,1,Verstappen (Red Bull),29.39474,29.39474,Sunny,0.05
+113,2,Verstappen (Red Bull),30.03735,59.43209,Sunny,0.05
+113,3,Verstappen (Red Bull),29.63326,89.06535,Sunny,0.05
+113,4,Verstappen (Red Bull),28.81398,117.87933,Sunny,0.05
+113,5,Verstappen (Red Bull),29.08747,146.9668,Sunny,0.05
+113,1,Norris (McLaren),30.87453,30.87453,Sunny,0.05
+113,2,Norris (McLaren),30.64563,61.52016,Sunny,0.05
+113,3,Norris (McLaren),29.30968,90.82984,Sunny,0.05
+113,4,Norris (McLaren),28.65164,119.48148,Sunny,0.05
+113,5,Norris (McLaren),29.88748,149.36896,Sunny,0.05
+114,1,Hamilton (Mercedes),30.54187,30.54187,Sunny,0.05
+114,2,Hamilton (Mercedes),29.84012,60.38199,Sunny,0.05
+114,3,Hamilton (Mercedes),29.81801,90.2,Sunny,0.05
+114,4,Hamilton (Mercedes),29.54224,119.74224,Sunny,0.05
+114,5,Hamilton (Mercedes),29.59636,149.3386,Sunny,0.05
+114,1,Verstappen (Red Bull),29.49373,29.49373,Sunny,0.05
+114,2,Verstappen (Red Bull),29.04333,58.53705,Sunny,0.05
+114,3,Verstappen (Red Bull),29.18791,87.72497,Sunny,0.05
+114,4,Verstappen (Red Bull),28.67046,116.39542,Sunny,0.05
+114,5,Verstappen (Red Bull),29.84318,146.23861,Sunny,0.05
+114,1,Norris (McLaren),29.6226,29.6226,Sunny,0.05
+114,2,Norris (McLaren),30.65463,60.27722,Sunny,0.05
+114,3,Norris (McLaren),29.75011,90.02733,Sunny,0.05
+114,4,Norris (McLaren),31.45306,121.48039,Sunny,0.05
+114,5,Norris (McLaren),30.09228,151.57267,Sunny,0.05
+115,1,Hamilton (Mercedes),28.61959,28.61959,Sunny,0.05
+115,2,Hamilton (Mercedes),28.99514,57.61473,Sunny,0.05
+115,3,Hamilton (Mercedes),28.86104,86.47577,Sunny,0.05
+115,4,Hamilton (Mercedes),29.16574,115.64151,Sunny,0.05
+115,5,Hamilton (Mercedes),28.42743,144.06895,Sunny,0.05
+115,1,Verstappen (Red Bull),29.49913,29.49913,Sunny,0.05
+115,2,Verstappen (Red Bull),29.60289,59.10202,Sunny,0.05
+115,3,Verstappen (Red Bull),28.75822,87.86024,Sunny,0.05
+115,4,Verstappen (Red Bull),29.14144,117.00168,Sunny,0.05
+115,5,Verstappen (Red Bull),29.16072,146.1624,Sunny,0.05
+115,1,Norris (McLaren),30.06607,30.06607,Sunny,0.05
+115,2,Norris (McLaren),31.38138,61.44745,Sunny,0.05
+115,3,Norris (McLaren),29.62999,91.07744,Sunny,0.05
+115,4,Norris (McLaren),30.26197,121.33941,Sunny,0.05
+115,5,Norris (McLaren),29.67827,151.01768,Sunny,0.05
+116,1,Hamilton (Mercedes),30.07526,30.07526,Sunny,0.05
+116,2,Hamilton (Mercedes),29.7341,59.80936,Sunny,0.05
+116,3,Hamilton (Mercedes),28.88165,88.69101,Sunny,0.05
+116,4,Hamilton (Mercedes),28.90393,117.59494,Sunny,0.05
+116,5,Hamilton (Mercedes),28.61992,146.21486,Sunny,0.05
+116,1,Verstappen (Red Bull),28.71644,28.71644,Sunny,0.05
+116,2,Verstappen (Red Bull),29.17657,57.89301,Sunny,0.05
+116,3,Verstappen (Red Bull),28.83992,86.73293,Sunny,0.05
+116,4,Verstappen (Red Bull),29.4202,116.15313,Sunny,0.05
+116,5,Verstappen (Red Bull),29.88097,146.0341,Sunny,0.05
+116,1,Norris (McLaren),29.24293,29.24293,Sunny,0.05
+116,2,Norris (McLaren),29.83565,59.07858,Sunny,0.05
+116,3,Norris (McLaren),28.18959,87.26817,Sunny,0.05
+116,4,Norris (McLaren),29.58867,116.85684,Sunny,0.05
+116,5,Norris (McLaren),28.8853,145.74214,Sunny,0.05
+117,1,Hamilton (Mercedes),29.35109,29.35109,Sunny,0.05
+117,2,Hamilton (Mercedes),29.47013,58.82122,Sunny,0.05
+117,3,Hamilton (Mercedes),29.04149,87.86271,Sunny,0.05
+117,4,Hamilton (Mercedes),30.75632,118.61904,Sunny,0.05
+117,5,Hamilton (Mercedes),30.15698,148.77602,Sunny,0.05
+117,1,Verstappen (Red Bull),28.86604,28.86604,Sunny,0.05
+117,2,Verstappen (Red Bull),28.98678,57.85282,Sunny,0.05
+117,3,Verstappen (Red Bull),30.16009,88.0129,Sunny,0.05
+117,4,Verstappen (Red Bull),30.01047,118.02337,Sunny,0.05
+117,5,Verstappen (Red Bull),29.97736,148.00072,Sunny,0.05
+117,1,Norris (McLaren),31.45214,31.45214,Sunny,0.05
+117,2,Norris (McLaren),29.22044,60.67257,Sunny,0.05
+117,3,Norris (McLaren),30.08336,90.75593,Sunny,0.05
+117,4,Norris (McLaren),29.40068,120.15662,Sunny,0.05
+117,5,Norris (McLaren),29.3006,149.45722,Sunny,0.05
+118,1,Hamilton (Mercedes),29.65227,29.65227,Sunny,0.05
+118,2,Hamilton (Mercedes),30.39215,60.04442,Sunny,0.05
+118,3,Hamilton (Mercedes),29.14712,89.19154,Sunny,0.05
+118,4,Hamilton (Mercedes),30.08509,119.27664,Sunny,0.05
+118,5,Hamilton (Mercedes),29.56187,148.8385,Sunny,0.05
+118,1,Verstappen (Red Bull),28.44218,28.44218,Sunny,0.05
+118,2,Verstappen (Red Bull),29.81539,58.25757,Sunny,0.05
+118,3,Verstappen (Red Bull),29.04163,87.2992,Sunny,0.05
+118,4,Verstappen (Red Bull),29.307,116.6062,Sunny,0.05
+118,5,Verstappen (Red Bull),29.56576,146.17196,Sunny,0.05
+118,1,Norris (McLaren),29.91849,29.91849,Sunny,0.05
+118,2,Norris (McLaren),30.22284,60.14133,Sunny,0.05
+118,3,Norris (McLaren),29.83708,89.97841,Sunny,0.05
+118,4,Norris (McLaren),29.32135,119.29976,Sunny,0.05
+118,5,Norris (McLaren),30.59362,149.89338,Sunny,0.05
+119,1,Hamilton (Mercedes),29.78204,29.78204,Sunny,0.05
+119,2,Hamilton (Mercedes),29.60031,59.38235,Sunny,0.05
+119,3,Hamilton (Mercedes),29.69656,89.07891,Sunny,0.05
+119,4,Hamilton (Mercedes),29.629,118.7079,Sunny,0.05
+119,5,Hamilton (Mercedes),29.68137,148.38928,Sunny,0.05
+119,1,Verstappen (Red Bull),28.61249,28.61249,Sunny,0.05
+119,2,Verstappen (Red Bull),28.94915,57.56165,Sunny,0.05
+119,3,Verstappen (Red Bull),29.89891,87.46056,Sunny,0.05
+119,4,Verstappen (Red Bull),29.67442,117.13497,Sunny,0.05
+119,5,Verstappen (Red Bull),29.16976,146.30474,Sunny,0.05
+119,1,Norris (McLaren),30.17942,30.17942,Sunny,0.05
+119,2,Norris (McLaren),29.5614,59.74082,Sunny,0.05
+119,3,Norris (McLaren),29.97861,89.71943,Sunny,0.05
+119,4,Norris (McLaren),28.33054,118.04997,Sunny,0.05
+119,5,Norris (McLaren),30.32269,148.37266,Sunny,0.05
+120,1,Hamilton (Mercedes),29.74721,29.74721,Sunny,0.05
+120,2,Hamilton (Mercedes),29.02899,58.7762,Sunny,0.05
+120,3,Hamilton (Mercedes),30.70107,89.47727,Sunny,0.05
+120,4,Hamilton (Mercedes),30.40834,119.88561,Sunny,0.05
+120,5,Hamilton (Mercedes),30.49621,150.38182,Sunny,0.05
+120,1,Verstappen (Red Bull),29.17865,29.17865,Sunny,0.05
+120,2,Verstappen (Red Bull),29.40779,58.58644,Sunny,0.05
+120,3,Verstappen (Red Bull),29.56917,88.15561,Sunny,0.05
+120,4,Verstappen (Red Bull),29.01341,117.16901,Sunny,0.05
+120,5,Verstappen (Red Bull),30.27406,147.44307,Sunny,0.05
+120,1,Norris (McLaren),30.0133,30.0133,Sunny,0.05
+120,2,Norris (McLaren),28.2656,58.2789,Sunny,0.05
+120,3,Norris (McLaren),30.28911,88.56801,Sunny,0.05
+120,4,Norris (McLaren),31.12989,119.69789,Sunny,0.05
+120,5,Norris (McLaren),29.31736,149.01525,Sunny,0.05
+121,1,Hamilton (Mercedes),30.1288,30.1288,Sunny,0.05
+121,2,Hamilton (Mercedes),29.73303,59.86184,Sunny,0.05
+121,3,Hamilton (Mercedes),30.2633,90.12514,Sunny,0.05
+121,4,Hamilton (Mercedes),29.21606,119.3412,Sunny,0.05
+121,5,Hamilton (Mercedes),28.9425,148.2837,Sunny,0.05
+121,1,Verstappen (Red Bull),29.5054,29.5054,Sunny,0.05
+121,2,Verstappen (Red Bull),30.58583,60.09124,Sunny,0.05
+121,3,Verstappen (Red Bull),28.82452,88.91576,Sunny,0.05
+121,4,Verstappen (Red Bull),27.91476,116.83051,Sunny,0.05
+121,5,Verstappen (Red Bull),30.69772,147.52823,Sunny,0.05
+121,1,Norris (McLaren),27.97519,27.97519,Sunny,0.05
+121,2,Norris (McLaren),29.29765,57.27284,Sunny,0.05
+121,3,Norris (McLaren),28.27622,85.54907,Sunny,0.05
+121,4,Norris (McLaren),29.15696,114.70603,Sunny,0.05
+121,5,Norris (McLaren),29.80461,144.51064,Sunny,0.05
+122,1,Hamilton (Mercedes),28.24408,28.24408,Sunny,0.05
+122,2,Hamilton (Mercedes),29.02195,57.26603,Sunny,0.05
+122,3,Hamilton (Mercedes),29.46542,86.73145,Sunny,0.05
+122,4,Hamilton (Mercedes),29.3038,116.03525,Sunny,0.05
+122,5,Hamilton (Mercedes),29.42737,145.46263,Sunny,0.05
+122,1,Verstappen (Red Bull),29.64138,29.64138,Sunny,0.05
+122,2,Verstappen (Red Bull),29.43028,59.07166,Sunny,0.05
+122,3,Verstappen (Red Bull),29.19373,88.26539,Sunny,0.05
+122,4,Verstappen (Red Bull),29.47382,117.73921,Sunny,0.05
+122,5,Verstappen (Red Bull),29.70956,147.44877,Sunny,0.05
+122,1,Norris (McLaren),29.21873,29.21873,Sunny,0.05
+122,2,Norris (McLaren),29.28381,58.50254,Sunny,0.05
+122,3,Norris (McLaren),29.92417,88.42671,Sunny,0.05
+122,4,Norris (McLaren),30.20935,118.63607,Sunny,0.05
+122,5,Norris (McLaren),28.4328,147.06887,Sunny,0.05
+123,1,Hamilton (Mercedes),30.49206,30.49206,Sunny,0.05
+123,2,Hamilton (Mercedes),29.3291,59.82116,Sunny,0.05
+123,3,Hamilton (Mercedes),29.95939,89.78054,Sunny,0.05
+123,4,Hamilton (Mercedes),30.63581,120.41635,Sunny,0.05
+123,5,Hamilton (Mercedes),29.54596,149.96231,Sunny,0.05
+123,1,Verstappen (Red Bull),29.70814,29.70814,Sunny,0.05
+123,2,Verstappen (Red Bull),29.47941,59.18755,Sunny,0.05
+123,3,Verstappen (Red Bull),29.66203,88.84957,Sunny,0.05
+123,4,Verstappen (Red Bull),29.34886,118.19843,Sunny,0.05
+123,5,Verstappen (Red Bull),29.76881,147.96724,Sunny,0.05
+123,1,Norris (McLaren),29.71426,29.71426,Sunny,0.05
+123,2,Norris (McLaren),30.57906,60.29332,Sunny,0.05
+123,3,Norris (McLaren),29.85954,90.15285,Sunny,0.05
+123,4,Norris (McLaren),30.10279,120.25565,Sunny,0.05
+123,5,Norris (McLaren),29.81244,150.06808,Sunny,0.05
+124,1,Hamilton (Mercedes),28.85265,28.85265,Sunny,0.05
+124,2,Hamilton (Mercedes),30.43445,59.2871,Sunny,0.05
+124,3,Hamilton (Mercedes),30.12422,89.41131,Sunny,0.05
+124,4,Hamilton (Mercedes),29.9197,119.33102,Sunny,0.05
+124,5,Hamilton (Mercedes),30.6901,150.02112,Sunny,0.05
+124,1,Verstappen (Red Bull),30.08436,30.08436,Sunny,0.05
+124,2,Verstappen (Red Bull),29.00236,59.08672,Sunny,0.05
+124,3,Verstappen (Red Bull),29.40055,88.48727,Sunny,0.05
+124,4,Verstappen (Red Bull),29.40504,117.89231,Sunny,0.05
+124,5,Verstappen (Red Bull),29.45606,147.34837,Sunny,0.05
+124,1,Norris (McLaren),30.20901,30.20901,Sunny,0.05
+124,2,Norris (McLaren),29.66253,59.87154,Sunny,0.05
+124,3,Norris (McLaren),29.09759,88.96913,Sunny,0.05
+124,4,Norris (McLaren),28.832,117.80112,Sunny,0.05
+124,5,Norris (McLaren),28.6402,146.44132,Sunny,0.05
+125,1,Hamilton (Mercedes),30.3876,30.3876,Sunny,0.05
+125,2,Hamilton (Mercedes),29.6157,60.0033,Sunny,0.05
+125,3,Hamilton (Mercedes),28.89376,88.89706,Sunny,0.05
+125,4,Hamilton (Mercedes),30.09286,118.98992,Sunny,0.05
+125,5,Hamilton (Mercedes),30.32486,149.31478,Sunny,0.05
+125,1,Verstappen (Red Bull),28.91856,28.91856,Sunny,0.05
+125,2,Verstappen (Red Bull),29.45773,58.37629,Sunny,0.05
+125,3,Verstappen (Red Bull),29.0331,87.40939,Sunny,0.05
+125,4,Verstappen (Red Bull),29.53105,116.94045,Sunny,0.05
+125,5,Verstappen (Red Bull),30.08926,147.0297,Sunny,0.05
+125,1,Norris (McLaren),29.85063,29.85063,Sunny,0.05
+125,2,Norris (McLaren),29.21069,59.06132,Sunny,0.05
+125,3,Norris (McLaren),29.91076,88.97209,Sunny,0.05
+125,4,Norris (McLaren),28.42979,117.40187,Sunny,0.05
+125,5,Norris (McLaren),31.07665,148.47853,Sunny,0.05
+126,1,Hamilton (Mercedes),29.05294,29.05294,Sunny,0.05
+126,2,Hamilton (Mercedes),30.40409,59.45703,Sunny,0.05
+126,3,Hamilton (Mercedes),29.71577,89.1728,Sunny,0.05
+126,4,Hamilton (Mercedes),28.76749,117.94029,Sunny,0.05
+126,5,Hamilton (Mercedes),29.23532,147.17562,Sunny,0.05
+126,1,Verstappen (Red Bull),29.15989,29.15989,Sunny,0.05
+126,2,Verstappen (Red Bull),29.20009,58.35998,Sunny,0.05
+126,3,Verstappen (Red Bull),29.94411,88.30409,Sunny,0.05
+126,4,Verstappen (Red Bull),29.28287,117.58696,Sunny,0.05
+126,5,Verstappen (Red Bull),29.77265,147.35962,Sunny,0.05
+126,1,Norris (McLaren),29.58277,29.58277,Sunny,0.05
+126,2,Norris (McLaren),29.64106,59.22383,Sunny,0.05
+126,3,Norris (McLaren),28.6968,87.92063,Sunny,0.05
+126,4,Norris (McLaren),30.71961,118.64024,Sunny,0.05
+126,5,Norris (McLaren),29.93814,148.57838,Sunny,0.05
+127,1,Hamilton (Mercedes),29.65005,29.65005,Sunny,0.05
+127,2,Hamilton (Mercedes),29.95919,59.60924,Sunny,0.05
+127,3,Hamilton (Mercedes),29.14093,88.75017,Sunny,0.05
+127,4,Hamilton (Mercedes),30.05414,118.80431,Sunny,0.05
+127,5,Hamilton (Mercedes),29.32772,148.13203,Sunny,0.05
+127,1,Verstappen (Red Bull),28.92876,28.92876,Sunny,0.05
+127,2,Verstappen (Red Bull),28.7966,57.72536,Sunny,0.05
+127,3,Verstappen (Red Bull),28.18018,85.90554,Sunny,0.05
+127,4,Verstappen (Red Bull),29.02576,114.9313,Sunny,0.05
+127,5,Verstappen (Red Bull),28.87748,143.80878,Sunny,0.05
+127,1,Norris (McLaren),29.18077,29.18077,Sunny,0.05
+127,2,Norris (McLaren),31.144,60.32477,Sunny,0.05
+127,3,Norris (McLaren),29.77007,90.09484,Sunny,0.05
+127,4,Norris (McLaren),29.47665,119.57149,Sunny,0.05
+127,5,Norris (McLaren),30.40129,149.97278,Sunny,0.05
+128,1,Hamilton (Mercedes),28.87946,28.87946,Sunny,0.05
+128,2,Hamilton (Mercedes),29.40068,58.28014,Sunny,0.05
+128,3,Hamilton (Mercedes),28.52518,86.80532,Sunny,0.05
+128,4,Hamilton (Mercedes),30.48623,117.29155,Sunny,0.05
+128,5,Hamilton (Mercedes),29.67865,146.9702,Sunny,0.05
+128,1,Verstappen (Red Bull),28.97642,28.97642,Sunny,0.05
+128,2,Verstappen (Red Bull),29.34005,58.31648,Sunny,0.05
+128,3,Verstappen (Red Bull),29.76453,88.08101,Sunny,0.05
+128,4,Verstappen (Red Bull),29.44368,117.52469,Sunny,0.05
+128,5,Verstappen (Red Bull),29.53726,147.06195,Sunny,0.05
+128,1,Norris (McLaren),30.22725,30.22725,Sunny,0.05
+128,2,Norris (McLaren),29.50858,59.73583,Sunny,0.05
+128,3,Norris (McLaren),30.73571,90.47154,Sunny,0.05
+128,4,Norris (McLaren),30.17747,120.64901,Sunny,0.05
+128,5,Norris (McLaren),29.72371,150.37271,Sunny,0.05
+129,1,Hamilton (Mercedes),29.24794,29.24794,Sunny,0.05
+129,2,Hamilton (Mercedes),29.96467,59.21261,Sunny,0.05
+129,3,Hamilton (Mercedes),29.28323,88.49584,Sunny,0.05
+129,4,Hamilton (Mercedes),29.24374,117.73958,Sunny,0.05
+129,5,Hamilton (Mercedes),29.28428,147.02386,Sunny,0.05
+129,1,Verstappen (Red Bull),29.90045,29.90045,Sunny,0.05
+129,2,Verstappen (Red Bull),28.95812,58.85857,Sunny,0.05
+129,3,Verstappen (Red Bull),29.88986,88.74843,Sunny,0.05
+129,4,Verstappen (Red Bull),30.04337,118.79181,Sunny,0.05
+129,5,Verstappen (Red Bull),29.42902,148.22083,Sunny,0.05
+129,1,Norris (McLaren),29.16373,29.16373,Sunny,0.05
+129,2,Norris (McLaren),29.21532,58.37905,Sunny,0.05
+129,3,Norris (McLaren),29.56368,87.94273,Sunny,0.05
+129,4,Norris (McLaren),29.81093,117.75366,Sunny,0.05
+129,5,Norris (McLaren),29.45413,147.20779,Sunny,0.05
+130,1,Hamilton (Mercedes),29.33066,29.33066,Sunny,0.05
+130,2,Hamilton (Mercedes),29.47386,58.80453,Sunny,0.05
+130,3,Hamilton (Mercedes),29.9217,88.72622,Sunny,0.05
+130,4,Hamilton (Mercedes),29.15798,117.88421,Sunny,0.05
+130,5,Hamilton (Mercedes),29.13602,147.02023,Sunny,0.05
+130,1,Verstappen (Red Bull),29.24468,29.24468,Sunny,0.05
+130,2,Verstappen (Red Bull),28.09989,57.34457,Sunny,0.05
+130,3,Verstappen (Red Bull),29.10014,86.44471,Sunny,0.05
+130,4,Verstappen (Red Bull),28.65664,115.10135,Sunny,0.05
+130,5,Verstappen (Red Bull),27.92961,143.03096,Sunny,0.05
+130,1,Norris (McLaren),29.79538,29.79538,Sunny,0.05
+130,2,Norris (McLaren),29.42021,59.2156,Sunny,0.05
+130,3,Norris (McLaren),30.27595,89.49155,Sunny,0.05
+130,4,Norris (McLaren),30.45234,119.94389,Sunny,0.05
+130,5,Norris (McLaren),28.12004,148.06393,Sunny,0.05
+131,1,Hamilton (Mercedes),29.0937,29.0937,Sunny,0.05
+131,2,Hamilton (Mercedes),30.69021,59.78391,Sunny,0.05
+131,3,Hamilton (Mercedes),29.20717,88.99108,Sunny,0.05
+131,4,Hamilton (Mercedes),29.28548,118.27656,Sunny,0.05
+131,5,Hamilton (Mercedes),27.99435,146.27091,Sunny,0.05
+131,1,Verstappen (Red Bull),29.11729,29.11729,Sunny,0.05
+131,2,Verstappen (Red Bull),29.39173,58.50902,Sunny,0.05
+131,3,Verstappen (Red Bull),30.09008,88.59909,Sunny,0.05
+131,4,Verstappen (Red Bull),28.63161,117.2307,Sunny,0.05
+131,5,Verstappen (Red Bull),28.63219,145.86288,Sunny,0.05
+131,1,Norris (McLaren),29.27429,29.27429,Sunny,0.05
+131,2,Norris (McLaren),30.57406,59.84835,Sunny,0.05
+131,3,Norris (McLaren),29.73666,89.58501,Sunny,0.05
+131,4,Norris (McLaren),28.75839,118.3434,Sunny,0.05
+131,5,Norris (McLaren),30.03051,148.37391,Sunny,0.05
+132,1,Hamilton (Mercedes),29.06051,29.06051,Sunny,0.05
+132,2,Hamilton (Mercedes),29.79882,58.85934,Sunny,0.05
+132,3,Hamilton (Mercedes),30.03194,88.89128,Sunny,0.05
+132,4,Hamilton (Mercedes),29.94531,118.83659,Sunny,0.05
+132,5,Hamilton (Mercedes),30.241,149.07759,Sunny,0.05
+132,1,Verstappen (Red Bull),29.66477,29.66477,Sunny,0.05
+132,2,Verstappen (Red Bull),29.472,59.13677,Sunny,0.05
+132,3,Verstappen (Red Bull),29.48633,88.6231,Sunny,0.05
+132,4,Verstappen (Red Bull),30.50914,119.13224,Sunny,0.05
+132,5,Verstappen (Red Bull),29.19114,148.32338,Sunny,0.05
+132,1,Norris (McLaren),29.1986,29.1986,Sunny,0.05
+132,2,Norris (McLaren),30.48499,59.68359,Sunny,0.05
+132,3,Norris (McLaren),29.32959,89.01318,Sunny,0.05
+132,4,Norris (McLaren),29.27598,118.28916,Sunny,0.05
+132,5,Norris (McLaren),29.96602,148.25518,Sunny,0.05
+133,1,Hamilton (Mercedes),29.38419,29.38419,Sunny,0.05
+133,2,Hamilton (Mercedes),29.94265,59.32684,Sunny,0.05
+133,3,Hamilton (Mercedes),29.54461,88.87145,Sunny,0.05
+133,4,Hamilton (Mercedes),29.33494,118.2064,Sunny,0.05
+133,5,Hamilton (Mercedes),29.21075,147.41715,Sunny,0.05
+133,1,Verstappen (Red Bull),29.18456,29.18456,Sunny,0.05
+133,2,Verstappen (Red Bull),29.34281,58.52737,Sunny,0.05
+133,3,Verstappen (Red Bull),29.5091,88.03647,Sunny,0.05
+133,4,Verstappen (Red Bull),29.50034,117.53681,Sunny,0.05
+133,5,Verstappen (Red Bull),29.27382,146.81063,Sunny,0.05
+133,1,Norris (McLaren),29.48023,29.48023,Sunny,0.05
+133,2,Norris (McLaren),29.84187,59.3221,Sunny,0.05
+133,3,Norris (McLaren),30.44689,89.76899,Sunny,0.05
+133,4,Norris (McLaren),29.00486,118.77385,Sunny,0.05
+133,5,Norris (McLaren),29.52274,148.29659,Sunny,0.05
+134,1,Hamilton (Mercedes),29.85795,29.85795,Sunny,0.05
+134,2,Hamilton (Mercedes),28.90364,58.76158,Sunny,0.05
+134,3,Hamilton (Mercedes),29.47633,88.23791,Sunny,0.05
+134,4,Hamilton (Mercedes),30.08321,118.32112,Sunny,0.05
+134,5,Hamilton (Mercedes),29.17635,147.49746,Sunny,0.05
+134,1,Verstappen (Red Bull),28.76798,28.76798,Sunny,0.05
+134,2,Verstappen (Red Bull),28.83784,57.60582,Sunny,0.05
+134,3,Verstappen (Red Bull),29.93941,87.54523,Sunny,0.05
+134,4,Verstappen (Red Bull),30.28397,117.82921,Sunny,0.05
+134,5,Verstappen (Red Bull),29.01357,146.84277,Sunny,0.05
+134,1,Norris (McLaren),28.92319,28.92319,Sunny,0.05
+134,2,Norris (McLaren),29.38618,58.30937,Sunny,0.05
+134,3,Norris (McLaren),31.2334,89.54277,Sunny,0.05
+134,4,Norris (McLaren),30.76312,120.30589,Sunny,0.05
+134,5,Norris (McLaren),30.61843,150.92432,Sunny,0.05
+135,1,Hamilton (Mercedes),29.9759,29.9759,Sunny,0.05
+135,2,Hamilton (Mercedes),29.38474,59.36064,Sunny,0.05
+135,3,Hamilton (Mercedes),29.63052,88.99116,Sunny,0.05
+135,4,Hamilton (Mercedes),29.45402,118.44518,Sunny,0.05
+135,5,Hamilton (Mercedes),30.23082,148.676,Sunny,0.05
+135,1,Verstappen (Red Bull),28.24397,28.24397,Sunny,0.05
+135,2,Verstappen (Red Bull),29.42329,57.66726,Sunny,0.05
+135,3,Verstappen (Red Bull),29.68346,87.35071,Sunny,0.05
+135,4,Verstappen (Red Bull),29.07295,116.42367,Sunny,0.05
+135,5,Verstappen (Red Bull),28.21675,144.64042,Sunny,0.05
+135,1,Norris (McLaren),29.49174,29.49174,Sunny,0.05
+135,2,Norris (McLaren),29.47394,58.96569,Sunny,0.05
+135,3,Norris (McLaren),29.24906,88.21474,Sunny,0.05
+135,4,Norris (McLaren),27.67929,115.89403,Sunny,0.05
+135,5,Norris (McLaren),30.44253,146.33656,Sunny,0.05
+136,1,Hamilton (Mercedes),30.46585,30.46585,Sunny,0.05
+136,2,Hamilton (Mercedes),29.49039,59.95625,Sunny,0.05
+136,3,Hamilton (Mercedes),30.30013,90.25638,Sunny,0.05
+136,4,Hamilton (Mercedes),29.52998,119.78636,Sunny,0.05
+136,5,Hamilton (Mercedes),30.14551,149.93187,Sunny,0.05
+136,1,Verstappen (Red Bull),28.6892,28.6892,Sunny,0.05
+136,2,Verstappen (Red Bull),30.24858,58.93778,Sunny,0.05
+136,3,Verstappen (Red Bull),28.84996,87.78774,Sunny,0.05
+136,4,Verstappen (Red Bull),28.95429,116.74203,Sunny,0.05
+136,5,Verstappen (Red Bull),29.4299,146.17193,Sunny,0.05
+136,1,Norris (McLaren),30.592,30.592,Sunny,0.05
+136,2,Norris (McLaren),30.01025,60.60225,Sunny,0.05
+136,3,Norris (McLaren),27.88229,88.48453,Sunny,0.05
+136,4,Norris (McLaren),28.93964,117.42417,Sunny,0.05
+136,5,Norris (McLaren),30.55628,147.98046,Sunny,0.05
+137,1,Hamilton (Mercedes),29.46404,29.46404,Sunny,0.05
+137,2,Hamilton (Mercedes),29.12269,58.58674,Sunny,0.05
+137,3,Hamilton (Mercedes),30.20248,88.78922,Sunny,0.05
+137,4,Hamilton (Mercedes),29.81649,118.60571,Sunny,0.05
+137,5,Hamilton (Mercedes),29.69427,148.29997,Sunny,0.05
+137,1,Verstappen (Red Bull),29.27664,29.27664,Sunny,0.05
+137,2,Verstappen (Red Bull),28.8843,58.16094,Sunny,0.05
+137,3,Verstappen (Red Bull),29.39301,87.55395,Sunny,0.05
+137,4,Verstappen (Red Bull),28.77355,116.3275,Sunny,0.05
+137,5,Verstappen (Red Bull),28.93482,145.26232,Sunny,0.05
+137,1,Norris (McLaren),29.75442,29.75442,Sunny,0.05
+137,2,Norris (McLaren),30.77191,60.52632,Sunny,0.05
+137,3,Norris (McLaren),29.66419,90.19052,Sunny,0.05
+137,4,Norris (McLaren),30.77519,120.9657,Sunny,0.05
+137,5,Norris (McLaren),30.41829,151.38399,Sunny,0.05
+138,1,Hamilton (Mercedes),29.44892,29.44892,Sunny,0.05
+138,2,Hamilton (Mercedes),30.02539,59.47431,Sunny,0.05
+138,3,Hamilton (Mercedes),29.82678,89.30109,Sunny,0.05
+138,4,Hamilton (Mercedes),29.61384,118.91493,Sunny,0.05
+138,5,Hamilton (Mercedes),29.21157,148.1265,Sunny,0.05
+138,1,Verstappen (Red Bull),28.43685,28.43685,Sunny,0.05
+138,2,Verstappen (Red Bull),30.22044,58.65729,Sunny,0.05
+138,3,Verstappen (Red Bull),29.49598,88.15327,Sunny,0.05
+138,4,Verstappen (Red Bull),28.96168,117.11495,Sunny,0.05
+138,5,Verstappen (Red Bull),28.58144,145.69638,Sunny,0.05
+138,1,Norris (McLaren),29.17286,29.17286,Sunny,0.05
+138,2,Norris (McLaren),30.24162,59.41448,Sunny,0.05
+138,3,Norris (McLaren),29.19694,88.61142,Sunny,0.05
+138,4,Norris (McLaren),30.41066,119.02208,Sunny,0.05
+138,5,Norris (McLaren),29.37273,148.39481,Sunny,0.05
+139,1,Hamilton (Mercedes),30.45119,30.45119,Sunny,0.05
+139,2,Hamilton (Mercedes),29.1185,59.56969,Sunny,0.05
+139,3,Hamilton (Mercedes),28.387,87.95668,Sunny,0.05
+139,4,Hamilton (Mercedes),30.38314,118.33982,Sunny,0.05
+139,5,Hamilton (Mercedes),30.36088,148.7007,Sunny,0.05
+139,1,Verstappen (Red Bull),29.1004,29.1004,Sunny,0.05
+139,2,Verstappen (Red Bull),29.00243,58.10284,Sunny,0.05
+139,3,Verstappen (Red Bull),29.297,87.39983,Sunny,0.05
+139,4,Verstappen (Red Bull),29.81389,117.21372,Sunny,0.05
+139,5,Verstappen (Red Bull),29.65579,146.86952,Sunny,0.05
+139,1,Norris (McLaren),29.69512,29.69512,Sunny,0.05
+139,2,Norris (McLaren),28.8838,58.57892,Sunny,0.05
+139,3,Norris (McLaren),30.28722,88.86615,Sunny,0.05
+139,4,Norris (McLaren),30.24076,119.10691,Sunny,0.05
+139,5,Norris (McLaren),31.01178,150.11868,Sunny,0.05
+140,1,Hamilton (Mercedes),28.90181,28.90181,Sunny,0.05
+140,2,Hamilton (Mercedes),28.95403,57.85584,Sunny,0.05
+140,3,Hamilton (Mercedes),29.92456,87.78041,Sunny,0.05
+140,4,Hamilton (Mercedes),29.64502,117.42542,Sunny,0.05
+140,5,Hamilton (Mercedes),29.46447,146.88989,Sunny,0.05
+140,1,Verstappen (Red Bull),29.21432,29.21432,Sunny,0.05
+140,2,Verstappen (Red Bull),29.40246,58.61679,Sunny,0.05
+140,3,Verstappen (Red Bull),28.89662,87.51341,Sunny,0.05
+140,4,Verstappen (Red Bull),28.76812,116.28153,Sunny,0.05
+140,5,Verstappen (Red Bull),28.63549,144.91702,Sunny,0.05
+140,1,Norris (McLaren),29.88149,29.88149,Sunny,0.05
+140,2,Norris (McLaren),31.23511,61.1166,Sunny,0.05
+140,3,Norris (McLaren),29.89688,91.01348,Sunny,0.05
+140,4,Norris (McLaren),29.38089,120.39437,Sunny,0.05
+140,5,Norris (McLaren),30.64562,151.03999,Sunny,0.05
+141,1,Hamilton (Mercedes),29.41381,29.41381,Sunny,0.05
+141,2,Hamilton (Mercedes),29.82277,59.23658,Sunny,0.05
+141,3,Hamilton (Mercedes),30.76017,89.99675,Sunny,0.05
+141,4,Hamilton (Mercedes),29.25338,119.25013,Sunny,0.05
+141,5,Hamilton (Mercedes),29.26228,148.51241,Sunny,0.05
+141,1,Verstappen (Red Bull),29.10377,29.10377,Sunny,0.05
+141,2,Verstappen (Red Bull),29.56735,58.67111,Sunny,0.05
+141,3,Verstappen (Red Bull),30.13736,88.80847,Sunny,0.05
+141,4,Verstappen (Red Bull),28.33575,117.14422,Sunny,0.05
+141,5,Verstappen (Red Bull),29.51917,146.66339,Sunny,0.05
+141,1,Norris (McLaren),31.09124,31.09124,Sunny,0.05
+141,2,Norris (McLaren),29.29603,60.38727,Sunny,0.05
+141,3,Norris (McLaren),30.19578,90.58305,Sunny,0.05
+141,4,Norris (McLaren),28.88992,119.47297,Sunny,0.05
+141,5,Norris (McLaren),30.12415,149.59712,Sunny,0.05
+142,1,Hamilton (Mercedes),28.71333,28.71333,Sunny,0.05
+142,2,Hamilton (Mercedes),29.4177,58.13103,Sunny,0.05
+142,3,Hamilton (Mercedes),29.47519,87.60622,Sunny,0.05
+142,4,Hamilton (Mercedes),29.63163,117.23785,Sunny,0.05
+142,5,Hamilton (Mercedes),30.53031,147.76816,Sunny,0.05
+142,1,Verstappen (Red Bull),29.93212,29.93212,Sunny,0.05
+142,2,Verstappen (Red Bull),29.31249,59.24461,Sunny,0.05
+142,3,Verstappen (Red Bull),29.00419,88.2488,Sunny,0.05
+142,4,Verstappen (Red Bull),29.16226,117.41106,Sunny,0.05
+142,5,Verstappen (Red Bull),29.30925,146.72031,Sunny,0.05
+142,1,Norris (McLaren),30.57758,30.57758,Sunny,0.05
+142,2,Norris (McLaren),29.73887,60.31646,Sunny,0.05
+142,3,Norris (McLaren),29.71518,90.03164,Sunny,0.05
+142,4,Norris (McLaren),29.33118,119.36282,Sunny,0.05
+142,5,Norris (McLaren),28.67513,148.03795,Sunny,0.05
+143,1,Hamilton (Mercedes),29.57084,29.57084,Sunny,0.05
+143,2,Hamilton (Mercedes),29.86913,59.43998,Sunny,0.05
+143,3,Hamilton (Mercedes),29.15693,88.59691,Sunny,0.05
+143,4,Hamilton (Mercedes),28.85808,117.45499,Sunny,0.05
+143,5,Hamilton (Mercedes),30.33372,147.78871,Sunny,0.05
+143,1,Verstappen (Red Bull),29.62795,29.62795,Sunny,0.05
+143,2,Verstappen (Red Bull),29.81985,59.4478,Sunny,0.05
+143,3,Verstappen (Red Bull),29.94587,89.39367,Sunny,0.05
+143,4,Verstappen (Red Bull),28.80522,118.19889,Sunny,0.05
+143,5,Verstappen (Red Bull),29.67143,147.87032,Sunny,0.05
+143,1,Norris (McLaren),30.13656,30.13656,Sunny,0.05
+143,2,Norris (McLaren),29.68169,59.81825,Sunny,0.05
+143,3,Norris (McLaren),30.18199,90.00024,Sunny,0.05
+143,4,Norris (McLaren),30.22321,120.22346,Sunny,0.05
+143,5,Norris (McLaren),30.03469,150.25814,Sunny,0.05
+144,1,Hamilton (Mercedes),30.86369,30.86369,Sunny,0.05
+144,2,Hamilton (Mercedes),28.55238,59.41608,Sunny,0.05
+144,3,Hamilton (Mercedes),30.10815,89.52422,Sunny,0.05
+144,4,Hamilton (Mercedes),29.94407,119.46829,Sunny,0.05
+144,5,Hamilton (Mercedes),29.48795,148.95624,Sunny,0.05
+144,1,Verstappen (Red Bull),29.36434,29.36434,Sunny,0.05
+144,2,Verstappen (Red Bull),29.65558,59.01993,Sunny,0.05
+144,3,Verstappen (Red Bull),29.39566,88.41559,Sunny,0.05
+144,4,Verstappen (Red Bull),30.29881,118.7144,Sunny,0.05
+144,5,Verstappen (Red Bull),29.37503,148.08943,Sunny,0.05
+144,1,Norris (McLaren),30.31929,30.31929,Sunny,0.05
+144,2,Norris (McLaren),29.35016,59.66945,Sunny,0.05
+144,3,Norris (McLaren),28.64926,88.31871,Sunny,0.05
+144,4,Norris (McLaren),31.10139,119.4201,Sunny,0.05
+144,5,Norris (McLaren),29.32315,148.74325,Sunny,0.05
+145,1,Hamilton (Mercedes),29.0881,29.0881,Sunny,0.05
+145,2,Hamilton (Mercedes),30.40191,59.49001,Sunny,0.05
+145,3,Hamilton (Mercedes),29.19229,88.6823,Sunny,0.05
+145,4,Hamilton (Mercedes),29.92813,118.61043,Sunny,0.05
+145,5,Hamilton (Mercedes),29.41867,148.0291,Sunny,0.05
+145,1,Verstappen (Red Bull),29.7797,29.7797,Sunny,0.05
+145,2,Verstappen (Red Bull),29.79449,59.57419,Sunny,0.05
+145,3,Verstappen (Red Bull),28.53062,88.10481,Sunny,0.05
+145,4,Verstappen (Red Bull),28.61867,116.72347,Sunny,0.05
+145,5,Verstappen (Red Bull),28.3284,145.05187,Sunny,0.05
+145,1,Norris (McLaren),28.31183,28.31183,Sunny,0.05
+145,2,Norris (McLaren),30.465,58.77683,Sunny,0.05
+145,3,Norris (McLaren),30.72347,89.5003,Sunny,0.05
+145,4,Norris (McLaren),29.61633,119.11663,Sunny,0.05
+145,5,Norris (McLaren),28.20874,147.32537,Sunny,0.05
+146,1,Hamilton (Mercedes),30.76367,30.76367,Sunny,0.05
+146,2,Hamilton (Mercedes),29.63609,60.39977,Sunny,0.05
+146,3,Hamilton (Mercedes),30.26533,90.6651,Sunny,0.05
+146,4,Hamilton (Mercedes),29.1916,119.85669,Sunny,0.05
+146,5,Hamilton (Mercedes),28.9476,148.8043,Sunny,0.05
+146,1,Verstappen (Red Bull),28.25885,28.25885,Sunny,0.05
+146,2,Verstappen (Red Bull),29.87515,58.134,Sunny,0.05
+146,3,Verstappen (Red Bull),28.99466,87.12866,Sunny,0.05
+146,4,Verstappen (Red Bull),29.11678,116.24544,Sunny,0.05
+146,5,Verstappen (Red Bull),28.98246,145.2279,Sunny,0.05
+146,1,Norris (McLaren),28.90023,28.90023,Sunny,0.05
+146,2,Norris (McLaren),29.5147,58.41493,Sunny,0.05
+146,3,Norris (McLaren),30.526,88.94093,Sunny,0.05
+146,4,Norris (McLaren),29.70516,118.64609,Sunny,0.05
+146,5,Norris (McLaren),29.48323,148.12932,Sunny,0.05
+147,1,Hamilton (Mercedes),29.37205,29.37205,Sunny,0.05
+147,2,Hamilton (Mercedes),29.34053,58.71259,Sunny,0.05
+147,3,Hamilton (Mercedes),29.46296,88.17555,Sunny,0.05
+147,4,Hamilton (Mercedes),30.18892,118.36447,Sunny,0.05
+147,5,Hamilton (Mercedes),29.82351,148.18797,Sunny,0.05
+147,1,Verstappen (Red Bull),29.27205,29.27205,Sunny,0.05
+147,2,Verstappen (Red Bull),30.08841,59.36046,Sunny,0.05
+147,3,Verstappen (Red Bull),30.5775,89.93796,Sunny,0.05
+147,4,Verstappen (Red Bull),29.70954,119.6475,Sunny,0.05
+147,5,Verstappen (Red Bull),28.71715,148.36465,Sunny,0.05
+147,1,Norris (McLaren),29.85952,29.85952,Sunny,0.05
+147,2,Norris (McLaren),30.26197,60.12149,Sunny,0.05
+147,3,Norris (McLaren),29.8824,90.00389,Sunny,0.05
+147,4,Norris (McLaren),30.14303,120.14692,Sunny,0.05
+147,5,Norris (McLaren),29.70265,149.84957,Sunny,0.05
+148,1,Hamilton (Mercedes),29.7728,29.7728,Sunny,0.05
+148,2,Hamilton (Mercedes),29.77308,59.54588,Sunny,0.05
+148,3,Hamilton (Mercedes),29.72617,89.27204,Sunny,0.05
+148,4,Hamilton (Mercedes),29.33171,118.60375,Sunny,0.05
+148,5,Hamilton (Mercedes),29.18735,147.7911,Sunny,0.05
+148,1,Verstappen (Red Bull),29.20506,29.20506,Sunny,0.05
+148,2,Verstappen (Red Bull),30.88564,60.0907,Sunny,0.05
+148,3,Verstappen (Red Bull),30.17529,90.26599,Sunny,0.05
+148,4,Verstappen (Red Bull),29.00474,119.27073,Sunny,0.05
+148,5,Verstappen (Red Bull),28.99843,148.26916,Sunny,0.05
+148,1,Norris (McLaren),29.70841,29.70841,Sunny,0.05
+148,2,Norris (McLaren),30.29778,60.00619,Sunny,0.05
+148,3,Norris (McLaren),29.8273,89.83349,Sunny,0.05
+148,4,Norris (McLaren),30.05872,119.89221,Sunny,0.05
+148,5,Norris (McLaren),30.12464,150.01685,Sunny,0.05
+149,1,Hamilton (Mercedes),28.75598,28.75598,Sunny,0.05
+149,2,Hamilton (Mercedes),29.77156,58.52754,Sunny,0.05
+149,3,Hamilton (Mercedes),30.02606,88.5536,Sunny,0.05
+149,4,Hamilton (Mercedes),29.40943,117.96304,Sunny,0.05
+149,5,Hamilton (Mercedes),29.89309,147.85613,Sunny,0.05
+149,1,Verstappen (Red Bull),30.02825,30.02825,Sunny,0.05
+149,2,Verstappen (Red Bull),28.93067,58.95892,Sunny,0.05
+149,3,Verstappen (Red Bull),29.93629,88.89521,Sunny,0.05
+149,4,Verstappen (Red Bull),29.21938,118.11459,Sunny,0.05
+149,5,Verstappen (Red Bull),29.27598,147.39057,Sunny,0.05
+149,1,Norris (McLaren),29.88656,29.88656,Sunny,0.05
+149,2,Norris (McLaren),29.98421,59.87078,Sunny,0.05
+149,3,Norris (McLaren),30.42862,90.29939,Sunny,0.05
+149,4,Norris (McLaren),30.41039,120.70978,Sunny,0.05
+149,5,Norris (McLaren),29.53243,150.24222,Sunny,0.05
+150,1,Hamilton (Mercedes),28.76492,28.76492,Sunny,0.05
+150,2,Hamilton (Mercedes),29.90706,58.67198,Sunny,0.05
+150,3,Hamilton (Mercedes),29.68605,88.35802,Sunny,0.05
+150,4,Hamilton (Mercedes),29.96407,118.32209,Sunny,0.05
+150,5,Hamilton (Mercedes),30.97214,149.29423,Sunny,0.05
+150,1,Verstappen (Red Bull),28.61775,28.61775,Sunny,0.05
+150,2,Verstappen (Red Bull),29.74262,58.36036,Sunny,0.05
+150,3,Verstappen (Red Bull),28.519,86.87936,Sunny,0.05
+150,4,Verstappen (Red Bull),29.59192,116.47128,Sunny,0.05
+150,5,Verstappen (Red Bull),29.01434,145.48563,Sunny,0.05
+150,1,Norris (McLaren),29.92162,29.92162,Sunny,0.05
+150,2,Norris (McLaren),30.58883,60.51045,Sunny,0.05
+150,3,Norris (McLaren),30.01264,90.52308,Sunny,0.05
+150,4,Norris (McLaren),29.96878,120.49186,Sunny,0.05
+150,5,Norris (McLaren),29.47872,149.97059,Sunny,0.05
+151,1,Hamilton (Mercedes),30.69022,30.69022,Sunny,0.05
+151,2,Hamilton (Mercedes),28.84426,59.53448,Sunny,0.05
+151,3,Hamilton (Mercedes),29.72853,89.263,Sunny,0.05
+151,4,Hamilton (Mercedes),29.61863,118.88163,Sunny,0.05
+151,5,Hamilton (Mercedes),29.28906,148.1707,Sunny,0.05
+151,1,Verstappen (Red Bull),30.56814,30.56814,Sunny,0.05
+151,2,Verstappen (Red Bull),29.98411,60.55225,Sunny,0.05
+151,3,Verstappen (Red Bull),28.99946,89.55172,Sunny,0.05
+151,4,Verstappen (Red Bull),29.38513,118.93685,Sunny,0.05
+151,5,Verstappen (Red Bull),29.99984,148.93668,Sunny,0.05
+151,1,Norris (McLaren),29.62878,29.62878,Sunny,0.05
+151,2,Norris (McLaren),29.87419,59.50297,Sunny,0.05
+151,3,Norris (McLaren),30.49316,89.99613,Sunny,0.05
+151,4,Norris (McLaren),29.23008,119.22621,Sunny,0.05
+151,5,Norris (McLaren),30.10799,149.3342,Sunny,0.05
+152,1,Hamilton (Mercedes),29.58959,29.58959,Sunny,0.05
+152,2,Hamilton (Mercedes),29.974,59.56359,Sunny,0.05
+152,3,Hamilton (Mercedes),29.90743,89.47102,Sunny,0.05
+152,4,Hamilton (Mercedes),29.52402,118.99504,Sunny,0.05
+152,5,Hamilton (Mercedes),29.81111,148.80616,Sunny,0.05
+152,1,Verstappen (Red Bull),30.22483,30.22483,Sunny,0.05
+152,2,Verstappen (Red Bull),29.96605,60.19088,Sunny,0.05
+152,3,Verstappen (Red Bull),29.48514,89.67603,Sunny,0.05
+152,4,Verstappen (Red Bull),29.00023,118.67625,Sunny,0.05
+152,5,Verstappen (Red Bull),28.38391,147.06016,Sunny,0.05
+152,1,Norris (McLaren),29.84662,29.84662,Sunny,0.05
+152,2,Norris (McLaren),29.30987,59.15649,Sunny,0.05
+152,3,Norris (McLaren),30.73762,89.89412,Sunny,0.05
+152,4,Norris (McLaren),28.76726,118.66138,Sunny,0.05
+152,5,Norris (McLaren),29.49187,148.15324,Sunny,0.05
+153,1,Hamilton (Mercedes),29.80124,29.80124,Sunny,0.05
+153,2,Hamilton (Mercedes),31.39547,61.19671,Sunny,0.05
+153,3,Hamilton (Mercedes),29.60467,90.80138,Sunny,0.05
+153,4,Hamilton (Mercedes),29.69503,120.49642,Sunny,0.05
+153,5,Hamilton (Mercedes),30.18412,150.68054,Sunny,0.05
+153,1,Verstappen (Red Bull),28.94507,28.94507,Sunny,0.05
+153,2,Verstappen (Red Bull),29.46589,58.41096,Sunny,0.05
+153,3,Verstappen (Red Bull),28.957,87.36796,Sunny,0.05
+153,4,Verstappen (Red Bull),29.99445,117.36241,Sunny,0.05
+153,5,Verstappen (Red Bull),30.05293,147.41534,Sunny,0.05
+153,1,Norris (McLaren),29.03195,29.03195,Sunny,0.05
+153,2,Norris (McLaren),28.47647,57.50842,Sunny,0.05
+153,3,Norris (McLaren),29.82418,87.3326,Sunny,0.05
+153,4,Norris (McLaren),30.16794,117.50054,Sunny,0.05
+153,5,Norris (McLaren),29.931,147.43154,Sunny,0.05
+154,1,Hamilton (Mercedes),29.66606,29.66606,Sunny,0.05
+154,2,Hamilton (Mercedes),30.69072,60.35678,Sunny,0.05
+154,3,Hamilton (Mercedes),29.82061,90.1774,Sunny,0.05
+154,4,Hamilton (Mercedes),29.9385,120.1159,Sunny,0.05
+154,5,Hamilton (Mercedes),30.01167,150.12757,Sunny,0.05
+154,1,Verstappen (Red Bull),29.99542,29.99542,Sunny,0.05
+154,2,Verstappen (Red Bull),28.72442,58.71984,Sunny,0.05
+154,3,Verstappen (Red Bull),28.94794,87.66778,Sunny,0.05
+154,4,Verstappen (Red Bull),29.86139,117.52917,Sunny,0.05
+154,5,Verstappen (Red Bull),29.73307,147.26224,Sunny,0.05
+154,1,Norris (McLaren),29.65269,29.65269,Sunny,0.05
+154,2,Norris (McLaren),29.11828,58.77097,Sunny,0.05
+154,3,Norris (McLaren),29.23735,88.00833,Sunny,0.05
+154,4,Norris (McLaren),30.83299,118.84131,Sunny,0.05
+154,5,Norris (McLaren),31.11121,149.95253,Sunny,0.05
+155,1,Hamilton (Mercedes),28.98652,28.98652,Sunny,0.05
+155,2,Hamilton (Mercedes),29.8472,58.83372,Sunny,0.05
+155,3,Hamilton (Mercedes),30.20561,89.03933,Sunny,0.05
+155,4,Hamilton (Mercedes),29.01546,118.0548,Sunny,0.05
+155,5,Hamilton (Mercedes),29.02277,147.07757,Sunny,0.05
+155,1,Verstappen (Red Bull),30.25764,30.25764,Sunny,0.05
+155,2,Verstappen (Red Bull),29.44985,59.70749,Sunny,0.05
+155,3,Verstappen (Red Bull),29.92932,89.6368,Sunny,0.05
+155,4,Verstappen (Red Bull),30.39323,120.03004,Sunny,0.05
+155,5,Verstappen (Red Bull),29.37352,149.40356,Sunny,0.05
+155,1,Norris (McLaren),29.71741,29.71741,Sunny,0.05
+155,2,Norris (McLaren),28.27841,57.99582,Sunny,0.05
+155,3,Norris (McLaren),29.01478,87.0106,Sunny,0.05
+155,4,Norris (McLaren),30.69508,117.70568,Sunny,0.05
+155,5,Norris (McLaren),29.43665,147.14233,Sunny,0.05
+156,1,Hamilton (Mercedes),29.65109,29.65109,Sunny,0.05
+156,2,Hamilton (Mercedes),29.43937,59.09046,Sunny,0.05
+156,3,Hamilton (Mercedes),29.67183,88.76229,Sunny,0.05
+156,4,Hamilton (Mercedes),28.5391,117.30138,Sunny,0.05
+156,5,Hamilton (Mercedes),28.36298,145.66436,Sunny,0.05
+156,1,Verstappen (Red Bull),29.73949,29.73949,Sunny,0.05
+156,2,Verstappen (Red Bull),29.64486,59.38435,Sunny,0.05
+156,3,Verstappen (Red Bull),29.0397,88.42405,Sunny,0.05
+156,4,Verstappen (Red Bull),29.77011,118.19416,Sunny,0.05
+156,5,Verstappen (Red Bull),29.65594,147.8501,Sunny,0.05
+156,1,Norris (McLaren),29.22032,29.22032,Sunny,0.05
+156,2,Norris (McLaren),30.40028,59.62061,Sunny,0.05
+156,3,Norris (McLaren),29.77548,89.39608,Sunny,0.05
+156,4,Norris (McLaren),29.40264,118.79873,Sunny,0.05
+156,5,Norris (McLaren),29.31548,148.11421,Sunny,0.05
+157,1,Hamilton (Mercedes),28.81951,28.81951,Sunny,0.05
+157,2,Hamilton (Mercedes),29.3563,58.1758,Sunny,0.05
+157,3,Hamilton (Mercedes),29.45,87.6258,Sunny,0.05
+157,4,Hamilton (Mercedes),29.57878,117.20458,Sunny,0.05
+157,5,Hamilton (Mercedes),30.53303,147.73762,Sunny,0.05
+157,1,Verstappen (Red Bull),29.60253,29.60253,Sunny,0.05
+157,2,Verstappen (Red Bull),29.85506,59.45759,Sunny,0.05
+157,3,Verstappen (Red Bull),30.02853,89.48611,Sunny,0.05
+157,4,Verstappen (Red Bull),29.17221,118.65832,Sunny,0.05
+157,5,Verstappen (Red Bull),29.88839,148.54671,Sunny,0.05
+157,1,Norris (McLaren),29.8959,29.8959,Sunny,0.05
+157,2,Norris (McLaren),30.33538,60.23128,Sunny,0.05
+157,3,Norris (McLaren),30.61493,90.84621,Sunny,0.05
+157,4,Norris (McLaren),29.14559,119.9918,Sunny,0.05
+157,5,Norris (McLaren),30.93745,150.92925,Sunny,0.05
+158,1,Hamilton (Mercedes),29.13981,29.13981,Sunny,0.05
+158,2,Hamilton (Mercedes),29.0118,58.1516,Sunny,0.05
+158,3,Hamilton (Mercedes),29.63846,87.79006,Sunny,0.05
+158,4,Hamilton (Mercedes),29.12682,116.91688,Sunny,0.05
+158,5,Hamilton (Mercedes),29.49258,146.40947,Sunny,0.05
+158,1,Verstappen (Red Bull),29.7145,29.7145,Sunny,0.05
+158,2,Verstappen (Red Bull),29.95409,59.6686,Sunny,0.05
+158,3,Verstappen (Red Bull),29.41206,89.08066,Sunny,0.05
+158,4,Verstappen (Red Bull),30.31964,119.4003,Sunny,0.05
+158,5,Verstappen (Red Bull),29.44134,148.84164,Sunny,0.05
+158,1,Norris (McLaren),29.0467,29.0467,Sunny,0.05
+158,2,Norris (McLaren),29.62306,58.66976,Sunny,0.05
+158,3,Norris (McLaren),29.81648,88.48624,Sunny,0.05
+158,4,Norris (McLaren),29.36732,117.85356,Sunny,0.05
+158,5,Norris (McLaren),29.69829,147.55184,Sunny,0.05
+159,1,Hamilton (Mercedes),29.75177,29.75177,Sunny,0.05
+159,2,Hamilton (Mercedes),29.90339,59.65516,Sunny,0.05
+159,3,Hamilton (Mercedes),28.99749,88.65265,Sunny,0.05
+159,4,Hamilton (Mercedes),29.15595,117.8086,Sunny,0.05
+159,5,Hamilton (Mercedes),29.89533,147.70393,Sunny,0.05
+159,1,Verstappen (Red Bull),29.43685,29.43685,Sunny,0.05
+159,2,Verstappen (Red Bull),30.46536,59.90221,Sunny,0.05
+159,3,Verstappen (Red Bull),29.27251,89.17472,Sunny,0.05
+159,4,Verstappen (Red Bull),29.13194,118.30666,Sunny,0.05
+159,5,Verstappen (Red Bull),29.83453,148.14119,Sunny,0.05
+159,1,Norris (McLaren),29.46005,29.46005,Sunny,0.05
+159,2,Norris (McLaren),29.18518,58.64523,Sunny,0.05
+159,3,Norris (McLaren),28.81159,87.45682,Sunny,0.05
+159,4,Norris (McLaren),30.25087,117.70768,Sunny,0.05
+159,5,Norris (McLaren),29.45056,147.15824,Sunny,0.05
+160,1,Hamilton (Mercedes),30.27555,30.27555,Sunny,0.05
+160,2,Hamilton (Mercedes),29.0127,59.28824,Sunny,0.05
+160,3,Hamilton (Mercedes),28.49441,87.78266,Sunny,0.05
+160,4,Hamilton (Mercedes),29.52352,117.30618,Sunny,0.05
+160,5,Hamilton (Mercedes),29.82324,147.12942,Sunny,0.05
+160,1,Verstappen (Red Bull),29.64839,29.64839,Sunny,0.05
+160,2,Verstappen (Red Bull),30.25035,59.89875,Sunny,0.05
+160,3,Verstappen (Red Bull),29.04788,88.94663,Sunny,0.05
+160,4,Verstappen (Red Bull),28.62907,117.5757,Sunny,0.05
+160,5,Verstappen (Red Bull),29.91314,147.48884,Sunny,0.05
+160,1,Norris (McLaren),29.77987,29.77987,Sunny,0.05
+160,2,Norris (McLaren),30.32606,60.10592,Sunny,0.05
+160,3,Norris (McLaren),29.14872,89.25464,Sunny,0.05
+160,4,Norris (McLaren),30.27761,119.53225,Sunny,0.05
+160,5,Norris (McLaren),29.21961,148.75186,Sunny,0.05
+161,1,Hamilton (Mercedes),29.79062,29.79062,Sunny,0.05
+161,2,Hamilton (Mercedes),29.21498,59.0056,Sunny,0.05
+161,3,Hamilton (Mercedes),30.31619,89.32179,Sunny,0.05
+161,4,Hamilton (Mercedes),29.47718,118.79897,Sunny,0.05
+161,5,Hamilton (Mercedes),30.46838,149.26736,Sunny,0.05
+161,1,Verstappen (Red Bull),29.89396,29.89396,Sunny,0.05
+161,2,Verstappen (Red Bull),29.72069,59.61465,Sunny,0.05
+161,3,Verstappen (Red Bull),29.9913,89.60595,Sunny,0.05
+161,4,Verstappen (Red Bull),30.65678,120.26273,Sunny,0.05
+161,5,Verstappen (Red Bull),29.73418,149.99691,Sunny,0.05
+161,1,Norris (McLaren),29.20518,29.20518,Sunny,0.05
+161,2,Norris (McLaren),30.05516,59.26034,Sunny,0.05
+161,3,Norris (McLaren),29.90891,89.16925,Sunny,0.05
+161,4,Norris (McLaren),29.34085,118.5101,Sunny,0.05
+161,5,Norris (McLaren),30.2015,148.7116,Sunny,0.05
+162,1,Hamilton (Mercedes),29.41397,29.41397,Sunny,0.05
+162,2,Hamilton (Mercedes),29.98078,59.39475,Sunny,0.05
+162,3,Hamilton (Mercedes),30.2637,89.65846,Sunny,0.05
+162,4,Hamilton (Mercedes),29.86929,119.52775,Sunny,0.05
+162,5,Hamilton (Mercedes),28.94884,148.47658,Sunny,0.05
+162,1,Verstappen (Red Bull),28.96133,28.96133,Sunny,0.05
+162,2,Verstappen (Red Bull),30.50274,59.46407,Sunny,0.05
+162,3,Verstappen (Red Bull),29.71986,89.18393,Sunny,0.05
+162,4,Verstappen (Red Bull),29.81117,118.99511,Sunny,0.05
+162,5,Verstappen (Red Bull),28.99998,147.99509,Sunny,0.05
+162,1,Norris (McLaren),29.84592,29.84592,Sunny,0.05
+162,2,Norris (McLaren),30.1913,60.03722,Sunny,0.05
+162,3,Norris (McLaren),30.40976,90.44698,Sunny,0.05
+162,4,Norris (McLaren),29.73723,120.18421,Sunny,0.05
+162,5,Norris (McLaren),29.94213,150.12634,Sunny,0.05
+163,1,Hamilton (Mercedes),29.53595,29.53595,Sunny,0.05
+163,2,Hamilton (Mercedes),29.50192,59.03787,Sunny,0.05
+163,3,Hamilton (Mercedes),29.8031,88.84097,Sunny,0.05
+163,4,Hamilton (Mercedes),29.9823,118.82327,Sunny,0.05
+163,5,Hamilton (Mercedes),29.11978,147.94305,Sunny,0.05
+163,1,Verstappen (Red Bull),29.20502,29.20502,Sunny,0.05
+163,2,Verstappen (Red Bull),29.10544,58.31047,Sunny,0.05
+163,3,Verstappen (Red Bull),29.05865,87.36912,Sunny,0.05
+163,4,Verstappen (Red Bull),29.39709,116.76621,Sunny,0.05
+163,5,Verstappen (Red Bull),29.89837,146.66457,Sunny,0.05
+163,1,Norris (McLaren),29.42051,29.42051,Sunny,0.05
+163,2,Norris (McLaren),30.16776,59.58826,Sunny,0.05
+163,3,Norris (McLaren),30.09411,89.68237,Sunny,0.05
+163,4,Norris (McLaren),30.15673,119.83911,Sunny,0.05
+163,5,Norris (McLaren),29.1481,148.98721,Sunny,0.05
+164,1,Hamilton (Mercedes),29.50089,29.50089,Sunny,0.05
+164,2,Hamilton (Mercedes),29.75689,59.25778,Sunny,0.05
+164,3,Hamilton (Mercedes),29.01313,88.27091,Sunny,0.05
+164,4,Hamilton (Mercedes),29.88991,118.16082,Sunny,0.05
+164,5,Hamilton (Mercedes),29.30564,147.46647,Sunny,0.05
+164,1,Verstappen (Red Bull),29.59382,29.59382,Sunny,0.05
+164,2,Verstappen (Red Bull),29.05242,58.64625,Sunny,0.05
+164,3,Verstappen (Red Bull),30.97306,89.6193,Sunny,0.05
+164,4,Verstappen (Red Bull),29.3318,118.9511,Sunny,0.05
+164,5,Verstappen (Red Bull),29.91009,148.86119,Sunny,0.05
+164,1,Norris (McLaren),29.90365,29.90365,Sunny,0.05
+164,2,Norris (McLaren),30.64143,60.54508,Sunny,0.05
+164,3,Norris (McLaren),29.99717,90.54225,Sunny,0.05
+164,4,Norris (McLaren),28.92937,119.47163,Sunny,0.05
+164,5,Norris (McLaren),30.57538,150.04701,Sunny,0.05
+165,1,Hamilton (Mercedes),30.78056,30.78056,Sunny,0.05
+165,2,Hamilton (Mercedes),30.65372,61.43428,Sunny,0.05
+165,3,Hamilton (Mercedes),28.71334,90.14762,Sunny,0.05
+165,4,Hamilton (Mercedes),29.46447,119.61208,Sunny,0.05
+165,5,Hamilton (Mercedes),29.42774,149.03983,Sunny,0.05
+165,1,Verstappen (Red Bull),28.81858,28.81858,Sunny,0.05
+165,2,Verstappen (Red Bull),29.5242,58.34278,Sunny,0.05
+165,3,Verstappen (Red Bull),29.64452,87.98729,Sunny,0.05
+165,4,Verstappen (Red Bull),29.62965,117.61694,Sunny,0.05
+165,5,Verstappen (Red Bull),28.72947,146.34641,Sunny,0.05
+165,1,Norris (McLaren),29.66314,29.66314,Sunny,0.05
+165,2,Norris (McLaren),29.60047,59.26361,Sunny,0.05
+165,3,Norris (McLaren),29.86438,89.12799,Sunny,0.05
+165,4,Norris (McLaren),29.17994,118.30793,Sunny,0.05
+165,5,Norris (McLaren),29.68565,147.99358,Sunny,0.05
+166,1,Hamilton (Mercedes),29.18642,29.18642,Sunny,0.05
+166,2,Hamilton (Mercedes),28.94895,58.13537,Sunny,0.05
+166,3,Hamilton (Mercedes),28.63714,86.77252,Sunny,0.05
+166,4,Hamilton (Mercedes),30.05266,116.82517,Sunny,0.05
+166,5,Hamilton (Mercedes),29.03741,145.86258,Sunny,0.05
+166,1,Verstappen (Red Bull),29.59319,29.59319,Sunny,0.05
+166,2,Verstappen (Red Bull),30.73173,60.32491,Sunny,0.05
+166,3,Verstappen (Red Bull),28.83842,89.16333,Sunny,0.05
+166,4,Verstappen (Red Bull),29.42772,118.59106,Sunny,0.05
+166,5,Verstappen (Red Bull),28.83064,147.4217,Sunny,0.05
+166,1,Norris (McLaren),29.19308,29.19308,Sunny,0.05
+166,2,Norris (McLaren),29.95807,59.15115,Sunny,0.05
+166,3,Norris (McLaren),30.21652,89.36767,Sunny,0.05
+166,4,Norris (McLaren),29.53441,118.90208,Sunny,0.05
+166,5,Norris (McLaren),29.14779,148.04987,Sunny,0.05
+167,1,Hamilton (Mercedes),29.95287,29.95287,Sunny,0.05
+167,2,Hamilton (Mercedes),29.68182,59.63469,Sunny,0.05
+167,3,Hamilton (Mercedes),29.03197,88.66666,Sunny,0.05
+167,4,Hamilton (Mercedes),29.02241,117.68907,Sunny,0.05
+167,5,Hamilton (Mercedes),28.98074,146.66981,Sunny,0.05
+167,1,Verstappen (Red Bull),30.22212,30.22212,Sunny,0.05
+167,2,Verstappen (Red Bull),29.98005,60.20217,Sunny,0.05
+167,3,Verstappen (Red Bull),29.81966,90.02184,Sunny,0.05
+167,4,Verstappen (Red Bull),29.20602,119.22785,Sunny,0.05
+167,5,Verstappen (Red Bull),28.78405,148.0119,Sunny,0.05
+167,1,Norris (McLaren),30.54816,30.54816,Sunny,0.05
+167,2,Norris (McLaren),29.7722,60.32036,Sunny,0.05
+167,3,Norris (McLaren),28.77699,89.09734,Sunny,0.05
+167,4,Norris (McLaren),30.7347,119.83205,Sunny,0.05
+167,5,Norris (McLaren),29.2133,149.04535,Sunny,0.05
+168,1,Hamilton (Mercedes),29.84836,29.84836,Sunny,0.05
+168,2,Hamilton (Mercedes),29.03233,58.88068,Sunny,0.05
+168,3,Hamilton (Mercedes),28.96647,87.84715,Sunny,0.05
+168,4,Hamilton (Mercedes),29.43041,117.27756,Sunny,0.05
+168,5,Hamilton (Mercedes),30.10752,147.38508,Sunny,0.05
+168,1,Verstappen (Red Bull),28.92721,28.92721,Sunny,0.05
+168,2,Verstappen (Red Bull),29.95023,58.87743,Sunny,0.05
+168,3,Verstappen (Red Bull),28.6628,87.54024,Sunny,0.05
+168,4,Verstappen (Red Bull),28.27606,115.8163,Sunny,0.05
+168,5,Verstappen (Red Bull),30.03637,145.85267,Sunny,0.05
+168,1,Norris (McLaren),30.41412,30.41412,Sunny,0.05
+168,2,Norris (McLaren),29.92751,60.34163,Sunny,0.05
+168,3,Norris (McLaren),29.52121,89.86284,Sunny,0.05
+168,4,Norris (McLaren),30.11993,119.98277,Sunny,0.05
+168,5,Norris (McLaren),30.09354,150.07631,Sunny,0.05
+169,1,Hamilton (Mercedes),29.48658,29.48658,Sunny,0.05
+169,2,Hamilton (Mercedes),29.61776,59.10434,Sunny,0.05
+169,3,Hamilton (Mercedes),29.39949,88.50383,Sunny,0.05
+169,4,Hamilton (Mercedes),29.86266,118.36649,Sunny,0.05
+169,5,Hamilton (Mercedes),28.96972,147.33621,Sunny,0.05
+169,1,Verstappen (Red Bull),30.5962,30.5962,Sunny,0.05
+169,2,Verstappen (Red Bull),29.04881,59.64501,Sunny,0.05
+169,3,Verstappen (Red Bull),29.86826,89.51327,Sunny,0.05
+169,4,Verstappen (Red Bull),29.45227,118.96554,Sunny,0.05
+169,5,Verstappen (Red Bull),29.63628,148.60182,Sunny,0.05
+169,1,Norris (McLaren),29.87456,29.87456,Sunny,0.05
+169,2,Norris (McLaren),30.34023,60.21479,Sunny,0.05
+169,3,Norris (McLaren),29.67947,89.89426,Sunny,0.05
+169,4,Norris (McLaren),30.58158,120.47584,Sunny,0.05
+169,5,Norris (McLaren),29.02937,149.50521,Sunny,0.05
+170,1,Hamilton (Mercedes),29.9973,29.9973,Sunny,0.05
+170,2,Hamilton (Mercedes),29.09404,59.09134,Sunny,0.05
+170,3,Hamilton (Mercedes),29.18927,88.28061,Sunny,0.05
+170,4,Hamilton (Mercedes),29.2623,117.54291,Sunny,0.05
+170,5,Hamilton (Mercedes),29.88525,147.42817,Sunny,0.05
+170,1,Verstappen (Red Bull),29.002,29.002,Sunny,0.05
+170,2,Verstappen (Red Bull),28.20875,57.21075,Sunny,0.05
+170,3,Verstappen (Red Bull),29.18595,86.3967,Sunny,0.05
+170,4,Verstappen (Red Bull),28.75458,115.15128,Sunny,0.05
+170,5,Verstappen (Red Bull),29.48387,144.63514,Sunny,0.05
+170,1,Norris (McLaren),31.20705,31.20705,Sunny,0.05
+170,2,Norris (McLaren),30.34351,61.55056,Sunny,0.05
+170,3,Norris (McLaren),30.36841,91.91896,Sunny,0.05
+170,4,Norris (McLaren),30.75412,122.67309,Sunny,0.05
+170,5,Norris (McLaren),28.61938,151.29246,Sunny,0.05
+171,1,Hamilton (Mercedes),30.28737,30.28737,Sunny,0.05
+171,2,Hamilton (Mercedes),30.03333,60.3207,Sunny,0.05
+171,3,Hamilton (Mercedes),30.2467,90.5674,Sunny,0.05
+171,4,Hamilton (Mercedes),29.23457,119.80197,Sunny,0.05
+171,5,Hamilton (Mercedes),30.88298,150.68494,Sunny,0.05
+171,1,Verstappen (Red Bull),29.19371,29.19371,Sunny,0.05
+171,2,Verstappen (Red Bull),30.10288,59.29659,Sunny,0.05
+171,3,Verstappen (Red Bull),30.07346,89.37006,Sunny,0.05
+171,4,Verstappen (Red Bull),29.60154,118.9716,Sunny,0.05
+171,5,Verstappen (Red Bull),29.76633,148.73792,Sunny,0.05
+171,1,Norris (McLaren),30.10965,30.10965,Sunny,0.05
+171,2,Norris (McLaren),29.33908,59.44873,Sunny,0.05
+171,3,Norris (McLaren),29.42036,88.86908,Sunny,0.05
+171,4,Norris (McLaren),30.78956,119.65865,Sunny,0.05
+171,5,Norris (McLaren),29.02518,148.68383,Sunny,0.05
+172,1,Hamilton (Mercedes),28.72091,28.72091,Sunny,0.05
+172,2,Hamilton (Mercedes),29.1512,57.87211,Sunny,0.05
+172,3,Hamilton (Mercedes),29.18223,87.05434,Sunny,0.05
+172,4,Hamilton (Mercedes),29.61213,116.66647,Sunny,0.05
+172,5,Hamilton (Mercedes),30.35116,147.01762,Sunny,0.05
+172,1,Verstappen (Red Bull),30.18605,30.18605,Sunny,0.05
+172,2,Verstappen (Red Bull),30.31369,60.49974,Sunny,0.05
+172,3,Verstappen (Red Bull),29.00645,89.50618,Sunny,0.05
+172,4,Verstappen (Red Bull),29.0038,118.50998,Sunny,0.05
+172,5,Verstappen (Red Bull),29.55054,148.06052,Sunny,0.05
+172,1,Norris (McLaren),29.84386,29.84386,Sunny,0.05
+172,2,Norris (McLaren),29.39994,59.2438,Sunny,0.05
+172,3,Norris (McLaren),30.45712,89.70092,Sunny,0.05
+172,4,Norris (McLaren),30.49458,120.19551,Sunny,0.05
+172,5,Norris (McLaren),29.02222,149.21772,Sunny,0.05
+173,1,Hamilton (Mercedes),29.49737,29.49737,Sunny,0.05
+173,2,Hamilton (Mercedes),28.76577,58.26314,Sunny,0.05
+173,3,Hamilton (Mercedes),30.15439,88.41753,Sunny,0.05
+173,4,Hamilton (Mercedes),30.79693,119.21446,Sunny,0.05
+173,5,Hamilton (Mercedes),30.17986,149.39432,Sunny,0.05
+173,1,Verstappen (Red Bull),30.69182,30.69182,Sunny,0.05
+173,2,Verstappen (Red Bull),29.31137,60.00318,Sunny,0.05
+173,3,Verstappen (Red Bull),29.25294,89.25612,Sunny,0.05
+173,4,Verstappen (Red Bull),29.516,118.77213,Sunny,0.05
+173,5,Verstappen (Red Bull),29.05955,147.83168,Sunny,0.05
+173,1,Norris (McLaren),28.65889,28.65889,Sunny,0.05
+173,2,Norris (McLaren),29.70904,58.36793,Sunny,0.05
+173,3,Norris (McLaren),30.59756,88.96549,Sunny,0.05
+173,4,Norris (McLaren),30.22502,119.19051,Sunny,0.05
+173,5,Norris (McLaren),29.02465,148.21516,Sunny,0.05
+174,1,Hamilton (Mercedes),29.13289,29.13289,Sunny,0.05
+174,2,Hamilton (Mercedes),29.37369,58.50658,Sunny,0.05
+174,3,Hamilton (Mercedes),29.41778,87.92437,Sunny,0.05
+174,4,Hamilton (Mercedes),30.86666,118.79102,Sunny,0.05
+174,5,Hamilton (Mercedes),29.52773,148.31875,Sunny,0.05
+174,1,Verstappen (Red Bull),30.16209,30.16209,Sunny,0.05
+174,2,Verstappen (Red Bull),29.39637,59.55846,Sunny,0.05
+174,3,Verstappen (Red Bull),29.07351,88.63197,Sunny,0.05
+174,4,Verstappen (Red Bull),29.7093,118.34128,Sunny,0.05
+174,5,Verstappen (Red Bull),29.1125,147.45377,Sunny,0.05
+174,1,Norris (McLaren),29.81581,29.81581,Sunny,0.05
+174,2,Norris (McLaren),29.64891,59.46473,Sunny,0.05
+174,3,Norris (McLaren),30.71569,90.18041,Sunny,0.05
+174,4,Norris (McLaren),30.50981,120.69023,Sunny,0.05
+174,5,Norris (McLaren),30.83632,151.52655,Sunny,0.05
+175,1,Hamilton (Mercedes),28.05501,28.05501,Sunny,0.05
+175,2,Hamilton (Mercedes),29.27493,57.32995,Sunny,0.05
+175,3,Hamilton (Mercedes),29.88103,87.21098,Sunny,0.05
+175,4,Hamilton (Mercedes),29.91643,117.12741,Sunny,0.05
+175,5,Hamilton (Mercedes),30.12088,147.24829,Sunny,0.05
+175,1,Verstappen (Red Bull),29.36793,29.36793,Sunny,0.05
+175,2,Verstappen (Red Bull),29.74029,59.10822,Sunny,0.05
+175,3,Verstappen (Red Bull),28.90202,88.01024,Sunny,0.05
+175,4,Verstappen (Red Bull),28.53793,116.54817,Sunny,0.05
+175,5,Verstappen (Red Bull),28.71053,145.2587,Sunny,0.05
+175,1,Norris (McLaren),31.02405,31.02405,Sunny,0.05
+175,2,Norris (McLaren),29.91989,60.94393,Sunny,0.05
+175,3,Norris (McLaren),29.87564,90.81957,Sunny,0.05
+175,4,Norris (McLaren),29.23573,120.05529,Sunny,0.05
+175,5,Norris (McLaren),30.29079,150.34609,Sunny,0.05
+176,1,Hamilton (Mercedes),29.89332,29.89332,Sunny,0.05
+176,2,Hamilton (Mercedes),29.63843,59.53175,Sunny,0.05
+176,3,Hamilton (Mercedes),29.22135,88.7531,Sunny,0.05
+176,4,Hamilton (Mercedes),29.45419,118.20729,Sunny,0.05
+176,5,Hamilton (Mercedes),30.3633,148.57059,Sunny,0.05
+176,1,Verstappen (Red Bull),29.26606,29.26606,Sunny,0.05
+176,2,Verstappen (Red Bull),29.69237,58.95843,Sunny,0.05
+176,3,Verstappen (Red Bull),29.99387,88.9523,Sunny,0.05
+176,4,Verstappen (Red Bull),29.12754,118.07985,Sunny,0.05
+176,5,Verstappen (Red Bull),28.39497,146.47482,Sunny,0.05
+176,1,Norris (McLaren),30.49639,30.49639,Sunny,0.05
+176,2,Norris (McLaren),29.95779,60.45418,Sunny,0.05
+176,3,Norris (McLaren),28.85353,89.30771,Sunny,0.05
+176,4,Norris (McLaren),29.59023,118.89793,Sunny,0.05
+176,5,Norris (McLaren),29.57935,148.47729,Sunny,0.05
+177,1,Hamilton (Mercedes),29.79714,29.79714,Sunny,0.05
+177,2,Hamilton (Mercedes),30.37878,60.17592,Sunny,0.05
+177,3,Hamilton (Mercedes),30.42191,90.59783,Sunny,0.05
+177,4,Hamilton (Mercedes),29.85495,120.45278,Sunny,0.05
+177,5,Hamilton (Mercedes),29.74928,150.20206,Sunny,0.05
+177,1,Verstappen (Red Bull),30.13047,30.13047,Sunny,0.05
+177,2,Verstappen (Red Bull),29.30306,59.43353,Sunny,0.05
+177,3,Verstappen (Red Bull),29.30646,88.73999,Sunny,0.05
+177,4,Verstappen (Red Bull),28.86605,117.60604,Sunny,0.05
+177,5,Verstappen (Red Bull),28.67779,146.28384,Sunny,0.05
+177,1,Norris (McLaren),30.20949,30.20949,Sunny,0.05
+177,2,Norris (McLaren),29.70808,59.91757,Sunny,0.05
+177,3,Norris (McLaren),29.95822,89.87579,Sunny,0.05
+177,4,Norris (McLaren),29.44941,119.32521,Sunny,0.05
+177,5,Norris (McLaren),29.69201,149.01722,Sunny,0.05
+178,1,Hamilton (Mercedes),28.87531,28.87531,Sunny,0.05
+178,2,Hamilton (Mercedes),30.37389,59.2492,Sunny,0.05
+178,3,Hamilton (Mercedes),29.01242,88.26162,Sunny,0.05
+178,4,Hamilton (Mercedes),30.71194,118.97356,Sunny,0.05
+178,5,Hamilton (Mercedes),29.5885,148.56206,Sunny,0.05
+178,1,Verstappen (Red Bull),29.35147,29.35147,Sunny,0.05
+178,2,Verstappen (Red Bull),28.96755,58.31903,Sunny,0.05
+178,3,Verstappen (Red Bull),29.18703,87.50606,Sunny,0.05
+178,4,Verstappen (Red Bull),28.52394,116.02999,Sunny,0.05
+178,5,Verstappen (Red Bull),29.46803,145.49803,Sunny,0.05
+178,1,Norris (McLaren),28.64949,28.64949,Sunny,0.05
+178,2,Norris (McLaren),28.80897,57.45846,Sunny,0.05
+178,3,Norris (McLaren),30.72811,88.18658,Sunny,0.05
+178,4,Norris (McLaren),30.36834,118.55491,Sunny,0.05
+178,5,Norris (McLaren),28.6939,147.24881,Sunny,0.05
+179,1,Hamilton (Mercedes),29.46834,29.46834,Sunny,0.05
+179,2,Hamilton (Mercedes),28.8521,58.32044,Sunny,0.05
+179,3,Hamilton (Mercedes),29.36382,87.68426,Sunny,0.05
+179,4,Hamilton (Mercedes),29.99942,117.68367,Sunny,0.05
+179,5,Hamilton (Mercedes),29.44446,147.12813,Sunny,0.05
+179,1,Verstappen (Red Bull),27.92085,27.92085,Sunny,0.05
+179,2,Verstappen (Red Bull),28.85419,56.77504,Sunny,0.05
+179,3,Verstappen (Red Bull),29.27925,86.05429,Sunny,0.05
+179,4,Verstappen (Red Bull),29.17224,115.22653,Sunny,0.05
+179,5,Verstappen (Red Bull),29.54173,144.76826,Sunny,0.05
+179,1,Norris (McLaren),29.36038,29.36038,Sunny,0.05
+179,2,Norris (McLaren),30.99865,60.35903,Sunny,0.05
+179,3,Norris (McLaren),29.50146,89.8605,Sunny,0.05
+179,4,Norris (McLaren),29.1386,118.9991,Sunny,0.05
+179,5,Norris (McLaren),29.16697,148.16607,Sunny,0.05
+180,1,Hamilton (Mercedes),29.34968,29.34968,Sunny,0.05
+180,2,Hamilton (Mercedes),30.16306,59.51274,Sunny,0.05
+180,3,Hamilton (Mercedes),29.33625,88.84899,Sunny,0.05
+180,4,Hamilton (Mercedes),29.8792,118.72819,Sunny,0.05
+180,5,Hamilton (Mercedes),28.71938,147.44757,Sunny,0.05
+180,1,Verstappen (Red Bull),28.95929,28.95929,Sunny,0.05
+180,2,Verstappen (Red Bull),28.14152,57.10082,Sunny,0.05
+180,3,Verstappen (Red Bull),29.89588,86.99669,Sunny,0.05
+180,4,Verstappen (Red Bull),29.46918,116.46587,Sunny,0.05
+180,5,Verstappen (Red Bull),29.91496,146.38083,Sunny,0.05
+180,1,Norris (McLaren),29.62442,29.62442,Sunny,0.05
+180,2,Norris (McLaren),30.49083,60.11526,Sunny,0.05
+180,3,Norris (McLaren),30.79994,90.9152,Sunny,0.05
+180,4,Norris (McLaren),29.29904,120.21424,Sunny,0.05
+180,5,Norris (McLaren),29.46863,149.68287,Sunny,0.05
+181,1,Hamilton (Mercedes),29.71601,29.71601,Sunny,0.05
+181,2,Hamilton (Mercedes),29.859,59.57501,Sunny,0.05
+181,3,Hamilton (Mercedes),29.74497,89.31998,Sunny,0.05
+181,4,Hamilton (Mercedes),29.93703,119.25701,Sunny,0.05
+181,5,Hamilton (Mercedes),28.59254,147.84955,Sunny,0.05
+181,1,Verstappen (Red Bull),29.97982,29.97982,Sunny,0.05
+181,2,Verstappen (Red Bull),28.56316,58.54298,Sunny,0.05
+181,3,Verstappen (Red Bull),29.84604,88.38902,Sunny,0.05
+181,4,Verstappen (Red Bull),29.55909,117.94811,Sunny,0.05
+181,5,Verstappen (Red Bull),28.92482,146.87292,Sunny,0.05
+181,1,Norris (McLaren),30.80779,30.80779,Sunny,0.05
+181,2,Norris (McLaren),30.05818,60.86597,Sunny,0.05
+181,3,Norris (McLaren),29.66058,90.52655,Sunny,0.05
+181,4,Norris (McLaren),30.57789,121.10444,Sunny,0.05
+181,5,Norris (McLaren),29.78862,150.89305,Sunny,0.05
+182,1,Hamilton (Mercedes),29.82194,29.82194,Sunny,0.05
+182,2,Hamilton (Mercedes),29.15959,58.98154,Sunny,0.05
+182,3,Hamilton (Mercedes),28.96662,87.94816,Sunny,0.05
+182,4,Hamilton (Mercedes),29.17869,117.12685,Sunny,0.05
+182,5,Hamilton (Mercedes),28.93591,146.06276,Sunny,0.05
+182,1,Verstappen (Red Bull),29.53899,29.53899,Sunny,0.05
+182,2,Verstappen (Red Bull),29.27329,58.81227,Sunny,0.05
+182,3,Verstappen (Red Bull),29.41439,88.22666,Sunny,0.05
+182,4,Verstappen (Red Bull),30.01732,118.24398,Sunny,0.05
+182,5,Verstappen (Red Bull),29.21225,147.45623,Sunny,0.05
+182,1,Norris (McLaren),29.17294,29.17294,Sunny,0.05
+182,2,Norris (McLaren),28.64687,57.81981,Sunny,0.05
+182,3,Norris (McLaren),28.01234,85.83215,Sunny,0.05
+182,4,Norris (McLaren),30.18026,116.01241,Sunny,0.05
+182,5,Norris (McLaren),29.43716,145.44957,Sunny,0.05
+183,1,Hamilton (Mercedes),28.75631,28.75631,Sunny,0.05
+183,2,Hamilton (Mercedes),28.8181,57.57441,Sunny,0.05
+183,3,Hamilton (Mercedes),29.0811,86.65551,Sunny,0.05
+183,4,Hamilton (Mercedes),29.26546,115.92097,Sunny,0.05
+183,5,Hamilton (Mercedes),29.04138,144.96236,Sunny,0.05
+183,1,Verstappen (Red Bull),28.60414,28.60414,Sunny,0.05
+183,2,Verstappen (Red Bull),28.79019,57.39433,Sunny,0.05
+183,3,Verstappen (Red Bull),30.31898,87.71331,Sunny,0.05
+183,4,Verstappen (Red Bull),29.17266,116.88597,Sunny,0.05
+183,5,Verstappen (Red Bull),30.28366,147.16964,Sunny,0.05
+183,1,Norris (McLaren),30.07028,30.07028,Sunny,0.05
+183,2,Norris (McLaren),30.06062,60.1309,Sunny,0.05
+183,3,Norris (McLaren),28.99322,89.12412,Sunny,0.05
+183,4,Norris (McLaren),30.07211,119.19623,Sunny,0.05
+183,5,Norris (McLaren),30.29628,149.49251,Sunny,0.05
+184,1,Hamilton (Mercedes),30.11379,30.11379,Sunny,0.05
+184,2,Hamilton (Mercedes),29.43416,59.54795,Sunny,0.05
+184,3,Hamilton (Mercedes),30.06371,89.61166,Sunny,0.05
+184,4,Hamilton (Mercedes),28.77524,118.3869,Sunny,0.05
+184,5,Hamilton (Mercedes),29.55438,147.94128,Sunny,0.05
+184,1,Verstappen (Red Bull),29.50072,29.50072,Sunny,0.05
+184,2,Verstappen (Red Bull),29.34569,58.8464,Sunny,0.05
+184,3,Verstappen (Red Bull),30.21525,89.06165,Sunny,0.05
+184,4,Verstappen (Red Bull),30.05349,119.11514,Sunny,0.05
+184,5,Verstappen (Red Bull),29.72453,148.83967,Sunny,0.05
+184,1,Norris (McLaren),30.58632,30.58632,Sunny,0.05
+184,2,Norris (McLaren),29.69408,60.2804,Sunny,0.05
+184,3,Norris (McLaren),30.36179,90.64219,Sunny,0.05
+184,4,Norris (McLaren),31.38952,122.03171,Sunny,0.05
+184,5,Norris (McLaren),30.94174,152.97345,Sunny,0.05
+185,1,Hamilton (Mercedes),29.146,29.146,Sunny,0.05
+185,2,Hamilton (Mercedes),29.82137,58.96737,Sunny,0.05
+185,3,Hamilton (Mercedes),29.63146,88.59883,Sunny,0.05
+185,4,Hamilton (Mercedes),29.46082,118.05966,Sunny,0.05
+185,5,Hamilton (Mercedes),30.61815,148.6778,Sunny,0.05
+185,1,Verstappen (Red Bull),29.8402,29.8402,Sunny,0.05
+185,2,Verstappen (Red Bull),29.95216,59.79235,Sunny,0.05
+185,3,Verstappen (Red Bull),29.22969,89.02205,Sunny,0.05
+185,4,Verstappen (Red Bull),29.659,118.68105,Sunny,0.05
+185,5,Verstappen (Red Bull),29.54805,148.2291,Sunny,0.05
+185,1,Norris (McLaren),29.57571,29.57571,Sunny,0.05
+185,2,Norris (McLaren),28.91317,58.48888,Sunny,0.05
+185,3,Norris (McLaren),30.11406,88.60294,Sunny,0.05
+185,4,Norris (McLaren),29.32409,117.92703,Sunny,0.05
+185,5,Norris (McLaren),30.5104,148.43743,Sunny,0.05
+186,1,Hamilton (Mercedes),29.74877,29.74877,Sunny,0.05
+186,2,Hamilton (Mercedes),28.76224,58.51101,Sunny,0.05
+186,3,Hamilton (Mercedes),29.19291,87.70392,Sunny,0.05
+186,4,Hamilton (Mercedes),30.46134,118.16526,Sunny,0.05
+186,5,Hamilton (Mercedes),29.70515,147.87041,Sunny,0.05
+186,1,Verstappen (Red Bull),30.38264,30.38264,Sunny,0.05
+186,2,Verstappen (Red Bull),28.76267,59.14531,Sunny,0.05
+186,3,Verstappen (Red Bull),29.20363,88.34895,Sunny,0.05
+186,4,Verstappen (Red Bull),29.53807,117.88701,Sunny,0.05
+186,5,Verstappen (Red Bull),30.4819,148.36892,Sunny,0.05
+186,1,Norris (McLaren),28.23932,28.23932,Sunny,0.05
+186,2,Norris (McLaren),30.55108,58.79039,Sunny,0.05
+186,3,Norris (McLaren),28.58017,87.37056,Sunny,0.05
+186,4,Norris (McLaren),29.198,116.56856,Sunny,0.05
+186,5,Norris (McLaren),29.45719,146.02575,Sunny,0.05
+187,1,Hamilton (Mercedes),29.43668,29.43668,Sunny,0.05
+187,2,Hamilton (Mercedes),29.67977,59.11645,Sunny,0.05
+187,3,Hamilton (Mercedes),28.84443,87.96088,Sunny,0.05
+187,4,Hamilton (Mercedes),29.47195,117.43282,Sunny,0.05
+187,5,Hamilton (Mercedes),29.65304,147.08587,Sunny,0.05
+187,1,Verstappen (Red Bull),30.00529,30.00529,Sunny,0.05
+187,2,Verstappen (Red Bull),29.79654,59.80183,Sunny,0.05
+187,3,Verstappen (Red Bull),29.35332,89.15515,Sunny,0.05
+187,4,Verstappen (Red Bull),29.65992,118.81507,Sunny,0.05
+187,5,Verstappen (Red Bull),28.27892,147.09399,Sunny,0.05
+187,1,Norris (McLaren),29.6404,29.6404,Sunny,0.05
+187,2,Norris (McLaren),29.79668,59.43709,Sunny,0.05
+187,3,Norris (McLaren),29.32339,88.76048,Sunny,0.05
+187,4,Norris (McLaren),28.73028,117.49076,Sunny,0.05
+187,5,Norris (McLaren),29.5929,147.08366,Sunny,0.05
+188,1,Hamilton (Mercedes),29.93309,29.93309,Sunny,0.05
+188,2,Hamilton (Mercedes),30.76196,60.69506,Sunny,0.05
+188,3,Hamilton (Mercedes),29.31752,90.01258,Sunny,0.05
+188,4,Hamilton (Mercedes),29.16158,119.17416,Sunny,0.05
+188,5,Hamilton (Mercedes),29.33698,148.51114,Sunny,0.05
+188,1,Verstappen (Red Bull),29.65727,29.65727,Sunny,0.05
+188,2,Verstappen (Red Bull),29.08532,58.74259,Sunny,0.05
+188,3,Verstappen (Red Bull),30.50913,89.25172,Sunny,0.05
+188,4,Verstappen (Red Bull),30.19149,119.44321,Sunny,0.05
+188,5,Verstappen (Red Bull),30.86258,150.30578,Sunny,0.05
+188,1,Norris (McLaren),30.14985,30.14985,Sunny,0.05
+188,2,Norris (McLaren),30.14863,60.29848,Sunny,0.05
+188,3,Norris (McLaren),28.49104,88.78952,Sunny,0.05
+188,4,Norris (McLaren),30.07533,118.86485,Sunny,0.05
+188,5,Norris (McLaren),29.45934,148.32419,Sunny,0.05
+189,1,Hamilton (Mercedes),30.13844,30.13844,Sunny,0.05
+189,2,Hamilton (Mercedes),29.82608,59.96452,Sunny,0.05
+189,3,Hamilton (Mercedes),29.01536,88.97988,Sunny,0.05
+189,4,Hamilton (Mercedes),29.56401,118.54389,Sunny,0.05
+189,5,Hamilton (Mercedes),29.58664,148.13053,Sunny,0.05
+189,1,Verstappen (Red Bull),29.70175,29.70175,Sunny,0.05
+189,2,Verstappen (Red Bull),29.15007,58.85182,Sunny,0.05
+189,3,Verstappen (Red Bull),28.97602,87.82784,Sunny,0.05
+189,4,Verstappen (Red Bull),28.91374,116.74158,Sunny,0.05
+189,5,Verstappen (Red Bull),29.48467,146.22625,Sunny,0.05
+189,1,Norris (McLaren),29.61062,29.61062,Sunny,0.05
+189,2,Norris (McLaren),30.56472,60.17534,Sunny,0.05
+189,3,Norris (McLaren),31.28599,91.46133,Sunny,0.05
+189,4,Norris (McLaren),30.0755,121.53683,Sunny,0.05
+189,5,Norris (McLaren),30.71185,152.24868,Sunny,0.05
+190,1,Hamilton (Mercedes),30.00059,30.00059,Sunny,0.05
+190,2,Hamilton (Mercedes),29.78167,59.78226,Sunny,0.05
+190,3,Hamilton (Mercedes),29.49108,89.27334,Sunny,0.05
+190,4,Hamilton (Mercedes),29.21389,118.48723,Sunny,0.05
+190,5,Hamilton (Mercedes),30.98221,149.46944,Sunny,0.05
+190,1,Verstappen (Red Bull),28.93791,28.93791,Sunny,0.05
+190,2,Verstappen (Red Bull),29.73332,58.67123,Sunny,0.05
+190,3,Verstappen (Red Bull),29.3002,87.97143,Sunny,0.05
+190,4,Verstappen (Red Bull),29.29431,117.26574,Sunny,0.05
+190,5,Verstappen (Red Bull),29.60728,146.87301,Sunny,0.05
+190,1,Norris (McLaren),29.74109,29.74109,Sunny,0.05
+190,2,Norris (McLaren),30.94292,60.68401,Sunny,0.05
+190,3,Norris (McLaren),28.83368,89.51769,Sunny,0.05
+190,4,Norris (McLaren),29.96762,119.48531,Sunny,0.05
+190,5,Norris (McLaren),31.26507,150.75038,Sunny,0.05
+191,1,Hamilton (Mercedes),30.64924,30.64924,Sunny,0.05
+191,2,Hamilton (Mercedes),30.33196,60.98119,Sunny,0.05
+191,3,Hamilton (Mercedes),29.07197,90.05316,Sunny,0.05
+191,4,Hamilton (Mercedes),30.15283,120.20599,Sunny,0.05
+191,5,Hamilton (Mercedes),29.89213,150.09812,Sunny,0.05
+191,1,Verstappen (Red Bull),29.56086,29.56086,Sunny,0.05
+191,2,Verstappen (Red Bull),29.22321,58.78407,Sunny,0.05
+191,3,Verstappen (Red Bull),29.93464,88.71871,Sunny,0.05
+191,4,Verstappen (Red Bull),29.42312,118.14184,Sunny,0.05
+191,5,Verstappen (Red Bull),29.81031,147.95214,Sunny,0.05
+191,1,Norris (McLaren),29.49122,29.49122,Sunny,0.05
+191,2,Norris (McLaren),29.20017,58.69138,Sunny,0.05
+191,3,Norris (McLaren),28.84892,87.5403,Sunny,0.05
+191,4,Norris (McLaren),29.63148,117.17178,Sunny,0.05
+191,5,Norris (McLaren),29.32265,146.49443,Sunny,0.05
+192,1,Hamilton (Mercedes),29.131,29.131,Sunny,0.05
+192,2,Hamilton (Mercedes),28.89841,58.02941,Sunny,0.05
+192,3,Hamilton (Mercedes),29.85271,87.88212,Sunny,0.05
+192,4,Hamilton (Mercedes),30.54434,118.42647,Sunny,0.05
+192,5,Hamilton (Mercedes),30.1523,148.57876,Sunny,0.05
+192,1,Verstappen (Red Bull),30.58291,30.58291,Sunny,0.05
+192,2,Verstappen (Red Bull),30.06669,60.64959,Sunny,0.05
+192,3,Verstappen (Red Bull),29.91157,90.56116,Sunny,0.05
+192,4,Verstappen (Red Bull),30.77024,121.3314,Sunny,0.05
+192,5,Verstappen (Red Bull),29.75559,151.087,Sunny,0.05
+192,1,Norris (McLaren),30.7435,30.7435,Sunny,0.05
+192,2,Norris (McLaren),29.11866,59.86216,Sunny,0.05
+192,3,Norris (McLaren),29.58753,89.44969,Sunny,0.05
+192,4,Norris (McLaren),30.47453,119.92422,Sunny,0.05
+192,5,Norris (McLaren),30.49539,150.41961,Sunny,0.05
+193,1,Hamilton (Mercedes),30.63096,30.63096,Sunny,0.05
+193,2,Hamilton (Mercedes),29.50437,60.13533,Sunny,0.05
+193,3,Hamilton (Mercedes),29.85781,89.99314,Sunny,0.05
+193,4,Hamilton (Mercedes),30.36543,120.35857,Sunny,0.05
+193,5,Hamilton (Mercedes),29.19987,149.55844,Sunny,0.05
+193,1,Verstappen (Red Bull),29.32719,29.32719,Sunny,0.05
+193,2,Verstappen (Red Bull),28.54943,57.87662,Sunny,0.05
+193,3,Verstappen (Red Bull),28.7302,86.60682,Sunny,0.05
+193,4,Verstappen (Red Bull),30.02794,116.63476,Sunny,0.05
+193,5,Verstappen (Red Bull),29.98848,146.62324,Sunny,0.05
+193,1,Norris (McLaren),31.30486,31.30486,Sunny,0.05
+193,2,Norris (McLaren),29.62743,60.93229,Sunny,0.05
+193,3,Norris (McLaren),29.75673,90.68902,Sunny,0.05
+193,4,Norris (McLaren),29.36924,120.05826,Sunny,0.05
+193,5,Norris (McLaren),29.75752,149.81578,Sunny,0.05
+194,1,Hamilton (Mercedes),30.21497,30.21497,Sunny,0.05
+194,2,Hamilton (Mercedes),28.95661,59.17158,Sunny,0.05
+194,3,Hamilton (Mercedes),29.77313,88.9447,Sunny,0.05
+194,4,Hamilton (Mercedes),30.47489,119.4196,Sunny,0.05
+194,5,Hamilton (Mercedes),29.66615,149.08575,Sunny,0.05
+194,1,Verstappen (Red Bull),29.32887,29.32887,Sunny,0.05
+194,2,Verstappen (Red Bull),29.78883,59.1177,Sunny,0.05
+194,3,Verstappen (Red Bull),29.57942,88.69712,Sunny,0.05
+194,4,Verstappen (Red Bull),29.29738,117.9945,Sunny,0.05
+194,5,Verstappen (Red Bull),29.36038,147.35488,Sunny,0.05
+194,1,Norris (McLaren),29.97463,29.97463,Sunny,0.05
+194,2,Norris (McLaren),29.97366,59.94829,Sunny,0.05
+194,3,Norris (McLaren),30.05206,90.00035,Sunny,0.05
+194,4,Norris (McLaren),29.70685,119.7072,Sunny,0.05
+194,5,Norris (McLaren),29.91094,149.61814,Sunny,0.05
+195,1,Hamilton (Mercedes),30.05041,30.05041,Sunny,0.05
+195,2,Hamilton (Mercedes),29.73114,59.78155,Sunny,0.05
+195,3,Hamilton (Mercedes),28.49159,88.27314,Sunny,0.05
+195,4,Hamilton (Mercedes),29.254,117.52715,Sunny,0.05
+195,5,Hamilton (Mercedes),30.22418,147.75132,Sunny,0.05
+195,1,Verstappen (Red Bull),29.82008,29.82008,Sunny,0.05
+195,2,Verstappen (Red Bull),28.93645,58.75653,Sunny,0.05
+195,3,Verstappen (Red Bull),29.30959,88.06612,Sunny,0.05
+195,4,Verstappen (Red Bull),28.85772,116.92384,Sunny,0.05
+195,5,Verstappen (Red Bull),29.16689,146.09073,Sunny,0.05
+195,1,Norris (McLaren),29.34227,29.34227,Sunny,0.05
+195,2,Norris (McLaren),30.52796,59.87023,Sunny,0.05
+195,3,Norris (McLaren),28.8115,88.68173,Sunny,0.05
+195,4,Norris (McLaren),29.817,118.49873,Sunny,0.05
+195,5,Norris (McLaren),29.3526,147.85133,Sunny,0.05
+196,1,Hamilton (Mercedes),29.37462,29.37462,Sunny,0.05
+196,2,Hamilton (Mercedes),30.25022,59.62484,Sunny,0.05
+196,3,Hamilton (Mercedes),29.24531,88.87015,Sunny,0.05
+196,4,Hamilton (Mercedes),30.12841,118.99856,Sunny,0.05
+196,5,Hamilton (Mercedes),28.91461,147.91317,Sunny,0.05
+196,1,Verstappen (Red Bull),29.41504,29.41504,Sunny,0.05
+196,2,Verstappen (Red Bull),28.92835,58.34339,Sunny,0.05
+196,3,Verstappen (Red Bull),29.29661,87.64,Sunny,0.05
+196,4,Verstappen (Red Bull),29.2208,116.8608,Sunny,0.05
+196,5,Verstappen (Red Bull),29.50107,146.36187,Sunny,0.05
+196,1,Norris (McLaren),29.74378,29.74378,Sunny,0.05
+196,2,Norris (McLaren),29.34903,59.0928,Sunny,0.05
+196,3,Norris (McLaren),30.41146,89.50427,Sunny,0.05
+196,4,Norris (McLaren),30.33411,119.83838,Sunny,0.05
+196,5,Norris (McLaren),29.73598,149.57436,Sunny,0.05
+197,1,Hamilton (Mercedes),29.22169,29.22169,Sunny,0.05
+197,2,Hamilton (Mercedes),30.09779,59.31948,Sunny,0.05
+197,3,Hamilton (Mercedes),30.04189,89.36138,Sunny,0.05
+197,4,Hamilton (Mercedes),29.89009,119.25147,Sunny,0.05
+197,5,Hamilton (Mercedes),29.30669,148.55815,Sunny,0.05
+197,1,Verstappen (Red Bull),30.0851,30.0851,Sunny,0.05
+197,2,Verstappen (Red Bull),28.47232,58.55743,Sunny,0.05
+197,3,Verstappen (Red Bull),30.38868,88.94611,Sunny,0.05
+197,4,Verstappen (Red Bull),31.08869,120.0348,Sunny,0.05
+197,5,Verstappen (Red Bull),30.64913,150.68393,Sunny,0.05
+197,1,Norris (McLaren),30.11657,30.11657,Sunny,0.05
+197,2,Norris (McLaren),30.0497,60.16627,Sunny,0.05
+197,3,Norris (McLaren),30.09426,90.26053,Sunny,0.05
+197,4,Norris (McLaren),29.41929,119.67982,Sunny,0.05
+197,5,Norris (McLaren),29.75959,149.43941,Sunny,0.05
+198,1,Hamilton (Mercedes),28.77308,28.77308,Sunny,0.05
+198,2,Hamilton (Mercedes),30.09119,58.86427,Sunny,0.05
+198,3,Hamilton (Mercedes),29.4961,88.36036,Sunny,0.05
+198,4,Hamilton (Mercedes),29.7282,118.08856,Sunny,0.05
+198,5,Hamilton (Mercedes),30.55765,148.64621,Sunny,0.05
+198,1,Verstappen (Red Bull),29.51849,29.51849,Sunny,0.05
+198,2,Verstappen (Red Bull),29.25294,58.77142,Sunny,0.05
+198,3,Verstappen (Red Bull),29.70833,88.47975,Sunny,0.05
+198,4,Verstappen (Red Bull),29.75986,118.23961,Sunny,0.05
+198,5,Verstappen (Red Bull),29.65173,147.89134,Sunny,0.05
+198,1,Norris (McLaren),29.50675,29.50675,Sunny,0.05
+198,2,Norris (McLaren),30.75565,60.2624,Sunny,0.05
+198,3,Norris (McLaren),29.33128,89.59368,Sunny,0.05
+198,4,Norris (McLaren),29.35443,118.94811,Sunny,0.05
+198,5,Norris (McLaren),28.89731,147.84542,Sunny,0.05
+199,1,Hamilton (Mercedes),29.73433,29.73433,Sunny,0.05
+199,2,Hamilton (Mercedes),29.91617,59.6505,Sunny,0.05
+199,3,Hamilton (Mercedes),30.52306,90.17356,Sunny,0.05
+199,4,Hamilton (Mercedes),28.94719,119.12075,Sunny,0.05
+199,5,Hamilton (Mercedes),28.46693,147.58768,Sunny,0.05
+199,1,Verstappen (Red Bull),29.14176,29.14176,Sunny,0.05
+199,2,Verstappen (Red Bull),29.01101,58.15277,Sunny,0.05
+199,3,Verstappen (Red Bull),29.67791,87.83067,Sunny,0.05
+199,4,Verstappen (Red Bull),29.40878,117.23945,Sunny,0.05
+199,5,Verstappen (Red Bull),30.1919,147.43135,Sunny,0.05
+199,1,Norris (McLaren),28.96183,28.96183,Sunny,0.05
+199,2,Norris (McLaren),30.76378,59.72561,Sunny,0.05
+199,3,Norris (McLaren),30.36673,90.09234,Sunny,0.05
+199,4,Norris (McLaren),30.09884,120.19118,Sunny,0.05
+199,5,Norris (McLaren),30.95475,151.14592,Sunny,0.05
+200,1,Hamilton (Mercedes),30.23267,30.23267,Sunny,0.05
+200,2,Hamilton (Mercedes),29.85113,60.08379,Sunny,0.05
+200,3,Hamilton (Mercedes),29.85982,89.94361,Sunny,0.05
+200,4,Hamilton (Mercedes),28.43794,118.38155,Sunny,0.05
+200,5,Hamilton (Mercedes),29.56466,147.94622,Sunny,0.05
+200,1,Verstappen (Red Bull),29.5792,29.5792,Sunny,0.05
+200,2,Verstappen (Red Bull),29.28256,58.86176,Sunny,0.05
+200,3,Verstappen (Red Bull),28.87156,87.73332,Sunny,0.05
+200,4,Verstappen (Red Bull),29.12666,116.85998,Sunny,0.05
+200,5,Verstappen (Red Bull),28.59274,145.45272,Sunny,0.05
+200,1,Norris (McLaren),28.11816,28.11816,Sunny,0.05
+200,2,Norris (McLaren),30.76025,58.87841,Sunny,0.05
+200,3,Norris (McLaren),30.21955,89.09797,Sunny,0.05
+200,4,Norris (McLaren),30.08254,119.18051,Sunny,0.05
+200,5,Norris (McLaren),31.15668,150.33719,Sunny,0.05
