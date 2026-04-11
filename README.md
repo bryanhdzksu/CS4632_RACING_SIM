@@ -7,7 +7,7 @@ This project is a custom-built Python simulation that models motorsport race per
 This implementation is written from scratch in Python and does **not** rely on prebuilt simulation frameworks or premade simulation engines.
 
 ## Current status (Milestone 4)
-The repository includes the **full M3 simulator** plus **M4 analysis & validation**: sensitivity sweeps, scenario tables, statistical summaries (including confidence intervals), matplotlib figures, and the printable report `CS4632_M4_Bryan_Juarez.H_M4.html`.
+The repository includes the **full M3 simulator** plus **M4 analysis & validation**: sensitivity sweeps, scenario tables, statistical summaries (including confidence intervals), matplotlib figures. 
 
 ## Milestone 3 (implementation baseline)
 Milestone 3 completes the core simulator and adds comprehensive data collection, a configuration system, and systematic execution of 12 documented simulation runs. Key changes since M2:
@@ -27,7 +27,6 @@ Milestone 4 adds **one-factor-at-a-time sensitivity sweeps** (five inputs: wetne
   python m4_analysis.py
   ```
   Use `python m4_analysis.py --figures-only` to regenerate PNGs from existing CSVs without re-running simulations.
-- **Report:** `CS4632_M4_Bryan_Juarez.H_M4.html` — open in a browser and use **Print → Save as PDF** (keep `output/m4_analysis/figures/` next to the HTML so images embed). Submit per course naming (e.g. `CS4632_M4_LastName_FirstName.pdf`) plus any **supplementary data** zip of `output/m4_analysis/` if required.
 - **Outputs:** `output/m4_analysis/` — per-sweep run folders (`run_m4_*`), `sensitivity_*.csv`, `scenario_m3_runs_subset.csv`, `m4_analysis_meta.json`, `m4_statistical_summary.json`, separate `run_index.json`, and `figures/*.png`.
 - **Core simulation** is unchanged; analysis calls `run_simulation_core()` from `main.py`.
 
