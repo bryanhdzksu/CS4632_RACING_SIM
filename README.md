@@ -19,7 +19,7 @@ Milestone 3 completes the core simulator and adds comprehensive data collection,
 - **12 documented runs** varying weather, field size, lap count, track complexity, tire strategy, and trial count
 
 ## Milestone 4 (Analysis & Validation)
-Milestone 4 adds **one-factor-at-a-time sensitivity sweeps** (five inputs: wetness, visibility, laps, trial count, track segment pairs), **aggregated CSVs**, **matplotlib figures**, and the **M4 report** (HTML source; print to PDF for submission).
+Milestone 4 adds **one-factor-at-a-time sensitivity sweeps** (five inputs: wetness, visibility, laps, trial count, track segment pairs), **aggregated CSVs**, **matplotlib figures**, and the **M4 report** 
 
 - **Script:** `m4_analysis.py` — run from the project root after installing dependencies:
   ```bash
@@ -287,7 +287,6 @@ CS4632_RACING_SIM/
 - If `--run-all` finds no configs, verify the `configs/` directory contains `.json` files.
 - If output is not created, verify the `output/` directory exists and is writable.
 - If `m4_analysis.py` fails on `matplotlib`, run `pip install -r requirements.txt`.
-- If the M4 HTML report shows **broken figures**, print from the project root so paths like `output/m4_analysis/figures/...` resolve, or use the browser “Open file” from the repo folder.
 
 ## Notes
 - **M3** delivered the full simulator, 12 preset runs, and `output/test_results.csv` as the implementation/testing baseline.
