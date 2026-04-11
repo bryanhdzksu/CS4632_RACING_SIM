@@ -254,7 +254,6 @@ JSON Config → SimConfig → build_track / build_environment / build_entrants
 CS4632_RACING_SIM/
 ├── main.py
 ├── m4_analysis.py
-├── CS4632_M4_Bryan_Juarez.H_M4.html   # M4 report (print to PDF)
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
