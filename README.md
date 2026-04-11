@@ -6,7 +6,10 @@ This project is a custom-built Python simulation that models motorsport race per
 
 This implementation is written from scratch in Python and does **not** rely on prebuilt simulation frameworks or premade simulation engines.
 
-## Current M3 Implementation
+## Current status (Milestone 4)
+The repository includes the **full M3 simulator** plus **M4 analysis & validation**: sensitivity sweeps, scenario tables, statistical summaries (including confidence intervals), matplotlib figures, and the printable report `CS4632_M4_Bryan_Juarez.H_M4.html`.
+
+## Milestone 3 (implementation baseline)
 Milestone 3 completes the core simulator and adds comprehensive data collection, a configuration system, and systematic execution of 12 documented simulation runs. Key changes since M2:
 
 - **N-participant generalization** — the simulator now supports any number of drivers/cars, up from the hardcoded two-driver limit in M2
@@ -16,14 +19,16 @@ Milestone 3 completes the core simulator and adds comprehensive data collection,
 - **12 documented runs** varying weather, field size, lap count, track complexity, tire strategy, and trial count
 
 ## Milestone 4 (Analysis & Validation)
-Milestone 4 adds **one-factor-at-a-time sensitivity sweeps**, aggregated CSVs, **matplotlib figures**, and the analysis report 
+Milestone 4 adds **one-factor-at-a-time sensitivity sweeps** (five inputs: wetness, visibility, laps, trial count, track segment pairs), **aggregated CSVs**, **matplotlib figures**, and the **M4 report** (HTML source; print to PDF for submission).
 
 - **Script:** `m4_analysis.py` — run from the project root after installing dependencies:
   ```bash
   pip install -r requirements.txt
   python m4_analysis.py
   ```
-- **Outputs:** `output/m4_analysis/` — per-sweep run folders (`run_m4_*`), CSVs (`sensitivity_*.csv`, `scenario_m3_runs_subset.csv`), `m4_analysis_meta.json`, and `figures/*.png`.
+  Use `python m4_analysis.py --figures-only` to regenerate PNGs from existing CSVs without re-running simulations.
+- **Report:** `CS4632_M4_Bryan_Juarez.H_M4.html` — open in a browser and use **Print → Save as PDF** (keep `output/m4_analysis/figures/` next to the HTML so images embed). Submit per course naming (e.g. `CS4632_M4_LastName_FirstName.pdf`) plus any **supplementary data** zip of `output/m4_analysis/` if required.
+- **Outputs:** `output/m4_analysis/` — per-sweep run folders (`run_m4_*`), `sensitivity_*.csv`, `scenario_m3_runs_subset.csv`, `m4_analysis_meta.json`, `m4_statistical_summary.json`, separate `run_index.json`, and `figures/*.png`.
 - **Core simulation** is unchanged; analysis calls `run_simulation_core()` from `main.py`.
 
 ## What Is Implemented
@@ -60,11 +65,11 @@ Several items from the original project board were completed, partially addresse
 - **Add explicit powertrain / acceleration model (#25)** — traction-limited acceleration was added so grip constrains straight performance in wet conditions. A full torque-curve / gear-ratio powertrain was descoped because the simulation focuses on tire strategy and environmental sensitivity, not drivetrain engineering.
 
 ### Updates To Project Scope 
-- **Extract parameter values from references (#30)** — current values are calibrated for balanced competitive outcomes; M4 validation will compare simulation behavior against published performance data
+- **Extract parameter values from references (#30)** — values remain calibrated for balanced outcomes; M4 adds **qualitative** order-of-magnitude comparison to real racing (report validation section). Literature-fitted parameters remain a possible M5 extension.
 - **Add parameter details to UML method definitions (#31)** — architecture documentation is maintained in this README; formal UML updates are planned for the M5 final report
 - **Fuel load and pit-stop strategies** — out of scope for the current simulation model
-- **Tire degradation over race distance** — planned for potential M4/M5 extension if time allows
-- **Visualization and charting** — M4 adds `m4_analysis.py` + matplotlib figures under `output/m4_analysis/figures/`
+- **Tire degradation over race distance** — still deferred; not required for M4
+- **Visualization and charting** — delivered in M4 via `m4_analysis.py` and figures under `output/m4_analysis/figures/`
 
 ## Changes From M2
 This implementation addresses Milestone 2 feedback by:
@@ -128,6 +133,12 @@ python main.py --config configs/run_001_baseline_dry.json --seed 999 --num-trial
 python main.py
 ```
 
+### Run M4 analysis pipeline (sweeps + figures)
+```bash
+pip install -r requirements.txt
+python m4_analysis.py
+```
+
 ### CLI Options
 | Flag | Description |
 |------|-------------|
@@ -139,10 +150,11 @@ python main.py
 | `--run-id ID` | Override the run identifier |
 
 ## Output Structure
-Each run produces a directory under `output/`:
+Each M3 preset run produces a directory under `output/`:
 ```
 output/
 ├── run_index.json              # Master index of all runs
+├── test_results.csv            # Consolidated rows (M3 / submission helper)
 ├── run_001/
 │   ├── run_001_config.json     # Full parameter snapshot
 │   ├── run_001_timeseries.csv  # One row per trial × lap × entrant
@@ -150,6 +162,15 @@ output/
 │   └── run_001_summary.json    # Aggregate statistics
 ├── run_002/
 │   └── ...
+└── m4_analysis/                # M4 sweeps (separate index; does not replace M3 runs)
+    ├── run_index.json
+    ├── sensitivity_wetness.csv
+    ├── sensitivity_visibility.csv
+    ├── sensitivity_num_laps.csv
+    ├── sensitivity_num_trials.csv
+    ├── sensitivity_track_pairs.csv
+    ├── scenario_m3_runs_subset.csv
+    └── figures/*.png
 ```
 
 ### File Descriptions
@@ -202,7 +223,8 @@ Each JSON config specifies:
 ## Architecture Overview
 
 ### Main Components
-- `main.py` — entry point, orchestrates config → simulation → data export
+- `main.py` — entry point, orchestrates config → simulation → data export; exposes `run_simulation_core()` for `m4_analysis.py`
+- `m4_analysis.py` — M4 batch sweeps, CSV aggregates, matplotlib figures (optional dependency)
 - `src/config.py` — JSON config loading, CLI parsing, validation, default entrants
 - `src/simulation.py` — physics engine, lap/race/trial simulation, N-entrant support
 - `src/data_collector.py` — CSV/JSON export, master index management
@@ -231,6 +253,8 @@ JSON Config → SimConfig → build_track / build_environment / build_entrants
 ```
 CS4632_RACING_SIM/
 ├── main.py
+├── m4_analysis.py
+├── CS4632_M4_Bryan_Juarez.H_M4.html   # M4 report (print to PDF)
 ├── README.md
 ├── requirements.txt
 ├── .gitignore
@@ -253,7 +277,8 @@ CS4632_RACING_SIM/
 ├── output/
 │   ├── run_index.json
 │   ├── test_results.csv
-│   └── run_001/ ... run_012/
+│   ├── run_001/ ... run_012/
+│   └── m4_analysis/                   # M4 outputs (see above)
 └── docs/
     └── Project_BOARD.png
 ```
@@ -263,6 +288,11 @@ CS4632_RACING_SIM/
 - If import errors occur, make sure you are running from the project root directory.
 - If `--run-all` finds no configs, verify the `configs/` directory contains `.json` files.
 - If output is not created, verify the `output/` directory exists and is writable.
+- If `m4_analysis.py` fails on `matplotlib`, run `pip install -r requirements.txt`.
+- If the M4 HTML report shows **broken figures**, print from the project root so paths like `output/m4_analysis/figures/...` resolve, or use the browser “Open file” from the repo folder.
 
 ## Notes
-This is a Milestone 3 submission demonstrating complete implementation and systematic testing. The data collected here will serve as the foundation for the M4 analysis and validation phase.
+- **M3** delivered the full simulator, 12 preset runs, and `output/test_results.csv` as the implementation/testing baseline.
+- **M4** builds on that data with isolated parameter sweeps, scenario comparison (subset of M3 runs), validation narrative, statistics (means, variability, 95% CIs), and figures — see `CS4632_M4_Bryan_Juarez.H_M4.html` and `output/m4_analysis/`.
+- **Git / course policy:** push the repo as required by the syllabus; M4 LMS submission is typically the **PDF report** plus **supplementary data** (CSVs/figures), not necessarily a full re-upload of source unless the instructor asks.
+- **Next (M5):** final report, deeper literature alignment (#30), or UML/documentation polish per project board — see course schedule.
