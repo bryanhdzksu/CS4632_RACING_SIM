@@ -1,3 +1,9 @@
+"""Core simulation engine.
+
+This module contains the deterministic race-physics approximations and the
+stochastic trial loops used to produce probabilistic outcome metrics.
+"""
+
 import math
 import random
 from dataclasses import dataclass, field
@@ -65,6 +71,8 @@ class SimulationEngine:
         if segment.segment_type != SegmentType.CORNER or segment.radius is None:
             raise ValueError("compute_corner_vmax called on a non-corner segment")
 
+        # Iterate because downforce depends on velocity, and velocity limit
+        # itself depends on downforce.
         velocity_guess = min(car.top_speed, 25.0)
 
         for _ in range(4):
@@ -185,6 +193,8 @@ class SimulationEngine:
         lap_number: int = 1,
         collect_detail: bool = False,
     ) -> LapResult:
+        # Segment-level accumulation keeps model logic transparent and enables
+        # optional high-detail export for diagnostics/analysis.
         total_time = 0.0
         current_speed = 0.0
         segments: list[SegmentResult] = []
@@ -226,6 +236,7 @@ class SimulationEngine:
             total_time += seg_time
             current_speed = exit_speed
 
+        # Add stochastic component after deterministic lap accumulation.
         epsilon = random.gauss(0.0, driver.sigma())
         total_time = total_time * driver.skill_factor() + epsilon
         total_time = max(1.0, total_time)
@@ -244,6 +255,7 @@ class SimulationEngine:
         num_laps: int,
         collect_detail: bool = False,
     ) -> TrialResult:
+        # Race = sum of per-lap outputs for each entrant.
         race_results: list[EntrantRaceResult] = []
 
         for entrant in entrants:
@@ -275,6 +287,7 @@ class SimulationEngine:
         num_trials: int,
         collect_detail: bool = False,
     ) -> tuple[RaceMetrics, list[TrialResult]]:
+        # Monte Carlo loop over independent race realizations.
         all_times: dict[str, list[float]] = {e.name: [] for e in entrants}
         win_counts: dict[str, int] = {e.name: 0 for e in entrants}
         all_trial_results: list[TrialResult] = []

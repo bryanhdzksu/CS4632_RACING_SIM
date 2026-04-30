@@ -1,3 +1,10 @@
+"""Entrant abstraction.
+
+An entrant is the race-level unit used throughout simulation and reporting.
+It bundles a `Driver` and `RaceCar` so downstream code can treat each
+competitor as a single object.
+"""
+
 from dataclasses import dataclass
 
 from src.car import RaceCar

@@ -1,3 +1,9 @@
+"""Environment model for race-level weather conditions.
+
+Weather is sampled once per race by design, then held constant to keep
+scenarios reproducible and to isolate sensitivity-study effects.
+"""
+
 from dataclasses import dataclass
 import random
 
@@ -14,7 +20,8 @@ class Environment:
     @staticmethod
     def random_environment() -> "Environment":
         """
-        For M2: sample wetness once per race and keep it constant for the whole race.
+        Samples weather, wetness, and visibility once per race; conditions
+        remain constant for the full race duration.
         """
         weather = random.choice(WEATHER_TYPES)
 

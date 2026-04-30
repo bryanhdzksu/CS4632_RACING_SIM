@@ -1,3 +1,9 @@
+"""Persist simulation artifacts to disk.
+
+`DataCollector` is intentionally separate from physics code so simulation logic
+stays focused on modeling while this module handles reproducible exports.
+"""
+
 import csv
 import json
 from datetime import datetime, timezone
@@ -28,6 +34,7 @@ class DataCollector:
         trial_results: list[TrialResult],
         execution_time: float,
     ) -> Path:
+        # Every run is isolated in its own directory for traceability.
         run_dir = self.base_dir / f"run_{config.run_id}"
         run_dir.mkdir(parents=True, exist_ok=True)
 
@@ -37,6 +44,7 @@ class DataCollector:
         if config.collect_detail:
             self._save_events_csv(run_dir, config, trial_results, env)
 
+        # Master index gives a quick catalogue of runs without opening each file.
         self._update_master_index(config, metrics, execution_time, track, env)
 
         return run_dir

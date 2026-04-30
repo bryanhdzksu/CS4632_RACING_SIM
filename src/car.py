@@ -1,3 +1,10 @@
+"""Vehicle parameter container used by the simulation engine.
+
+The simulator is intentionally lightweight: instead of a full drivetrain or
+suspension model, this dataclass stores calibrated aggregate parameters that
+control acceleration, braking, aero behavior, and tire grip interaction.
+"""
+
 from dataclasses import dataclass
 from src.tire import Tire
 

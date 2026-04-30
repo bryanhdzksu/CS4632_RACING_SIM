@@ -1,3 +1,9 @@
+"""Tire grip model.
+
+This module maps weather wetness into an effective friction coefficient.
+The smoothstep blend avoids abrupt "all-or-nothing" compound behavior.
+"""
+
 from dataclasses import dataclass
 
 
@@ -14,7 +20,9 @@ class Tire:
         crossover zone so that tire compound choice is competitive across
         a broader band of conditions rather than producing binary outcomes.
         """
+        # Clamp to valid range to tolerate imperfect config inputs.
         wetness = max(0.0, min(1.0, wetness))
         t = wetness * wetness * (3.0 - 2.0 * wetness)
         base_mu = (1.0 - t) * self.mu_dry + t * self.mu_wet
+        # Lower bound prevents divide-by-zero style failures downstream.
         return max(0.1, base_mu * (1.0 + suspension_factor))

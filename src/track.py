@@ -1,3 +1,9 @@
+"""Track generation utilities.
+
+Tracks are represented as alternating straight/corner segments. This keeps
+the model computationally light while preserving major lap-time constraints.
+"""
+
 from dataclasses import dataclass, field
 from enum import Enum
 import random
@@ -34,6 +40,8 @@ class Track:
         num_pairs=4 => 8 total segments.
         Corner length is derived from radius and arc angle.
         """
+        # Generate a repeated straight->corner pattern so each pair contributes
+        # one acceleration phase and one cornering-constrained phase.
         segments: list[TrackSegment] = []
 
         for _ in range(num_pairs):
@@ -58,4 +66,5 @@ class Track:
         return Track(name=name, segments=segments, surface_grip=1.0)
 
     def total_length(self) -> float:
+        """Total circuit distance used for reporting and run metadata."""
         return sum(seg.length for seg in self.segments)

@@ -1,3 +1,5 @@
+"""Shared metrics dataclasses and simple statistics helpers."""
+
 from dataclasses import dataclass, field
 
 
@@ -20,12 +22,14 @@ class RaceMetrics:
 
 
 def mean(values: list[float]) -> float:
+    """Population mean helper used throughout simulation summaries."""
     if not values:
         return 0.0
     return sum(values) / len(values)
 
 
 def stddev(values: list[float]) -> float:
+    """Population standard deviation (not sample-corrected)."""
     if not values:
         return 0.0
     m = mean(values)

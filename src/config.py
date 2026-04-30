@@ -1,3 +1,9 @@
+"""Configuration and CLI orchestration layer.
+
+This module converts JSON/CLI inputs into validated `SimConfig` objects, then
+builds concrete simulation entities (track, environment, entrants).
+"""
+
 import argparse
 import json
 from dataclasses import dataclass, field
@@ -34,6 +40,7 @@ class SimConfig:
     entrants_config: list[dict[str, Any]] = field(default_factory=list)
 
     def build_track(self) -> Track:
+        """Instantiate a randomized track using configured parameter ranges."""
         return Track.random_track(
             name=self.track_name,
             num_pairs=self.track_num_pairs,
@@ -43,6 +50,7 @@ class SimConfig:
         )
 
     def build_environment(self) -> Environment:
+        """Use fixed env settings when provided; otherwise sample randomly."""
         if (
             self.env_weather is not None
             and self.env_wetness is not None
@@ -56,6 +64,7 @@ class SimConfig:
         return Environment.random_environment()
 
     def build_entrants(self) -> list[Entrant]:
+        """Build entrant objects from config; fall back to calibrated defaults."""
         if not self.entrants_config:
             return _default_entrants()
 
@@ -172,6 +181,7 @@ def validate_config(config: SimConfig) -> list[str]:
 
 
 def load_config_from_json(path: str | Path) -> SimConfig:
+    """Parse a JSON config file into a typed `SimConfig` instance."""
     path = Path(path)
     with open(path, "r", encoding="utf-8") as f:
         data = json.load(f)
@@ -201,6 +211,7 @@ def load_config_from_json(path: str | Path) -> SimConfig:
 
 
 def parse_cli_args() -> argparse.Namespace:
+    """Parse command-line flags used by `main.py`."""
     parser = argparse.ArgumentParser(
         description="Stochastic Motorsport Performance Simulator"
     )
@@ -245,6 +256,7 @@ def build_configs_from_cli(args: argparse.Namespace) -> list[SimConfig]:
 
 
 def _apply_cli_overrides(config: SimConfig, args: argparse.Namespace) -> None:
+    """Apply optional CLI overrides after loading defaults/JSON."""
     if args.seed is not None:
         config.random_seed = args.seed
     if args.num_laps is not None:
