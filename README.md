@@ -6,11 +6,35 @@ This project is a custom-built Python simulation that models motorsport race per
 
 This implementation is written from scratch in Python and does **not** rely on prebuilt simulation frameworks or premade simulation engines.
 
-## Current status (Milestone 4)
-The repository includes the **full M3 simulator** plus **M4 analysis & validation**: sensitivity sweeps, scenario tables, statistical summaries (including confidence intervals), matplotlib figures. 
+## Project Overview
+The repository includes the complete simulator and full analysis workflow: sensitivity sweeps, scenario tables, statistical summaries (including confidence intervals), and matplotlib figures.
 
-## Milestone 3 (implementation baseline)
-Milestone 3 completes the core simulator and adds comprehensive data collection, a configuration system, and systematic execution of 12 documented simulation runs. Key changes since M2:
+### What this README provides (Milestone 5)
+Per course expectations, it includes:
+
+| Expectation | Where in this README |
+|-------------|----------------------|
+| **Project description** | [Overview](#overview), [Project evolution (M1-M5)](#project-evolution-m1-m5) |
+| **Installation instructions** | [Installation Instructions](#installation-instructions) |
+| **Usage guide** | [Usage](#usage), [CLI Options](#cli-options) |
+| **Parameter explanations** | [Configuration parameters](#configuration-parameters), [Preset Configurations](#preset-configurations-12-runs), [Configuration File Format](#configuration-file-format) |
+| **Example outputs** | [Example outputs](#example-outputs) |
+
+**Source code:** well-commented modules under `src/` (see [Architecture Overview](#architecture-overview)). **Configuration:** JSON presets in `configs/`. **Documentation:** this README, LaTeX report source under `report/`, and helper docs under `docs/`. **Architecture:** data-flow diagram below; class/activity UML figures ship with the final report (`report/figures/`). **Data formats:** [Output Structure](#output-structure) and [File Descriptions](#file-descriptions).
+
+## Project evolution (M1-M5)
+The project was built incrementally; each milestone refined both the model and how results are communicated.
+
+- **Milestone 1 — Design:** Defined the problem, literature-backed modeling assumptions, and initial UML (class + activity). Established the conceptual split between deterministic physics-inspired lap modeling and stochastic outcome analysis.
+- **Milestone 2 — First implementation:** Delivered an end-to-end vertical slice (track generation, environment, aero/cornering, Monte Carlo trials, console metrics). Identified the main modeling risk early: **wetness/tire interaction was overly dominant**, motivating later rebalancing work.
+- **Milestone 3 — Simulator completion:** Generalized to **N entrants**, added a **JSON configuration system** and **`DataCollector`** exports (config, timeseries, events, summary, run index), and shipped **12 reproducible preset runs**. Physics updates (smoothstep grip, traction-limited acceleration, grip-aware braking, visibility penalty) addressed M2 feedback while keeping the model explainable.
+- **Milestone 4 — Analysis & validation:** Added **`m4_analysis.py`** for **one-factor-at-a-time sensitivity sweeps**, aggregated CSVs, **95% confidence intervals**, scenario subsets, and **matplotlib figures** (also reflected in the final report).
+- **Milestone 5 — Final delivery:** Synthesized prior milestones into the **LaTeX final report** (`report/main.tex`), **updated UML**, polished repository documentation, and prepared **video demo** materials (`docs/m5_video_script.md`, `docs/m5_submission_checklist.md`). The repo may ship with an **empty `output/`** folder so demos start clean; outputs appear after you run the simulator or analysis script.
+
+## Features
+The simulator includes comprehensive data collection, a configuration system, and systematic execution of 12 documented simulation runs.
+
+Core features:
 
 - **N-participant generalization** — the simulator now supports any number of drivers/cars, up from the hardcoded two-driver limit in M2
 - **Wetness/tire sensitivity rebalancing** — smoothstep grip blending, traction-limited acceleration, grip-aware braking, and visibility penalties distribute performance across multiple dimensions rather than tire choice alone
@@ -18,8 +42,11 @@ Milestone 3 completes the core simulator and adds comprehensive data collection,
 - **Full data export** — per-run output includes time-series CSV (trial × lap × entrant), segment-level events CSV, summary JSON, config JSON, and a master run index
 - **12 documented runs** varying weather, field size, lap count, track complexity, tire strategy, and trial count
 
-## Milestone 4 (Analysis & Validation)
-Milestone 4 adds **one-factor-at-a-time sensitivity sweeps** (five inputs: wetness, visibility, laps, trial count, track segment pairs), **aggregated CSVs**, **matplotlib figures**, and the **M4 report** 
+Analysis workflow:
+
+- **One-factor-at-a-time sensitivity sweeps** across five inputs: wetness, visibility, laps, trial count, and track segment pairs
+- **Aggregated CSV outputs**, statistical summaries, and matplotlib figures
+- **Reusable analysis script** for regenerating data and visualizations
 
 - **Script:** `m4_analysis.py` — run from the project root after installing dependencies:
   ```bash
@@ -64,11 +91,11 @@ Several items from the original project board were completed, partially addresse
 - **Add explicit powertrain / acceleration model (#25)** — traction-limited acceleration was added so grip constrains straight performance in wet conditions. A full torque-curve / gear-ratio powertrain was descoped because the simulation focuses on tire strategy and environmental sensitivity, not drivetrain engineering.
 
 ### Updates To Project Scope 
-- **Extract parameter values from references (#30)** — values remain calibrated for balanced outcomes; M4 adds **qualitative** order-of-magnitude comparison to real racing (report validation section). Literature-fitted parameters remain a possible M5 extension.
-- **Add parameter details to UML method definitions (#31)** — architecture documentation is maintained in this README; formal UML updates are planned for the M5 final report
-- **Fuel load and pit-stop strategies** — out of scope for the current simulation model
-- **Tire degradation over race distance** — still deferred; not required for M4
-- **Visualization and charting** — delivered in M4 via `m4_analysis.py` and figures under `output/m4_analysis/figures/`
+- **Extract parameter values from references (#30)** — values remain calibrated for balanced outcomes; analysis and the final report include **qualitative** order-of-magnitude checks against real racing. Literature-fitted parameters remain a possible future extension.
+- **UML documentation (#31)** — architecture is documented here (data flow, module map) and in the **Milestone 5 final report** with updated class and activity diagrams (`report/figures/`).
+- **Fuel load and pit-stop strategies** — out of scope for the current simulation model.
+- **Tire degradation over race distance** — deferred; noted as future work in the final report.
+- **Visualization and charting** — delivered via `m4_analysis.py` and matplotlib outputs under `output/m4_analysis/` (regenerated when you run the analysis script); key figures are also kept under `report/figures/` for the written report.
 
 ## Changes From M2
 This implementation addresses Milestone 2 feedback by:
@@ -78,20 +105,20 @@ This implementation addresses Milestone 2 feedback by:
 - **Adding a configuration system**: JSON config files with CLI support, parameter validation, and default scenario presets
 
 ## Dependencies
-- **Simulator (M2–M3):** Python standard library only — no packages required to run `main.py`.
-- **Milestone 4 figures:** `matplotlib` (listed in `requirements.txt`). Install with `pip install -r requirements.txt` before running `m4_analysis.py`.
+- **Core simulator:** Python standard library only — no third-party packages required to run `main.py`.
+- **Analysis figures:** `matplotlib` (listed in `requirements.txt`). Install with `pip install -r requirements.txt` before running `m4_analysis.py`.
 
 ## Installation Instructions
 
 ### Requirements
 - Python 3.10 or newer
 - A terminal or command prompt
-- Optional: `matplotlib` for M4 (`pip install -r requirements.txt`)
+- Optional: `matplotlib` for analysis figures (`pip install -r requirements.txt`)
 
 ### Setup
 1. Clone the repository:
    ```bash
-   git clone <your-repo-url>
+   git clone https://github.com/bryanhdzksu/CS4632_RACING_SIM.git
    ```
 2. Open the project directory:
    ```bash
@@ -148,7 +175,28 @@ python m4_analysis.py
 | `--num-trials N` | Override the number of Monte Carlo trials |
 | `--run-id ID` | Override the run identifier |
 
+## Configuration parameters
+JSON configs drive each run. Top-level keys (see [Configuration File Format](#configuration-file-format) for a full example):
+
+| Key | Role |
+|-----|------|
+| `run_id` | Directory name suffix (`output/run_<id>/`). |
+| `description` | Human-readable label in logs and exports. |
+| `random_seed` | Fixes RNG for reproducible trials (optional). |
+| `num_laps` | Laps per simulated race. |
+| `num_trials` | Monte Carlo trials (more → smoother statistics). |
+| `collect_detail` | If `true`, writes segment-level `*_events.csv` (larger files). |
+| `track` | Track name, number of straight/corner **pairs**, and random ranges for segment geometry. |
+| `environment` | `weather`, `wetness` [0,1], `visibility` [0,1] when fixed; omitted → random race environment. |
+| `entrants` | List of `{ driver, car, tire }` objects; each entrant is one competitor. |
+
+**CLI overrides** (optional): `--seed`, `--num-laps`, `--num-trials`, `--run-id` apply on top of the JSON file (see [CLI Options](#cli-options)).
+
+Per-entrant fields commonly tuned in presets: driver `experience` / `aggressiveness`; car `mass`, `cd`, `cl`, `max_accel`, `max_brake`, `top_speed`, `brake_efficiency`, `suspension_factor`; tire `compound`, `mu_dry`, `mu_wet`.
+
 ## Output Structure
+The repository ships with an empty `output/` folder (except `.gitkeep`); running `main.py` or `--run-all` creates the files and subfolders below.
+
 Each M3 preset run produces a directory under `output/`:
 ```
 output/
@@ -180,6 +228,15 @@ output/
 | `*_events.csv` | CSV | Segment-level: entry/exit speed, segment time, mu_effective |
 | `*_summary.json` | JSON | Per-entrant avg/std/min/max times, wins, win percentage |
 | `run_index.json` | JSON | Run metadata: ID, description, execution time, best performer |
+
+## Example outputs
+After `python main.py --config configs/run_001_baseline_dry.json`:
+
+1. **Console** — printed summary: track summary, weather line, entrant lineup, per-entrant **avg / std / min / max** race time, **wins** and **win %**, best performer, wall-clock runtime.
+2. **Disk** — under `output/run_001/` (paths depend on `run_id`): `run_001_config.json`, `run_001_summary.json`, `run_001_timeseries.csv`, and if `collect_detail` is true, `run_001_events.csv`. `output/run_index.json` appends one entry per saved run.
+3. **Analysis** — after `python m4_analysis.py`, see `output/m4_analysis/sensitivity_*.csv`, aggregated JSON, and `output/m4_analysis/figures/*.png` (wetness, visibility, laps, trials/CI, track pairs).
+
+For the **written report**, representative plots are also under `report/figures/` (so the repo stays useful even when `output/` is empty for demos).
 
 ## Configuration File Format
 Each JSON config specifies:
@@ -273,10 +330,13 @@ CS4632_RACING_SIM/
 │   ├── track.py
 │   └── utils.py
 ├── output/
-│   ├── run_index.json
-│   ├── test_results.csv
-│   ├── run_001/ ... run_012/
-│   └── m4_analysis/                   # M4 outputs (see above)
+│   ├── .gitkeep                        # repository placeholder
+│   ├── run_001/ ... run_012/           # created after simulation runs
+│   └── m4_analysis/                    # created after running m4_analysis.py
+├── report/
+│   ├── main.tex
+│   ├── references.bib
+│   └── figures/                        # report figures (UML + analysis PNGs)
 └── docs/
     └── Project_BOARD.png
 ```
@@ -289,5 +349,7 @@ CS4632_RACING_SIM/
 - If `m4_analysis.py` fails on `matplotlib`, run `pip install -r requirements.txt`.
 
 ## Notes
-- **M3** delivered the full simulator, 12 preset runs, and `output/test_results.csv` as the implementation/testing baseline.
-- **M4** builds on that data with isolated parameter sweeps, scenario comparison (subset of M3 runs), validation narrative, statistics (means, variability, 95% CIs), and figures 
+- **M3** delivered the full simulator, twelve preset configs, and repeatable batch output under `output/` (including optional `test_results.csv` when generated as part of your workflow).
+- **M4** added isolated parameter sweeps, scenario comparison tables, validation narrative, statistics (means, variability, 95% CIs), and matplotlib figures via `m4_analysis.py`.
+- **M5** packages the semester: final LaTeX report source in `report/`, updated UML figures in `report/figures/`, and demo aids in `docs/` (`m5_video_script.md`, `m5_submission_checklist.md`).
+- The repository may ship with an **empty `output/`** (except `.gitkeep`) so recordings start from a clean tree; run `main.py` or `m4_analysis.py` to regenerate artifacts anytime.
