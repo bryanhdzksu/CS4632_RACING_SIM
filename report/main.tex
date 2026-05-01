@@ -109,6 +109,23 @@ The system uses typed dataclasses for segment, lap, race, and trial results, the
     \item master run index JSON.
 \end{itemize}
 
+\subsection{Representative Console Output}
+Figures~\ref{fig:example-dry-run} and~\ref{fig:example-wet-run} show representative console output from the baseline dry and wet scenarios used in the final demonstration. These screenshots make the end-to-end execution concrete by showing the printed scenario header, entrant lineup, per-entrant aggregate statistics, best expected performer, execution time, and saved output directory.
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth]{figures/example_run1.png}
+    \caption{Example console output for the baseline dry scenario (Run 001).}
+    \label{fig:example-dry-run}
+\end{figure}
+
+\begin{figure}[H]
+    \centering
+    \includegraphics[width=\textwidth]{figures/example_run2.png}
+    \caption{Example console output for the baseline wet scenario (Run 002).}
+    \label{fig:example-wet-run}
+\end{figure}
+
 \section{Experimental Setup}
 Experiments are defined by JSON files in \texttt{configs/}. Twelve preset scenarios vary weather, field size, lap count, track complexity, and tire strategy. Baseline conditions use 5 laps and 200 trials with controlled seed values.
 
@@ -124,6 +141,8 @@ Sensitivity analysis varied one factor at a time:
 Analysis artifacts are generated under \texttt{output/m4\_analysis/} and figures are included in this report.
 
 \section{Results and Analysis}
+Representative baseline runs are shown before the sweep figures to ground the later trends in concrete simulator output. In the dry baseline, Verstappen has the best expected total time and dominant win percentage, while the wet baseline shifts all average times and redistributes win rates due to the harsher environment. These screenshots also demonstrate that the simulator reports the exact output directory used for downstream JSON/CSV inspection.
+
 \begin{figure}[H]
     \centering
     \includegraphics[width=0.86\textwidth]{figures/fig_wetness_vs_time.png}

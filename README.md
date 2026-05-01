@@ -238,6 +238,19 @@ After `python main.py --config configs/run_001_baseline_dry.json`:
 
 For the **written report**, representative plots are also under `report/figures/` (so the repo stays useful even when `output/` is empty for demos).
 
+### Example console screenshots
+These two screenshots are the baseline examples used in the final report and video:
+
+**Run 001 — baseline dry**
+
+![Example console output for baseline dry run](report/figures/example_run1.png)
+
+**Run 002 — baseline wet**
+
+![Example console output for baseline wet run](report/figures/example_run2.png)
+
+These examples show the exact terminal summary format produced by `main.py`: scenario metadata, entrant lineup, per-entrant aggregate race metrics, best expected performer, execution time, and the saved output folder for follow-up inspection.
+
 ## Configuration File Format
 Each JSON config specifies:
 ```json
